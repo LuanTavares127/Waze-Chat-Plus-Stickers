@@ -1,0 +1,37 @@
+# AGENTS.md — Waze Chat Plus Stickers
+
+**Public** repository (GitHub `LuanTavares127/waze-chat-plus-stickers`, assumed until the user creates it) with the sticker pack
+format, the official sticker packs (the Waze moods), the tools that build and validate packs, the showcase and block list, and the
+code of the author's Cloudflare Worker. Author: luan_tavares_127 (Luan Tavares).
+
+The reader of the packs is the public userscript **Waze Chat Plus**, in the sibling folder `../WME Não sei que nome dar ainda/` (its
+`AGENTS.md` §8c summarizes what the script follows; its `ROADMAP.md` Phase 48 is the plan of the whole feature). This repository holds
+no userscript code.
+
+Status and phases: `ROADMAP.md` (pt-BR).
+
+## 1. Repo layout
+
+| Path | Purpose |
+|---|---|
+| `docs/sticker-packs.md` | **The contract** (format 1): files, manifest, translations, image limits, links, messages, permanent ids, safety, block list, official packs, validator. Public, for pack authors and readers; the script cites its `§` numbers. |
+| `curation/stickers-curation.json` | Approved curation of the official packs (Phase 48a, 2026-10-22): 6 packs, per mood `id`, `file` (name in the art folder), `nameSource` (`number` = no official name yet), en + pt-BR `name`/`keywords`, 1–3 `emojis`, `note` (franchise). Source of the official manifests built in 48c; not published as a pack. |
+| `packs/<pack id>/` | (48c) One official pack each, in the format of the spec: `wcp-stickers.json`, `stickers/`, `thumbs/`, `i18n/`. |
+| `showcase.json`, `blocked.json` | (48c) Official pack list and block list (spec §8–§9), edited by commit; served by the Worker. |
+| `tools/build.mjs` | (48c) Official packs: art folder + curation → `packs/` (renamed to the ids, 128 px thumbnails, manifests). Uses `sharp` (`package.json`). |
+| `tools/validate.mjs` | (48c) The validator of spec §10: one file, Node.js 20+, no dependency (pixel checks only when `sharp` is there). |
+| `.github/workflows/` | (48c) Runs the validator on every push and pull request. |
+| `worker/` | (48e) Code of the Cloudflare Worker (GIF proxy + sticker routes), pasted by hand in the Cloudflare editor. Secrets (`KLIPY_KEY`, the GitHub token) live only in Cloudflare. |
+
+## 2. Rules
+
+- **The spec is a contract with the script.** Any change to `docs/sticker-packs.md` checks the reader rules in the script's
+  `AGENTS.md` §8c in the same task (and its code once 48f+ exist). New optional fields keep `format: 1`; anything old readers can't
+  handle is `format: 2`.
+- **Sticker ids are permanent** (user decision 2026-10-22): never rename or reuse one; a new version only changes shown names.
+- **Fixed refs only:** packs are published by full version tags (`v1.0.0`), never moved or deleted (spec §5, §7). The official packs
+  share the repository's tags.
+- Official art: `G:\Meu Drive\Waze\Moods\Images (WEBP)\With Border (Com Borda)` (512×512 WebP, outside the repository).
+- Everything here is public: nothing about mass messaging or private extensions, no secrets, no map sites that aren't allowed for Waze
+  editing (same rule as the script).
+- Docs and code in English; `ROADMAP.md` and commit messages in pt-BR. CRLF.

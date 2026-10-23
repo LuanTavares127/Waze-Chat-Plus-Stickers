@@ -1,0 +1,6520 @@
+{
+  "format": "curation-draft",
+  "date": "2026-10-22",
+  "source": "Images (WEBP)/With Border (Com Borda)",
+  "packs": [
+    {
+      "id": "feelings",
+      "name": {
+        "en": "Feelings",
+        "pt-BR": "Sentimentos"
+      },
+      "icon": "happy",
+      "stickers": [
+        {
+          "id": "114",
+          "file": "114.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "114",
+            "pt-BR": "114"
+          },
+          "keywords": {
+            "en": [
+              "love",
+              "heart",
+              "sweet"
+            ],
+            "pt-BR": [
+              "amor",
+              "coração",
+              "carinho"
+            ]
+          },
+          "emojis": [
+            "🥰",
+            "❤️"
+          ]
+        },
+        {
+          "id": "133",
+          "file": "133.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "133",
+            "pt-BR": "133"
+          },
+          "keywords": {
+            "en": [
+              "parent",
+              "baby",
+              "family"
+            ],
+            "pt-BR": [
+              "pai",
+              "mãe",
+              "bebê",
+              "família"
+            ]
+          },
+          "emojis": [
+            "🤗",
+            "👶",
+            "💙"
+          ]
+        },
+        {
+          "id": "146",
+          "file": "146.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "146",
+            "pt-BR": "146"
+          },
+          "keywords": {
+            "en": [
+              "crying",
+              "upset",
+              "despair"
+            ],
+            "pt-BR": [
+              "chorando",
+              "triste",
+              "desespero"
+            ]
+          },
+          "emojis": [
+            "😫",
+            "😭"
+          ]
+        },
+        {
+          "id": "165",
+          "file": "165.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "165",
+            "pt-BR": "165"
+          },
+          "keywords": {
+            "en": [
+              "sick",
+              "nausea",
+              "ill"
+            ],
+            "pt-BR": [
+              "passando mal",
+              "náusea",
+              "doente"
+            ]
+          },
+          "emojis": [
+            "🤢"
+          ]
+        },
+        {
+          "id": "168",
+          "file": "168.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "168",
+            "pt-BR": "168"
+          },
+          "keywords": {
+            "en": [
+              "awkward",
+              "uncomfortable",
+              "ugh"
+            ],
+            "pt-BR": [
+              "sem graça",
+              "desconfortável",
+              "aff"
+            ]
+          },
+          "emojis": [
+            "😣",
+            "😖"
+          ]
+        },
+        {
+          "id": "172",
+          "file": "172.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "172",
+            "pt-BR": "172"
+          },
+          "keywords": {
+            "en": [
+              "excited",
+              "yay",
+              "wings"
+            ],
+            "pt-BR": [
+              "animado",
+              "oba",
+              "asas"
+            ]
+          },
+          "emojis": [
+            "🤩",
+            "😆"
+          ]
+        },
+        {
+          "id": "181",
+          "file": "181.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "181",
+            "pt-BR": "181"
+          },
+          "keywords": {
+            "en": [
+              "happy",
+              "laugh",
+              "hat"
+            ],
+            "pt-BR": [
+              "feliz",
+              "risada",
+              "chapéu"
+            ]
+          },
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "id": "235",
+          "file": "235.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "235",
+            "pt-BR": "235"
+          },
+          "keywords": {
+            "en": [
+              "mad",
+              "annoyed",
+              "frown"
+            ],
+            "pt-BR": [
+              "raiva",
+              "irritado",
+              "cara feia"
+            ]
+          },
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "id": "239",
+          "file": "239.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "239",
+            "pt-BR": "239"
+          },
+          "keywords": {
+            "en": [
+              "question",
+              "what",
+              "doubt"
+            ],
+            "pt-BR": [
+              "dúvida",
+              "quê",
+              "pergunta"
+            ]
+          },
+          "emojis": [
+            "🤔",
+            "❓"
+          ]
+        },
+        {
+          "id": "7",
+          "file": "7.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "7",
+            "pt-BR": "7"
+          },
+          "keywords": {
+            "en": [
+              "classic",
+              "hello",
+              "happy"
+            ],
+            "pt-BR": [
+              "clássico",
+              "oi",
+              "feliz"
+            ]
+          },
+          "emojis": [
+            "🙂",
+            "😊"
+          ]
+        },
+        {
+          "id": "15",
+          "file": "15.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "15",
+            "pt-BR": "15"
+          },
+          "keywords": {
+            "en": [
+              "blank",
+              "neutral",
+              "plain"
+            ],
+            "pt-BR": [
+              "neutro",
+              "simples",
+              "sem expressão"
+            ]
+          },
+          "emojis": [
+            "😶"
+          ]
+        },
+        {
+          "id": "9",
+          "file": "9.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "9",
+            "pt-BR": "9"
+          },
+          "keywords": {
+            "en": [
+              "tear",
+              "sad",
+              "nightcap"
+            ],
+            "pt-BR": [
+              "lágrima",
+              "triste",
+              "touca"
+            ]
+          },
+          "emojis": [
+            "🥲",
+            "😢"
+          ]
+        },
+        {
+          "id": "amazing",
+          "file": "Amazing.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Amazing",
+            "pt-BR": "Incrível"
+          },
+          "keywords": {
+            "en": [
+              "wow",
+              "star eyes",
+              "awesome"
+            ],
+            "pt-BR": [
+              "uau",
+              "olhos de estrela",
+              "demais"
+            ]
+          },
+          "emojis": [
+            "🤩",
+            "⭐"
+          ]
+        },
+        {
+          "id": "amused",
+          "file": "Amused.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Amused",
+            "pt-BR": "Achando graça"
+          },
+          "keywords": {
+            "en": [
+              "eye roll",
+              "whatever",
+              "smirk"
+            ],
+            "pt-BR": [
+              "revirar os olhos",
+              "tanto faz",
+              "sorrisinho"
+            ]
+          },
+          "emojis": [
+            "🙄"
+          ]
+        },
+        {
+          "id": "antsy",
+          "file": "Antsy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Antsy",
+            "pt-BR": "Inquieto"
+          },
+          "keywords": {
+            "en": [
+              "impatient",
+              "stressed",
+              "ugh"
+            ],
+            "pt-BR": [
+              "impaciente",
+              "estressado",
+              "aff"
+            ]
+          },
+          "emojis": [
+            "😫"
+          ]
+        },
+        {
+          "id": "bored",
+          "file": "Bored.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Bored",
+            "pt-BR": "Entediado"
+          },
+          "keywords": {
+            "en": [
+              "meh",
+              "boring",
+              "blah"
+            ],
+            "pt-BR": [
+              "tédio",
+              "chato",
+              "tanto faz"
+            ]
+          },
+          "emojis": [
+            "😑"
+          ]
+        },
+        {
+          "id": "carsick",
+          "file": "Carsick.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Carsick",
+            "pt-BR": "Enjoado no carro"
+          },
+          "keywords": {
+            "en": [
+              "sick",
+              "nausea",
+              "motion sickness"
+            ],
+            "pt-BR": [
+              "enjoo",
+              "náusea",
+              "passando mal"
+            ]
+          },
+          "emojis": [
+            "🤢",
+            "🚗"
+          ]
+        },
+        {
+          "id": "cheeky",
+          "file": "Cheeky.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cheeky",
+            "pt-BR": "Atrevido"
+          },
+          "keywords": {
+            "en": [
+              "wink",
+              "tongue",
+              "joking"
+            ],
+            "pt-BR": [
+              "piscadinha",
+              "língua",
+              "brincadeira"
+            ]
+          },
+          "emojis": [
+            "😜"
+          ]
+        },
+        {
+          "id": "depressed",
+          "file": "Depressed.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Depressed",
+            "pt-BR": "Deprimido"
+          },
+          "keywords": {
+            "en": [
+              "sad",
+              "down",
+              "blue"
+            ],
+            "pt-BR": [
+              "triste",
+              "pra baixo",
+              "desanimado"
+            ]
+          },
+          "emojis": [
+            "😞",
+            "😔"
+          ]
+        },
+        {
+          "id": "exasperated",
+          "file": "Exasperated.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Exasperated",
+            "pt-BR": "Exasperado"
+          },
+          "keywords": {
+            "en": [
+              "fed up",
+              "sigh",
+              "annoyed"
+            ],
+            "pt-BR": [
+              "de saco cheio",
+              "suspiro",
+              "irritado"
+            ]
+          },
+          "emojis": [
+            "😤",
+            "😩"
+          ]
+        },
+        {
+          "id": "flustered",
+          "file": "Flustered.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Flustered",
+            "pt-BR": "Atrapalhado"
+          },
+          "keywords": {
+            "en": [
+              "shocked",
+              "yell",
+              "oh no"
+            ],
+            "pt-BR": [
+              "assustado",
+              "grito",
+              "ai não"
+            ]
+          },
+          "emojis": [
+            "😧",
+            "😱"
+          ]
+        },
+        {
+          "id": "funny",
+          "file": "Funny.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Funny",
+            "pt-BR": "Engraçado"
+          },
+          "keywords": {
+            "en": [
+              "laugh",
+              "lol",
+              "tears of joy"
+            ],
+            "pt-BR": [
+              "risada",
+              "kkk",
+              "chorando de rir"
+            ]
+          },
+          "emojis": [
+            "😂"
+          ]
+        },
+        {
+          "id": "furious",
+          "file": "Furious.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Furious",
+            "pt-BR": "Furioso"
+          },
+          "keywords": {
+            "en": [
+              "rage",
+              "swearing",
+              "angry"
+            ],
+            "pt-BR": [
+              "fúria",
+              "xingando",
+              "bravo"
+            ]
+          },
+          "emojis": [
+            "🤬",
+            "😡"
+          ]
+        },
+        {
+          "id": "grumpy",
+          "file": "Grumpy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Grumpy",
+            "pt-BR": "Ranzinza"
+          },
+          "keywords": {
+            "en": [
+              "grouchy",
+              "annoyed",
+              "headphones"
+            ],
+            "pt-BR": [
+              "mal-humorado",
+              "irritado",
+              "fone"
+            ]
+          },
+          "emojis": [
+            "😖",
+            "😠"
+          ]
+        },
+        {
+          "id": "happy",
+          "file": "Happy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Happy",
+            "pt-BR": "Feliz"
+          },
+          "keywords": {
+            "en": [
+              "joy",
+              "laugh",
+              "smile"
+            ],
+            "pt-BR": [
+              "alegria",
+              "risada",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "😃",
+            "😁"
+          ]
+        },
+        {
+          "id": "hilarious",
+          "file": "Hilarious.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Hilarious",
+            "pt-BR": "Hilário"
+          },
+          "keywords": {
+            "en": [
+              "lol",
+              "laugh",
+              "haha"
+            ],
+            "pt-BR": [
+              "kkk",
+              "risada",
+              "rachando"
+            ]
+          },
+          "emojis": [
+            "🤣",
+            "😆"
+          ]
+        },
+        {
+          "id": "humble",
+          "file": "Humble.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Humble",
+            "pt-BR": "Humilde"
+          },
+          "keywords": {
+            "en": [
+              "grateful",
+              "calm",
+              "wings"
+            ],
+            "pt-BR": [
+              "grato",
+              "tranquilo",
+              "asas"
+            ]
+          },
+          "emojis": [
+            "😌"
+          ]
+        },
+        {
+          "id": "joyful",
+          "file": "Joyful.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Joyful",
+            "pt-BR": "Contente"
+          },
+          "keywords": {
+            "en": [
+              "laugh",
+              "happy",
+              "phew"
+            ],
+            "pt-BR": [
+              "risada",
+              "feliz",
+              "ufa"
+            ]
+          },
+          "emojis": [
+            "😅",
+            "😄"
+          ]
+        },
+        {
+          "id": "judgmental",
+          "file": "Judgmental.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Judgmental",
+            "pt-BR": "Julgador"
+          },
+          "keywords": {
+            "en": [
+              "disapprove",
+              "frown",
+              "judging"
+            ],
+            "pt-BR": [
+              "desaprovando",
+              "julgando",
+              "cara feia"
+            ]
+          },
+          "emojis": [
+            "😒",
+            "😤"
+          ]
+        },
+        {
+          "id": "loved-up",
+          "file": "Loved-up.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Loved-up",
+            "pt-BR": "Apaixonado"
+          },
+          "keywords": {
+            "en": [
+              "in love",
+              "heart eyes",
+              "crush"
+            ],
+            "pt-BR": [
+              "apaixonado",
+              "olhos de coração",
+              "paixão"
+            ]
+          },
+          "emojis": [
+            "😍",
+            "❤️"
+          ]
+        },
+        {
+          "id": "mind-blown",
+          "file": "Mind-Blown.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Mind-Blown",
+            "pt-BR": "Cabeça explodindo"
+          },
+          "keywords": {
+            "en": [
+              "shocked",
+              "wow",
+              "explosion"
+            ],
+            "pt-BR": [
+              "chocado",
+              "uau",
+              "explosão"
+            ]
+          },
+          "emojis": [
+            "🤯"
+          ]
+        },
+        {
+          "id": "moody",
+          "file": "Moody.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Moody",
+            "pt-BR": "De mau humor"
+          },
+          "keywords": {
+            "en": [
+              "meh",
+              "squiggle",
+              "box"
+            ],
+            "pt-BR": [
+              "mal-humorado",
+              "aff",
+              "caixa"
+            ]
+          },
+          "emojis": [
+            "😖"
+          ]
+        },
+        {
+          "id": "nervous",
+          "file": "Nervous.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Nervous",
+            "pt-BR": "Nervoso"
+          },
+          "keywords": {
+            "en": [
+              "anxious",
+              "sweat",
+              "worried"
+            ],
+            "pt-BR": [
+              "ansioso",
+              "suando",
+              "preocupado"
+            ]
+          },
+          "emojis": [
+            "😰",
+            "😬"
+          ]
+        },
+        {
+          "id": "obsessed",
+          "file": "Obsessed.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Obsessed",
+            "pt-BR": "Obcecado"
+          },
+          "keywords": {
+            "en": [
+              "star eyes",
+              "scream",
+              "fan"
+            ],
+            "pt-BR": [
+              "olhos de estrela",
+              "grito",
+              "fã"
+            ]
+          },
+          "emojis": [
+            "🤩",
+            "😱"
+          ]
+        },
+        {
+          "id": "sad",
+          "file": "Sad.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sad",
+            "pt-BR": "Triste"
+          },
+          "keywords": {
+            "en": [
+              "tear",
+              "cry",
+              "down"
+            ],
+            "pt-BR": [
+              "lágrima",
+              "choro",
+              "pra baixo"
+            ]
+          },
+          "emojis": [
+            "😢"
+          ]
+        },
+        {
+          "id": "shy",
+          "file": "Shy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Shy",
+            "pt-BR": "Tímido"
+          },
+          "keywords": {
+            "en": [
+              "blush",
+              "cute",
+              "embarrassed"
+            ],
+            "pt-BR": [
+              "vergonha",
+              "fofo",
+              "corado"
+            ]
+          },
+          "emojis": [
+            "☺️",
+            "😊"
+          ]
+        },
+        {
+          "id": "skeptical",
+          "file": "Skeptical.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Skeptical",
+            "pt-BR": "Cético"
+          },
+          "keywords": {
+            "en": [
+              "doubt",
+              "unimpressed",
+              "really"
+            ],
+            "pt-BR": [
+              "desconfiado",
+              "sério",
+              "aham"
+            ]
+          },
+          "emojis": [
+            "🤨",
+            "😑"
+          ]
+        },
+        {
+          "id": "spacey",
+          "file": "Spacey.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Spacey",
+            "pt-BR": "Avoado"
+          },
+          "keywords": {
+            "en": [
+              "distracted",
+              "daydream",
+              "absent"
+            ],
+            "pt-BR": [
+              "distraído",
+              "no mundo da lua",
+              "aéreo"
+            ]
+          },
+          "emojis": [
+            "😶‍🌫️",
+            "👀"
+          ]
+        },
+        {
+          "id": "tired",
+          "file": "Tired.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Tired",
+            "pt-BR": "Cansado"
+          },
+          "keywords": {
+            "en": [
+              "eyeball",
+              "bloodshot",
+              "sleepy"
+            ],
+            "pt-BR": [
+              "olho",
+              "olho vermelho",
+              "sono"
+            ]
+          },
+          "emojis": [
+            "😵",
+            "👁️"
+          ]
+        },
+        {
+          "id": "unproductive",
+          "file": "Unproductive.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Unproductive",
+            "pt-BR": "Improdutivo"
+          },
+          "keywords": {
+            "en": [
+              "sticky note",
+              "lazy",
+              "done"
+            ],
+            "pt-BR": [
+              "post-it",
+              "preguiça",
+              "sem vontade"
+            ]
+          },
+          "emojis": [
+            "😵",
+            "📝"
+          ]
+        },
+        {
+          "id": "zen",
+          "file": "Zen.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Zen",
+            "pt-BR": "Zen"
+          },
+          "keywords": {
+            "en": [
+              "calm",
+              "relaxed",
+              "peace"
+            ],
+            "pt-BR": [
+              "calma",
+              "relaxado",
+              "paz"
+            ]
+          },
+          "emojis": [
+            "😌",
+            "🧘"
+          ]
+        },
+        {
+          "id": "mischievous",
+          "file": "Mischievous.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Mischievous",
+            "pt-BR": "Travesso"
+          },
+          "keywords": {
+            "en": [
+              "oh",
+              "surprised",
+              "box"
+            ],
+            "pt-BR": [
+              "surpreso",
+              "ops",
+              "caixa"
+            ]
+          },
+          "emojis": [
+            "😮"
+          ]
+        },
+        {
+          "id": "wicked",
+          "file": "Wicked.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Wicked",
+            "pt-BR": "Malvado"
+          },
+          "keywords": {
+            "en": [
+              "evil grin",
+              "mischief",
+              "box"
+            ],
+            "pt-BR": [
+              "sorriso maligno",
+              "maldade",
+              "caixa"
+            ]
+          },
+          "emojis": [
+            "😈",
+            "😏"
+          ]
+        },
+        {
+          "id": "258",
+          "file": "258.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "258",
+            "pt-BR": "258"
+          },
+          "keywords": {
+            "en": [
+              "lotus",
+              "meditation",
+              "calm"
+            ],
+            "pt-BR": [
+              "lótus",
+              "meditação",
+              "calma"
+            ]
+          },
+          "emojis": [
+            "🧘",
+            "🪷"
+          ]
+        },
+        {
+          "id": "motivated",
+          "file": "Motivated.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Motivated",
+            "pt-BR": "Motivado"
+          },
+          "keywords": {
+            "en": [
+              "excited",
+              "lets go",
+              "hair"
+            ],
+            "pt-BR": [
+              "animado",
+              "bora",
+              "cabelo"
+            ]
+          },
+          "emojis": [
+            "😆",
+            "💪"
+          ]
+        },
+        {
+          "id": "proud",
+          "file": "Proud.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Proud",
+            "pt-BR": "Orgulhoso"
+          },
+          "keywords": {
+            "en": [
+              "pride",
+              "rainbow",
+              "heart"
+            ],
+            "pt-BR": [
+              "orgulho",
+              "arco-íris",
+              "coração"
+            ]
+          },
+          "emojis": [
+            "🏳️‍🌈",
+            "❤️"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vibes",
+      "name": {
+        "en": "Vibes",
+        "pt-BR": "Estilo"
+      },
+      "icon": "chill",
+      "stickers": [
+        {
+          "id": "129",
+          "file": "129.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "129",
+            "pt-BR": "129"
+          },
+          "keywords": {
+            "en": [
+              "sparkle",
+              "sunglasses",
+              "fancy"
+            ],
+            "pt-BR": [
+              "brilho",
+              "óculos escuros",
+              "chique"
+            ]
+          },
+          "emojis": [
+            "✨",
+            "😎"
+          ]
+        },
+        {
+          "id": "130",
+          "file": "130.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "130",
+            "pt-BR": "130"
+          },
+          "keywords": {
+            "en": [
+              "headphones",
+              "leopard",
+              "music"
+            ],
+            "pt-BR": [
+              "fone",
+              "oncinha",
+              "música"
+            ]
+          },
+          "emojis": [
+            "🎧",
+            "😎"
+          ]
+        },
+        {
+          "id": "170",
+          "file": "170.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "170",
+            "pt-BR": "170"
+          },
+          "keywords": {
+            "en": [
+              "headphones",
+              "music",
+              "cool"
+            ],
+            "pt-BR": [
+              "fone",
+              "música",
+              "curtindo"
+            ]
+          },
+          "emojis": [
+            "🎧",
+            "🎶"
+          ]
+        },
+        {
+          "id": "182",
+          "file": "182.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "182",
+            "pt-BR": "182"
+          },
+          "keywords": {
+            "en": [
+              "cap",
+              "backwards",
+              "side-eye"
+            ],
+            "pt-BR": [
+              "boné",
+              "de lado",
+              "olhar de canto"
+            ]
+          },
+          "emojis": [
+            "😏",
+            "🧢"
+          ]
+        },
+        {
+          "id": "55",
+          "file": "55.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "55",
+            "pt-BR": "55"
+          },
+          "keywords": {
+            "en": [
+              "bandana",
+              "sunglasses",
+              "rock"
+            ],
+            "pt-BR": [
+              "bandana",
+              "óculos escuros",
+              "rock"
+            ]
+          },
+          "emojis": [
+            "🤘",
+            "😎"
+          ]
+        },
+        {
+          "id": "62",
+          "file": "62.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "62",
+            "pt-BR": "62"
+          },
+          "keywords": {
+            "en": [
+              "music",
+              "notes",
+              "hippie"
+            ],
+            "pt-BR": [
+              "música",
+              "notas",
+              "hippie"
+            ]
+          },
+          "emojis": [
+            "🎶",
+            "😮"
+          ]
+        },
+        {
+          "id": "95",
+          "file": "95.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "95",
+            "pt-BR": "95"
+          },
+          "keywords": {
+            "en": [
+              "high heel",
+              "fashion",
+              "diva"
+            ],
+            "pt-BR": [
+              "salto alto",
+              "moda",
+              "diva"
+            ]
+          },
+          "emojis": [
+            "👠",
+            "✨"
+          ]
+        },
+        {
+          "id": "chill",
+          "file": "Chill.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Chill",
+            "pt-BR": "De boa"
+          },
+          "keywords": {
+            "en": [
+              "sunglasses",
+              "relaxed",
+              "cool"
+            ],
+            "pt-BR": [
+              "óculos escuros",
+              "relaxado",
+              "tranquilo"
+            ]
+          },
+          "emojis": [
+            "😎"
+          ]
+        },
+        {
+          "id": "chill-glasses",
+          "file": "Chill (2).webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Chill Glasses",
+            "pt-BR": "De boa de óculos"
+          },
+          "keywords": {
+            "en": [
+              "round glasses",
+              "relaxed",
+              "cool"
+            ],
+            "pt-BR": [
+              "óculos redondos",
+              "relaxado",
+              "tranquilo"
+            ]
+          },
+          "emojis": [
+            "😎",
+            "🙂"
+          ]
+        },
+        {
+          "id": "extra",
+          "file": "Extra.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Extra",
+            "pt-BR": "Exagerado"
+          },
+          "keywords": {
+            "en": [
+              "party glasses",
+              "tongue",
+              "over the top"
+            ],
+            "pt-BR": [
+              "óculos de festa",
+              "língua",
+              "exagero"
+            ]
+          },
+          "emojis": [
+            "🤪",
+            "🕶️"
+          ]
+        },
+        {
+          "id": "feisty",
+          "file": "Feisty.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Feisty",
+            "pt-BR": "Briguento"
+          },
+          "keywords": {
+            "en": [
+              "boxing",
+              "glove",
+              "fight"
+            ],
+            "pt-BR": [
+              "boxe",
+              "luva",
+              "briga"
+            ]
+          },
+          "emojis": [
+            "🥊",
+            "😏"
+          ]
+        },
+        {
+          "id": "gutsy",
+          "file": "Gutsy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Gutsy",
+            "pt-BR": "Corajoso"
+          },
+          "keywords": {
+            "en": [
+              "sunglasses",
+              "tough",
+              "brave"
+            ],
+            "pt-BR": [
+              "óculos escuros",
+              "durão",
+              "valente"
+            ]
+          },
+          "emojis": [
+            "😎",
+            "💪"
+          ]
+        },
+        {
+          "id": "irie",
+          "file": "Irie.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Irie",
+            "pt-BR": "Irie"
+          },
+          "keywords": {
+            "en": [
+              "reggae",
+              "rasta",
+              "good vibes"
+            ],
+            "pt-BR": [
+              "reggae",
+              "rasta",
+              "vibe boa"
+            ]
+          },
+          "emojis": [
+            "😄",
+            "🇯🇲"
+          ]
+        },
+        {
+          "id": "rad",
+          "file": "Rad.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Rad",
+            "pt-BR": "Radical"
+          },
+          "keywords": {
+            "en": [
+              "sunglasses",
+              "cool",
+              "grin"
+            ],
+            "pt-BR": [
+              "óculos escuros",
+              "irado",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "😎",
+            "🤙"
+          ]
+        },
+        {
+          "id": "savvy",
+          "file": "Savvy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Savvy",
+            "pt-BR": "Esperto"
+          },
+          "keywords": {
+            "en": [
+              "sunglasses",
+              "santa hat",
+              "smart"
+            ],
+            "pt-BR": [
+              "óculos escuros",
+              "gorro",
+              "sabido"
+            ]
+          },
+          "emojis": [
+            "😎",
+            "🎅"
+          ]
+        },
+        {
+          "id": "serene",
+          "file": "Serene.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Serene",
+            "pt-BR": "Sereno"
+          },
+          "keywords": {
+            "en": [
+              "round glasses",
+              "calm",
+              "smile"
+            ],
+            "pt-BR": [
+              "óculos redondos",
+              "calmo",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "😌",
+            "🕶️"
+          ]
+        },
+        {
+          "id": "shady",
+          "file": "Shady.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Shady",
+            "pt-BR": "Suspeito"
+          },
+          "keywords": {
+            "en": [
+              "fedora",
+              "sunglasses",
+              "mysterious"
+            ],
+            "pt-BR": [
+              "chapéu",
+              "óculos escuros",
+              "misterioso"
+            ]
+          },
+          "emojis": [
+            "🕵️",
+            "😒"
+          ]
+        },
+        {
+          "id": "snappy",
+          "file": "Snappy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Snappy",
+            "pt-BR": "Elegante"
+          },
+          "keywords": {
+            "en": [
+              "bow tie",
+              "cookie",
+              "smirk"
+            ],
+            "pt-BR": [
+              "gravata-borboleta",
+              "biscoito",
+              "sorrisinho"
+            ]
+          },
+          "emojis": [
+            "😏",
+            "🍪"
+          ]
+        },
+        {
+          "id": "strong",
+          "file": "Strong.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Strong",
+            "pt-BR": "Forte"
+          },
+          "keywords": {
+            "en": [
+              "x",
+              "sunglasses",
+              "tough"
+            ],
+            "pt-BR": [
+              "x",
+              "óculos escuros",
+              "durão"
+            ]
+          },
+          "emojis": [
+            "💪",
+            "😎"
+          ]
+        },
+        {
+          "id": "wild",
+          "file": "Wild.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Wild",
+            "pt-BR": "Selvagem"
+          },
+          "keywords": {
+            "en": [
+              "helmet",
+              "lightning",
+              "sunglasses"
+            ],
+            "pt-BR": [
+              "capacete",
+              "raio",
+              "óculos escuros"
+            ]
+          },
+          "emojis": [
+            "⚡",
+            "😎"
+          ]
+        },
+        {
+          "id": "206",
+          "file": "206.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "206",
+            "pt-BR": "206"
+          },
+          "keywords": {
+            "en": [
+              "amplifier",
+              "guitar",
+              "music"
+            ],
+            "pt-BR": [
+              "amplificador",
+              "guitarra",
+              "música"
+            ]
+          },
+          "emojis": [
+            "🎸",
+            "🔊"
+          ]
+        },
+        {
+          "id": "pumped",
+          "file": "Pumped!.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Pumped!",
+            "pt-BR": "Empolgado"
+          },
+          "keywords": {
+            "en": [
+              "boombox",
+              "music",
+              "party"
+            ],
+            "pt-BR": [
+              "rádio",
+              "música",
+              "festa"
+            ]
+          },
+          "emojis": [
+            "📻",
+            "🎶"
+          ]
+        },
+        {
+          "id": "groovy",
+          "file": "Groovy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Groovy",
+            "pt-BR": "Psicodélico"
+          },
+          "keywords": {
+            "en": [
+              "lava lamp",
+              "retro",
+              "70s"
+            ],
+            "pt-BR": [
+              "lâmpada de lava",
+              "retrô",
+              "anos 70"
+            ]
+          },
+          "emojis": [
+            "🪩",
+            "✌️"
+          ]
+        },
+        {
+          "id": "143",
+          "file": "143.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "143",
+            "pt-BR": "143"
+          },
+          "keywords": {
+            "en": [
+              "microphone",
+              "karaoke",
+              "sing"
+            ],
+            "pt-BR": [
+              "microfone",
+              "karaokê",
+              "cantar"
+            ]
+          },
+          "emojis": [
+            "🎤",
+            "🎶"
+          ]
+        },
+        {
+          "id": "118",
+          "file": "118.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "118",
+            "pt-BR": "118"
+          },
+          "keywords": {
+            "en": [
+              "headset",
+              "listening",
+              "music"
+            ],
+            "pt-BR": [
+              "headset",
+              "ouvindo",
+              "música"
+            ]
+          },
+          "emojis": [
+            "🎧",
+            "😌"
+          ]
+        },
+        {
+          "id": "quirky",
+          "file": "Quirky.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Quirky",
+            "pt-BR": "Excêntrico"
+          },
+          "keywords": {
+            "en": [
+              "hat",
+              "colorful",
+              "funny"
+            ],
+            "pt-BR": [
+              "chapéu",
+              "colorido",
+              "engraçado"
+            ]
+          },
+          "emojis": [
+            "🤪",
+            "👒"
+          ]
+        },
+        {
+          "id": "184",
+          "file": "184.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "184",
+            "pt-BR": "184"
+          },
+          "keywords": {
+            "en": [
+              "propeller cap",
+              "goofy",
+              "kid"
+            ],
+            "pt-BR": [
+              "boné de hélice",
+              "bobo",
+              "criança"
+            ]
+          },
+          "emojis": [
+            "🤪",
+            "🧢"
+          ]
+        },
+        {
+          "id": "220",
+          "file": "220.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "220",
+            "pt-BR": "220"
+          },
+          "keywords": {
+            "en": [
+              "drum",
+              "tambourine",
+              "wink"
+            ],
+            "pt-BR": [
+              "tambor",
+              "pandeiro",
+              "piscadinha"
+            ]
+          },
+          "emojis": [
+            "🥁",
+            "😉"
+          ]
+        },
+        {
+          "id": "bacano",
+          "file": "Bacano.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Bacano",
+            "pt-BR": "Bacano"
+          },
+          "keywords": {
+            "en": [
+              "colombia",
+              "hat",
+              "cool"
+            ],
+            "pt-BR": [
+              "colômbia",
+              "chapéu",
+              "legal"
+            ]
+          },
+          "emojis": [
+            "🇨🇴",
+            "😎"
+          ]
+        },
+        {
+          "id": "leopard",
+          "file": "Leopard.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Leopard",
+            "pt-BR": "Onça"
+          },
+          "keywords": {
+            "en": [
+              "leopard",
+              "sunglasses",
+              "wild"
+            ],
+            "pt-BR": [
+              "oncinha",
+              "óculos escuros",
+              "selvagem"
+            ]
+          },
+          "emojis": [
+            "🐆",
+            "😎"
+          ]
+        },
+        {
+          "id": "sidekick",
+          "file": "Sidekick.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sidekick",
+            "pt-BR": "Parceiro"
+          },
+          "keywords": {
+            "en": [
+              "partner",
+              "beard",
+              "buddy"
+            ],
+            "pt-BR": [
+              "parceiro",
+              "barba",
+              "amigo"
+            ]
+          },
+          "emojis": [
+            "🤝",
+            "😏"
+          ]
+        },
+        {
+          "id": "geeky",
+          "file": "Geeky.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Geeky",
+            "pt-BR": "Geek"
+          },
+          "keywords": {
+            "en": [
+              "glasses",
+              "nerd",
+              "staring"
+            ],
+            "pt-BR": [
+              "óculos",
+              "nerd",
+              "olhando"
+            ]
+          },
+          "emojis": [
+            "🤓"
+          ]
+        },
+        {
+          "id": "240",
+          "file": "240.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "240",
+            "pt-BR": "240"
+          },
+          "keywords": {
+            "en": [
+              "glasses",
+              "smart",
+              "smirk"
+            ],
+            "pt-BR": [
+              "óculos",
+              "inteligente",
+              "sorrisinho"
+            ]
+          },
+          "emojis": [
+            "🤓",
+            "😏"
+          ]
+        },
+        {
+          "id": "122",
+          "file": "122.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "122",
+            "pt-BR": "122"
+          },
+          "keywords": {
+            "en": [
+              "lightbulb",
+              "glasses",
+              "idea"
+            ],
+            "pt-BR": [
+              "lâmpada",
+              "óculos",
+              "ideia"
+            ]
+          },
+          "emojis": [
+            "💡",
+            "🤓"
+          ]
+        },
+        {
+          "id": "222",
+          "file": "222.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "222",
+            "pt-BR": "222"
+          },
+          "keywords": {
+            "en": [
+              "lightbulb",
+              "think",
+              "idea"
+            ],
+            "pt-BR": [
+              "lâmpada",
+              "pensar",
+              "ideia"
+            ]
+          },
+          "emojis": [
+            "💡",
+            "🙂"
+          ]
+        },
+        {
+          "id": "smart",
+          "file": "Smart.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Smart",
+            "pt-BR": "Inteligente"
+          },
+          "keywords": {
+            "en": [
+              "lightbulb",
+              "tongue",
+              "idea"
+            ],
+            "pt-BR": [
+              "lâmpada",
+              "língua",
+              "ideia"
+            ]
+          },
+          "emojis": [
+            "💡",
+            "😜"
+          ]
+        },
+        {
+          "id": "255",
+          "file": "255.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "255",
+            "pt-BR": "255"
+          },
+          "keywords": {
+            "en": [
+              "glasses",
+              "blonde",
+              "study"
+            ],
+            "pt-BR": [
+              "óculos",
+              "loiro",
+              "estudo"
+            ]
+          },
+          "emojis": [
+            "🤓",
+            "📚"
+          ]
+        },
+        {
+          "id": "256",
+          "file": "256.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "256",
+            "pt-BR": "256"
+          },
+          "keywords": {
+            "en": [
+              "cape",
+              "hero",
+              "glasses"
+            ],
+            "pt-BR": [
+              "capa",
+              "herói",
+              "óculos"
+            ]
+          },
+          "emojis": [
+            "🦸",
+            "😌"
+          ]
+        },
+        {
+          "id": "257",
+          "file": "257.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "257",
+            "pt-BR": "257"
+          },
+          "keywords": {
+            "en": [
+              "crown",
+              "sunglasses",
+              "king"
+            ],
+            "pt-BR": [
+              "coroa",
+              "óculos escuros",
+              "rei"
+            ]
+          },
+          "emojis": [
+            "👑",
+            "😎"
+          ]
+        },
+        {
+          "id": "light",
+          "file": "Light.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Light",
+            "pt-BR": "Leve"
+          },
+          "keywords": {
+            "en": [
+              "spiky",
+              "blond",
+              "pout"
+            ],
+            "pt-BR": [
+              "espetado",
+              "loiro",
+              "biquinho"
+            ]
+          },
+          "emojis": [
+            "😗",
+            "⚡"
+          ]
+        },
+        {
+          "id": "123",
+          "file": "123.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "123",
+            "pt-BR": "123"
+          },
+          "keywords": {
+            "en": [
+              "bubbles",
+              "potion",
+              "happy"
+            ],
+            "pt-BR": [
+              "bolhas",
+              "poção",
+              "feliz"
+            ]
+          },
+          "emojis": [
+            "🫧",
+            "😊"
+          ]
+        },
+        {
+          "id": "106",
+          "file": "106.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "106",
+            "pt-BR": "106"
+          },
+          "keywords": {
+            "en": [
+              "lying down",
+              "party hat",
+              "relaxed"
+            ],
+            "pt-BR": [
+              "deitado",
+              "chapéu de festa",
+              "relaxado"
+            ]
+          },
+          "emojis": [
+            "😌",
+            "🥳"
+          ]
+        },
+        {
+          "id": "162",
+          "file": "162.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "162",
+            "pt-BR": "162"
+          },
+          "keywords": {
+            "en": [
+              "alien",
+              "helmet",
+              "space"
+            ],
+            "pt-BR": [
+              "alienígena",
+              "capacete",
+              "espaço"
+            ]
+          },
+          "emojis": [
+            "👽",
+            "🛸"
+          ],
+          "note": "Alien; official name to confirm."
+        },
+        {
+          "id": "223",
+          "file": "223.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "223",
+            "pt-BR": "223"
+          },
+          "keywords": {
+            "en": [
+              "hand",
+              "salute",
+              "greeting"
+            ],
+            "pt-BR": [
+              "mão",
+              "saudação",
+              "cumprimento"
+            ]
+          },
+          "emojis": [
+            "🖖"
+          ]
+        },
+        {
+          "id": "44",
+          "file": "44.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "44",
+            "pt-BR": "44"
+          },
+          "keywords": {
+            "en": [
+              "ram horns",
+              "sunglasses",
+              "bold"
+            ],
+            "pt-BR": [
+              "chifres de carneiro",
+              "óculos escuros",
+              "ousado"
+            ]
+          },
+          "emojis": [
+            "🐏",
+            "😎"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-and-work",
+      "name": {
+        "en": "On the Road & at Work",
+        "pt-BR": "Na estrada e no trabalho"
+      },
+      "icon": "map-master",
+      "stickers": [
+        {
+          "id": "148",
+          "file": "148.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "148",
+            "pt-BR": "148"
+          },
+          "keywords": {
+            "en": [
+              "hard hat",
+              "construction",
+              "vest"
+            ],
+            "pt-BR": [
+              "capacete",
+              "obra",
+              "colete"
+            ]
+          },
+          "emojis": [
+            "👷",
+            "🚧"
+          ]
+        },
+        {
+          "id": "116",
+          "file": "116.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "116",
+            "pt-BR": "116"
+          },
+          "keywords": {
+            "en": [
+              "suitcase",
+              "hat",
+              "trip"
+            ],
+            "pt-BR": [
+              "mala",
+              "chapéu",
+              "viagem"
+            ]
+          },
+          "emojis": [
+            "🧳",
+            "✈️"
+          ]
+        },
+        {
+          "id": "18",
+          "file": "18.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "18",
+            "pt-BR": "18"
+          },
+          "keywords": {
+            "en": [
+              "bindle",
+              "trip",
+              "adventure"
+            ],
+            "pt-BR": [
+              "trouxinha",
+              "viagem",
+              "aventura"
+            ]
+          },
+          "emojis": [
+            "🎒",
+            "🛣️"
+          ]
+        },
+        {
+          "id": "52",
+          "file": "52.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "52",
+            "pt-BR": "52"
+          },
+          "keywords": {
+            "en": [
+              "camera",
+              "flag",
+              "sightseeing"
+            ],
+            "pt-BR": [
+              "câmera",
+              "bandeira",
+              "passeio"
+            ]
+          },
+          "emojis": [
+            "📸",
+            "🚩"
+          ]
+        },
+        {
+          "id": "51",
+          "file": "51.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "51",
+            "pt-BR": "51"
+          },
+          "keywords": {
+            "en": [
+              "explorer",
+              "hat",
+              "adventure"
+            ],
+            "pt-BR": [
+              "explorador",
+              "chapéu",
+              "aventura"
+            ]
+          },
+          "emojis": [
+            "🧭",
+            "🌍"
+          ]
+        },
+        {
+          "id": "road-warrior",
+          "file": "Road Warrior.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Road Warrior",
+            "pt-BR": "Guerreiro da estrada"
+          },
+          "keywords": {
+            "en": [
+              "helmet",
+              "goggles",
+              "wing"
+            ],
+            "pt-BR": [
+              "capacete",
+              "óculos",
+              "asa"
+            ]
+          },
+          "emojis": [
+            "🏍️",
+            "🛣️"
+          ]
+        },
+        {
+          "id": "limitless",
+          "file": "Limitless.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Limitless",
+            "pt-BR": "Sem limites"
+          },
+          "keywords": {
+            "en": [
+              "highway",
+              "shield",
+              "road sign"
+            ],
+            "pt-BR": [
+              "rodovia",
+              "escudo",
+              "placa"
+            ]
+          },
+          "emojis": [
+            "🛣️",
+            "🚗"
+          ]
+        },
+        {
+          "id": "map-master",
+          "file": "Map Master.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Map Master",
+            "pt-BR": "Mestre do mapa"
+          },
+          "keywords": {
+            "en": [
+              "editor",
+              "map",
+              "wazer"
+            ],
+            "pt-BR": [
+              "editor",
+              "mapa",
+              "wazer"
+            ]
+          },
+          "emojis": [
+            "🗺️",
+            "😌"
+          ]
+        },
+        {
+          "id": "mega-hauler",
+          "file": "Mega-Hauler.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Mega-Hauler",
+            "pt-BR": "Supercaminhoneiro"
+          },
+          "keywords": {
+            "en": [
+              "truck",
+              "goggles",
+              "hauler"
+            ],
+            "pt-BR": [
+              "caminhão",
+              "óculos",
+              "carga"
+            ]
+          },
+          "emojis": [
+            "🚚",
+            "😎"
+          ]
+        },
+        {
+          "id": "244",
+          "file": "244.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "244",
+            "pt-BR": "244"
+          },
+          "keywords": {
+            "en": [
+              "delivery",
+              "helmet",
+              "box"
+            ],
+            "pt-BR": [
+              "entrega",
+              "capacete",
+              "caixa"
+            ]
+          },
+          "emojis": [
+            "📦",
+            "⚡"
+          ]
+        },
+        {
+          "id": "245",
+          "file": "245.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "245",
+            "pt-BR": "245"
+          },
+          "keywords": {
+            "en": [
+              "robot",
+              "antenna",
+              "explorer"
+            ],
+            "pt-BR": [
+              "robô",
+              "antena",
+              "explorador"
+            ]
+          },
+          "emojis": [
+            "🤖",
+            "📡"
+          ]
+        },
+        {
+          "id": "208",
+          "file": "208.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "208",
+            "pt-BR": "208"
+          },
+          "keywords": {
+            "en": [
+              "signal",
+              "robot",
+              "wifi"
+            ],
+            "pt-BR": [
+              "sinal",
+              "robô",
+              "wifi"
+            ]
+          },
+          "emojis": [
+            "📶",
+            "🤖"
+          ]
+        },
+        {
+          "id": "247",
+          "file": "247.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "247",
+            "pt-BR": "247"
+          },
+          "keywords": {
+            "en": [
+              "speech bubble",
+              "chat",
+              "talk"
+            ],
+            "pt-BR": [
+              "balão de fala",
+              "conversa",
+              "papo"
+            ]
+          },
+          "emojis": [
+            "💬",
+            "😄"
+          ]
+        },
+        {
+          "id": "248",
+          "file": "248.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "248",
+            "pt-BR": "248"
+          },
+          "keywords": {
+            "en": [
+              "whistle",
+              "referee",
+              "foul"
+            ],
+            "pt-BR": [
+              "apito",
+              "árbitro",
+              "falta"
+            ]
+          },
+          "emojis": [
+            "⚽",
+            "😗"
+          ]
+        },
+        {
+          "id": "124",
+          "file": "124.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "124",
+            "pt-BR": "124"
+          },
+          "keywords": {
+            "en": [
+              "pilot",
+              "goggles",
+              "helmet"
+            ],
+            "pt-BR": [
+              "piloto",
+              "óculos",
+              "capacete"
+            ]
+          },
+          "emojis": [
+            "✈️",
+            "🧑‍✈️"
+          ]
+        },
+        {
+          "id": "147",
+          "file": "147.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "147",
+            "pt-BR": "147"
+          },
+          "keywords": {
+            "en": [
+              "fire extinguisher",
+              "safety",
+              "nervous"
+            ],
+            "pt-BR": [
+              "extintor",
+              "segurança",
+              "nervoso"
+            ]
+          },
+          "emojis": [
+            "🧯",
+            "😬"
+          ]
+        },
+        {
+          "id": "74",
+          "file": "74.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "74",
+            "pt-BR": "74"
+          },
+          "keywords": {
+            "en": [
+              "sailor",
+              "cap",
+              "boat"
+            ],
+            "pt-BR": [
+              "marinheiro",
+              "quepe",
+              "barco"
+            ]
+          },
+          "emojis": [
+            "⚓",
+            "🧑‍✈️"
+          ]
+        },
+        {
+          "id": "captain-thank-you",
+          "file": "Captain Thank You.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Captain Thank You",
+            "pt-BR": "Capitão Obrigado"
+          },
+          "keywords": {
+            "en": [
+              "thanks",
+              "captain",
+              "mustache"
+            ],
+            "pt-BR": [
+              "obrigado",
+              "capitão",
+              "bigode"
+            ]
+          },
+          "emojis": [
+            "🙏",
+            "⚓"
+          ]
+        },
+        {
+          "id": "173",
+          "file": "173.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "173",
+            "pt-BR": "173"
+          },
+          "keywords": {
+            "en": [
+              "stopwatch",
+              "headband",
+              "training"
+            ],
+            "pt-BR": [
+              "cronômetro",
+              "faixa",
+              "treino"
+            ]
+          },
+          "emojis": [
+            "⏱️",
+            "🏃"
+          ]
+        },
+        {
+          "id": "161",
+          "file": "161.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "161",
+            "pt-BR": "161"
+          },
+          "keywords": {
+            "en": [
+              "helmet",
+              "stars",
+              "racer"
+            ],
+            "pt-BR": [
+              "capacete",
+              "estrelas",
+              "piloto"
+            ]
+          },
+          "emojis": [
+            "🏁",
+            "🏍️"
+          ]
+        },
+        {
+          "id": "171",
+          "file": "171.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "171",
+            "pt-BR": "171"
+          },
+          "keywords": {
+            "en": [
+              "face mask",
+              "health",
+              "safe"
+            ],
+            "pt-BR": [
+              "máscara",
+              "saúde",
+              "proteção"
+            ]
+          },
+          "emojis": [
+            "😷"
+          ]
+        },
+        {
+          "id": "207",
+          "file": "207.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "207",
+            "pt-BR": "207"
+          },
+          "keywords": {
+            "en": [
+              "vote",
+              "election",
+              "ballot"
+            ],
+            "pt-BR": [
+              "voto",
+              "eleição",
+              "urna"
+            ]
+          },
+          "emojis": [
+            "🗳️"
+          ]
+        },
+        {
+          "id": "212",
+          "file": "212.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "212",
+            "pt-BR": "212"
+          },
+          "keywords": {
+            "en": [
+              "vote",
+              "sign",
+              "election"
+            ],
+            "pt-BR": [
+              "voto",
+              "placa",
+              "eleição"
+            ]
+          },
+          "emojis": [
+            "🗳️",
+            "📣"
+          ]
+        },
+        {
+          "id": "all-business",
+          "file": "All Business.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "All Business",
+            "pt-BR": "Só negócios"
+          },
+          "keywords": {
+            "en": [
+              "suit",
+              "tie",
+              "work"
+            ],
+            "pt-BR": [
+              "terno",
+              "gravata",
+              "trabalho"
+            ]
+          },
+          "emojis": [
+            "👔",
+            "💼"
+          ]
+        },
+        {
+          "id": "business-casual",
+          "file": "Business Casual.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Business Casual",
+            "pt-BR": "Esporte fino"
+          },
+          "keywords": {
+            "en": [
+              "tie",
+              "headband",
+              "tongue"
+            ],
+            "pt-BR": [
+              "gravata",
+              "faixa",
+              "língua"
+            ]
+          },
+          "emojis": [
+            "👔",
+            "😜"
+          ]
+        },
+        {
+          "id": "businessy",
+          "file": "Businessy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Businessy",
+            "pt-BR": "Executivo"
+          },
+          "keywords": {
+            "en": [
+              "suit",
+              "glasses",
+              "office"
+            ],
+            "pt-BR": [
+              "terno",
+              "óculos",
+              "escritório"
+            ]
+          },
+          "emojis": [
+            "💼",
+            "🤓"
+          ]
+        },
+        {
+          "id": "bawse-y",
+          "file": "Bawse-y.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Bawse-y",
+            "pt-BR": "Chefão"
+          },
+          "keywords": {
+            "en": [
+              "boss",
+              "sunglasses",
+              "suit"
+            ],
+            "pt-BR": [
+              "chefe",
+              "óculos escuros",
+              "terno"
+            ]
+          },
+          "emojis": [
+            "😎",
+            "💼"
+          ]
+        },
+        {
+          "id": "productive",
+          "file": "Productive.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Productive",
+            "pt-BR": "Produtivo"
+          },
+          "keywords": {
+            "en": [
+              "headset",
+              "work",
+              "wink"
+            ],
+            "pt-BR": [
+              "headset",
+              "trabalho",
+              "piscadinha"
+            ]
+          },
+          "emojis": [
+            "🎧",
+            "😉"
+          ]
+        },
+        {
+          "id": "dialed-up",
+          "file": "Dialed Up.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Dialed Up",
+            "pt-BR": "Internet discada"
+          },
+          "keywords": {
+            "en": [
+              "computer",
+              "retro",
+              "internet"
+            ],
+            "pt-BR": [
+              "computador",
+              "retrô",
+              "internet"
+            ]
+          },
+          "emojis": [
+            "💻",
+            "📠"
+          ]
+        },
+        {
+          "id": "undercover",
+          "file": "Undercover.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Undercover",
+            "pt-BR": "Disfarçado"
+          },
+          "keywords": {
+            "en": [
+              "disguise",
+              "glasses",
+              "nose"
+            ],
+            "pt-BR": [
+              "disfarce",
+              "óculos",
+              "nariz"
+            ]
+          },
+          "emojis": [
+            "🥸"
+          ]
+        },
+        {
+          "id": "sneaky",
+          "file": "Sneaky.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sneaky",
+            "pt-BR": "Ninja"
+          },
+          "keywords": {
+            "en": [
+              "ninja",
+              "stealth",
+              "mask"
+            ],
+            "pt-BR": [
+              "ninja",
+              "furtivo",
+              "máscara"
+            ]
+          },
+          "emojis": [
+            "🥷"
+          ]
+        },
+        {
+          "id": "survivalist",
+          "file": "Survivalist.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Survivalist",
+            "pt-BR": "Sobrevivente"
+          },
+          "keywords": {
+            "en": [
+              "bandana",
+              "scar",
+              "tough"
+            ],
+            "pt-BR": [
+              "bandana",
+              "cicatriz",
+              "durão"
+            ]
+          },
+          "emojis": [
+            "💪",
+            "🩹"
+          ]
+        },
+        {
+          "id": "speedy",
+          "file": "Speedy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Speedy",
+            "pt-BR": "Veloz"
+          },
+          "keywords": {
+            "en": [
+              "fast",
+              "speed",
+              "smirk"
+            ],
+            "pt-BR": [
+              "rápido",
+              "velocidade",
+              "sorrisinho"
+            ]
+          },
+          "emojis": [
+            "💨",
+            "😏"
+          ]
+        },
+        {
+          "id": "sprinteur",
+          "file": "Sprinteur.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sprinteur",
+            "pt-BR": "Ciclista"
+          },
+          "keywords": {
+            "en": [
+              "cycling",
+              "cap",
+              "fast"
+            ],
+            "pt-BR": [
+              "ciclismo",
+              "boné",
+              "rápido"
+            ]
+          },
+          "emojis": [
+            "🚴",
+            "💨"
+          ]
+        },
+        {
+          "id": "unstoppable",
+          "file": "Unstoppable.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Unstoppable",
+            "pt-BR": "Imparável"
+          },
+          "keywords": {
+            "en": [
+              "fast",
+              "sparkle",
+              "run"
+            ],
+            "pt-BR": [
+              "rápido",
+              "brilho",
+              "corrida"
+            ]
+          },
+          "emojis": [
+            "💨",
+            "✨"
+          ]
+        },
+        {
+          "id": "comfortable",
+          "file": "Comfortable.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Comfortable",
+            "pt-BR": "Confortável"
+          },
+          "keywords": {
+            "en": [
+              "sneaker",
+              "shoe",
+              "cozy"
+            ],
+            "pt-BR": [
+              "tênis",
+              "sapato",
+              "confortável"
+            ]
+          },
+          "emojis": [
+            "👟",
+            "😌"
+          ]
+        },
+        {
+          "id": "eco-friendly",
+          "file": "Eco-friendly.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Eco-friendly",
+            "pt-BR": "Ecológico"
+          },
+          "keywords": {
+            "en": [
+              "earth",
+              "planet",
+              "green"
+            ],
+            "pt-BR": [
+              "terra",
+              "planeta",
+              "verde"
+            ]
+          },
+          "emojis": [
+            "🌍",
+            "💚"
+          ]
+        },
+        {
+          "id": "global",
+          "file": "Global.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Global",
+            "pt-BR": "Global"
+          },
+          "keywords": {
+            "en": [
+              "earth",
+              "megaphone",
+              "world"
+            ],
+            "pt-BR": [
+              "terra",
+              "megafone",
+              "mundo"
+            ]
+          },
+          "emojis": [
+            "🌎",
+            "📣"
+          ]
+        },
+        {
+          "id": "victorious",
+          "file": "Victorious.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Victorious",
+            "pt-BR": "Vitorioso"
+          },
+          "keywords": {
+            "en": [
+              "trophy",
+              "winner",
+              "champion"
+            ],
+            "pt-BR": [
+              "troféu",
+              "vencedor",
+              "campeão"
+            ]
+          },
+          "emojis": [
+            "🏆"
+          ]
+        },
+        {
+          "id": "217",
+          "file": "217.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "217",
+            "pt-BR": "217"
+          },
+          "keywords": {
+            "en": [
+              "medal",
+              "ribbon",
+              "wink"
+            ],
+            "pt-BR": [
+              "medalha",
+              "fita",
+              "piscadinha"
+            ]
+          },
+          "emojis": [
+            "🏅",
+            "😉"
+          ]
+        },
+        {
+          "id": "beautiful",
+          "file": "Beautiful.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Beautiful",
+            "pt-BR": "Jogo bonito"
+          },
+          "keywords": {
+            "en": [
+              "soccer",
+              "football",
+              "ball"
+            ],
+            "pt-BR": [
+              "futebol",
+              "bola",
+              "jogo bonito"
+            ]
+          },
+          "emojis": [
+            "⚽",
+            "😎"
+          ]
+        },
+        {
+          "id": "masterful",
+          "file": "Masterful.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Masterful",
+            "pt-BR": "Mestre do golfe"
+          },
+          "keywords": {
+            "en": [
+              "golf",
+              "ball",
+              "sport"
+            ],
+            "pt-BR": [
+              "golfe",
+              "bola",
+              "esporte"
+            ]
+          },
+          "emojis": [
+            "⛳",
+            "😊"
+          ]
+        },
+        {
+          "id": "20",
+          "file": "20.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "20",
+            "pt-BR": "20"
+          },
+          "keywords": {
+            "en": [
+              "potion",
+              "glasses",
+              "lab"
+            ],
+            "pt-BR": [
+              "poção",
+              "óculos",
+              "laboratório"
+            ]
+          },
+          "emojis": [
+            "🧪",
+            "🤓"
+          ]
+        },
+        {
+          "id": "131",
+          "file": "131.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "131",
+            "pt-BR": "131"
+          },
+          "keywords": {
+            "en": [
+              "owl",
+              "graduation",
+              "smart"
+            ],
+            "pt-BR": [
+              "coruja",
+              "formatura",
+              "inteligente"
+            ]
+          },
+          "emojis": [
+            "🦉",
+            "🎓"
+          ]
+        },
+        {
+          "id": "150",
+          "file": "150.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "150",
+            "pt-BR": "150"
+          },
+          "keywords": {
+            "en": [
+              "straw hat",
+              "farm",
+              "june festival"
+            ],
+            "pt-BR": [
+              "chapéu de palha",
+              "roça",
+              "festa junina"
+            ]
+          },
+          "emojis": [
+            "👒",
+            "🌾"
+          ]
+        },
+        {
+          "id": "no-corre",
+          "file": "No corre.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "No corre",
+            "pt-BR": "Na correria"
+          },
+          "keywords": {
+            "en": [
+              "helmet",
+              "motorcycle",
+              "rush"
+            ],
+            "pt-BR": [
+              "capacete",
+              "moto",
+              "pressa"
+            ]
+          },
+          "emojis": [
+            "🪖",
+            "🏍️"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "critters-and-things",
+      "name": {
+        "en": "Critters & Things",
+        "pt-BR": "Bichos e coisas"
+      },
+      "icon": "cat",
+      "stickers": [
+        {
+          "id": "102",
+          "file": "102.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "102",
+            "pt-BR": "102"
+          },
+          "keywords": {
+            "en": [
+              "brain",
+              "smart",
+              "think"
+            ],
+            "pt-BR": [
+              "cérebro",
+              "inteligente",
+              "pensar"
+            ]
+          },
+          "emojis": [
+            "🧠"
+          ]
+        },
+        {
+          "id": "227",
+          "file": "227.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "227",
+            "pt-BR": "227"
+          },
+          "keywords": {
+            "en": [
+              "cow",
+              "moo",
+              "farm"
+            ],
+            "pt-BR": [
+              "vaca",
+              "muu",
+              "fazenda"
+            ]
+          },
+          "emojis": [
+            "🐄",
+            "🌸"
+          ]
+        },
+        {
+          "id": "229",
+          "file": "229.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "229",
+            "pt-BR": "229"
+          },
+          "keywords": {
+            "en": [
+              "dog",
+              "corgi",
+              "crown"
+            ],
+            "pt-BR": [
+              "cachorro",
+              "corgi",
+              "coroa"
+            ]
+          },
+          "emojis": [
+            "🐶",
+            "👑"
+          ]
+        },
+        {
+          "id": "230",
+          "file": "230.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "230",
+            "pt-BR": "230"
+          },
+          "keywords": {
+            "en": [
+              "dog",
+              "corgi",
+              "wink"
+            ],
+            "pt-BR": [
+              "cachorro",
+              "corgi",
+              "piscadinha"
+            ]
+          },
+          "emojis": [
+            "🐶",
+            "😉"
+          ]
+        },
+        {
+          "id": "231",
+          "file": "231.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "231",
+            "pt-BR": "231"
+          },
+          "keywords": {
+            "en": [
+              "dog",
+              "corgi",
+              "crown"
+            ],
+            "pt-BR": [
+              "cachorro",
+              "corgi",
+              "coroa"
+            ]
+          },
+          "emojis": [
+            "🐕",
+            "👑"
+          ]
+        },
+        {
+          "id": "236",
+          "file": "236.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "236",
+            "pt-BR": "236"
+          },
+          "keywords": {
+            "en": [
+              "dragon",
+              "red",
+              "monster"
+            ],
+            "pt-BR": [
+              "dragão",
+              "vermelho",
+              "monstro"
+            ]
+          },
+          "emojis": [
+            "🐉",
+            "🔥"
+          ]
+        },
+        {
+          "id": "259",
+          "file": "259.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "259",
+            "pt-BR": "259"
+          },
+          "keywords": {
+            "en": [
+              "bird",
+              "cap",
+              "talk"
+            ],
+            "pt-BR": [
+              "pássaro",
+              "boné",
+              "falar"
+            ]
+          },
+          "emojis": [
+            "🦜"
+          ]
+        },
+        {
+          "id": "251",
+          "file": "251.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "251",
+            "pt-BR": "251"
+          },
+          "keywords": {
+            "en": [
+              "teapot",
+              "tea",
+              "apple"
+            ],
+            "pt-BR": [
+              "bule",
+              "chá",
+              "maçã"
+            ]
+          },
+          "emojis": [
+            "🫖",
+            "🍵"
+          ]
+        },
+        {
+          "id": "30",
+          "file": "30.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "30",
+            "pt-BR": "30"
+          },
+          "keywords": {
+            "en": [
+              "rock",
+              "stone",
+              "fast"
+            ],
+            "pt-BR": [
+              "pedra",
+              "rocha",
+              "rápido"
+            ]
+          },
+          "emojis": [
+            "🪨"
+          ]
+        },
+        {
+          "id": "85",
+          "file": "85.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "85",
+            "pt-BR": "85"
+          },
+          "keywords": {
+            "en": [
+              "capybara",
+              "bird",
+              "chill"
+            ],
+            "pt-BR": [
+              "capivara",
+              "passarinho",
+              "tranquilo"
+            ]
+          },
+          "emojis": [
+            "🦫",
+            "🐦"
+          ]
+        },
+        {
+          "id": "84",
+          "file": "84.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "84",
+            "pt-BR": "84"
+          },
+          "keywords": {
+            "en": [
+              "bear",
+              "bucket hat",
+              "smile"
+            ],
+            "pt-BR": [
+              "urso",
+              "chapéu",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "🐻",
+            "👒"
+          ]
+        },
+        {
+          "id": "8-bit",
+          "file": "8-Bit.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "8-Bit",
+            "pt-BR": "8 bits"
+          },
+          "keywords": {
+            "en": [
+              "pixel",
+              "retro",
+              "game"
+            ],
+            "pt-BR": [
+              "pixel",
+              "retrô",
+              "game"
+            ]
+          },
+          "emojis": [
+            "👾",
+            "🎮"
+          ]
+        },
+        {
+          "id": "aware",
+          "file": "Aware.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Aware",
+            "pt-BR": "Atento"
+          },
+          "keywords": {
+            "en": [
+              "rainbow",
+              "calm",
+              "colors"
+            ],
+            "pt-BR": [
+              "arco-íris",
+              "calmo",
+              "cores"
+            ]
+          },
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "id": "baby",
+          "file": "Baby.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Baby",
+            "pt-BR": "Bebê"
+          },
+          "keywords": {
+            "en": [
+              "pacifier",
+              "baby",
+              "cute"
+            ],
+            "pt-BR": [
+              "chupeta",
+              "bebê",
+              "fofo"
+            ]
+          },
+          "emojis": [
+            "👶",
+            "🍼"
+          ]
+        },
+        {
+          "id": "blobby",
+          "file": "Blobby.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Blobby",
+            "pt-BR": "Gosminha"
+          },
+          "keywords": {
+            "en": [
+              "blob",
+              "bubbles",
+              "stars"
+            ],
+            "pt-BR": [
+              "bolha",
+              "gosma",
+              "estrelas"
+            ]
+          },
+          "emojis": [
+            "🫧",
+            "💫"
+          ]
+        },
+        {
+          "id": "bright",
+          "file": "Bright.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Bright",
+            "pt-BR": "Estrela"
+          },
+          "keywords": {
+            "en": [
+              "star",
+              "shine",
+              "rainbow"
+            ],
+            "pt-BR": [
+              "estrela",
+              "brilho",
+              "arco-íris"
+            ]
+          },
+          "emojis": [
+            "⭐",
+            "🌈"
+          ]
+        },
+        {
+          "id": "calm",
+          "file": "Calm.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Calm",
+            "pt-BR": "Calmo"
+          },
+          "keywords": {
+            "en": [
+              "cloud",
+              "cap",
+              "sky"
+            ],
+            "pt-BR": [
+              "nuvem",
+              "boné",
+              "céu"
+            ]
+          },
+          "emojis": [
+            "☁️",
+            "🙂"
+          ]
+        },
+        {
+          "id": "captivated",
+          "file": "Captivated.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Captivated",
+            "pt-BR": "Fascinado"
+          },
+          "keywords": {
+            "en": [
+              "camera",
+              "photo",
+              "picture"
+            ],
+            "pt-BR": [
+              "câmera",
+              "foto",
+              "fotografia"
+            ]
+          },
+          "emojis": [
+            "📷"
+          ]
+        },
+        {
+          "id": "cat",
+          "file": "Cat.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cat",
+            "pt-BR": "Gato"
+          },
+          "keywords": {
+            "en": [
+              "cat",
+              "kitty",
+              "meow"
+            ],
+            "pt-BR": [
+              "gato",
+              "gatinho",
+              "miau"
+            ]
+          },
+          "emojis": [
+            "🐱"
+          ]
+        },
+        {
+          "id": "cell",
+          "file": "Cell.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cell",
+            "pt-BR": "Célula"
+          },
+          "keywords": {
+            "en": [
+              "cell",
+              "biology",
+              "blob"
+            ],
+            "pt-BR": [
+              "célula",
+              "biologia",
+              "bolha"
+            ]
+          },
+          "emojis": [
+            "🦠",
+            "🙂"
+          ]
+        },
+        {
+          "id": "centered",
+          "file": "Centered.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Centered",
+            "pt-BR": "Equilibrado"
+          },
+          "keywords": {
+            "en": [
+              "stones",
+              "balance",
+              "zen"
+            ],
+            "pt-BR": [
+              "pedras",
+              "equilíbrio",
+              "zen"
+            ]
+          },
+          "emojis": [
+            "🪨",
+            "🧘"
+          ]
+        },
+        {
+          "id": "cosmic",
+          "file": "Cosmic.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cosmic",
+            "pt-BR": "Cósmico"
+          },
+          "keywords": {
+            "en": [
+              "antennae",
+              "alien",
+              "happy"
+            ],
+            "pt-BR": [
+              "antenas",
+              "alienígena",
+              "feliz"
+            ]
+          },
+          "emojis": [
+            "👽",
+            "😄"
+          ]
+        },
+        {
+          "id": "destemido",
+          "file": "Destemido.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Fearless",
+            "pt-BR": "Destemido"
+          },
+          "keywords": {
+            "en": [
+              "cactus",
+              "plant",
+              "tough"
+            ],
+            "pt-BR": [
+              "cacto",
+              "planta",
+              "durão"
+            ]
+          },
+          "emojis": [
+            "🌵"
+          ]
+        },
+        {
+          "id": "dog",
+          "file": "Dog.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Dog",
+            "pt-BR": "Cachorro"
+          },
+          "keywords": {
+            "en": [
+              "dog",
+              "puppy",
+              "tongue"
+            ],
+            "pt-BR": [
+              "cachorro",
+              "filhote",
+              "língua"
+            ]
+          },
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "id": "fancy",
+          "file": "Fancy.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Fancy",
+            "pt-BR": "Chique"
+          },
+          "keywords": {
+            "en": [
+              "cake",
+              "slice",
+              "cherry"
+            ],
+            "pt-BR": [
+              "bolo",
+              "fatia",
+              "cereja"
+            ]
+          },
+          "emojis": [
+            "🍰"
+          ]
+        },
+        {
+          "id": "flowing",
+          "file": "Flowing.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Flowing",
+            "pt-BR": "Fluido"
+          },
+          "keywords": {
+            "en": [
+              "water",
+              "drop",
+              "rain"
+            ],
+            "pt-BR": [
+              "água",
+              "gota",
+              "chuva"
+            ]
+          },
+          "emojis": [
+            "💧"
+          ]
+        },
+        {
+          "id": "hopeful",
+          "file": "Hopeful.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Hopeful",
+            "pt-BR": "Esperançoso"
+          },
+          "keywords": {
+            "en": [
+              "cloud",
+              "sun",
+              "calm"
+            ],
+            "pt-BR": [
+              "nuvem",
+              "sol",
+              "calmo"
+            ]
+          },
+          "emojis": [
+            "🌤️"
+          ]
+        },
+        {
+          "id": "hungry",
+          "file": "Hungry.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Hungry",
+            "pt-BR": "Com fome"
+          },
+          "keywords": {
+            "en": [
+              "burger",
+              "food",
+              "lunch"
+            ],
+            "pt-BR": [
+              "hambúrguer",
+              "comida",
+              "almoço"
+            ]
+          },
+          "emojis": [
+            "🍔",
+            "🤤"
+          ]
+        },
+        {
+          "id": "magical",
+          "file": "Magical.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Magical",
+            "pt-BR": "Mágico"
+          },
+          "keywords": {
+            "en": [
+              "unicorn",
+              "rainbow",
+              "magic"
+            ],
+            "pt-BR": [
+              "unicórnio",
+              "arco-íris",
+              "magia"
+            ]
+          },
+          "emojis": [
+            "🦄",
+            "✨"
+          ]
+        },
+        {
+          "id": "magical-2",
+          "file": "Magical (2).webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Magical (2)",
+            "pt-BR": "Mágico (2)"
+          },
+          "keywords": {
+            "en": [
+              "magic",
+              "pink",
+              "famous"
+            ],
+            "pt-BR": [
+              "magia",
+              "rosa",
+              "famoso"
+            ]
+          },
+          "emojis": [
+            "✨",
+            "🩷"
+          ],
+          "note": "Based on a famous person; who is to confirm."
+        },
+        {
+          "id": "open",
+          "file": "Open.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Open",
+            "pt-BR": "Aberto"
+          },
+          "keywords": {
+            "en": [
+              "mountain",
+              "flag",
+              "summit"
+            ],
+            "pt-BR": [
+              "montanha",
+              "bandeira",
+              "cume"
+            ]
+          },
+          "emojis": [
+            "🏔️",
+            "🚩"
+          ]
+        },
+        {
+          "id": "playful",
+          "file": "Playful.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Playful",
+            "pt-BR": "Brincalhão"
+          },
+          "keywords": {
+            "en": [
+              "dolphin",
+              "sea",
+              "fun"
+            ],
+            "pt-BR": [
+              "golfinho",
+              "mar",
+              "diversão"
+            ]
+          },
+          "emojis": [
+            "🐬"
+          ]
+        },
+        {
+          "id": "prickly",
+          "file": "Prickly.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Prickly",
+            "pt-BR": "Espinhento"
+          },
+          "keywords": {
+            "en": [
+              "cactus",
+              "grumpy",
+              "spiky"
+            ],
+            "pt-BR": [
+              "cacto",
+              "ranzinza",
+              "espinhos"
+            ]
+          },
+          "emojis": [
+            "🌵",
+            "😠"
+          ]
+        },
+        {
+          "id": "quantom",
+          "file": "Quantom.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Quantom",
+            "pt-BR": "Quântico"
+          },
+          "keywords": {
+            "en": [
+              "planet",
+              "orbit",
+              "space"
+            ],
+            "pt-BR": [
+              "planeta",
+              "órbita",
+              "espaço"
+            ]
+          },
+          "emojis": [
+            "🪐"
+          ]
+        },
+        {
+          "id": "robot",
+          "file": "Robot.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Robot",
+            "pt-BR": "Robô"
+          },
+          "keywords": {
+            "en": [
+              "robot",
+              "machine",
+              "tech"
+            ],
+            "pt-BR": [
+              "robô",
+              "máquina",
+              "tecnologia"
+            ]
+          },
+          "emojis": [
+            "🤖"
+          ]
+        },
+        {
+          "id": "rocket",
+          "file": "Rocket.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Rocket",
+            "pt-BR": "Foguete"
+          },
+          "keywords": {
+            "en": [
+              "rocket",
+              "fast",
+              "fire"
+            ],
+            "pt-BR": [
+              "foguete",
+              "rápido",
+              "fogo"
+            ]
+          },
+          "emojis": [
+            "🚀",
+            "🔥"
+          ]
+        },
+        {
+          "id": "spiritual",
+          "file": "Spiritual.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Spiritual",
+            "pt-BR": "Espiritual"
+          },
+          "keywords": {
+            "en": [
+              "panda",
+              "sunglasses",
+              "chill"
+            ],
+            "pt-BR": [
+              "panda",
+              "óculos escuros",
+              "tranquilo"
+            ]
+          },
+          "emojis": [
+            "🐼",
+            "😎"
+          ]
+        },
+        {
+          "id": "starry",
+          "file": "Starry.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Starry",
+            "pt-BR": "Estrelado"
+          },
+          "keywords": {
+            "en": [
+              "one eye",
+              "monster",
+              "surprised"
+            ],
+            "pt-BR": [
+              "um olho",
+              "monstro",
+              "surpreso"
+            ]
+          },
+          "emojis": [
+            "👁️",
+            "😮"
+          ]
+        },
+        {
+          "id": "sunny",
+          "file": "Sunny.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sunny",
+            "pt-BR": "Ensolarado"
+          },
+          "keywords": {
+            "en": [
+              "sunflower",
+              "sun",
+              "flower"
+            ],
+            "pt-BR": [
+              "girassol",
+              "sol",
+              "flor"
+            ]
+          },
+          "emojis": [
+            "🌻",
+            "☀️"
+          ]
+        },
+        {
+          "id": "sweet",
+          "file": "Sweet.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sweet",
+            "pt-BR": "Docinho"
+          },
+          "keywords": {
+            "en": [
+              "candy",
+              "peppermint",
+              "sweet"
+            ],
+            "pt-BR": [
+              "bala",
+              "hortelã",
+              "doce"
+            ]
+          },
+          "emojis": [
+            "🍬"
+          ]
+        },
+        {
+          "id": "t-rex",
+          "file": "T-Rex.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "T-Rex",
+            "pt-BR": "T-Rex"
+          },
+          "keywords": {
+            "en": [
+              "dinosaur",
+              "teeth",
+              "roar"
+            ],
+            "pt-BR": [
+              "dinossauro",
+              "dentes",
+              "rugido"
+            ]
+          },
+          "emojis": [
+            "🦖"
+          ]
+        },
+        {
+          "id": "wolfie",
+          "file": "Wolfie.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Wolfie",
+            "pt-BR": "Lobinho"
+          },
+          "keywords": {
+            "en": [
+              "wolf",
+              "howl",
+              "sly"
+            ],
+            "pt-BR": [
+              "lobo",
+              "uivo",
+              "esperto"
+            ]
+          },
+          "emojis": [
+            "🐺"
+          ]
+        },
+        {
+          "id": "177",
+          "file": "177.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "177",
+            "pt-BR": "177"
+          },
+          "keywords": {
+            "en": [
+              "dinosaur",
+              "teeth",
+              "bite"
+            ],
+            "pt-BR": [
+              "dinossauro",
+              "dentes",
+              "morder"
+            ]
+          },
+          "emojis": [
+            "🦖",
+            "😁"
+          ]
+        },
+        {
+          "id": "249",
+          "file": "249.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "249",
+            "pt-BR": "249"
+          },
+          "keywords": {
+            "en": [
+              "eye",
+              "sign",
+              "mystery"
+            ],
+            "pt-BR": [
+              "olho",
+              "placa",
+              "mistério"
+            ]
+          },
+          "emojis": [
+            "👁️",
+            "🔷"
+          ]
+        },
+        {
+          "id": "241",
+          "file": "241.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "241",
+            "pt-BR": "241"
+          },
+          "keywords": {
+            "en": [
+              "hand",
+              "eye",
+              "protection"
+            ],
+            "pt-BR": [
+              "mão",
+              "olho",
+              "proteção"
+            ]
+          },
+          "emojis": [
+            "🪬",
+            "✋"
+          ]
+        },
+        {
+          "id": "219",
+          "file": "219.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "219",
+            "pt-BR": "219"
+          },
+          "keywords": {
+            "en": [
+              "fangs",
+              "teeth",
+              "grin"
+            ],
+            "pt-BR": [
+              "presas",
+              "dentes",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "🧛",
+            "😁"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "party-and-fantasy",
+      "name": {
+        "en": "Party, Zodiac & Fantasy",
+        "pt-BR": "Festas, signos e fantasia"
+      },
+      "icon": "festive",
+      "stickers": [
+        {
+          "id": "aries",
+          "file": "Aries.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Aries",
+            "pt-BR": "Áries"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "ram",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "carneiro",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♈",
+            "🐏"
+          ]
+        },
+        {
+          "id": "taurus",
+          "file": "Taurus.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Taurus",
+            "pt-BR": "Touro"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "bull",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "touro",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♉",
+            "🐂"
+          ]
+        },
+        {
+          "id": "gemini",
+          "file": "Gemini.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Gemini",
+            "pt-BR": "Gêmeos"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "twins",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "gêmeos",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♊"
+          ]
+        },
+        {
+          "id": "cancer",
+          "file": "Cancer.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cancer",
+            "pt-BR": "Câncer"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "crab",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "caranguejo",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♋",
+            "🦀"
+          ]
+        },
+        {
+          "id": "leo",
+          "file": "Leo.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Leo",
+            "pt-BR": "Leão"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "lion",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "leão",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♌",
+            "🦁"
+          ]
+        },
+        {
+          "id": "virgo",
+          "file": "Virgo.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Virgo",
+            "pt-BR": "Virgem"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "maiden",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "virgem",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♍"
+          ]
+        },
+        {
+          "id": "libra",
+          "file": "Libra.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Libra",
+            "pt-BR": "Libra"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "scales",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "balança",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♎",
+            "⚖️"
+          ]
+        },
+        {
+          "id": "scorpio",
+          "file": "Scorpio.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Scorpio",
+            "pt-BR": "Escorpião"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "scorpion",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "escorpião",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♏",
+            "🦂"
+          ]
+        },
+        {
+          "id": "sagittarius",
+          "file": "Sagittarius.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Sagittarius",
+            "pt-BR": "Sagitário"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "archer",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "arqueiro",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♐",
+            "🏹"
+          ]
+        },
+        {
+          "id": "capricorn",
+          "file": "Capricorn.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Capricorn",
+            "pt-BR": "Capricórnio"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "goat",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "cabra",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♑",
+            "🐐"
+          ]
+        },
+        {
+          "id": "aquarius",
+          "file": "Aquarius.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Aquarius",
+            "pt-BR": "Aquário"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "water",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "água",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♒",
+            "🏺"
+          ]
+        },
+        {
+          "id": "pisces",
+          "file": "Pisces.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Pisces",
+            "pt-BR": "Peixes"
+          },
+          "keywords": {
+            "en": [
+              "zodiac",
+              "fish",
+              "horoscope"
+            ],
+            "pt-BR": [
+              "signo",
+              "peixe",
+              "horóscopo"
+            ]
+          },
+          "emojis": [
+            "♓",
+            "🐟"
+          ]
+        },
+        {
+          "id": "santa",
+          "file": "Santa.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Santa",
+            "pt-BR": "Papai Noel"
+          },
+          "keywords": {
+            "en": [
+              "christmas",
+              "santa",
+              "ho ho ho"
+            ],
+            "pt-BR": [
+              "natal",
+              "papai noel",
+              "ho ho ho"
+            ]
+          },
+          "emojis": [
+            "🎅",
+            "🎄"
+          ]
+        },
+        {
+          "id": "festive",
+          "file": "Festive.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Festive",
+            "pt-BR": "Festivo"
+          },
+          "keywords": {
+            "en": [
+              "christmas",
+              "santa hat",
+              "beard"
+            ],
+            "pt-BR": [
+              "natal",
+              "gorro",
+              "barba"
+            ]
+          },
+          "emojis": [
+            "🎅",
+            "🎁"
+          ]
+        },
+        {
+          "id": "frazzled",
+          "file": "Frazzled.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Frazzled",
+            "pt-BR": "Estressado"
+          },
+          "keywords": {
+            "en": [
+              "christmas",
+              "tired",
+              "santa"
+            ],
+            "pt-BR": [
+              "natal",
+              "cansado",
+              "papai noel"
+            ]
+          },
+          "emojis": [
+            "🎅",
+            "😩"
+          ]
+        },
+        {
+          "id": "92",
+          "file": "92.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "92",
+            "pt-BR": "92"
+          },
+          "keywords": {
+            "en": [
+              "christmas",
+              "santa",
+              "sunglasses"
+            ],
+            "pt-BR": [
+              "natal",
+              "papai noel",
+              "óculos"
+            ]
+          },
+          "emojis": [
+            "🎅",
+            "😎"
+          ]
+        },
+        {
+          "id": "183",
+          "file": "183.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "183",
+            "pt-BR": "183"
+          },
+          "keywords": {
+            "en": [
+              "winter",
+              "beanie",
+              "cold"
+            ],
+            "pt-BR": [
+              "inverno",
+              "touca",
+              "frio"
+            ]
+          },
+          "emojis": [
+            "❄️",
+            "🧶"
+          ]
+        },
+        {
+          "id": "31",
+          "file": "31.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "31",
+            "pt-BR": "31"
+          },
+          "keywords": {
+            "en": [
+              "snowman",
+              "winter",
+              "scarf"
+            ],
+            "pt-BR": [
+              "boneco de neve",
+              "inverno",
+              "cachecol"
+            ]
+          },
+          "emojis": [
+            "☃️",
+            "❄️"
+          ]
+        },
+        {
+          "id": "151",
+          "file": "151.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "151",
+            "pt-BR": "151"
+          },
+          "keywords": {
+            "en": [
+              "scarf",
+              "beanie",
+              "winter"
+            ],
+            "pt-BR": [
+              "cachecol",
+              "touca",
+              "inverno"
+            ]
+          },
+          "emojis": [
+            "🧣",
+            "😊"
+          ]
+        },
+        {
+          "id": "157",
+          "file": "157.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "157",
+            "pt-BR": "157"
+          },
+          "keywords": {
+            "en": [
+              "new year",
+              "2026",
+              "party"
+            ],
+            "pt-BR": [
+              "ano-novo",
+              "2026",
+              "festa"
+            ]
+          },
+          "emojis": [
+            "🎆",
+            "🥳"
+          ]
+        },
+        {
+          "id": "156",
+          "file": "156.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "156",
+            "pt-BR": "156"
+          },
+          "keywords": {
+            "en": [
+              "carnival",
+              "mask",
+              "party"
+            ],
+            "pt-BR": [
+              "carnaval",
+              "máscara",
+              "festa"
+            ]
+          },
+          "emojis": [
+            "🎭",
+            "🎉"
+          ]
+        },
+        {
+          "id": "127",
+          "file": "127.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "127",
+            "pt-BR": "127"
+          },
+          "keywords": {
+            "en": [
+              "carnival",
+              "headdress",
+              "feathers"
+            ],
+            "pt-BR": [
+              "carnaval",
+              "fantasia",
+              "plumas"
+            ]
+          },
+          "emojis": [
+            "🪶",
+            "✨"
+          ]
+        },
+        {
+          "id": "carnavalesco",
+          "file": "Carnavalesco.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Reveler",
+            "pt-BR": "Carnavalesco"
+          },
+          "keywords": {
+            "en": [
+              "carnival",
+              "sailor",
+              "samba"
+            ],
+            "pt-BR": [
+              "carnaval",
+              "marinheiro",
+              "samba"
+            ]
+          },
+          "emojis": [
+            "🎉",
+            "⚓"
+          ]
+        },
+        {
+          "id": "49",
+          "file": "49.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "49",
+            "pt-BR": "49"
+          },
+          "keywords": {
+            "en": [
+              "party hat",
+              "birthday",
+              "celebrate"
+            ],
+            "pt-BR": [
+              "chapéu de festa",
+              "aniversário",
+              "comemorar"
+            ]
+          },
+          "emojis": [
+            "🥳",
+            "🎉"
+          ]
+        },
+        {
+          "id": "joyful-party",
+          "file": "Joyful (2).webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Joyful Party",
+            "pt-BR": "Festa alegre"
+          },
+          "keywords": {
+            "en": [
+              "party hat",
+              "star",
+              "celebrate"
+            ],
+            "pt-BR": [
+              "chapéu de festa",
+              "estrela",
+              "comemorar"
+            ]
+          },
+          "emojis": [
+            "🥳",
+            "⭐"
+          ]
+        },
+        {
+          "id": "blossom",
+          "file": "Joyful (3).webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Blossom",
+            "pt-BR": "Florzinha"
+          },
+          "keywords": {
+            "en": [
+              "flower",
+              "pink",
+              "spring"
+            ],
+            "pt-BR": [
+              "flor",
+              "rosa",
+              "primavera"
+            ]
+          },
+          "emojis": [
+            "🌸",
+            "😊"
+          ]
+        },
+        {
+          "id": "cupid",
+          "file": "Cupid.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Cupid",
+            "pt-BR": "Cupido"
+          },
+          "keywords": {
+            "en": [
+              "valentine",
+              "arrow",
+              "love"
+            ],
+            "pt-BR": [
+              "dia dos namorados",
+              "flecha",
+              "amor"
+            ]
+          },
+          "emojis": [
+            "💘"
+          ]
+        },
+        {
+          "id": "happy-clown",
+          "file": "Happy Clown.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Happy Clown",
+            "pt-BR": "Palhaço feliz"
+          },
+          "keywords": {
+            "en": [
+              "clown",
+              "circus",
+              "fun"
+            ],
+            "pt-BR": [
+              "palhaço",
+              "circo",
+              "diversão"
+            ]
+          },
+          "emojis": [
+            "🤡"
+          ]
+        },
+        {
+          "id": "scary-clown",
+          "file": "Scary Clown.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Scary Clown",
+            "pt-BR": "Palhaço assustador"
+          },
+          "keywords": {
+            "en": [
+              "clown",
+              "halloween",
+              "creepy"
+            ],
+            "pt-BR": [
+              "palhaço",
+              "halloween",
+              "medo"
+            ]
+          },
+          "emojis": [
+            "🤡",
+            "😱"
+          ]
+        },
+        {
+          "id": "zombie",
+          "file": "Zombie.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Zombie",
+            "pt-BR": "Zumbi"
+          },
+          "keywords": {
+            "en": [
+              "halloween",
+              "zombie",
+              "undead"
+            ],
+            "pt-BR": [
+              "halloween",
+              "zumbi",
+              "morto-vivo"
+            ]
+          },
+          "emojis": [
+            "🧟"
+          ]
+        },
+        {
+          "id": "zombified",
+          "file": "Zombified.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Zombified",
+            "pt-BR": "Zumbificado"
+          },
+          "keywords": {
+            "en": [
+              "zombie",
+              "tired",
+              "stitches"
+            ],
+            "pt-BR": [
+              "zumbi",
+              "cansado",
+              "pontos"
+            ]
+          },
+          "emojis": [
+            "🧟",
+            "😵"
+          ]
+        },
+        {
+          "id": "126",
+          "file": "126.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "126",
+            "pt-BR": "126"
+          },
+          "keywords": {
+            "en": [
+              "witch",
+              "hat",
+              "halloween"
+            ],
+            "pt-BR": [
+              "bruxa",
+              "chapéu",
+              "halloween"
+            ]
+          },
+          "emojis": [
+            "🧙‍♀️",
+            "🎃"
+          ]
+        },
+        {
+          "id": "120",
+          "file": "120.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "120",
+            "pt-BR": "120"
+          },
+          "keywords": {
+            "en": [
+              "wizard",
+              "hat",
+              "magic"
+            ],
+            "pt-BR": [
+              "mago",
+              "chapéu",
+              "magia"
+            ]
+          },
+          "emojis": [
+            "🧙",
+            "✨"
+          ]
+        },
+        {
+          "id": "monster",
+          "file": "Monster.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Monster",
+            "pt-BR": "Monstro"
+          },
+          "keywords": {
+            "en": [
+              "one eye",
+              "cyclops",
+              "monster"
+            ],
+            "pt-BR": [
+              "um olho",
+              "ciclope",
+              "monstro"
+            ]
+          },
+          "emojis": [
+            "👾",
+            "👁️"
+          ]
+        },
+        {
+          "id": "mystical",
+          "file": "Mystical.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Mystical",
+            "pt-BR": "Místico"
+          },
+          "keywords": {
+            "en": [
+              "hood",
+              "elf",
+              "magic"
+            ],
+            "pt-BR": [
+              "capuz",
+              "elfo",
+              "magia"
+            ]
+          },
+          "emojis": [
+            "🧝",
+            "✨"
+          ]
+        },
+        {
+          "id": "61",
+          "file": "61.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "61",
+            "pt-BR": "61"
+          },
+          "keywords": {
+            "en": [
+              "viking",
+              "helmet",
+              "map pin"
+            ],
+            "pt-BR": [
+              "viking",
+              "capacete",
+              "pino do mapa"
+            ]
+          },
+          "emojis": [
+            "⚔️",
+            "📍"
+          ]
+        },
+        {
+          "id": "160",
+          "file": "160.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "160",
+            "pt-BR": "160"
+          },
+          "keywords": {
+            "en": [
+              "viking",
+              "hammer",
+              "shield"
+            ],
+            "pt-BR": [
+              "viking",
+              "martelo",
+              "escudo"
+            ]
+          },
+          "emojis": [
+            "🛡️",
+            "🔨"
+          ]
+        },
+        {
+          "id": "mighty",
+          "file": "Mighty.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Mighty",
+            "pt-BR": "Poderoso"
+          },
+          "keywords": {
+            "en": [
+              "viking",
+              "mustache",
+              "horns"
+            ],
+            "pt-BR": [
+              "viking",
+              "bigode",
+              "chifres"
+            ]
+          },
+          "emojis": [
+            "💪",
+            "⚔️"
+          ]
+        },
+        {
+          "id": "angelic",
+          "file": "Angelic.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Angelic",
+            "pt-BR": "Angelical"
+          },
+          "keywords": {
+            "en": [
+              "angel",
+              "halo",
+              "wings"
+            ],
+            "pt-BR": [
+              "anjo",
+              "auréola",
+              "asas"
+            ]
+          },
+          "emojis": [
+            "😇"
+          ]
+        },
+        {
+          "id": "devious",
+          "file": "Devious.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Devious",
+            "pt-BR": "Diabinho"
+          },
+          "keywords": {
+            "en": [
+              "devil",
+              "horns",
+              "grin"
+            ],
+            "pt-BR": [
+              "diabo",
+              "chifres",
+              "sorriso"
+            ]
+          },
+          "emojis": [
+            "😈"
+          ]
+        },
+        {
+          "id": "diabolical",
+          "file": "Diabolical.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Diabolical",
+            "pt-BR": "Diabólico"
+          },
+          "keywords": {
+            "en": [
+              "villain",
+              "monocle",
+              "evil"
+            ],
+            "pt-BR": [
+              "vilão",
+              "monóculo",
+              "malvado"
+            ]
+          },
+          "emojis": [
+            "🦹",
+            "😠"
+          ]
+        },
+        {
+          "id": "254",
+          "file": "254.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "254",
+            "pt-BR": "254"
+          },
+          "keywords": {
+            "en": [
+              "top hat",
+              "tea",
+              "wonderland"
+            ],
+            "pt-BR": [
+              "cartola",
+              "chá",
+              "país das maravilhas"
+            ]
+          },
+          "emojis": [
+            "🎩",
+            "☕"
+          ]
+        },
+        {
+          "id": "80",
+          "file": "80.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "80",
+            "pt-BR": "80"
+          },
+          "keywords": {
+            "en": [
+              "jester",
+              "hat",
+              "laugh"
+            ],
+            "pt-BR": [
+              "bobo da corte",
+              "chapéu",
+              "risada"
+            ]
+          },
+          "emojis": [
+            "🃏",
+            "😄"
+          ]
+        },
+        {
+          "id": "albert",
+          "file": "Albert.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Albert",
+            "pt-BR": "Albert"
+          },
+          "keywords": {
+            "en": [
+              "genius",
+              "scientist",
+              "tongue"
+            ],
+            "pt-BR": [
+              "gênio",
+              "cientista",
+              "língua"
+            ]
+          },
+          "emojis": [
+            "🧑‍🔬",
+            "😛"
+          ]
+        },
+        {
+          "id": "belgie",
+          "file": "België.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "België",
+            "pt-BR": "Bélgica"
+          },
+          "keywords": {
+            "en": [
+              "belgium",
+              "horn",
+              "fan"
+            ],
+            "pt-BR": [
+              "bélgica",
+              "corneta",
+              "torcida"
+            ]
+          },
+          "emojis": [
+            "🇧🇪",
+            "📯"
+          ]
+        },
+        {
+          "id": "neil",
+          "file": "Neil.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Neil",
+            "pt-BR": "Neil"
+          },
+          "keywords": {
+            "en": [
+              "astronaut",
+              "space",
+              "helmet"
+            ],
+            "pt-BR": [
+              "astronauta",
+              "espaço",
+              "capacete"
+            ]
+          },
+          "emojis": [
+            "🧑‍🚀",
+            "🚀"
+          ]
+        },
+        {
+          "id": "neil-blue",
+          "file": "Neil (2).webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Neil (Blue)",
+            "pt-BR": "Neil (azul)"
+          },
+          "keywords": {
+            "en": [
+              "astronaut",
+              "space",
+              "moon"
+            ],
+            "pt-BR": [
+              "astronauta",
+              "espaço",
+              "lua"
+            ]
+          },
+          "emojis": [
+            "🧑‍🚀",
+            "🌙"
+          ]
+        },
+        {
+          "id": "234",
+          "file": "234.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "234",
+            "pt-BR": "234"
+          },
+          "keywords": {
+            "en": [
+              "guard",
+              "london",
+              "hat"
+            ],
+            "pt-BR": [
+              "guarda",
+              "londres",
+              "chapéu"
+            ]
+          },
+          "emojis": [
+            "💂"
+          ]
+        },
+        {
+          "id": "wonder-wazer",
+          "file": "Wonder Wazer.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Wonder Wazer",
+            "pt-BR": "Mulher-Wazer"
+          },
+          "keywords": {
+            "en": [
+              "hero",
+              "tiara",
+              "power"
+            ],
+            "pt-BR": [
+              "heroína",
+              "tiara",
+              "poder"
+            ]
+          },
+          "emojis": [
+            "🦸‍♀️",
+            "✨"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crossovers",
+      "name": {
+        "en": "Crossovers",
+        "pt-BR": "Participações especiais"
+      },
+      "icon": "batman",
+      "stickers": [
+        {
+          "id": "210",
+          "file": "210.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "210",
+            "pt-BR": "210"
+          },
+          "keywords": {
+            "en": [
+              "symbiote",
+              "teeth",
+              "villain"
+            ],
+            "pt-BR": [
+              "simbionte",
+              "dentes",
+              "vilão"
+            ]
+          },
+          "emojis": [
+            "🖤",
+            "😈"
+          ],
+          "note": "Marvel"
+        },
+        {
+          "id": "224",
+          "file": "224.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "224",
+            "pt-BR": "224"
+          },
+          "keywords": {
+            "en": [
+              "fraggle",
+              "puppet",
+              "happy"
+            ],
+            "pt-BR": [
+              "fraggle",
+              "boneco",
+              "feliz"
+            ]
+          },
+          "emojis": [
+            "😄"
+          ],
+          "note": "Fraggle Rock (character to confirm)"
+        },
+        {
+          "id": "233",
+          "file": "233.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "233",
+            "pt-BR": "233"
+          },
+          "keywords": {
+            "en": [
+              "fraggle",
+              "glasses",
+              "hair"
+            ],
+            "pt-BR": [
+              "fraggle",
+              "óculos",
+              "cabelo"
+            ]
+          },
+          "emojis": [
+            "😄"
+          ],
+          "note": "Fraggle Rock? (to confirm)"
+        },
+        {
+          "id": "243",
+          "file": "243.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "243",
+            "pt-BR": "243"
+          },
+          "keywords": {
+            "en": [
+              "fraggle",
+              "puppet",
+              "nervous"
+            ],
+            "pt-BR": [
+              "fraggle",
+              "boneco",
+              "nervoso"
+            ]
+          },
+          "emojis": [
+            "😬"
+          ],
+          "note": "Fraggle Rock (character to confirm)"
+        },
+        {
+          "id": "253",
+          "file": "253.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "253",
+            "pt-BR": "253"
+          },
+          "keywords": {
+            "en": [
+              "fraggle",
+              "hat",
+              "laugh"
+            ],
+            "pt-BR": [
+              "fraggle",
+              "chapéu",
+              "risada"
+            ]
+          },
+          "emojis": [
+            "😄"
+          ],
+          "note": "Fraggle Rock (character to confirm)"
+        },
+        {
+          "id": "63",
+          "file": "63.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "63",
+            "pt-BR": "63"
+          },
+          "keywords": {
+            "en": [
+              "minion",
+              "one eye",
+              "banana"
+            ],
+            "pt-BR": [
+              "minion",
+              "um olho",
+              "banana"
+            ]
+          },
+          "emojis": [
+            "🍌",
+            "😊"
+          ],
+          "note": "Despicable Me (name to confirm)"
+        },
+        {
+          "id": "64",
+          "file": "64.webp",
+          "nameSource": "number",
+          "name": {
+            "en": "64",
+            "pt-BR": "64"
+          },
+          "keywords": {
+            "en": [
+              "minion",
+              "one eye",
+              "honeycomb"
+            ],
+            "pt-BR": [
+              "minion",
+              "um olho",
+              "favo"
+            ]
+          },
+          "emojis": [
+            "🍌",
+            "😐"
+          ],
+          "note": "Despicable Me (name to confirm)"
+        },
+        {
+          "id": "ed",
+          "file": "Ed - Loyal.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Ed - Loyal",
+            "pt-BR": "Ed - Leal"
+          },
+          "keywords": {
+            "en": [
+              "minion",
+              "goggles",
+              "loyal"
+            ],
+            "pt-BR": [
+              "minion",
+              "óculos",
+              "leal"
+            ]
+          },
+          "emojis": [
+            "🍌",
+            "😮"
+          ],
+          "note": "Despicable Me"
+        },
+        {
+          "id": "henry",
+          "file": "Henry - Courageous.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Henry - Courageous",
+            "pt-BR": "Henry - Corajoso"
+          },
+          "keywords": {
+            "en": [
+              "minion",
+              "goggles",
+              "brave"
+            ],
+            "pt-BR": [
+              "minion",
+              "óculos",
+              "corajoso"
+            ]
+          },
+          "emojis": [
+            "🍌",
+            "😄"
+          ],
+          "note": "Despicable Me"
+        },
+        {
+          "id": "james",
+          "file": "James - Artistic.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "James - Artistic",
+            "pt-BR": "James - Artista"
+          },
+          "keywords": {
+            "en": [
+              "minion",
+              "art",
+              "paint"
+            ],
+            "pt-BR": [
+              "minion",
+              "arte",
+              "tinta"
+            ]
+          },
+          "emojis": [
+            "🍌",
+            "🎨"
+          ],
+          "note": "Despicable Me"
+        },
+        {
+          "id": "alliance",
+          "file": "Alliance.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Alliance",
+            "pt-BR": "Aliança"
+          },
+          "keywords": {
+            "en": [
+              "helmet",
+              "armor",
+              "warrior"
+            ],
+            "pt-BR": [
+              "capacete",
+              "armadura",
+              "guerreiro"
+            ]
+          },
+          "emojis": [
+            "🪖",
+            "⚔️"
+          ],
+          "note": "Halo / Star Wars? (to confirm)"
+        },
+        {
+          "id": "batman",
+          "file": "Batman.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Batman",
+            "pt-BR": "Batman"
+          },
+          "keywords": {
+            "en": [
+              "bat",
+              "hero",
+              "gotham"
+            ],
+            "pt-BR": [
+              "morcego",
+              "herói",
+              "gotham"
+            ]
+          },
+          "emojis": [
+            "🦇"
+          ],
+          "note": "DC"
+        },
+        {
+          "id": "riddler",
+          "file": "Riddler.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Riddler",
+            "pt-BR": "Charada"
+          },
+          "keywords": {
+            "en": [
+              "question mark",
+              "villain",
+              "mask"
+            ],
+            "pt-BR": [
+              "interrogação",
+              "vilão",
+              "máscara"
+            ]
+          },
+          "emojis": [
+            "❓",
+            "🦹"
+          ],
+          "note": "DC"
+        },
+        {
+          "id": "deadpool",
+          "file": "Deadpool.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Deadpool",
+            "pt-BR": "Deadpool"
+          },
+          "keywords": {
+            "en": [
+              "mask",
+              "antihero",
+              "red"
+            ],
+            "pt-BR": [
+              "máscara",
+              "anti-herói",
+              "vermelho"
+            ]
+          },
+          "emojis": [
+            "🦸",
+            "❤️"
+          ],
+          "note": "Marvel"
+        },
+        {
+          "id": "brave",
+          "file": "Brave.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Brave",
+            "pt-BR": "Valente"
+          },
+          "keywords": {
+            "en": [
+              "sponge",
+              "pirate",
+              "eye patch"
+            ],
+            "pt-BR": [
+              "esponja",
+              "pirata",
+              "tapa-olho"
+            ]
+          },
+          "emojis": [
+            "🧽",
+            "🏴‍☠️"
+          ],
+          "note": "SpongeBob"
+        },
+        {
+          "id": "chase",
+          "file": "Chase.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Chase",
+            "pt-BR": "Chase"
+          },
+          "keywords": {
+            "en": [
+              "police",
+              "dog",
+              "pup"
+            ],
+            "pt-BR": [
+              "polícia",
+              "cachorro",
+              "filhote"
+            ]
+          },
+          "emojis": [
+            "🐶",
+            "👮"
+          ],
+          "note": "Paw Patrol"
+        },
+        {
+          "id": "marshall",
+          "file": "Marshall.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Marshall",
+            "pt-BR": "Marshall"
+          },
+          "keywords": {
+            "en": [
+              "firefighter",
+              "dog",
+              "pup"
+            ],
+            "pt-BR": [
+              "bombeiro",
+              "cachorro",
+              "filhote"
+            ]
+          },
+          "emojis": [
+            "🐶",
+            "🚒"
+          ],
+          "note": "Paw Patrol"
+        },
+        {
+          "id": "skye",
+          "file": "Skye.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Skye",
+            "pt-BR": "Skye"
+          },
+          "keywords": {
+            "en": [
+              "pilot",
+              "dog",
+              "pup"
+            ],
+            "pt-BR": [
+              "piloto",
+              "cachorro",
+              "filhote"
+            ]
+          },
+          "emojis": [
+            "🐶",
+            "🚁"
+          ],
+          "note": "Paw Patrol"
+        },
+        {
+          "id": "energetic",
+          "file": "Energetic.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Energetic",
+            "pt-BR": "Energético"
+          },
+          "keywords": {
+            "en": [
+              "hedgehog",
+              "fast",
+              "blue"
+            ],
+            "pt-BR": [
+              "ouriço",
+              "rápido",
+              "azul"
+            ]
+          },
+          "emojis": [
+            "🦔",
+            "💨"
+          ],
+          "note": "Sonic (Sega)"
+        },
+        {
+          "id": "doozer",
+          "file": "Doozer.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Doozer",
+            "pt-BR": "Doozer"
+          },
+          "keywords": {
+            "en": [
+              "builder",
+              "helmet",
+              "construction"
+            ],
+            "pt-BR": [
+              "construtor",
+              "capacete",
+              "obra"
+            ]
+          },
+          "emojis": [
+            "👷",
+            "🏗️"
+          ],
+          "note": "Fraggle Rock"
+        },
+        {
+          "id": "red",
+          "file": "Red.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Red",
+            "pt-BR": "Red"
+          },
+          "keywords": {
+            "en": [
+              "fraggle",
+              "red hair",
+              "laugh"
+            ],
+            "pt-BR": [
+              "fraggle",
+              "cabelo vermelho",
+              "risada"
+            ]
+          },
+          "emojis": [
+            "😄"
+          ],
+          "note": "Fraggle Rock"
+        },
+        {
+          "id": "horde",
+          "file": "Horde.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Horde",
+            "pt-BR": "Horda"
+          },
+          "keywords": {
+            "en": [
+              "orc",
+              "tusks",
+              "warrior"
+            ],
+            "pt-BR": [
+              "orc",
+              "presas",
+              "guerreiro"
+            ]
+          },
+          "emojis": [
+            "👹",
+            "⚔️"
+          ],
+          "note": "World of Warcraft"
+        },
+        {
+          "id": "master-chief",
+          "file": "The Master Chief.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "The Master Chief",
+            "pt-BR": "Master Chief"
+          },
+          "keywords": {
+            "en": [
+              "spartan",
+              "helmet",
+              "soldier"
+            ],
+            "pt-BR": [
+              "spartan",
+              "capacete",
+              "soldado"
+            ]
+          },
+          "emojis": [
+            "🪖",
+            "🎮"
+          ],
+          "note": "Halo"
+        },
+        {
+          "id": "escharum",
+          "file": "Escharum.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Escharum",
+            "pt-BR": "Escharum"
+          },
+          "keywords": {
+            "en": [
+              "brute",
+              "armor",
+              "villain"
+            ],
+            "pt-BR": [
+              "brutamontes",
+              "armadura",
+              "vilão"
+            ]
+          },
+          "emojis": [
+            "👹",
+            "🎮"
+          ],
+          "note": "Halo"
+        },
+        {
+          "id": "jega",
+          "file": "Jega.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Jega",
+            "pt-BR": "Jega"
+          },
+          "keywords": {
+            "en": [
+              "elite",
+              "armor",
+              "horns"
+            ],
+            "pt-BR": [
+              "elite",
+              "armadura",
+              "chifres"
+            ]
+          },
+          "emojis": [
+            "👹",
+            "🎮"
+          ],
+          "note": "Halo"
+        },
+        {
+          "id": "laurette",
+          "file": "Laurette.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Laurette",
+            "pt-BR": "Laurette"
+          },
+          "keywords": {
+            "en": [
+              "spartan",
+              "helmet",
+              "visor"
+            ],
+            "pt-BR": [
+              "spartan",
+              "capacete",
+              "viseira"
+            ]
+          },
+          "emojis": [
+            "🪖",
+            "🎮"
+          ],
+          "note": "Halo"
+        },
+        {
+          "id": "void",
+          "file": "Void.webp",
+          "nameSource": "file",
+          "name": {
+            "en": "Void",
+            "pt-BR": "Vazio"
+          },
+          "keywords": {
+            "en": [
+              "elf",
+              "gem",
+              "villain"
+            ],
+            "pt-BR": [
+              "elfo",
+              "joia",
+              "vilão"
+            ]
+          },
+          "emojis": [
+            "😈",
+            "💎"
+          ],
+          "note": "Unknown franchise (to confirm)"
+        }
+      ]
+    }
+  ]
+}
