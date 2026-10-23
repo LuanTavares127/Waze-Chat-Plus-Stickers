@@ -1,0 +1,382 @@
+{
+    "name": "Festa, zodíac i fantasia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "ninot de neu",
+                "hivern",
+                "bufanda"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "barret de festa",
+                "aniversari",
+                "celebrar"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "víking",
+                "casc",
+                "xinxeta de mapa"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "bufó",
+                "barret",
+                "riure"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "nadal",
+                "pare Noel",
+                "ulleres de sol"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "mag",
+                "barret",
+                "màgia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "bruixa",
+                "barret",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "carnestoltes",
+                "tocat",
+                "plomes"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "bufanda",
+                "gorra de llana",
+                "hivern"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "carnestoltes",
+                "màscara",
+                "festa"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "any nou",
+                "2026",
+                "festa"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "víking",
+                "martell",
+                "escut"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "hivern",
+                "gorra de llana",
+                "fred"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "guàrdia",
+                "londres",
+                "barret"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "barret de copa",
+                "te",
+                "país de les meravelles"
+            ]
+        },
+        "aries": {
+            "name": "Àries",
+            "keywords": [
+                "zodíac",
+                "moltó",
+                "horòscop"
+            ]
+        },
+        "taurus": {
+            "name": "Taure",
+            "keywords": [
+                "zodíac",
+                "toro",
+                "horòscop"
+            ]
+        },
+        "gemini": {
+            "name": "Bessons",
+            "keywords": [
+                "zodíac",
+                "bessons",
+                "horòscop"
+            ]
+        },
+        "cancer": {
+            "name": "Cranc",
+            "keywords": [
+                "zodíac",
+                "cranc",
+                "horòscop"
+            ]
+        },
+        "leo": {
+            "name": "Lleó",
+            "keywords": [
+                "zodíac",
+                "lleó",
+                "horòscop"
+            ]
+        },
+        "virgo": {
+            "name": "Verge",
+            "keywords": [
+                "zodíac",
+                "donzella",
+                "horòscop"
+            ]
+        },
+        "libra": {
+            "name": "Balança",
+            "keywords": [
+                "zodíac",
+                "balança",
+                "horòscop"
+            ]
+        },
+        "scorpio": {
+            "name": "Escorpí",
+            "keywords": [
+                "zodíac",
+                "escorpí",
+                "horòscop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Sagitari",
+            "keywords": [
+                "zodíac",
+                "arquer",
+                "horòscop"
+            ]
+        },
+        "capricorn": {
+            "name": "Capricorn",
+            "keywords": [
+                "zodíac",
+                "cabra",
+                "horòscop"
+            ]
+        },
+        "aquarius": {
+            "name": "Aquari",
+            "keywords": [
+                "zodíac",
+                "aigua",
+                "horòscop"
+            ]
+        },
+        "pisces": {
+            "name": "Peixos",
+            "keywords": [
+                "zodíac",
+                "peix",
+                "horòscop"
+            ]
+        },
+        "santa": {
+            "name": "Pare Noel",
+            "keywords": [
+                "nadal",
+                "pare Noel",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Festiu",
+            "keywords": [
+                "nadal",
+                "gorro de Pare Noel",
+                "barba"
+            ]
+        },
+        "frazzled": {
+            "name": "Esgotat",
+            "keywords": [
+                "nadal",
+                "cansat",
+                "pare Noel"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Gresca",
+            "keywords": [
+                "carnestoltes",
+                "mariner",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Festa alegre",
+            "keywords": [
+                "barret de festa",
+                "estrella",
+                "celebrar"
+            ]
+        },
+        "blossom": {
+            "name": "Floració",
+            "keywords": [
+                "flor",
+                "rosa",
+                "primavera"
+            ]
+        },
+        "cupid": {
+            "name": "Cupido",
+            "keywords": [
+                "sant Valentí",
+                "fletxa",
+                "amor"
+            ]
+        },
+        "happy-clown": {
+            "name": "Pallasso content",
+            "keywords": [
+                "pallasso",
+                "circ",
+                "diversió"
+            ]
+        },
+        "scary-clown": {
+            "name": "Pallasso terrorífic",
+            "keywords": [
+                "pallasso",
+                "halloween",
+                "esgarrifós"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "halloween",
+                "zombi",
+                "no-mort"
+            ]
+        },
+        "zombified": {
+            "name": "Zombificat",
+            "keywords": [
+                "zombi",
+                "cansat",
+                "punts de sutura"
+            ]
+        },
+        "monster": {
+            "name": "Monstre",
+            "keywords": [
+                "un ull",
+                "ciclop",
+                "monstre"
+            ]
+        },
+        "mystical": {
+            "name": "Místic",
+            "keywords": [
+                "caputxa",
+                "elf",
+                "màgia"
+            ]
+        },
+        "mighty": {
+            "name": "Poderós",
+            "keywords": [
+                "víking",
+                "bigoti",
+                "banyes"
+            ]
+        },
+        "angelic": {
+            "name": "Angelical",
+            "keywords": [
+                "àngel",
+                "aurèola",
+                "ales"
+            ]
+        },
+        "devious": {
+            "name": "Astut",
+            "keywords": [
+                "dimoni",
+                "banyes",
+                "somriure ample"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabòlic",
+            "keywords": [
+                "dolent",
+                "monocle",
+                "malvat"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "geni",
+                "científic",
+                "llengua"
+            ]
+        },
+        "belgie": {
+            "name": "Bèlgica",
+            "keywords": [
+                "bèlgica",
+                "corn",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronauta",
+                "espai",
+                "casc"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (Blau)",
+            "keywords": [
+                "astronauta",
+                "espai",
+                "lluna"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "heroi",
+                "tiara",
+                "poder"
+            ]
+        }
+    }
+}

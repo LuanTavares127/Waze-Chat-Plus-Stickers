@@ -1,0 +1,358 @@
+{
+    "name": "Beestjes & Dingen",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "rots",
+                "steen",
+                "snel"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "beer",
+                "vissershoedje",
+                "glimlach"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capibara",
+                "vogel",
+                "chill"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "brein",
+                "slim",
+                "denken"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaurus",
+                "tanden",
+                "bijten"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "hoektanden",
+                "tanden",
+                "grijns"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "koe",
+                "boe",
+                "boerderij"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "hond",
+                "corgi",
+                "kroon"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "hond",
+                "corgi",
+                "knipoog"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "hond",
+                "corgi",
+                "kroon"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "draak",
+                "rood",
+                "monster"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "hand",
+                "oog",
+                "bescherming"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "oog",
+                "teken",
+                "mysterie"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "theepot",
+                "thee",
+                "appel"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "vogel",
+                "pet",
+                "praten"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "spel"
+            ]
+        },
+        "aware": {
+            "name": "Bewust",
+            "keywords": [
+                "regenboog",
+                "kalm",
+                "kleuren"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "speen",
+                "baby",
+                "schattig"
+            ]
+        },
+        "blobby": {
+            "name": "Klodderig",
+            "keywords": [
+                "klodder",
+                "bellen",
+                "sterren"
+            ]
+        },
+        "bright": {
+            "name": "Stralend",
+            "keywords": [
+                "ster",
+                "glans",
+                "regenboog"
+            ]
+        },
+        "calm": {
+            "name": "Kalm",
+            "keywords": [
+                "wolk",
+                "pet",
+                "lucht"
+            ]
+        },
+        "captivated": {
+            "name": "Gefascineerd",
+            "keywords": [
+                "camera",
+                "foto",
+                "plaatje"
+            ]
+        },
+        "cat": {
+            "name": "Kat",
+            "keywords": [
+                "kat",
+                "poesje",
+                "miauw"
+            ]
+        },
+        "cell": {
+            "name": "Cel",
+            "keywords": [
+                "cel",
+                "biologie",
+                "klodder"
+            ]
+        },
+        "centered": {
+            "name": "Gecentreerd",
+            "keywords": [
+                "stenen",
+                "balans",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmisch",
+            "keywords": [
+                "voelsprieten",
+                "alien",
+                "blij"
+            ]
+        },
+        "destemido": {
+            "name": "Onbevreesd",
+            "keywords": [
+                "cactus",
+                "plant",
+                "stoer"
+            ]
+        },
+        "dog": {
+            "name": "Hond",
+            "keywords": [
+                "hond",
+                "puppy",
+                "tong"
+            ]
+        },
+        "fancy": {
+            "name": "Chique",
+            "keywords": [
+                "taart",
+                "plak",
+                "kers"
+            ]
+        },
+        "flowing": {
+            "name": "Vloeiend",
+            "keywords": [
+                "water",
+                "druppel",
+                "regen"
+            ]
+        },
+        "hopeful": {
+            "name": "Hoopvol",
+            "keywords": [
+                "wolk",
+                "zon",
+                "kalm"
+            ]
+        },
+        "hungry": {
+            "name": "Hongerig",
+            "keywords": [
+                "hamburger",
+                "eten",
+                "lunch"
+            ]
+        },
+        "magical": {
+            "name": "Magisch",
+            "keywords": [
+                "eenhoorn",
+                "regenboog",
+                "magie"
+            ]
+        },
+        "magical-2": {
+            "name": "Magisch (2)",
+            "keywords": [
+                "magie",
+                "roze",
+                "beroemd"
+            ]
+        },
+        "open": {
+            "name": "Open",
+            "keywords": [
+                "berg",
+                "vlag",
+                "top"
+            ]
+        },
+        "playful": {
+            "name": "Speels",
+            "keywords": [
+                "dolfijn",
+                "zee",
+                "plezier"
+            ]
+        },
+        "prickly": {
+            "name": "Stekelig",
+            "keywords": [
+                "cactus",
+                "chagrijnig",
+                "stekelig"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "planeet",
+                "baan",
+                "ruimte"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "machine",
+                "techniek"
+            ]
+        },
+        "rocket": {
+            "name": "Raket",
+            "keywords": [
+                "raket",
+                "snel",
+                "vuur"
+            ]
+        },
+        "spiritual": {
+            "name": "Spiritueel",
+            "keywords": [
+                "panda",
+                "zonnebril",
+                "chill"
+            ]
+        },
+        "starry": {
+            "name": "Sterrig",
+            "keywords": [
+                "één oog",
+                "monster",
+                "verrast"
+            ]
+        },
+        "sunny": {
+            "name": "Zonnig",
+            "keywords": [
+                "zonnebloem",
+                "zon",
+                "bloem"
+            ]
+        },
+        "sweet": {
+            "name": "Lief",
+            "keywords": [
+                "snoep",
+                "pepermunt",
+                "zoet"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaurus",
+                "tanden",
+                "brullen"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "wolf",
+                "janken",
+                "sluw"
+            ]
+        }
+    }
+}

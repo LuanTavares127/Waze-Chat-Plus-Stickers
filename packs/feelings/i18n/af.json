@@ -1,0 +1,360 @@
+{
+    "name": "Gevoelens",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassiek",
+                "hallo",
+                "bly"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "traan",
+                "hartseer",
+                "slaapmus"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "leeg",
+                "neutraal",
+                "gewoon"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "liefde",
+                "hart",
+                "soet"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "ouer",
+                "baba",
+                "gesin"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "huil",
+                "ontsteld",
+                "wanhoop"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "siek",
+                "naarheid",
+                "krank"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "ongemaklik",
+                "ongemaklik",
+                "ug"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "opgewonde",
+                "jippie",
+                "vlerke"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "bly",
+                "lag",
+                "hoed"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "kwaad",
+                "geïrriteerd",
+                "frons"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "vraag",
+                "wat",
+                "twyfel"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "meditasie",
+                "kalm"
+            ]
+        },
+        "amazing": {
+            "name": "Wonderlik",
+            "keywords": [
+                "wow",
+                "sterretjie-oë",
+                "asems"
+            ]
+        },
+        "amused": {
+            "name": "Geamuseerd",
+            "keywords": [
+                "oë rol",
+                "maak nie saak nie",
+                "spottende glimlag"
+            ]
+        },
+        "antsy": {
+            "name": "Rusteloos",
+            "keywords": [
+                "ongeduldig",
+                "gestres",
+                "ug"
+            ]
+        },
+        "bored": {
+            "name": "Verveeld",
+            "keywords": [
+                "meh",
+                "vervelig",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Motorsiek",
+            "keywords": [
+                "siek",
+                "naarheid",
+                "reissiekte"
+            ]
+        },
+        "cheeky": {
+            "name": "Astrant",
+            "keywords": [
+                "knipoog",
+                "tong",
+                "grap"
+            ]
+        },
+        "depressed": {
+            "name": "Depressief",
+            "keywords": [
+                "hartseer",
+                "neerslagtig",
+                "blou"
+            ]
+        },
+        "exasperated": {
+            "name": "Uitgeput",
+            "keywords": [
+                "gatvol",
+                "sug",
+                "geïrriteerd"
+            ]
+        },
+        "flustered": {
+            "name": "Deurmekaar",
+            "keywords": [
+                "geskok",
+                "skree",
+                "o nee"
+            ]
+        },
+        "funny": {
+            "name": "Snaaks",
+            "keywords": [
+                "lag",
+                "lol",
+                "vreugdetrane"
+            ]
+        },
+        "furious": {
+            "name": "Briesend",
+            "keywords": [
+                "woede",
+                "vloek",
+                "kwaad"
+            ]
+        },
+        "grumpy": {
+            "name": "Nukkerig",
+            "keywords": [
+                "knorrig",
+                "geïrriteerd",
+                "oorfone"
+            ]
+        },
+        "happy": {
+            "name": "Bly",
+            "keywords": [
+                "vreugde",
+                "lag",
+                "glimlag"
+            ]
+        },
+        "hilarious": {
+            "name": "Skreeusnaaks",
+            "keywords": [
+                "lol",
+                "lag",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Nederig",
+            "keywords": [
+                "dankbaar",
+                "kalm",
+                "vlerke"
+            ]
+        },
+        "joyful": {
+            "name": "Vreugdevol",
+            "keywords": [
+                "lag",
+                "bly",
+                "foei tog"
+            ]
+        },
+        "judgmental": {
+            "name": "Veroordelend",
+            "keywords": [
+                "afkeur",
+                "frons",
+                "oordeel"
+            ]
+        },
+        "loved-up": {
+            "name": "Verlief",
+            "keywords": [
+                "verlief",
+                "hart-oë",
+                "verliefdheid"
+            ]
+        },
+        "mind-blown": {
+            "name": "Verstom",
+            "keywords": [
+                "geskok",
+                "wow",
+                "ontploffing"
+            ]
+        },
+        "moody": {
+            "name": "Buierig",
+            "keywords": [
+                "meh",
+                "kronkel",
+                "boks"
+            ]
+        },
+        "nervous": {
+            "name": "Senuweeagtig",
+            "keywords": [
+                "angstig",
+                "sweet",
+                "bekommerd"
+            ]
+        },
+        "obsessed": {
+            "name": "Behep",
+            "keywords": [
+                "sterretjie-oë",
+                "skree",
+                "aanhanger"
+            ]
+        },
+        "sad": {
+            "name": "Hartseer",
+            "keywords": [
+                "traan",
+                "huil",
+                "neerslagtig"
+            ]
+        },
+        "shy": {
+            "name": "Skaam",
+            "keywords": [
+                "bloos",
+                "oulik",
+                "verleë"
+            ]
+        },
+        "skeptical": {
+            "name": "Skepties",
+            "keywords": [
+                "twyfel",
+                "nie beïndruk nie",
+                "regtig"
+            ]
+        },
+        "spacey": {
+            "name": "Verstrooid",
+            "keywords": [
+                "afgelei",
+                "dagdroom",
+                "afwesig"
+            ]
+        },
+        "tired": {
+            "name": "Moeg",
+            "keywords": [
+                "oogbal",
+                "bloedbelope",
+                "slaperig"
+            ]
+        },
+        "unproductive": {
+            "name": "Onproduktief",
+            "keywords": [
+                "plakkertjie",
+                "lui",
+                "klaar"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "kalm",
+                "ontspanne",
+                "vrede"
+            ]
+        },
+        "mischievous": {
+            "name": "Ondeund",
+            "keywords": [
+                "o",
+                "verras",
+                "boks"
+            ]
+        },
+        "wicked": {
+            "name": "Skelm",
+            "keywords": [
+                "bose gryns",
+                "kattekwaad",
+                "boks"
+            ]
+        },
+        "motivated": {
+            "name": "Gemotiveerd",
+            "keywords": [
+                "opgewonde",
+                "kom ons gaan",
+                "hare"
+            ]
+        },
+        "proud": {
+            "name": "Trots",
+            "keywords": [
+                "trots",
+                "reënboog",
+                "hart"
+            ]
+        }
+    }
+}

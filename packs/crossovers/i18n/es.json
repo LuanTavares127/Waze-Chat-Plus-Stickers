@@ -1,0 +1,214 @@
+{
+    "name": "Colaboraciones",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "un ojo",
+                "plátano"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "un ojo",
+                "panal"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbionte",
+                "dientes",
+                "villano"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "títere",
+                "feliz"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "gafas",
+                "pelo"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "títere",
+                "nervioso"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "sombrero",
+                "risa"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Leal",
+            "keywords": [
+                "minion",
+                "gafas protectoras",
+                "leal"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Valiente",
+            "keywords": [
+                "minion",
+                "gafas protectoras",
+                "valiente"
+            ]
+        },
+        "james": {
+            "name": "James - Artístico",
+            "keywords": [
+                "minion",
+                "arte",
+                "pintura"
+            ]
+        },
+        "alliance": {
+            "name": "Alianza",
+            "keywords": [
+                "casco",
+                "armadura",
+                "guerrero"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "murciélago",
+                "héroe",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "signo de interrogación",
+                "villano",
+                "máscara"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "máscara",
+                "antihéroe",
+                "rojo"
+            ]
+        },
+        "brave": {
+            "name": "Valiente",
+            "keywords": [
+                "esponja",
+                "pirata",
+                "parche en el ojo"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policía",
+                "perro",
+                "cachorro"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "bombero",
+                "perro",
+                "cachorro"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "piloto",
+                "perro",
+                "cachorro"
+            ]
+        },
+        "energetic": {
+            "name": "Enérgico",
+            "keywords": [
+                "erizo",
+                "rápido",
+                "azul"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "constructor",
+                "casco",
+                "construcción"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "pelo rojo",
+                "risa"
+            ]
+        },
+        "horde": {
+            "name": "Horda",
+            "keywords": [
+                "orco",
+                "colmillos",
+                "guerrero"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "espartano",
+                "casco",
+                "soldado"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "bruto",
+                "armadura",
+                "villano"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "élite",
+                "armadura",
+                "cuernos"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "espartano",
+                "casco",
+                "visera"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elfo",
+                "gema",
+                "villano"
+            ]
+        }
+    }
+}

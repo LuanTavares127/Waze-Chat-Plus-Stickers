@@ -1,0 +1,382 @@
+{
+    "name": "Fest, stjärntecken och fantasi",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "snögubbe",
+                "vinter",
+                "halsduk"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "partyhatt",
+                "födelsedag",
+                "fira"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "hjälm",
+                "kartnål"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "hovnarr",
+                "hatt",
+                "skratta"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "jul",
+                "tomte",
+                "solglasögon"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "trollkarl",
+                "hatt",
+                "magi"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "häxa",
+                "hatt",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karneval",
+                "huvudbonad",
+                "fjädrar"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "halsduk",
+                "mössa",
+                "vinter"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karneval",
+                "mask",
+                "fest"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nyår",
+                "2026",
+                "fest"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "hammare",
+                "sköld"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "vinter",
+                "mössa",
+                "kall"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "vakt",
+                "london",
+                "hatt"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cylinder",
+                "te",
+                "underlandet"
+            ]
+        },
+        "aries": {
+            "name": "Väduren",
+            "keywords": [
+                "stjärntecken",
+                "bagge",
+                "horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Oxen",
+            "keywords": [
+                "stjärntecken",
+                "tjur",
+                "horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Tvillingarna",
+            "keywords": [
+                "stjärntecken",
+                "tvillingar",
+                "horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Kräftan",
+            "keywords": [
+                "stjärntecken",
+                "krabba",
+                "horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Lejonet",
+            "keywords": [
+                "stjärntecken",
+                "lejon",
+                "horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Jungfrun",
+            "keywords": [
+                "stjärntecken",
+                "jungfru",
+                "horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Vågen",
+            "keywords": [
+                "stjärntecken",
+                "våg",
+                "horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpionen",
+            "keywords": [
+                "stjärntecken",
+                "skorpion",
+                "horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Skytten",
+            "keywords": [
+                "stjärntecken",
+                "bågskytt",
+                "horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Stenbocken",
+            "keywords": [
+                "stjärntecken",
+                "get",
+                "horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Vattumannen",
+            "keywords": [
+                "stjärntecken",
+                "vatten",
+                "horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Fiskarna",
+            "keywords": [
+                "stjärntecken",
+                "fisk",
+                "horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Tomten",
+            "keywords": [
+                "jul",
+                "tomte",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Festlig",
+            "keywords": [
+                "jul",
+                "tomteluva",
+                "skägg"
+            ]
+        },
+        "frazzled": {
+            "name": "Slutkörd",
+            "keywords": [
+                "jul",
+                "trött",
+                "tomte"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Festprisse",
+            "keywords": [
+                "karneval",
+                "sjöman",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Glad fest",
+            "keywords": [
+                "partyhatt",
+                "stjärna",
+                "fira"
+            ]
+        },
+        "blossom": {
+            "name": "Blomning",
+            "keywords": [
+                "blomma",
+                "rosa",
+                "vår"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "alla hjärtans dag",
+                "pil",
+                "kärlek"
+            ]
+        },
+        "happy-clown": {
+            "name": "Glad clown",
+            "keywords": [
+                "clown",
+                "cirkus",
+                "kul"
+            ]
+        },
+        "scary-clown": {
+            "name": "Läskig clown",
+            "keywords": [
+                "clown",
+                "halloween",
+                "kuslig"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "odöd"
+            ]
+        },
+        "zombified": {
+            "name": "Zombiefierad",
+            "keywords": [
+                "zombie",
+                "trött",
+                "sömmar"
+            ]
+        },
+        "monster": {
+            "name": "Monster",
+            "keywords": [
+                "ett öga",
+                "cyklop",
+                "monster"
+            ]
+        },
+        "mystical": {
+            "name": "Mystisk",
+            "keywords": [
+                "huva",
+                "alv",
+                "magi"
+            ]
+        },
+        "mighty": {
+            "name": "Mäktig",
+            "keywords": [
+                "viking",
+                "mustasch",
+                "horn"
+            ]
+        },
+        "angelic": {
+            "name": "Änglalik",
+            "keywords": [
+                "ängel",
+                "gloria",
+                "vingar"
+            ]
+        },
+        "devious": {
+            "name": "Lömsk",
+            "keywords": [
+                "djävul",
+                "horn",
+                "flin"
+            ]
+        },
+        "diabolical": {
+            "name": "Djävulsk",
+            "keywords": [
+                "skurk",
+                "monokel",
+                "ond"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "geni",
+                "forskare",
+                "tunga"
+            ]
+        },
+        "belgie": {
+            "name": "Belgien",
+            "keywords": [
+                "belgien",
+                "horn",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "rymden",
+                "hjälm"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (blå)",
+            "keywords": [
+                "astronaut",
+                "rymden",
+                "måne"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "hjälte",
+                "tiara",
+                "kraft"
+            ]
+        }
+    }
+}

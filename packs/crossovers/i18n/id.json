@@ -1,0 +1,214 @@
+{
+    "name": "Crossover",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "satu mata",
+                "pisang"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "satu mata",
+                "sarang lebah"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiote",
+                "gigi",
+                "penjahat"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "senang"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "kacamata",
+                "rambut"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "gugup"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "topi",
+                "tertawa"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Setia",
+            "keywords": [
+                "minion",
+                "kacamata pelindung",
+                "setia"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Pemberani",
+            "keywords": [
+                "minion",
+                "kacamata pelindung",
+                "berani"
+            ]
+        },
+        "james": {
+            "name": "James - Artistik",
+            "keywords": [
+                "minion",
+                "seni",
+                "cat"
+            ]
+        },
+        "alliance": {
+            "name": "Aliansi",
+            "keywords": [
+                "helm",
+                "baju zirah",
+                "prajurit"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "kelelawar",
+                "pahlawan",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Si Teka-teki",
+            "keywords": [
+                "tanda tanya",
+                "penjahat",
+                "topeng"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "topeng",
+                "antipahlawan",
+                "merah"
+            ]
+        },
+        "brave": {
+            "name": "Berani",
+            "keywords": [
+                "spons",
+                "bajak laut",
+                "penutup mata"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "polisi",
+                "anjing",
+                "anak anjing"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "pemadam kebakaran",
+                "anjing",
+                "anak anjing"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "anjing",
+                "anak anjing"
+            ]
+        },
+        "energetic": {
+            "name": "Energik",
+            "keywords": [
+                "landak",
+                "cepat",
+                "biru"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "pembangun",
+                "helm",
+                "konstruksi"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "rambut merah",
+                "tertawa"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "orc",
+                "taring",
+                "prajurit"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "helm",
+                "tentara"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "beringas",
+                "baju zirah",
+                "penjahat"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "baju zirah",
+                "tanduk"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "helm",
+                "pelindung wajah"
+            ]
+        },
+        "void": {
+            "name": "Hampa",
+            "keywords": [
+                "peri",
+                "permata",
+                "penjahat"
+            ]
+        }
+    }
+}

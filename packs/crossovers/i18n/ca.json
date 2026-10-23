@@ -1,0 +1,214 @@
+{
+    "name": "Crossovers",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "un ull",
+                "plàtan"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "un ull",
+                "bresca"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbiont",
+                "dents",
+                "dolent"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "titella",
+                "content"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "ulleres",
+                "cabell"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "titella",
+                "nerviós"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "barret",
+                "riure"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Lleial",
+            "keywords": [
+                "minion",
+                "ulleres de protecció",
+                "lleial"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Valent",
+            "keywords": [
+                "minion",
+                "ulleres de protecció",
+                "valent"
+            ]
+        },
+        "james": {
+            "name": "James - Artista",
+            "keywords": [
+                "minion",
+                "art",
+                "pintura"
+            ]
+        },
+        "alliance": {
+            "name": "Aliança",
+            "keywords": [
+                "casc",
+                "armadura",
+                "guerrer"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "ratpenat",
+                "heroi",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Enigma",
+            "keywords": [
+                "interrogant",
+                "dolent",
+                "màscara"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "màscara",
+                "antiheroi",
+                "vermell"
+            ]
+        },
+        "brave": {
+            "name": "Valent",
+            "keywords": [
+                "esponja",
+                "pirata",
+                "pegat a l'ull"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policia",
+                "gos",
+                "cadell"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "bomber",
+                "gos",
+                "cadell"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "gos",
+                "cadell"
+            ]
+        },
+        "energetic": {
+            "name": "Enèrgic",
+            "keywords": [
+                "eriçó",
+                "ràpid",
+                "blau"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "constructor",
+                "casc",
+                "construcció"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "cabell vermell",
+                "riure"
+            ]
+        },
+        "horde": {
+            "name": "Horda",
+            "keywords": [
+                "orc",
+                "ullals",
+                "guerrer"
+            ]
+        },
+        "master-chief": {
+            "name": "El Master Chief",
+            "keywords": [
+                "espartà",
+                "casc",
+                "soldat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "bruta",
+                "armadura",
+                "dolent"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elit",
+                "armadura",
+                "banyes"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "espartà",
+                "casc",
+                "visera"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "gemma",
+                "dolent"
+            ]
+        }
+    }
+}

@@ -16,11 +16,12 @@ Status and phases: `ROADMAP.md` (pt-BR).
 |---|---|
 | `docs/sticker-packs.md` | **The contract** (format 1): files, manifest, translations, image limits, links, messages, permanent ids, safety, block list, official packs, validator. Public, for pack authors and readers; the script cites its `§` numbers. |
 | `curation/stickers-curation.json` | Approved curation of the official packs (Phase 48a, 2026-10-22): 6 packs, per mood `id`, `file` (name in the art folder), `nameSource` (`number` = no official name yet), en + pt-BR `name`/`keywords`, 1–3 `emojis`, `note` (franchise). Source of the official manifests built in 48c; not published as a pack. |
-| `packs/<pack id>/` | (48c) One official pack each, in the format of the spec: `wcp-stickers.json`, `stickers/`, `thumbs/`, `i18n/`. |
+| `packs/<pack id>/` | One official pack each, in the format of the spec: `wcp-stickers.json`, `stickers/`, `thumbs/`, `i18n/`. |
 | `showcase.json`, `blocked.json` | (48c) Official pack list and block list (spec §8–§9), edited by commit; served by the Worker. |
-| `tools/build.mjs` | (48c) Official packs: art folder + curation → `packs/` (renamed to the ids, 128 px thumbnails, manifests). Uses `sharp` (`package.json`). |
-| `tools/validate.mjs` | (48c) The validator of spec §10: one file, Node.js 20+, no dependency (pixel checks only when `sharp` is there). |
-| `.github/workflows/` | (48c) Runs the validator on every push and pull request. |
+| `tools/build.mjs` | Official packs: art folder + curation → `packs/` (renamed to the ids, art fitted in a 480 px box and centered on a 512 px transparent canvas, 128 px thumbnails, manifests, `i18n/pt-BR.json`; other `i18n/` files are kept and listed in `locales`). `node tools/build.mjs [--art <folder>]`, ~25 min on the Drive folder. Uses `sharp` (`package.json`). |
+| `tools/validate.mjs` | The validator of spec §10: one file, Node.js 20+, no dependency (pixel checks only when `sharp` is there). |
+| `.github/workflows/validate.yml` | Runs the validator on every push and pull request. |
+| `.claude/` | Hooks (`validate-packs`: validates after editing `packs/**`, showcase or block list; `check-pack-versions`: warns about changes without a new tag and about vanished ids), rules, skill `publish-packs`. `settings.json` (wiring) is created by the user. |
 | `worker/` | (48e) Code of the Cloudflare Worker (GIF proxy + sticker routes), pasted by hand in the Cloudflare editor. Secrets (`KLIPY_KEY`, the GitHub token) live only in Cloudflare. |
 
 ## 2. Rules

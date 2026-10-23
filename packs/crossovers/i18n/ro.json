@@ -1,0 +1,214 @@
+{
+    "name": "Colaborări",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "un ochi",
+                "banană"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "un ochi",
+                "fagure"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbiot",
+                "dinți",
+                "răufăcător"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "păpușă",
+                "fericit"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "ochelari",
+                "păr"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "păpușă",
+                "nervos"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "pălărie",
+                "râs"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Loial",
+            "keywords": [
+                "minion",
+                "ochelari de protecție",
+                "loial"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Curajos",
+            "keywords": [
+                "minion",
+                "ochelari de protecție",
+                "curajos"
+            ]
+        },
+        "james": {
+            "name": "James - Artistic",
+            "keywords": [
+                "minion",
+                "artă",
+                "vopsea"
+            ]
+        },
+        "alliance": {
+            "name": "Alianța",
+            "keywords": [
+                "cască",
+                "armură",
+                "războinic"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "liliac",
+                "erou",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "semn de întrebare",
+                "răufăcător",
+                "mască"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "mască",
+                "antierou",
+                "roșu"
+            ]
+        },
+        "brave": {
+            "name": "Viteaz",
+            "keywords": [
+                "burete",
+                "pirat",
+                "petic pe ochi"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "poliție",
+                "câine",
+                "cățel"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "pompier",
+                "câine",
+                "cățel"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "câine",
+                "cățel"
+            ]
+        },
+        "energetic": {
+            "name": "Energic",
+            "keywords": [
+                "arici",
+                "rapid",
+                "albastru"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "constructor",
+                "cască",
+                "construcții"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "păr roșcat",
+                "râs"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "orc",
+                "colți",
+                "războinic"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartan",
+                "cască",
+                "soldat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "brută",
+                "armură",
+                "răufăcător"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elită",
+                "armură",
+                "coarne"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "cască",
+                "vizieră"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "nestemată",
+                "răufăcător"
+            ]
+        }
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "name": "Na cestě a v práci",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "uzlík",
+                "výlet",
+                "dobrodružství"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "lektvar",
+                "brýle",
+                "laboratoř"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "objevitel",
+                "klobouk",
+                "dobrodružství"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "fotoaparát",
+                "vlajka",
+                "prohlídka"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "námořník",
+                "kšiltovka",
+                "loď"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "kufr",
+                "klobouk",
+                "výlet"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "ochranné brýle",
+                "helma"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "sova",
+                "promoce",
+                "chytrý"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "hasicí přístroj",
+                "bezpečnost",
+                "nervózní"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "ochranná přilba",
+                "stavba",
+                "vesta"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "slamák",
+                "farma",
+                "červnový festival"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "helma",
+                "hvězdy",
+                "závodník"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "rouška",
+                "zdraví",
+                "bezpečný"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stopky",
+                "čelenka",
+                "trénink"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "hlas",
+                "volby",
+                "hlasovací lístek"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signál",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "hlas",
+                "znamení",
+                "volby"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medaile",
+                "stuha",
+                "mrknutí"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "doručení",
+                "helma",
+                "krabice"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "anténa",
+                "objevitel"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "bublina",
+                "chat",
+                "mluvit"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "píšťalka",
+                "rozhodčí",
+                "faul"
+            ]
+        },
+        "road-warrior": {
+            "name": "Bojovník silnic",
+            "keywords": [
+                "helma",
+                "ochranné brýle",
+                "křídlo"
+            ]
+        },
+        "limitless": {
+            "name": "Bez hranic",
+            "keywords": [
+                "dálnice",
+                "štít",
+                "dopravní značka"
+            ]
+        },
+        "map-master": {
+            "name": "Mistr map",
+            "keywords": [
+                "editor",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-kamioňák",
+            "keywords": [
+                "kamion",
+                "ochranné brýle",
+                "dopravce"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapitán Děkuji",
+            "keywords": [
+                "díky",
+                "kapitán",
+                "knír"
+            ]
+        },
+        "all-business": {
+            "name": "Jen práce",
+            "keywords": [
+                "oblek",
+                "kravata",
+                "práce"
+            ]
+        },
+        "business-casual": {
+            "name": "Business casual",
+            "keywords": [
+                "kravata",
+                "čelenka",
+                "jazyk"
+            ]
+        },
+        "businessy": {
+            "name": "Obchodní typ",
+            "keywords": [
+                "oblek",
+                "brýle",
+                "kancelář"
+            ]
+        },
+        "bawse-y": {
+            "name": "Jako šéf",
+            "keywords": [
+                "šéf",
+                "sluneční brýle",
+                "oblek"
+            ]
+        },
+        "productive": {
+            "name": "Produktivní",
+            "keywords": [
+                "headset",
+                "práce",
+                "mrknutí"
+            ]
+        },
+        "dialed-up": {
+            "name": "Vytáčené připojení",
+            "keywords": [
+                "počítač",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "V utajení",
+            "keywords": [
+                "převlek",
+                "brýle",
+                "nos"
+            ]
+        },
+        "sneaky": {
+            "name": "Nenápadný",
+            "keywords": [
+                "nindža",
+                "nenápadnost",
+                "maska"
+            ]
+        },
+        "survivalist": {
+            "name": "Přeživší",
+            "keywords": [
+                "šátek",
+                "jizva",
+                "tvrďák"
+            ]
+        },
+        "speedy": {
+            "name": "Rychlík",
+            "keywords": [
+                "rychlý",
+                "rychlost",
+                "úšklebek"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "cyklistika",
+                "kšiltovka",
+                "rychlý"
+            ]
+        },
+        "unstoppable": {
+            "name": "Nezastavitelný",
+            "keywords": [
+                "rychlý",
+                "jiskra",
+                "běh"
+            ]
+        },
+        "comfortable": {
+            "name": "Pohodlný",
+            "keywords": [
+                "tenisky",
+                "bota",
+                "útulný"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ekologický",
+            "keywords": [
+                "země",
+                "planeta",
+                "zelený"
+            ]
+        },
+        "global": {
+            "name": "Globální",
+            "keywords": [
+                "země",
+                "megafon",
+                "svět"
+            ]
+        },
+        "victorious": {
+            "name": "Vítězný",
+            "keywords": [
+                "trofej",
+                "vítěz",
+                "šampion"
+            ]
+        },
+        "beautiful": {
+            "name": "Krásný",
+            "keywords": [
+                "fotbal",
+                "fotbal",
+                "míč"
+            ]
+        },
+        "masterful": {
+            "name": "Mistrovský",
+            "keywords": [
+                "golf",
+                "míč",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "Nepospíchej",
+            "keywords": [
+                "helma",
+                "motorka",
+                "spěch"
+            ]
+        }
+    }
+}

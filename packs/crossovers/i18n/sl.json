@@ -1,0 +1,214 @@
+{
+    "name": "Navzkrižja",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "eno oko",
+                "banana"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "eno oko",
+                "satovje"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbiot",
+                "zobje",
+                "zlobnež"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "srečno"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "očala",
+                "lasje"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "nervozno"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "klobuk",
+                "smeh"
+            ]
+        },
+        "ed": {
+            "name": "Ed - zvest",
+            "keywords": [
+                "minion",
+                "zaščitna očala",
+                "zvesto"
+            ]
+        },
+        "henry": {
+            "name": "Henry - pogumen",
+            "keywords": [
+                "minion",
+                "zaščitna očala",
+                "pogumno"
+            ]
+        },
+        "james": {
+            "name": "James - umetniški",
+            "keywords": [
+                "minion",
+                "umetnost",
+                "barva"
+            ]
+        },
+        "alliance": {
+            "name": "Zavezništvo",
+            "keywords": [
+                "čelada",
+                "oklep",
+                "bojevnik"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "netopir",
+                "junak",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "vprašaj",
+                "zlobnež",
+                "maska"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maska",
+                "antijunak",
+                "rdeče"
+            ]
+        },
+        "brave": {
+            "name": "Pogumni",
+            "keywords": [
+                "goba",
+                "pirat",
+                "obveza na očesu"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policija",
+                "pes",
+                "mladiček"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "gasilec",
+                "pes",
+                "mladiček"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "pes",
+                "mladiček"
+            ]
+        },
+        "energetic": {
+            "name": "Energični",
+            "keywords": [
+                "jež",
+                "hitro",
+                "modro"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "graditelj",
+                "čelada",
+                "gradnja"
+            ]
+        },
+        "red": {
+            "name": "Rdeči",
+            "keywords": [
+                "fraggle",
+                "rdeči lasje",
+                "smeh"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "okli",
+                "bojevnik"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartanec",
+                "čelada",
+                "vojak"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "surovež",
+                "oklep",
+                "zlobnež"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elita",
+                "oklep",
+                "rogovi"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartanec",
+                "čelada",
+                "vizir"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "vilinec",
+                "dragulj",
+                "zlobnež"
+            ]
+        }
+    }
+}

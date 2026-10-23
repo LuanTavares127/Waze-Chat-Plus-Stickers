@@ -1,0 +1,342 @@
+{
+    "name": "Vibras",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "cuernos de carnero",
+                "lentes de sol",
+                "audaz"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "pañuelo",
+                "lentes de sol",
+                "rock"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "tacón",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "tumbado",
+                "gorro de fiesta",
+                "relajado"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "audífonos con micrófono",
+                "escuchando",
+                "música"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "foco",
+                "lentes",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "burbujas",
+                "poción",
+                "feliz"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "destello",
+                "lentes de sol",
+                "elegante"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "audífonos",
+                "leopardo",
+                "música"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "micrófono",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterrestre",
+                "casco",
+                "espacio"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "audífonos",
+                "música",
+                "chévere"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "gorra",
+                "al revés",
+                "mirada de reojo"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "gorra de hélice",
+                "bobo",
+                "niño"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tambor",
+                "pandereta",
+                "guiño"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "foco",
+                "pensar",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mano",
+                "saludo militar",
+                "saludo"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "lentes",
+                "listo",
+                "sonrisa burlona"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "lentes",
+                "rubia",
+                "estudiar"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "capa",
+                "héroe",
+                "lentes"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "corona",
+                "lentes de sol",
+                "rey"
+            ]
+        },
+        "chill": {
+            "name": "Relajado",
+            "keywords": [
+                "lentes de sol",
+                "relajado",
+                "chévere"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Relajado con lentes",
+            "keywords": [
+                "lentes redondos",
+                "relajado",
+                "chévere"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "lentes de fiesta",
+                "lengua",
+                "exagerado"
+            ]
+        },
+        "feisty": {
+            "name": "Peleador",
+            "keywords": [
+                "boxeo",
+                "guante",
+                "pelea"
+            ]
+        },
+        "gutsy": {
+            "name": "Audaz",
+            "keywords": [
+                "lentes de sol",
+                "duro",
+                "valiente"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "buena vibra"
+            ]
+        },
+        "rad": {
+            "name": "Genial",
+            "keywords": [
+                "lentes de sol",
+                "chévere",
+                "sonrisa pícara"
+            ]
+        },
+        "savvy": {
+            "name": "Astuto",
+            "keywords": [
+                "lentes de sol",
+                "gorro de santa",
+                "listo"
+            ]
+        },
+        "serene": {
+            "name": "Sereno",
+            "keywords": [
+                "lentes redondos",
+                "calma",
+                "sonrisa"
+            ]
+        },
+        "shady": {
+            "name": "Sospechoso",
+            "keywords": [
+                "sombrero fedora",
+                "lentes de sol",
+                "misterioso"
+            ]
+        },
+        "snappy": {
+            "name": "Elegante",
+            "keywords": [
+                "corbata de moño",
+                "galleta",
+                "sonrisa burlona"
+            ]
+        },
+        "strong": {
+            "name": "Fuerte",
+            "keywords": [
+                "x",
+                "lentes de sol",
+                "duro"
+            ]
+        },
+        "wild": {
+            "name": "Salvaje",
+            "keywords": [
+                "casco",
+                "rayo",
+                "lentes de sol"
+            ]
+        },
+        "pumped": {
+            "name": "¡Motivadísimo!",
+            "keywords": [
+                "radiocasete",
+                "música",
+                "fiesta"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lámpara de lava",
+                "retro",
+                "años 70"
+            ]
+        },
+        "quirky": {
+            "name": "Peculiar",
+            "keywords": [
+                "sombrero",
+                "colorido",
+                "gracioso"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "sombrero",
+                "chévere"
+            ]
+        },
+        "leopard": {
+            "name": "Leopardo",
+            "keywords": [
+                "leopardo",
+                "lentes de sol",
+                "salvaje"
+            ]
+        },
+        "sidekick": {
+            "name": "Compinche",
+            "keywords": [
+                "compañero",
+                "barba",
+                "colega"
+            ]
+        },
+        "geeky": {
+            "name": "Nerd",
+            "keywords": [
+                "lentes",
+                "nerd",
+                "mirada fija"
+            ]
+        },
+        "smart": {
+            "name": "Listo",
+            "keywords": [
+                "foco",
+                "lengua",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Ligero",
+            "keywords": [
+                "puntiagudo",
+                "rubio",
+                "puchero"
+            ]
+        }
+    }
+}

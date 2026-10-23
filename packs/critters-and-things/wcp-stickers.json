@@ -1,0 +1,637 @@
+{
+    "format": 1,
+    "id": "critters-and-things",
+    "name": "Critters & Things",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "cat",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "102",
+            "name": "102",
+            "keywords": [
+                "brain",
+                "smart",
+                "think"
+            ],
+            "emojis": [
+                "🧠"
+            ]
+        },
+        {
+            "id": "227",
+            "name": "227",
+            "keywords": [
+                "cow",
+                "moo",
+                "farm"
+            ],
+            "emojis": [
+                "🐄",
+                "🌸"
+            ]
+        },
+        {
+            "id": "229",
+            "name": "229",
+            "keywords": [
+                "dog",
+                "corgi",
+                "crown"
+            ],
+            "emojis": [
+                "🐶",
+                "👑"
+            ]
+        },
+        {
+            "id": "230",
+            "name": "230",
+            "keywords": [
+                "dog",
+                "corgi",
+                "wink"
+            ],
+            "emojis": [
+                "🐶",
+                "😉"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "231",
+            "keywords": [
+                "dog",
+                "corgi",
+                "crown"
+            ],
+            "emojis": [
+                "🐕",
+                "👑"
+            ]
+        },
+        {
+            "id": "236",
+            "name": "236",
+            "keywords": [
+                "dragon",
+                "red",
+                "monster"
+            ],
+            "emojis": [
+                "🐉",
+                "🔥"
+            ]
+        },
+        {
+            "id": "259",
+            "name": "259",
+            "keywords": [
+                "bird",
+                "cap",
+                "talk"
+            ],
+            "emojis": [
+                "🦜"
+            ]
+        },
+        {
+            "id": "251",
+            "name": "251",
+            "keywords": [
+                "teapot",
+                "tea",
+                "apple"
+            ],
+            "emojis": [
+                "🫖",
+                "🍵"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "30",
+            "keywords": [
+                "rock",
+                "stone",
+                "fast"
+            ],
+            "emojis": [
+                "🪨"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "85",
+            "keywords": [
+                "capybara",
+                "bird",
+                "chill"
+            ],
+            "emojis": [
+                "🦫",
+                "🐦"
+            ]
+        },
+        {
+            "id": "84",
+            "name": "84",
+            "keywords": [
+                "bear",
+                "bucket hat",
+                "smile"
+            ],
+            "emojis": [
+                "🐻",
+                "👒"
+            ]
+        },
+        {
+            "id": "8-bit",
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "game"
+            ],
+            "emojis": [
+                "👾",
+                "🎮"
+            ]
+        },
+        {
+            "id": "aware",
+            "name": "Aware",
+            "keywords": [
+                "rainbow",
+                "calm",
+                "colors"
+            ],
+            "emojis": [
+                "🌈"
+            ]
+        },
+        {
+            "id": "baby",
+            "name": "Baby",
+            "keywords": [
+                "pacifier",
+                "baby",
+                "cute"
+            ],
+            "emojis": [
+                "👶",
+                "🍼"
+            ]
+        },
+        {
+            "id": "blobby",
+            "name": "Blobby",
+            "keywords": [
+                "blob",
+                "bubbles",
+                "stars"
+            ],
+            "emojis": [
+                "🫧",
+                "💫"
+            ]
+        },
+        {
+            "id": "bright",
+            "name": "Bright",
+            "keywords": [
+                "star",
+                "shine",
+                "rainbow"
+            ],
+            "emojis": [
+                "⭐",
+                "🌈"
+            ]
+        },
+        {
+            "id": "calm",
+            "name": "Calm",
+            "keywords": [
+                "cloud",
+                "cap",
+                "sky"
+            ],
+            "emojis": [
+                "☁️",
+                "🙂"
+            ]
+        },
+        {
+            "id": "captivated",
+            "name": "Captivated",
+            "keywords": [
+                "camera",
+                "photo",
+                "picture"
+            ],
+            "emojis": [
+                "📷"
+            ]
+        },
+        {
+            "id": "cat",
+            "name": "Cat",
+            "keywords": [
+                "cat",
+                "kitty",
+                "meow"
+            ],
+            "emojis": [
+                "🐱"
+            ]
+        },
+        {
+            "id": "cell",
+            "name": "Cell",
+            "keywords": [
+                "cell",
+                "biology",
+                "blob"
+            ],
+            "emojis": [
+                "🦠",
+                "🙂"
+            ]
+        },
+        {
+            "id": "centered",
+            "name": "Centered",
+            "keywords": [
+                "stones",
+                "balance",
+                "zen"
+            ],
+            "emojis": [
+                "🪨",
+                "🧘"
+            ]
+        },
+        {
+            "id": "cosmic",
+            "name": "Cosmic",
+            "keywords": [
+                "antennae",
+                "alien",
+                "happy"
+            ],
+            "emojis": [
+                "👽",
+                "😄"
+            ]
+        },
+        {
+            "id": "destemido",
+            "name": "Fearless",
+            "keywords": [
+                "cactus",
+                "plant",
+                "tough"
+            ],
+            "emojis": [
+                "🌵"
+            ]
+        },
+        {
+            "id": "dog",
+            "name": "Dog",
+            "keywords": [
+                "dog",
+                "puppy",
+                "tongue"
+            ],
+            "emojis": [
+                "🐶"
+            ]
+        },
+        {
+            "id": "fancy",
+            "name": "Fancy",
+            "keywords": [
+                "cake",
+                "slice",
+                "cherry"
+            ],
+            "emojis": [
+                "🍰"
+            ]
+        },
+        {
+            "id": "flowing",
+            "name": "Flowing",
+            "keywords": [
+                "water",
+                "drop",
+                "rain"
+            ],
+            "emojis": [
+                "💧"
+            ]
+        },
+        {
+            "id": "hopeful",
+            "name": "Hopeful",
+            "keywords": [
+                "cloud",
+                "sun",
+                "calm"
+            ],
+            "emojis": [
+                "🌤️"
+            ]
+        },
+        {
+            "id": "hungry",
+            "name": "Hungry",
+            "keywords": [
+                "burger",
+                "food",
+                "lunch"
+            ],
+            "emojis": [
+                "🍔",
+                "🤤"
+            ]
+        },
+        {
+            "id": "magical",
+            "name": "Magical",
+            "keywords": [
+                "unicorn",
+                "rainbow",
+                "magic"
+            ],
+            "emojis": [
+                "🦄",
+                "✨"
+            ]
+        },
+        {
+            "id": "magical-2",
+            "name": "Magical (2)",
+            "keywords": [
+                "magic",
+                "pink",
+                "famous"
+            ],
+            "emojis": [
+                "✨",
+                "🩷"
+            ]
+        },
+        {
+            "id": "open",
+            "name": "Open",
+            "keywords": [
+                "mountain",
+                "flag",
+                "summit"
+            ],
+            "emojis": [
+                "🏔️",
+                "🚩"
+            ]
+        },
+        {
+            "id": "playful",
+            "name": "Playful",
+            "keywords": [
+                "dolphin",
+                "sea",
+                "fun"
+            ],
+            "emojis": [
+                "🐬"
+            ]
+        },
+        {
+            "id": "prickly",
+            "name": "Prickly",
+            "keywords": [
+                "cactus",
+                "grumpy",
+                "spiky"
+            ],
+            "emojis": [
+                "🌵",
+                "😠"
+            ]
+        },
+        {
+            "id": "quantom",
+            "name": "Quantom",
+            "keywords": [
+                "planet",
+                "orbit",
+                "space"
+            ],
+            "emojis": [
+                "🪐"
+            ]
+        },
+        {
+            "id": "robot",
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "machine",
+                "tech"
+            ],
+            "emojis": [
+                "🤖"
+            ]
+        },
+        {
+            "id": "rocket",
+            "name": "Rocket",
+            "keywords": [
+                "rocket",
+                "fast",
+                "fire"
+            ],
+            "emojis": [
+                "🚀",
+                "🔥"
+            ]
+        },
+        {
+            "id": "spiritual",
+            "name": "Spiritual",
+            "keywords": [
+                "panda",
+                "sunglasses",
+                "chill"
+            ],
+            "emojis": [
+                "🐼",
+                "😎"
+            ]
+        },
+        {
+            "id": "starry",
+            "name": "Starry",
+            "keywords": [
+                "one eye",
+                "monster",
+                "surprised"
+            ],
+            "emojis": [
+                "👁️",
+                "😮"
+            ]
+        },
+        {
+            "id": "sunny",
+            "name": "Sunny",
+            "keywords": [
+                "sunflower",
+                "sun",
+                "flower"
+            ],
+            "emojis": [
+                "🌻",
+                "☀️"
+            ]
+        },
+        {
+            "id": "sweet",
+            "name": "Sweet",
+            "keywords": [
+                "candy",
+                "peppermint",
+                "sweet"
+            ],
+            "emojis": [
+                "🍬"
+            ]
+        },
+        {
+            "id": "t-rex",
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaur",
+                "teeth",
+                "roar"
+            ],
+            "emojis": [
+                "🦖"
+            ]
+        },
+        {
+            "id": "wolfie",
+            "name": "Wolfie",
+            "keywords": [
+                "wolf",
+                "howl",
+                "sly"
+            ],
+            "emojis": [
+                "🐺"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "177",
+            "keywords": [
+                "dinosaur",
+                "teeth",
+                "bite"
+            ],
+            "emojis": [
+                "🦖",
+                "😁"
+            ]
+        },
+        {
+            "id": "249",
+            "name": "249",
+            "keywords": [
+                "eye",
+                "sign",
+                "mystery"
+            ],
+            "emojis": [
+                "👁️",
+                "🔷"
+            ]
+        },
+        {
+            "id": "241",
+            "name": "241",
+            "keywords": [
+                "hand",
+                "eye",
+                "protection"
+            ],
+            "emojis": [
+                "🪬",
+                "✋"
+            ]
+        },
+        {
+            "id": "219",
+            "name": "219",
+            "keywords": [
+                "fangs",
+                "teeth",
+                "grin"
+            ],
+            "emojis": [
+                "🧛",
+                "😁"
+            ]
+        }
+    ]
+}

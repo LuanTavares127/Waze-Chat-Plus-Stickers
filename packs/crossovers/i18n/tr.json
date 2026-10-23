@@ -1,0 +1,214 @@
+{
+    "name": "Çapraz Evrenler",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minyon",
+                "tek göz",
+                "muz"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minyon",
+                "tek göz",
+                "petek"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbiyot",
+                "diş",
+                "kötü adam"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "kukla",
+                "mutlu"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "gözlük",
+                "saç"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "kukla",
+                "gergin"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "şapka",
+                "kahkaha"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Sadık",
+            "keywords": [
+                "minyon",
+                "koruyucu gözlük",
+                "sadık"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Cesur",
+            "keywords": [
+                "minyon",
+                "koruyucu gözlük",
+                "cesur"
+            ]
+        },
+        "james": {
+            "name": "James - Sanatçı",
+            "keywords": [
+                "minyon",
+                "sanat",
+                "boya"
+            ]
+        },
+        "alliance": {
+            "name": "İttifak",
+            "keywords": [
+                "kask",
+                "zırh",
+                "savaşçı"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "yarasa",
+                "kahraman",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "soru işareti",
+                "kötü adam",
+                "maske"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maske",
+                "anti kahraman",
+                "kırmızı"
+            ]
+        },
+        "brave": {
+            "name": "Cesur",
+            "keywords": [
+                "sünger",
+                "korsan",
+                "göz bandı"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "polis",
+                "köpek",
+                "yavru"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "itfaiyeci",
+                "köpek",
+                "yavru"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "köpek",
+                "yavru"
+            ]
+        },
+        "energetic": {
+            "name": "Enerjik",
+            "keywords": [
+                "kirpi",
+                "hızlı",
+                "mavi"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "inşaatçı",
+                "kask",
+                "inşaat"
+            ]
+        },
+        "red": {
+            "name": "Kırmızı",
+            "keywords": [
+                "fraggle",
+                "kızıl saç",
+                "kahkaha"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "azı dişi",
+                "savaşçı"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartalı",
+                "kask",
+                "asker"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "vahşi",
+                "zırh",
+                "kötü adam"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "seçkin",
+                "zırh",
+                "boynuz"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartalı",
+                "kask",
+                "siperlik"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "mücevher",
+                "kötü adam"
+            ]
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "name": "Sentiments",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "clàssic",
+                "hola",
+                "content"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "llàgrima",
+                "trist",
+                "gorro de dormir"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "en blanc",
+                "neutre",
+                "normal"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "amor",
+                "cor",
+                "dolç"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "pare o mare",
+                "nadó",
+                "família"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "plorar",
+                "disgustat",
+                "desesperació"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "malalt",
+                "nàusees",
+                "malaltís"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "incòmode",
+                "incòmode",
+                "ugh"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "emocionat",
+                "visca",
+                "ales"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "content",
+                "riure",
+                "barret"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "enfadat",
+                "molest",
+                "cara llarga"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "pregunta",
+                "què",
+                "dubte"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "meditació",
+                "calma"
+            ]
+        },
+        "amazing": {
+            "name": "Increïble",
+            "keywords": [
+                "uau",
+                "ulls d'estrella",
+                "genial"
+            ]
+        },
+        "amused": {
+            "name": "Divertit",
+            "keywords": [
+                "girar els ulls",
+                "tant se val",
+                "somriure murri"
+            ]
+        },
+        "antsy": {
+            "name": "Neguitós",
+            "keywords": [
+                "impacient",
+                "estressat",
+                "ugh"
+            ]
+        },
+        "bored": {
+            "name": "Avorrit",
+            "keywords": [
+                "meh",
+                "avorrit",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Marejat",
+            "keywords": [
+                "malalt",
+                "nàusees",
+                "mareig"
+            ]
+        },
+        "cheeky": {
+            "name": "Descarat",
+            "keywords": [
+                "picada d'ullet",
+                "llengua",
+                "broma"
+            ]
+        },
+        "depressed": {
+            "name": "Deprimit",
+            "keywords": [
+                "trist",
+                "decaigut",
+                "blau"
+            ]
+        },
+        "exasperated": {
+            "name": "Exasperat",
+            "keywords": [
+                "fart",
+                "sospir",
+                "molest"
+            ]
+        },
+        "flustered": {
+            "name": "Atabalat",
+            "keywords": [
+                "esglaiat",
+                "crit",
+                "ai no"
+            ]
+        },
+        "funny": {
+            "name": "Graciós",
+            "keywords": [
+                "riure",
+                "lol",
+                "llàgrimes d'alegria"
+            ]
+        },
+        "furious": {
+            "name": "Furiós",
+            "keywords": [
+                "ràbia",
+                "renecs",
+                "enfadat"
+            ]
+        },
+        "grumpy": {
+            "name": "Rondinaire",
+            "keywords": [
+                "malhumorat",
+                "molest",
+                "auriculars"
+            ]
+        },
+        "happy": {
+            "name": "Feliç",
+            "keywords": [
+                "alegria",
+                "riure",
+                "somriure"
+            ]
+        },
+        "hilarious": {
+            "name": "Hilarant",
+            "keywords": [
+                "lol",
+                "riure",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Humil",
+            "keywords": [
+                "agraït",
+                "calma",
+                "ales"
+            ]
+        },
+        "joyful": {
+            "name": "Joiós",
+            "keywords": [
+                "riure",
+                "content",
+                "uf"
+            ]
+        },
+        "judgmental": {
+            "name": "Jutjador",
+            "keywords": [
+                "desaprovar",
+                "cara llarga",
+                "jutjar"
+            ]
+        },
+        "loved-up": {
+            "name": "Enamorat",
+            "keywords": [
+                "enamorat",
+                "ulls de cor",
+                "enamorament"
+            ]
+        },
+        "mind-blown": {
+            "name": "Al·lucinat",
+            "keywords": [
+                "esglaiat",
+                "uau",
+                "explosió"
+            ]
+        },
+        "moody": {
+            "name": "Lunàtic",
+            "keywords": [
+                "meh",
+                "gargot",
+                "caixa"
+            ]
+        },
+        "nervous": {
+            "name": "Nerviós",
+            "keywords": [
+                "ansiós",
+                "suor",
+                "preocupat"
+            ]
+        },
+        "obsessed": {
+            "name": "Obsessionat",
+            "keywords": [
+                "ulls d'estrella",
+                "crit",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Trist",
+            "keywords": [
+                "llàgrima",
+                "plorar",
+                "decaigut"
+            ]
+        },
+        "shy": {
+            "name": "Tímid",
+            "keywords": [
+                "rubor",
+                "monin",
+                "avergonyit"
+            ]
+        },
+        "skeptical": {
+            "name": "Escèptic",
+            "keywords": [
+                "dubte",
+                "indiferent",
+                "de debò"
+            ]
+        },
+        "spacey": {
+            "name": "Distret",
+            "keywords": [
+                "distret",
+                "somiar despert",
+                "absent"
+            ]
+        },
+        "tired": {
+            "name": "Cansat",
+            "keywords": [
+                "globus ocular",
+                "ull injectat",
+                "son"
+            ]
+        },
+        "unproductive": {
+            "name": "Improductiu",
+            "keywords": [
+                "nota adhesiva",
+                "mandrós",
+                "fet"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "calma",
+                "relaxat",
+                "pau"
+            ]
+        },
+        "mischievous": {
+            "name": "Entremaliat",
+            "keywords": [
+                "oh",
+                "sorprès",
+                "caixa"
+            ]
+        },
+        "wicked": {
+            "name": "Malvat",
+            "keywords": [
+                "somriure malvat",
+                "entremaliadura",
+                "caixa"
+            ]
+        },
+        "motivated": {
+            "name": "Motivat",
+            "keywords": [
+                "emocionat",
+                "som-hi",
+                "cabell"
+            ]
+        },
+        "proud": {
+            "name": "Orgullós",
+            "keywords": [
+                "orgull",
+                "arc de Sant Martí",
+                "cor"
+            ]
+        }
+    }
+}

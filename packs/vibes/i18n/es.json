@@ -1,0 +1,342 @@
+{
+    "name": "Vibras",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "cuernos de carnero",
+                "gafas de sol",
+                "audaz"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "gafas de sol",
+                "rock"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "tacón",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "tumbado",
+                "gorro de fiesta",
+                "relajado"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "auriculares con micro",
+                "escuchando",
+                "música"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bombilla",
+                "gafas",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "burbujas",
+                "poción",
+                "feliz"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "destello",
+                "gafas de sol",
+                "elegante"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "auriculares",
+                "leopardo",
+                "música"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "micrófono",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterrestre",
+                "casco",
+                "espacio"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "auriculares",
+                "música",
+                "guay"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "gorra",
+                "al revés",
+                "mirada de reojo"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "gorra de hélice",
+                "bobo",
+                "niño"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tambor",
+                "pandereta",
+                "guiño"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bombilla",
+                "pensar",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mano",
+                "saludo militar",
+                "saludo"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "gafas",
+                "listo",
+                "sonrisa burlona"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "gafas",
+                "rubia",
+                "estudiar"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "capa",
+                "héroe",
+                "gafas"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "corona",
+                "gafas de sol",
+                "rey"
+            ]
+        },
+        "chill": {
+            "name": "Relajado",
+            "keywords": [
+                "gafas de sol",
+                "relajado",
+                "guay"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Relajado con gafas",
+            "keywords": [
+                "gafas redondas",
+                "relajado",
+                "guay"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "gafas de fiesta",
+                "lengua",
+                "exagerado"
+            ]
+        },
+        "feisty": {
+            "name": "Peleón",
+            "keywords": [
+                "boxeo",
+                "guante",
+                "pelea"
+            ]
+        },
+        "gutsy": {
+            "name": "Audaz",
+            "keywords": [
+                "gafas de sol",
+                "duro",
+                "valiente"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "buenas vibras"
+            ]
+        },
+        "rad": {
+            "name": "Genial",
+            "keywords": [
+                "gafas de sol",
+                "guay",
+                "sonrisa pícara"
+            ]
+        },
+        "savvy": {
+            "name": "Astuto",
+            "keywords": [
+                "gafas de sol",
+                "gorro de papá noel",
+                "listo"
+            ]
+        },
+        "serene": {
+            "name": "Sereno",
+            "keywords": [
+                "gafas redondas",
+                "calma",
+                "sonrisa"
+            ]
+        },
+        "shady": {
+            "name": "Sospechoso",
+            "keywords": [
+                "sombrero fedora",
+                "gafas de sol",
+                "misterioso"
+            ]
+        },
+        "snappy": {
+            "name": "Ágil",
+            "keywords": [
+                "pajarita",
+                "galleta",
+                "sonrisa burlona"
+            ]
+        },
+        "strong": {
+            "name": "Fuerte",
+            "keywords": [
+                "x",
+                "gafas de sol",
+                "duro"
+            ]
+        },
+        "wild": {
+            "name": "Salvaje",
+            "keywords": [
+                "casco",
+                "rayo",
+                "gafas de sol"
+            ]
+        },
+        "pumped": {
+            "name": "¡Motivadísimo!",
+            "keywords": [
+                "radiocasete",
+                "música",
+                "fiesta"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lámpara de lava",
+                "retro",
+                "años 70"
+            ]
+        },
+        "quirky": {
+            "name": "Peculiar",
+            "keywords": [
+                "sombrero",
+                "colorido",
+                "gracioso"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "sombrero",
+                "guay"
+            ]
+        },
+        "leopard": {
+            "name": "Leopardo",
+            "keywords": [
+                "leopardo",
+                "gafas de sol",
+                "salvaje"
+            ]
+        },
+        "sidekick": {
+            "name": "Compinche",
+            "keywords": [
+                "compañero",
+                "barba",
+                "colega"
+            ]
+        },
+        "geeky": {
+            "name": "Friki",
+            "keywords": [
+                "gafas",
+                "empollón",
+                "mirada fija"
+            ]
+        },
+        "smart": {
+            "name": "Listo",
+            "keywords": [
+                "bombilla",
+                "lengua",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Ligero",
+            "keywords": [
+                "puntiagudo",
+                "rubio",
+                "puchero"
+            ]
+        }
+    }
+}

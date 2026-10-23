@@ -1,0 +1,351 @@
+{
+    "name": "Di Jalan & di Kantor",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "buntalan",
+                "perjalanan",
+                "petualangan"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "ramuan",
+                "kacamata",
+                "laboratorium"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "penjelajah",
+                "topi",
+                "petualangan"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "bendera",
+                "wisata"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "pelaut",
+                "topi",
+                "perahu"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "koper",
+                "topi",
+                "perjalanan"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "kacamata pelindung",
+                "helm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "burung hantu",
+                "wisuda",
+                "pintar"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "alat pemadam api",
+                "keselamatan",
+                "gugup"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "helm proyek",
+                "konstruksi",
+                "rompi"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "topi jerami",
+                "peternakan",
+                "festa junina"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "helm",
+                "bintang",
+                "pembalap"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "masker",
+                "kesehatan",
+                "aman"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stopwatch",
+                "bando",
+                "latihan"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "suara",
+                "pemilu",
+                "surat suara"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "suara",
+                "tanda",
+                "pemilu"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medali",
+                "pita",
+                "kedip"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "pengiriman",
+                "helm",
+                "kotak"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenna",
+                "penjelajah"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "balon ucapan",
+                "obrolan",
+                "bicara"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "peluit",
+                "wasit",
+                "pelanggaran"
+            ]
+        },
+        "road-warrior": {
+            "name": "Pejuang Jalanan",
+            "keywords": [
+                "helm",
+                "kacamata pelindung",
+                "sayap"
+            ]
+        },
+        "limitless": {
+            "name": "Tanpa Batas",
+            "keywords": [
+                "jalan tol",
+                "perisai",
+                "rambu jalan"
+            ]
+        },
+        "map-master": {
+            "name": "Master Peta",
+            "keywords": [
+                "editor",
+                "peta",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Truk Raksasa",
+            "keywords": [
+                "truk",
+                "kacamata pelindung",
+                "pengangkut"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapten Terima Kasih",
+            "keywords": [
+                "terima kasih",
+                "kapten",
+                "kumis"
+            ]
+        },
+        "all-business": {
+            "name": "Serius Kerja",
+            "keywords": [
+                "jas",
+                "dasi",
+                "kerja"
+            ]
+        },
+        "business-casual": {
+            "name": "Kasual Rapi",
+            "keywords": [
+                "dasi",
+                "bando",
+                "lidah"
+            ]
+        },
+        "businessy": {
+            "name": "Ala Bisnis",
+            "keywords": [
+                "jas",
+                "kacamata",
+                "kantor"
+            ]
+        },
+        "bawse-y": {
+            "name": "Gaya Bos",
+            "keywords": [
+                "bos",
+                "kacamata hitam",
+                "jas"
+            ]
+        },
+        "productive": {
+            "name": "Produktif",
+            "keywords": [
+                "headset",
+                "kerja",
+                "kedip"
+            ]
+        },
+        "dialed-up": {
+            "name": "Dial-up",
+            "keywords": [
+                "komputer",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Menyamar",
+            "keywords": [
+                "penyamaran",
+                "kacamata",
+                "hidung"
+            ]
+        },
+        "sneaky": {
+            "name": "Diam-diam",
+            "keywords": [
+                "ninja",
+                "senyap",
+                "topeng"
+            ]
+        },
+        "survivalist": {
+            "name": "Penyintas",
+            "keywords": [
+                "bandana",
+                "bekas luka",
+                "tangguh"
+            ]
+        },
+        "speedy": {
+            "name": "Ngebut",
+            "keywords": [
+                "cepat",
+                "kecepatan",
+                "senyum miring"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "bersepeda",
+                "topi",
+                "cepat"
+            ]
+        },
+        "unstoppable": {
+            "name": "Tak Terhentikan",
+            "keywords": [
+                "cepat",
+                "berkilau",
+                "lari"
+            ]
+        },
+        "comfortable": {
+            "name": "Nyaman",
+            "keywords": [
+                "sepatu kets",
+                "sepatu",
+                "nyaman"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ramah Lingkungan",
+            "keywords": [
+                "bumi",
+                "planet",
+                "hijau"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "bumi",
+                "megafon",
+                "dunia"
+            ]
+        },
+        "victorious": {
+            "name": "Menang",
+            "keywords": [
+                "piala",
+                "pemenang",
+                "juara"
+            ]
+        },
+        "beautiful": {
+            "name": "Indah",
+            "keywords": [
+                "sepak bola",
+                "sepak bola",
+                "bola"
+            ]
+        },
+        "masterful": {
+            "name": "Ahli",
+            "keywords": [
+                "golf",
+                "bola",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "helm",
+                "sepeda motor",
+                "terburu-buru"
+            ]
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "name": "Vibrazioni",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "corna di montone",
+                "occhiali da sole",
+                "audace"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "occhiali da sole",
+                "roccia"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musica",
+                "note",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "tacco alto",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "sdraiato",
+                "cappellino da festa",
+                "rilassato"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "cuffia con microfono",
+                "ascolto",
+                "musica"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "lampadina",
+                "occhiali",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bolle",
+                "pozione",
+                "felice"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "scintilla",
+                "occhiali da sole",
+                "elegante"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "cuffie",
+                "leopardo",
+                "musica"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "microfono",
+                "karaoke",
+                "cantare"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "alieno",
+                "elmo",
+                "spazio"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "cuffie",
+                "musica",
+                "figo"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "berretto",
+                "al contrario",
+                "sguardo di traverso"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "cappello con elica",
+                "sciocco",
+                "bambino"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificatore",
+                "chitarra",
+                "musica"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tamburo",
+                "tamburello",
+                "occhiolino"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "lampadina",
+                "pensare",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mano",
+                "saluto militare",
+                "saluto"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "occhiali",
+                "intelligente",
+                "sorrisetto"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "occhiali",
+                "biondo",
+                "studio"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "mantello",
+                "eroe",
+                "occhiali"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "corona",
+                "occhiali da sole",
+                "re"
+            ]
+        },
+        "chill": {
+            "name": "Relax",
+            "keywords": [
+                "occhiali da sole",
+                "rilassato",
+                "figo"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Occhiali relax",
+            "keywords": [
+                "occhiali tondi",
+                "rilassato",
+                "figo"
+            ]
+        },
+        "extra": {
+            "name": "Esagerato",
+            "keywords": [
+                "occhiali da festa",
+                "lingua",
+                "esagerato"
+            ]
+        },
+        "feisty": {
+            "name": "Grintoso",
+            "keywords": [
+                "pugilato",
+                "guantone",
+                "lotta"
+            ]
+        },
+        "gutsy": {
+            "name": "Coraggioso",
+            "keywords": [
+                "occhiali da sole",
+                "duro",
+                "coraggioso"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "buone vibrazioni"
+            ]
+        },
+        "rad": {
+            "name": "Fighissimo",
+            "keywords": [
+                "occhiali da sole",
+                "figo",
+                "sorrisone"
+            ]
+        },
+        "savvy": {
+            "name": "Scaltro",
+            "keywords": [
+                "occhiali da sole",
+                "cappello di babbo natale",
+                "intelligente"
+            ]
+        },
+        "serene": {
+            "name": "Sereno",
+            "keywords": [
+                "occhiali tondi",
+                "calma",
+                "sorriso"
+            ]
+        },
+        "shady": {
+            "name": "Losco",
+            "keywords": [
+                "fedora",
+                "occhiali da sole",
+                "misterioso"
+            ]
+        },
+        "snappy": {
+            "name": "Elegante",
+            "keywords": [
+                "papillon",
+                "biscotto",
+                "sorrisetto"
+            ]
+        },
+        "strong": {
+            "name": "Forte",
+            "keywords": [
+                "x",
+                "occhiali da sole",
+                "duro"
+            ]
+        },
+        "wild": {
+            "name": "Selvaggio",
+            "keywords": [
+                "elmo",
+                "fulmine",
+                "occhiali da sole"
+            ]
+        },
+        "pumped": {
+            "name": "Carico!",
+            "keywords": [
+                "stereo portatile",
+                "musica",
+                "festa"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lampada lava",
+                "retrò",
+                "anni 70"
+            ]
+        },
+        "quirky": {
+            "name": "Stravagante",
+            "keywords": [
+                "cappello",
+                "colorato",
+                "divertente"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "cappello",
+                "figo"
+            ]
+        },
+        "leopard": {
+            "name": "Leopardo",
+            "keywords": [
+                "leopardo",
+                "occhiali da sole",
+                "selvaggio"
+            ]
+        },
+        "sidekick": {
+            "name": "Spalla",
+            "keywords": [
+                "compagno",
+                "barba",
+                "amico"
+            ]
+        },
+        "geeky": {
+            "name": "Secchione",
+            "keywords": [
+                "occhiali",
+                "nerd",
+                "sguardo fisso"
+            ]
+        },
+        "smart": {
+            "name": "Intelligente",
+            "keywords": [
+                "lampadina",
+                "lingua",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Leggero",
+            "keywords": [
+                "appuntito",
+                "biondo",
+                "broncio"
+            ]
+        }
+    }
+}

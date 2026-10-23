@@ -1,0 +1,351 @@
+{
+    "name": "Di Jalan Raya & Tempat Kerja",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "buntil",
+                "perjalanan",
+                "pengembaraan"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "ramuan",
+                "cermin mata",
+                "makmal"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "penjelajah",
+                "topi",
+                "pengembaraan"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "bendera",
+                "melancong"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "kelasi",
+                "topi",
+                "bot"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "beg pakaian",
+                "topi",
+                "perjalanan"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "juruterbang",
+                "goggle",
+                "topi keledar"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "burung hantu",
+                "konvokesyen",
+                "pandai"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "alat pemadam api",
+                "keselamatan",
+                "gementar"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "topi keledar kerja",
+                "pembinaan",
+                "jaket"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "topi jerami",
+                "ladang",
+                "pesta jun"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "topi keledar",
+                "bintang-bintang",
+                "pelumba"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "pelitup muka",
+                "kesihatan",
+                "selamat"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "jam randik",
+                "ikat kepala",
+                "latihan"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "undi",
+                "pilihan raya",
+                "kertas undi"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "isyarat",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "undi",
+                "tanda",
+                "pilihan raya"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "pingat",
+                "reben",
+                "kenyit mata"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "penghantaran",
+                "topi keledar",
+                "kotak"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antena",
+                "penjelajah"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "belon pertuturan",
+                "sembang",
+                "cakap"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "wisel",
+                "pengadil",
+                "kesalahan"
+            ]
+        },
+        "road-warrior": {
+            "name": "Pahlawan Jalan Raya",
+            "keywords": [
+                "topi keledar",
+                "goggle",
+                "sayap"
+            ]
+        },
+        "limitless": {
+            "name": "Tanpa had",
+            "keywords": [
+                "lebuh raya",
+                "perisai",
+                "papan tanda jalan"
+            ]
+        },
+        "map-master": {
+            "name": "Pakar Peta",
+            "keywords": [
+                "editor",
+                "peta",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega Pengangkut",
+            "keywords": [
+                "lori",
+                "goggle",
+                "pengangkut"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapten Terima Kasih",
+            "keywords": [
+                "terima kasih",
+                "kapten",
+                "misai"
+            ]
+        },
+        "all-business": {
+            "name": "Serius Bekerja",
+            "keywords": [
+                "sut",
+                "tali leher",
+                "kerja"
+            ]
+        },
+        "business-casual": {
+            "name": "Santai Formal",
+            "keywords": [
+                "tali leher",
+                "ikat kepala",
+                "lidah"
+            ]
+        },
+        "businessy": {
+            "name": "Gaya Perniagaan",
+            "keywords": [
+                "sut",
+                "cermin mata",
+                "pejabat"
+            ]
+        },
+        "bawse-y": {
+            "name": "Gaya Bos",
+            "keywords": [
+                "bos",
+                "cermin mata hitam",
+                "sut"
+            ]
+        },
+        "productive": {
+            "name": "Produktif",
+            "keywords": [
+                "set kepala",
+                "kerja",
+                "kenyit mata"
+            ]
+        },
+        "dialed-up": {
+            "name": "Dail-up",
+            "keywords": [
+                "komputer",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Penyamaran",
+            "keywords": [
+                "menyamar",
+                "cermin mata",
+                "hidung"
+            ]
+        },
+        "sneaky": {
+            "name": "Senyap-senyap",
+            "keywords": [
+                "ninja",
+                "senyap",
+                "topeng"
+            ]
+        },
+        "survivalist": {
+            "name": "Pakar Survival",
+            "keywords": [
+                "bandana",
+                "parut",
+                "kuat"
+            ]
+        },
+        "speedy": {
+            "name": "Pantas",
+            "keywords": [
+                "laju",
+                "kelajuan",
+                "senyum sinis"
+            ]
+        },
+        "sprinteur": {
+            "name": "Pecut",
+            "keywords": [
+                "berbasikal",
+                "topi",
+                "laju"
+            ]
+        },
+        "unstoppable": {
+            "name": "Tidak Terhenti",
+            "keywords": [
+                "laju",
+                "berkilau",
+                "lari"
+            ]
+        },
+        "comfortable": {
+            "name": "Selesa",
+            "keywords": [
+                "kasut sukan",
+                "kasut",
+                "selesa"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Mesra Alam",
+            "keywords": [
+                "bumi",
+                "planet",
+                "hijau"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "bumi",
+                "megafon",
+                "dunia"
+            ]
+        },
+        "victorious": {
+            "name": "Menang",
+            "keywords": [
+                "trofi",
+                "pemenang",
+                "juara"
+            ]
+        },
+        "beautiful": {
+            "name": "Cantik",
+            "keywords": [
+                "bola sepak",
+                "bola sepak",
+                "bola"
+            ]
+        },
+        "masterful": {
+            "name": "Mahir",
+            "keywords": [
+                "golf",
+                "bola",
+                "sukan"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "topi keledar",
+                "motosikal",
+                "tergesa-gesa"
+            ]
+        }
+    }
+}

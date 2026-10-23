@@ -1,0 +1,360 @@
+{
+    "name": "Cảm xúc",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "cổ điển",
+                "xin chào",
+                "vui"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "nước mắt",
+                "buồn",
+                "mũ ngủ"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "trống",
+                "trung lập",
+                "trơn"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "yêu",
+                "trái tim",
+                "ngọt"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "cha mẹ",
+                "em bé",
+                "gia đình"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "khóc",
+                "buồn bực",
+                "tuyệt vọng"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "ốm",
+                "buồn nôn",
+                "bệnh"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "ngượng",
+                "khó chịu",
+                "ôi"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "háo hức",
+                "hoan hô",
+                "cánh"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "vui",
+                "cười",
+                "mũ"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "giận",
+                "bực",
+                "cau mày"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "câu hỏi",
+                "gì",
+                "nghi ngờ"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "hoa sen",
+                "thiền định",
+                "bình tĩnh"
+            ]
+        },
+        "amazing": {
+            "name": "Tuyệt vời",
+            "keywords": [
+                "wow",
+                "mắt sao",
+                "tuyệt"
+            ]
+        },
+        "amused": {
+            "name": "Thích thú",
+            "keywords": [
+                "trợn mắt",
+                "sao cũng được",
+                "cười khẩy"
+            ]
+        },
+        "antsy": {
+            "name": "Bồn chồn",
+            "keywords": [
+                "sốt ruột",
+                "căng thẳng",
+                "ôi"
+            ]
+        },
+        "bored": {
+            "name": "Chán",
+            "keywords": [
+                "thường thôi",
+                "chán",
+                "chán òm"
+            ]
+        },
+        "carsick": {
+            "name": "Say xe",
+            "keywords": [
+                "ốm",
+                "buồn nôn",
+                "say xe"
+            ]
+        },
+        "cheeky": {
+            "name": "Láu lỉnh",
+            "keywords": [
+                "nháy mắt",
+                "lè lưỡi",
+                "đùa"
+            ]
+        },
+        "depressed": {
+            "name": "Chán nản",
+            "keywords": [
+                "buồn",
+                "buồn bã",
+                "xanh dương"
+            ]
+        },
+        "exasperated": {
+            "name": "Bực bội",
+            "keywords": [
+                "chán ngấy",
+                "thở dài",
+                "bực"
+            ]
+        },
+        "flustered": {
+            "name": "Bối rối",
+            "keywords": [
+                "sốc",
+                "hét",
+                "ôi không"
+            ]
+        },
+        "funny": {
+            "name": "Hài hước",
+            "keywords": [
+                "cười",
+                "lol",
+                "khóc vì cười"
+            ]
+        },
+        "furious": {
+            "name": "Giận dữ",
+            "keywords": [
+                "thịnh nộ",
+                "chửi thề",
+                "tức giận"
+            ]
+        },
+        "grumpy": {
+            "name": "Cau có",
+            "keywords": [
+                "cáu kỉnh",
+                "bực",
+                "tai nghe"
+            ]
+        },
+        "happy": {
+            "name": "Vui vẻ",
+            "keywords": [
+                "niềm vui",
+                "cười",
+                "mỉm cười"
+            ]
+        },
+        "hilarious": {
+            "name": "Cười lăn",
+            "keywords": [
+                "lol",
+                "cười",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Khiêm tốn",
+            "keywords": [
+                "biết ơn",
+                "bình tĩnh",
+                "cánh"
+            ]
+        },
+        "joyful": {
+            "name": "Hân hoan",
+            "keywords": [
+                "cười",
+                "vui",
+                "phù"
+            ]
+        },
+        "judgmental": {
+            "name": "Phán xét",
+            "keywords": [
+                "không tán thành",
+                "cau mày",
+                "phán xét"
+            ]
+        },
+        "loved-up": {
+            "name": "Đang yêu",
+            "keywords": [
+                "đang yêu",
+                "mắt trái tim",
+                "phải lòng"
+            ]
+        },
+        "mind-blown": {
+            "name": "Choáng váng",
+            "keywords": [
+                "sốc",
+                "wow",
+                "nổ tung"
+            ]
+        },
+        "moody": {
+            "name": "Ủ rũ",
+            "keywords": [
+                "thường thôi",
+                "nét ngoằn ngoèo",
+                "hộp"
+            ]
+        },
+        "nervous": {
+            "name": "Lo lắng",
+            "keywords": [
+                "lo âu",
+                "mồ hôi",
+                "lo lắng"
+            ]
+        },
+        "obsessed": {
+            "name": "Ám ảnh",
+            "keywords": [
+                "mắt sao",
+                "la hét",
+                "người hâm mộ"
+            ]
+        },
+        "sad": {
+            "name": "Buồn",
+            "keywords": [
+                "nước mắt",
+                "khóc",
+                "buồn bã"
+            ]
+        },
+        "shy": {
+            "name": "Ngại ngùng",
+            "keywords": [
+                "đỏ mặt",
+                "dễ thương",
+                "xấu hổ"
+            ]
+        },
+        "skeptical": {
+            "name": "Hoài nghi",
+            "keywords": [
+                "nghi ngờ",
+                "không ấn tượng",
+                "thật sao"
+            ]
+        },
+        "spacey": {
+            "name": "Lơ đãng",
+            "keywords": [
+                "mất tập trung",
+                "mơ mộng",
+                "lơ đễnh"
+            ]
+        },
+        "tired": {
+            "name": "Mệt",
+            "keywords": [
+                "nhãn cầu",
+                "đỏ ngầu",
+                "buồn ngủ"
+            ]
+        },
+        "unproductive": {
+            "name": "Kém hiệu quả",
+            "keywords": [
+                "giấy ghi chú",
+                "lười",
+                "xong"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "bình tĩnh",
+                "thoải mái",
+                "bình yên"
+            ]
+        },
+        "mischievous": {
+            "name": "Nghịch ngợm",
+            "keywords": [
+                "ồ",
+                "ngạc nhiên",
+                "hộp"
+            ]
+        },
+        "wicked": {
+            "name": "Xấu xa",
+            "keywords": [
+                "cười gian",
+                "nghịch ngợm",
+                "hộp"
+            ]
+        },
+        "motivated": {
+            "name": "Có động lực",
+            "keywords": [
+                "háo hức",
+                "đi thôi",
+                "tóc"
+            ]
+        },
+        "proud": {
+            "name": "Tự hào",
+            "keywords": [
+                "tự hào",
+                "cầu vồng",
+                "trái tim"
+            ]
+        }
+    }
+}

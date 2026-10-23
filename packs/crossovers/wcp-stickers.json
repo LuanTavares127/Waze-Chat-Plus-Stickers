@@ -1,0 +1,401 @@
+{
+    "format": 1,
+    "id": "crossovers",
+    "name": "Crossovers",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "batman",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "210",
+            "name": "210",
+            "keywords": [
+                "symbiote",
+                "teeth",
+                "villain"
+            ],
+            "emojis": [
+                "🖤",
+                "😈"
+            ]
+        },
+        {
+            "id": "224",
+            "name": "224",
+            "keywords": [
+                "fraggle",
+                "puppet",
+                "happy"
+            ],
+            "emojis": [
+                "😄"
+            ]
+        },
+        {
+            "id": "233",
+            "name": "233",
+            "keywords": [
+                "fraggle",
+                "glasses",
+                "hair"
+            ],
+            "emojis": [
+                "😄"
+            ]
+        },
+        {
+            "id": "243",
+            "name": "243",
+            "keywords": [
+                "fraggle",
+                "puppet",
+                "nervous"
+            ],
+            "emojis": [
+                "😬"
+            ]
+        },
+        {
+            "id": "253",
+            "name": "253",
+            "keywords": [
+                "fraggle",
+                "hat",
+                "laugh"
+            ],
+            "emojis": [
+                "😄"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "63",
+            "keywords": [
+                "minion",
+                "one eye",
+                "banana"
+            ],
+            "emojis": [
+                "🍌",
+                "😊"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "64",
+            "keywords": [
+                "minion",
+                "one eye",
+                "honeycomb"
+            ],
+            "emojis": [
+                "🍌",
+                "😐"
+            ]
+        },
+        {
+            "id": "ed",
+            "name": "Ed - Loyal",
+            "keywords": [
+                "minion",
+                "goggles",
+                "loyal"
+            ],
+            "emojis": [
+                "🍌",
+                "😮"
+            ]
+        },
+        {
+            "id": "henry",
+            "name": "Henry - Courageous",
+            "keywords": [
+                "minion",
+                "goggles",
+                "brave"
+            ],
+            "emojis": [
+                "🍌",
+                "😄"
+            ]
+        },
+        {
+            "id": "james",
+            "name": "James - Artistic",
+            "keywords": [
+                "minion",
+                "art",
+                "paint"
+            ],
+            "emojis": [
+                "🍌",
+                "🎨"
+            ]
+        },
+        {
+            "id": "alliance",
+            "name": "Alliance",
+            "keywords": [
+                "helmet",
+                "armor",
+                "warrior"
+            ],
+            "emojis": [
+                "🪖",
+                "⚔️"
+            ]
+        },
+        {
+            "id": "batman",
+            "name": "Batman",
+            "keywords": [
+                "bat",
+                "hero",
+                "gotham"
+            ],
+            "emojis": [
+                "🦇"
+            ]
+        },
+        {
+            "id": "riddler",
+            "name": "Riddler",
+            "keywords": [
+                "question mark",
+                "villain",
+                "mask"
+            ],
+            "emojis": [
+                "❓",
+                "🦹"
+            ]
+        },
+        {
+            "id": "deadpool",
+            "name": "Deadpool",
+            "keywords": [
+                "mask",
+                "antihero",
+                "red"
+            ],
+            "emojis": [
+                "🦸",
+                "❤️"
+            ]
+        },
+        {
+            "id": "brave",
+            "name": "Brave",
+            "keywords": [
+                "sponge",
+                "pirate",
+                "eye patch"
+            ],
+            "emojis": [
+                "🧽",
+                "🏴‍☠️"
+            ]
+        },
+        {
+            "id": "chase",
+            "name": "Chase",
+            "keywords": [
+                "police",
+                "dog",
+                "pup"
+            ],
+            "emojis": [
+                "🐶",
+                "👮"
+            ]
+        },
+        {
+            "id": "marshall",
+            "name": "Marshall",
+            "keywords": [
+                "firefighter",
+                "dog",
+                "pup"
+            ],
+            "emojis": [
+                "🐶",
+                "🚒"
+            ]
+        },
+        {
+            "id": "skye",
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "dog",
+                "pup"
+            ],
+            "emojis": [
+                "🐶",
+                "🚁"
+            ]
+        },
+        {
+            "id": "energetic",
+            "name": "Energetic",
+            "keywords": [
+                "hedgehog",
+                "fast",
+                "blue"
+            ],
+            "emojis": [
+                "🦔",
+                "💨"
+            ]
+        },
+        {
+            "id": "doozer",
+            "name": "Doozer",
+            "keywords": [
+                "builder",
+                "helmet",
+                "construction"
+            ],
+            "emojis": [
+                "👷",
+                "🏗️"
+            ]
+        },
+        {
+            "id": "red",
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "red hair",
+                "laugh"
+            ],
+            "emojis": [
+                "😄"
+            ]
+        },
+        {
+            "id": "horde",
+            "name": "Horde",
+            "keywords": [
+                "orc",
+                "tusks",
+                "warrior"
+            ],
+            "emojis": [
+                "👹",
+                "⚔️"
+            ]
+        },
+        {
+            "id": "master-chief",
+            "name": "The Master Chief",
+            "keywords": [
+                "spartan",
+                "helmet",
+                "soldier"
+            ],
+            "emojis": [
+                "🪖",
+                "🎮"
+            ]
+        },
+        {
+            "id": "escharum",
+            "name": "Escharum",
+            "keywords": [
+                "brute",
+                "armor",
+                "villain"
+            ],
+            "emojis": [
+                "👹",
+                "🎮"
+            ]
+        },
+        {
+            "id": "jega",
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "armor",
+                "horns"
+            ],
+            "emojis": [
+                "👹",
+                "🎮"
+            ]
+        },
+        {
+            "id": "laurette",
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "helmet",
+                "visor"
+            ],
+            "emojis": [
+                "🪖",
+                "🎮"
+            ]
+        },
+        {
+            "id": "void",
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "gem",
+                "villain"
+            ],
+            "emojis": [
+                "😈",
+                "💎"
+            ]
+        }
+    ]
+}

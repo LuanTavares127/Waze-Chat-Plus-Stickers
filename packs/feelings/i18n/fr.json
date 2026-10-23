@@ -1,0 +1,360 @@
+{
+    "name": "Émotions",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "classique",
+                "bonjour",
+                "heureux"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "larme",
+                "triste",
+                "bonnet de nuit"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "vide",
+                "neutre",
+                "simple"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "amour",
+                "cœur",
+                "doux"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "parent",
+                "bébé",
+                "famille"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "pleurs",
+                "contrarié",
+                "désespoir"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "malade",
+                "nausée",
+                "souffrant"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "gêné",
+                "mal à l'aise",
+                "beurk"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "excité",
+                "youpi",
+                "ailes"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "heureux",
+                "rire",
+                "chapeau"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "fâché",
+                "agacé",
+                "moue"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "question",
+                "quoi",
+                "doute"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "méditation",
+                "calme"
+            ]
+        },
+        "amazing": {
+            "name": "Incroyable",
+            "keywords": [
+                "waouh",
+                "yeux étoilés",
+                "génial"
+            ]
+        },
+        "amused": {
+            "name": "Amusé",
+            "keywords": [
+                "lever les yeux au ciel",
+                "peu importe",
+                "sourire en coin"
+            ]
+        },
+        "antsy": {
+            "name": "Impatient",
+            "keywords": [
+                "impatient",
+                "stressé",
+                "beurk"
+            ]
+        },
+        "bored": {
+            "name": "Ennuyé",
+            "keywords": [
+                "bof",
+                "ennuyeux",
+                "blabla"
+            ]
+        },
+        "carsick": {
+            "name": "Mal des transports",
+            "keywords": [
+                "malade",
+                "nausée",
+                "mal des transports"
+            ]
+        },
+        "cheeky": {
+            "name": "Coquin",
+            "keywords": [
+                "clin d'œil",
+                "langue",
+                "blague"
+            ]
+        },
+        "depressed": {
+            "name": "Déprimé",
+            "keywords": [
+                "triste",
+                "abattu",
+                "bleu"
+            ]
+        },
+        "exasperated": {
+            "name": "Exaspéré",
+            "keywords": [
+                "ras-le-bol",
+                "soupir",
+                "agacé"
+            ]
+        },
+        "flustered": {
+            "name": "Paniqué",
+            "keywords": [
+                "choqué",
+                "crier",
+                "oh non"
+            ]
+        },
+        "funny": {
+            "name": "Drôle",
+            "keywords": [
+                "rire",
+                "mdr",
+                "larmes de joie"
+            ]
+        },
+        "furious": {
+            "name": "Furieux",
+            "keywords": [
+                "rage",
+                "jurons",
+                "en colère"
+            ]
+        },
+        "grumpy": {
+            "name": "Grincheux",
+            "keywords": [
+                "ronchon",
+                "agacé",
+                "casque audio"
+            ]
+        },
+        "happy": {
+            "name": "Heureux",
+            "keywords": [
+                "joie",
+                "rire",
+                "sourire"
+            ]
+        },
+        "hilarious": {
+            "name": "Hilarant",
+            "keywords": [
+                "mdr",
+                "rire",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Humble",
+            "keywords": [
+                "reconnaissant",
+                "calme",
+                "ailes"
+            ]
+        },
+        "joyful": {
+            "name": "Joyeux",
+            "keywords": [
+                "rire",
+                "heureux",
+                "ouf"
+            ]
+        },
+        "judgmental": {
+            "name": "Critique",
+            "keywords": [
+                "désapprobation",
+                "moue",
+                "jugement"
+            ]
+        },
+        "loved-up": {
+            "name": "Amoureux",
+            "keywords": [
+                "amoureux",
+                "yeux en cœur",
+                "coup de cœur"
+            ]
+        },
+        "mind-blown": {
+            "name": "Bouche bée",
+            "keywords": [
+                "choqué",
+                "waouh",
+                "explosion"
+            ]
+        },
+        "moody": {
+            "name": "Lunatique",
+            "keywords": [
+                "bof",
+                "gribouillis",
+                "boîte"
+            ]
+        },
+        "nervous": {
+            "name": "Nerveux",
+            "keywords": [
+                "anxieux",
+                "sueur",
+                "inquiet"
+            ]
+        },
+        "obsessed": {
+            "name": "Obsédé",
+            "keywords": [
+                "yeux étoilés",
+                "cri",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Triste",
+            "keywords": [
+                "larme",
+                "pleurer",
+                "abattu"
+            ]
+        },
+        "shy": {
+            "name": "Timide",
+            "keywords": [
+                "rougir",
+                "mignon",
+                "gêné"
+            ]
+        },
+        "skeptical": {
+            "name": "Sceptique",
+            "keywords": [
+                "doute",
+                "pas impressionné",
+                "vraiment"
+            ]
+        },
+        "spacey": {
+            "name": "Dans la lune",
+            "keywords": [
+                "distrait",
+                "rêverie",
+                "absent"
+            ]
+        },
+        "tired": {
+            "name": "Fatigué",
+            "keywords": [
+                "globe oculaire",
+                "yeux injectés",
+                "endormi"
+            ]
+        },
+        "unproductive": {
+            "name": "Improductif",
+            "keywords": [
+                "post-it",
+                "paresseux",
+                "terminé"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "calme",
+                "détendu",
+                "paix"
+            ]
+        },
+        "mischievous": {
+            "name": "Espiègle",
+            "keywords": [
+                "oh",
+                "surpris",
+                "boîte"
+            ]
+        },
+        "wicked": {
+            "name": "Machiavélique",
+            "keywords": [
+                "sourire diabolique",
+                "malice",
+                "boîte"
+            ]
+        },
+        "motivated": {
+            "name": "Motivé",
+            "keywords": [
+                "excité",
+                "on y va",
+                "cheveux"
+            ]
+        },
+        "proud": {
+            "name": "Fier",
+            "keywords": [
+                "fierté",
+                "arc-en-ciel",
+                "cœur"
+            ]
+        }
+    }
+}

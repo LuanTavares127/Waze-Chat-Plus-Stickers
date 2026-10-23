@@ -1,0 +1,214 @@
+{
+    "name": "Crossovery",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minionek",
+                "jedno oko",
+                "banan"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minionek",
+                "jedno oko",
+                "plaster miodu"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiont",
+                "zęby",
+                "złoczyńca"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "pacynka",
+                "szczęśliwy"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "okulary",
+                "włosy"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "pacynka",
+                "zdenerwowany"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "kapelusz",
+                "śmiech"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Lojalny",
+            "keywords": [
+                "minionek",
+                "gogle",
+                "lojalny"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Odważny",
+            "keywords": [
+                "minionek",
+                "gogle",
+                "odważny"
+            ]
+        },
+        "james": {
+            "name": "James - Artystyczny",
+            "keywords": [
+                "minionek",
+                "sztuka",
+                "farba"
+            ]
+        },
+        "alliance": {
+            "name": "Sojusz",
+            "keywords": [
+                "hełm",
+                "zbroja",
+                "wojownik"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "nietoperz",
+                "bohater",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "znak zapytania",
+                "złoczyńca",
+                "maska"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maska",
+                "antybohater",
+                "czerwony"
+            ]
+        },
+        "brave": {
+            "name": "Dzielny",
+            "keywords": [
+                "gąbka",
+                "pirat",
+                "opaska na oko"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policja",
+                "pies",
+                "piesek"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "strażak",
+                "pies",
+                "piesek"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "pies",
+                "piesek"
+            ]
+        },
+        "energetic": {
+            "name": "Energiczny",
+            "keywords": [
+                "jeż",
+                "szybki",
+                "niebieski"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "budowniczy",
+                "hełm",
+                "budowa"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "rude włosy",
+                "śmiech"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "kły",
+                "wojownik"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartanin",
+                "hełm",
+                "żołnierz"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "brutal",
+                "zbroja",
+                "złoczyńca"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elita",
+                "zbroja",
+                "rogi"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartanin",
+                "hełm",
+                "przyłbica"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "klejnot",
+                "złoczyńca"
+            ]
+        }
+    }
+}

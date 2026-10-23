@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "ramhorings",
+                "sonbril",
+                "vrymoedig"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "kopdoek",
+                "sonbril",
+                "rots"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musiek",
+                "note",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "hoëhakskoen",
+                "mode",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "lê",
+                "partytjiehoed",
+                "ontspanne"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "kopstuk",
+                "luister",
+                "musiek"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "gloeilamp",
+                "bril",
+                "idee"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "borrels",
+                "drankie",
+                "bly"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "vonkel",
+                "sonbril",
+                "deftig"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "oorfone",
+                "luiperd",
+                "musiek"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofoon",
+                "karaoke",
+                "sing"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "ruimtewese",
+                "helm",
+                "ruimte"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "oorfone",
+                "musiek",
+                "koel"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "pet",
+                "agteruit",
+                "syblik"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "propellerpet",
+                "simpel",
+                "kind"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "versterker",
+                "kitaar",
+                "musiek"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tromp",
+                "tamboeryn",
+                "knipoog"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "gloeilamp",
+                "dink",
+                "idee"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "hand",
+                "salueer",
+                "groet"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "bril",
+                "slim",
+                "spottende glimlag"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "bril",
+                "blond",
+                "studeer"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "kappie",
+                "held",
+                "bril"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "kroon",
+                "sonbril",
+                "koning"
+            ]
+        },
+        "chill": {
+            "name": "Ontspan",
+            "keywords": [
+                "sonbril",
+                "ontspanne",
+                "koel"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Ontspanbril",
+            "keywords": [
+                "ronde bril",
+                "ontspanne",
+                "koel"
+            ]
+        },
+        "extra": {
+            "name": "Ekstra",
+            "keywords": [
+                "partytjiebril",
+                "tong",
+                "oordrewe"
+            ]
+        },
+        "feisty": {
+            "name": "Vuurvreter",
+            "keywords": [
+                "boks",
+                "handskoen",
+                "baklei"
+            ]
+        },
+        "gutsy": {
+            "name": "Vaalbooi",
+            "keywords": [
+                "sonbril",
+                "taai",
+                "dapper"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "goeie vibes"
+            ]
+        },
+        "rad": {
+            "name": "Wonderlik",
+            "keywords": [
+                "sonbril",
+                "koel",
+                "gryns"
+            ]
+        },
+        "savvy": {
+            "name": "Skrander",
+            "keywords": [
+                "sonbril",
+                "kersmus",
+                "slim"
+            ]
+        },
+        "serene": {
+            "name": "Rustig",
+            "keywords": [
+                "ronde bril",
+                "kalm",
+                "glimlag"
+            ]
+        },
+        "shady": {
+            "name": "Verdag",
+            "keywords": [
+                "fedora",
+                "sonbril",
+                "geheimsinnig"
+            ]
+        },
+        "snappy": {
+            "name": "Spoggerig",
+            "keywords": [
+                "strikdas",
+                "koekie",
+                "spottende glimlag"
+            ]
+        },
+        "strong": {
+            "name": "Sterk",
+            "keywords": [
+                "x",
+                "sonbril",
+                "taai"
+            ]
+        },
+        "wild": {
+            "name": "Wild",
+            "keywords": [
+                "helm",
+                "weerlig",
+                "sonbril"
+            ]
+        },
+        "pumped": {
+            "name": "Opgewonde!",
+            "keywords": [
+                "klankkas",
+                "musiek",
+                "partytjie"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lawalamp",
+                "retro",
+                "jare 70"
+            ]
+        },
+        "quirky": {
+            "name": "Eiesoortig",
+            "keywords": [
+                "hoed",
+                "kleurryk",
+                "snaaks"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombië",
+                "hoed",
+                "koel"
+            ]
+        },
+        "leopard": {
+            "name": "Luiperd",
+            "keywords": [
+                "luiperd",
+                "sonbril",
+                "wild"
+            ]
+        },
+        "sidekick": {
+            "name": "Maat",
+            "keywords": [
+                "vennoot",
+                "baard",
+                "pêl"
+            ]
+        },
+        "geeky": {
+            "name": "Nerdagtig",
+            "keywords": [
+                "bril",
+                "nerd",
+                "staar"
+            ]
+        },
+        "smart": {
+            "name": "Slim",
+            "keywords": [
+                "gloeilamp",
+                "tong",
+                "idee"
+            ]
+        },
+        "light": {
+            "name": "Lig",
+            "keywords": [
+                "stekelrig",
+                "blond",
+                "pruil"
+            ]
+        }
+    }
+}

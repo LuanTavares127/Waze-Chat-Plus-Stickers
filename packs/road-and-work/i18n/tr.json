@@ -1,0 +1,351 @@
+{
+    "name": "Yolda ve İşte",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "bohça",
+                "gezi",
+                "macera"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "iksir",
+                "gözlük",
+                "laboratuvar"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "kâşif",
+                "şapka",
+                "macera"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "bayrak",
+                "gezi"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "denizci",
+                "kasket",
+                "tekne"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "bavul",
+                "şapka",
+                "gezi"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "koruyucu gözlük",
+                "kask"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "baykuş",
+                "mezuniyet",
+                "akıllı"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "yangın söndürücü",
+                "güvenlik",
+                "gergin"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "baret",
+                "inşaat",
+                "yelek"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "hasır şapka",
+                "çiftlik",
+                "haziran şenliği"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "kask",
+                "yıldızlar",
+                "yarışçı"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "yüz maskesi",
+                "sağlık",
+                "güvenli"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "kronometre",
+                "saç bandı",
+                "antrenman"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "oy",
+                "seçim",
+                "oy pusulası"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "sinyal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "oy",
+                "işaret",
+                "seçim"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "madalya",
+                "kurdele",
+                "göz kırpma"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "teslimat",
+                "kask",
+                "kutu"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "anten",
+                "kâşif"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "konuşma balonu",
+                "sohbet",
+                "konuşmak"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "düdük",
+                "hakem",
+                "faul"
+            ]
+        },
+        "road-warrior": {
+            "name": "Yol Savaşçısı",
+            "keywords": [
+                "kask",
+                "koruyucu gözlük",
+                "kanat"
+            ]
+        },
+        "limitless": {
+            "name": "Sınırsız",
+            "keywords": [
+                "otoyol",
+                "kalkan",
+                "trafik işareti"
+            ]
+        },
+        "map-master": {
+            "name": "Harita Ustası",
+            "keywords": [
+                "editör",
+                "harita",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega Nakliyeci",
+            "keywords": [
+                "kamyon",
+                "koruyucu gözlük",
+                "nakliyeci"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kaptan Teşekkürler",
+            "keywords": [
+                "teşekkürler",
+                "kaptan",
+                "bıyık"
+            ]
+        },
+        "all-business": {
+            "name": "Tam İş",
+            "keywords": [
+                "takım elbise",
+                "kravat",
+                "iş"
+            ]
+        },
+        "business-casual": {
+            "name": "İş Rahat",
+            "keywords": [
+                "kravat",
+                "saç bandı",
+                "dil"
+            ]
+        },
+        "businessy": {
+            "name": "İş Adamı",
+            "keywords": [
+                "takım elbise",
+                "gözlük",
+                "ofis"
+            ]
+        },
+        "bawse-y": {
+            "name": "Patron Gibi",
+            "keywords": [
+                "patron",
+                "güneş gözlüğü",
+                "takım elbise"
+            ]
+        },
+        "productive": {
+            "name": "Üretken",
+            "keywords": [
+                "mikrofonlu kulaklık",
+                "iş",
+                "göz kırpma"
+            ]
+        },
+        "dialed-up": {
+            "name": "Çevirmeli",
+            "keywords": [
+                "bilgisayar",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Gizli",
+            "keywords": [
+                "kılık değiştirme",
+                "gözlük",
+                "burun"
+            ]
+        },
+        "sneaky": {
+            "name": "Sinsi Ninja",
+            "keywords": [
+                "ninja",
+                "gizlilik",
+                "maske"
+            ]
+        },
+        "survivalist": {
+            "name": "Hayatta Kalan",
+            "keywords": [
+                "bandana",
+                "yara izi",
+                "sert"
+            ]
+        },
+        "speedy": {
+            "name": "Hızlı",
+            "keywords": [
+                "hızlı",
+                "hız",
+                "sırıtma"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "bisiklet",
+                "kasket",
+                "hızlı"
+            ]
+        },
+        "unstoppable": {
+            "name": "Durdurulamaz",
+            "keywords": [
+                "hızlı",
+                "ışıltı",
+                "koşmak"
+            ]
+        },
+        "comfortable": {
+            "name": "Rahat",
+            "keywords": [
+                "spor ayakkabı",
+                "ayakkabı",
+                "rahat"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Çevre Dostu",
+            "keywords": [
+                "dünya",
+                "gezegen",
+                "yeşil"
+            ]
+        },
+        "global": {
+            "name": "Küresel",
+            "keywords": [
+                "dünya",
+                "megafon",
+                "dünya"
+            ]
+        },
+        "victorious": {
+            "name": "Zafer Kazanmış",
+            "keywords": [
+                "kupa",
+                "kazanan",
+                "şampiyon"
+            ]
+        },
+        "beautiful": {
+            "name": "Güzel",
+            "keywords": [
+                "futbol",
+                "futbol",
+                "top"
+            ]
+        },
+        "masterful": {
+            "name": "Ustaca",
+            "keywords": [
+                "golf",
+                "top",
+                "spor"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "kask",
+                "motosiklet",
+                "acele"
+            ]
+        }
+    }
+}

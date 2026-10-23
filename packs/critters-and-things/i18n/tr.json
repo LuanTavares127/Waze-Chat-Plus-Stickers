@@ -1,0 +1,358 @@
+{
+    "name": "Hayvanlar ve Eşyalar",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "kaya",
+                "taş",
+                "hızlı"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "ayı",
+                "kova şapka",
+                "gülümseme"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "kuş",
+                "rahat"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "beyin",
+                "akıllı",
+                "düşünmek"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozor",
+                "diş",
+                "ısırık"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "köpek diş",
+                "diş",
+                "sırıtış"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "inek",
+                "möö",
+                "çiftlik"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "köpek",
+                "korgi",
+                "taç"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "köpek",
+                "korgi",
+                "göz kırpma"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "köpek",
+                "korgi",
+                "taç"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "ejderha",
+                "kırmızı",
+                "canavar"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "el",
+                "göz",
+                "koruma"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "göz",
+                "işaret",
+                "gizem"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "çaydanlık",
+                "çay",
+                "elma"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "kuş",
+                "kasket",
+                "konuşmak"
+            ]
+        },
+        "8-bit": {
+            "name": "8 Bit",
+            "keywords": [
+                "piksel",
+                "retro",
+                "oyun"
+            ]
+        },
+        "aware": {
+            "name": "Farkında",
+            "keywords": [
+                "gökkuşağı",
+                "sakin",
+                "renkler"
+            ]
+        },
+        "baby": {
+            "name": "Bebek",
+            "keywords": [
+                "emzik",
+                "bebek",
+                "sevimli"
+            ]
+        },
+        "blobby": {
+            "name": "Şekilsiz",
+            "keywords": [
+                "yumak",
+                "baloncuk",
+                "yıldızlar"
+            ]
+        },
+        "bright": {
+            "name": "Parlak",
+            "keywords": [
+                "yıldız",
+                "parlamak",
+                "gökkuşağı"
+            ]
+        },
+        "calm": {
+            "name": "Sakin",
+            "keywords": [
+                "bulut",
+                "kasket",
+                "gökyüzü"
+            ]
+        },
+        "captivated": {
+            "name": "Büyülenmiş",
+            "keywords": [
+                "kamera",
+                "fotoğraf",
+                "resim"
+            ]
+        },
+        "cat": {
+            "name": "Kedi",
+            "keywords": [
+                "kedi",
+                "kedicik",
+                "miyav"
+            ]
+        },
+        "cell": {
+            "name": "Hücre",
+            "keywords": [
+                "hücre",
+                "biyoloji",
+                "yumak"
+            ]
+        },
+        "centered": {
+            "name": "Dengeli",
+            "keywords": [
+                "taşlar",
+                "denge",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kozmik",
+            "keywords": [
+                "anten",
+                "uzaylı",
+                "mutlu"
+            ]
+        },
+        "destemido": {
+            "name": "Korkusuz",
+            "keywords": [
+                "kaktüs",
+                "bitki",
+                "sert"
+            ]
+        },
+        "dog": {
+            "name": "Köpek",
+            "keywords": [
+                "köpek",
+                "yavru köpek",
+                "dil"
+            ]
+        },
+        "fancy": {
+            "name": "Şık",
+            "keywords": [
+                "pasta",
+                "dilim",
+                "kiraz"
+            ]
+        },
+        "flowing": {
+            "name": "Akışkan",
+            "keywords": [
+                "su",
+                "damla",
+                "yağmur"
+            ]
+        },
+        "hopeful": {
+            "name": "Umutlu",
+            "keywords": [
+                "bulut",
+                "güneş",
+                "sakin"
+            ]
+        },
+        "hungry": {
+            "name": "Aç",
+            "keywords": [
+                "hamburger",
+                "yemek",
+                "öğle yemeği"
+            ]
+        },
+        "magical": {
+            "name": "Büyülü",
+            "keywords": [
+                "tek boynuzlu at",
+                "gökkuşağı",
+                "sihir"
+            ]
+        },
+        "magical-2": {
+            "name": "Büyülü (2)",
+            "keywords": [
+                "sihir",
+                "pembe",
+                "ünlü"
+            ]
+        },
+        "open": {
+            "name": "Açık",
+            "keywords": [
+                "dağ",
+                "bayrak",
+                "zirve"
+            ]
+        },
+        "playful": {
+            "name": "Oyuncu",
+            "keywords": [
+                "yunus",
+                "deniz",
+                "eğlence"
+            ]
+        },
+        "prickly": {
+            "name": "Dikenli",
+            "keywords": [
+                "kaktüs",
+                "huysuz",
+                "dikenli"
+            ]
+        },
+        "quantom": {
+            "name": "Kuantum",
+            "keywords": [
+                "gezegen",
+                "yörünge",
+                "uzay"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "makine",
+                "teknoloji"
+            ]
+        },
+        "rocket": {
+            "name": "Roket",
+            "keywords": [
+                "roket",
+                "hızlı",
+                "ateş"
+            ]
+        },
+        "spiritual": {
+            "name": "Ruhani",
+            "keywords": [
+                "panda",
+                "güneş gözlüğü",
+                "rahat"
+            ]
+        },
+        "starry": {
+            "name": "Yıldızlı",
+            "keywords": [
+                "tek göz",
+                "canavar",
+                "şaşırmış"
+            ]
+        },
+        "sunny": {
+            "name": "Güneşli",
+            "keywords": [
+                "ayçiçeği",
+                "güneş",
+                "çiçek"
+            ]
+        },
+        "sweet": {
+            "name": "Tatlı",
+            "keywords": [
+                "şeker",
+                "nane şekeri",
+                "tatlı"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinozor",
+                "diş",
+                "kükreme"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "kurt",
+                "uluma",
+                "kurnaz"
+            ]
+        }
+    }
+}

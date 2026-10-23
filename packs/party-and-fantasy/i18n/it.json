@@ -1,0 +1,382 @@
+{
+    "name": "Feste, zodiaco e fantasy",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "pupazzo di neve",
+                "inverno",
+                "sciarpa"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "cappellino da festa",
+                "compleanno",
+                "festeggiare"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "vichingo",
+                "elmo",
+                "segnaposto"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "giullare",
+                "cappello",
+                "risata"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "natale",
+                "babbo natale",
+                "occhiali da sole"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "mago",
+                "cappello",
+                "magia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "strega",
+                "cappello",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "carnevale",
+                "copricapo",
+                "piume"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "sciarpa",
+                "berretto di lana",
+                "inverno"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "carnevale",
+                "maschera",
+                "festa"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "capodanno",
+                "2026",
+                "festa"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "vichingo",
+                "martello",
+                "scudo"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "inverno",
+                "berretto di lana",
+                "freddo"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "guardia",
+                "londra",
+                "cappello"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cilindro",
+                "tè",
+                "paese delle meraviglie"
+            ]
+        },
+        "aries": {
+            "name": "Ariete",
+            "keywords": [
+                "zodiaco",
+                "ariete",
+                "oroscopo"
+            ]
+        },
+        "taurus": {
+            "name": "Toro",
+            "keywords": [
+                "zodiaco",
+                "toro",
+                "oroscopo"
+            ]
+        },
+        "gemini": {
+            "name": "Gemelli",
+            "keywords": [
+                "zodiaco",
+                "gemelli",
+                "oroscopo"
+            ]
+        },
+        "cancer": {
+            "name": "Cancro",
+            "keywords": [
+                "zodiaco",
+                "granchio",
+                "oroscopo"
+            ]
+        },
+        "leo": {
+            "name": "Leone",
+            "keywords": [
+                "zodiaco",
+                "leone",
+                "oroscopo"
+            ]
+        },
+        "virgo": {
+            "name": "Vergine",
+            "keywords": [
+                "zodiaco",
+                "fanciulla",
+                "oroscopo"
+            ]
+        },
+        "libra": {
+            "name": "Bilancia",
+            "keywords": [
+                "zodiaco",
+                "bilancia",
+                "oroscopo"
+            ]
+        },
+        "scorpio": {
+            "name": "Scorpione",
+            "keywords": [
+                "zodiaco",
+                "scorpione",
+                "oroscopo"
+            ]
+        },
+        "sagittarius": {
+            "name": "Sagittario",
+            "keywords": [
+                "zodiaco",
+                "arciere",
+                "oroscopo"
+            ]
+        },
+        "capricorn": {
+            "name": "Capricorno",
+            "keywords": [
+                "zodiaco",
+                "capra",
+                "oroscopo"
+            ]
+        },
+        "aquarius": {
+            "name": "Acquario",
+            "keywords": [
+                "zodiaco",
+                "acqua",
+                "oroscopo"
+            ]
+        },
+        "pisces": {
+            "name": "Pesci",
+            "keywords": [
+                "zodiaco",
+                "pesce",
+                "oroscopo"
+            ]
+        },
+        "santa": {
+            "name": "Babbo Natale",
+            "keywords": [
+                "natale",
+                "babbo natale",
+                "oh oh oh"
+            ]
+        },
+        "festive": {
+            "name": "Festoso",
+            "keywords": [
+                "natale",
+                "cappello di babbo natale",
+                "barba"
+            ]
+        },
+        "frazzled": {
+            "name": "Sfinito",
+            "keywords": [
+                "natale",
+                "stanco",
+                "babbo natale"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Carnevalesco",
+            "keywords": [
+                "carnevale",
+                "marinaio",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Festa gioiosa",
+            "keywords": [
+                "cappellino da festa",
+                "stella",
+                "festeggiare"
+            ]
+        },
+        "blossom": {
+            "name": "Fioritura",
+            "keywords": [
+                "fiore",
+                "rosa",
+                "primavera"
+            ]
+        },
+        "cupid": {
+            "name": "Cupido",
+            "keywords": [
+                "san valentino",
+                "freccia",
+                "amore"
+            ]
+        },
+        "happy-clown": {
+            "name": "Clown felice",
+            "keywords": [
+                "clown",
+                "circo",
+                "divertimento"
+            ]
+        },
+        "scary-clown": {
+            "name": "Clown spaventoso",
+            "keywords": [
+                "clown",
+                "halloween",
+                "inquietante"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "non morto"
+            ]
+        },
+        "zombified": {
+            "name": "Zombificato",
+            "keywords": [
+                "zombie",
+                "stanco",
+                "punti di sutura"
+            ]
+        },
+        "monster": {
+            "name": "Mostro",
+            "keywords": [
+                "un occhio",
+                "ciclope",
+                "mostro"
+            ]
+        },
+        "mystical": {
+            "name": "Mistico",
+            "keywords": [
+                "cappuccio",
+                "elfo",
+                "magia"
+            ]
+        },
+        "mighty": {
+            "name": "Possente",
+            "keywords": [
+                "vichingo",
+                "baffi",
+                "corna"
+            ]
+        },
+        "angelic": {
+            "name": "Angelico",
+            "keywords": [
+                "angelo",
+                "aureola",
+                "ali"
+            ]
+        },
+        "devious": {
+            "name": "Subdolo",
+            "keywords": [
+                "diavolo",
+                "corna",
+                "sorrisone"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabolico",
+            "keywords": [
+                "cattivo",
+                "monocolo",
+                "malvagio"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "genio",
+                "scienziato",
+                "lingua"
+            ]
+        },
+        "belgie": {
+            "name": "Belgio",
+            "keywords": [
+                "belgio",
+                "corno",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronauta",
+                "spazio",
+                "elmo"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (blu)",
+            "keywords": [
+                "astronauta",
+                "spazio",
+                "luna"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "eroe",
+                "tiara",
+                "potere"
+            ]
+        }
+    }
+}

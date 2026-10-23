@@ -1,0 +1,638 @@
+{
+    "format": 1,
+    "id": "vibes",
+    "name": "Vibes",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "chill",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "129",
+            "name": "129",
+            "keywords": [
+                "sparkle",
+                "sunglasses",
+                "fancy"
+            ],
+            "emojis": [
+                "✨",
+                "😎"
+            ]
+        },
+        {
+            "id": "130",
+            "name": "130",
+            "keywords": [
+                "headphones",
+                "leopard",
+                "music"
+            ],
+            "emojis": [
+                "🎧",
+                "😎"
+            ]
+        },
+        {
+            "id": "170",
+            "name": "170",
+            "keywords": [
+                "headphones",
+                "music",
+                "cool"
+            ],
+            "emojis": [
+                "🎧",
+                "🎶"
+            ]
+        },
+        {
+            "id": "182",
+            "name": "182",
+            "keywords": [
+                "cap",
+                "backwards",
+                "side-eye"
+            ],
+            "emojis": [
+                "😏",
+                "🧢"
+            ]
+        },
+        {
+            "id": "55",
+            "name": "55",
+            "keywords": [
+                "bandana",
+                "sunglasses",
+                "rock"
+            ],
+            "emojis": [
+                "🤘",
+                "😎"
+            ]
+        },
+        {
+            "id": "62",
+            "name": "62",
+            "keywords": [
+                "music",
+                "notes",
+                "hippie"
+            ],
+            "emojis": [
+                "🎶",
+                "😮"
+            ]
+        },
+        {
+            "id": "95",
+            "name": "95",
+            "keywords": [
+                "high heel",
+                "fashion",
+                "diva"
+            ],
+            "emojis": [
+                "👠",
+                "✨"
+            ]
+        },
+        {
+            "id": "chill",
+            "name": "Chill",
+            "keywords": [
+                "sunglasses",
+                "relaxed",
+                "cool"
+            ],
+            "emojis": [
+                "😎"
+            ]
+        },
+        {
+            "id": "chill-glasses",
+            "name": "Chill Glasses",
+            "keywords": [
+                "round glasses",
+                "relaxed",
+                "cool"
+            ],
+            "emojis": [
+                "😎",
+                "🙂"
+            ]
+        },
+        {
+            "id": "extra",
+            "name": "Extra",
+            "keywords": [
+                "party glasses",
+                "tongue",
+                "over the top"
+            ],
+            "emojis": [
+                "🤪",
+                "🕶️"
+            ]
+        },
+        {
+            "id": "feisty",
+            "name": "Feisty",
+            "keywords": [
+                "boxing",
+                "glove",
+                "fight"
+            ],
+            "emojis": [
+                "🥊",
+                "😏"
+            ]
+        },
+        {
+            "id": "gutsy",
+            "name": "Gutsy",
+            "keywords": [
+                "sunglasses",
+                "tough",
+                "brave"
+            ],
+            "emojis": [
+                "😎",
+                "💪"
+            ]
+        },
+        {
+            "id": "irie",
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ],
+            "emojis": [
+                "😄",
+                "🇯🇲"
+            ]
+        },
+        {
+            "id": "rad",
+            "name": "Rad",
+            "keywords": [
+                "sunglasses",
+                "cool",
+                "grin"
+            ],
+            "emojis": [
+                "😎",
+                "🤙"
+            ]
+        },
+        {
+            "id": "savvy",
+            "name": "Savvy",
+            "keywords": [
+                "sunglasses",
+                "santa hat",
+                "smart"
+            ],
+            "emojis": [
+                "😎",
+                "🎅"
+            ]
+        },
+        {
+            "id": "serene",
+            "name": "Serene",
+            "keywords": [
+                "round glasses",
+                "calm",
+                "smile"
+            ],
+            "emojis": [
+                "😌",
+                "🕶️"
+            ]
+        },
+        {
+            "id": "shady",
+            "name": "Shady",
+            "keywords": [
+                "fedora",
+                "sunglasses",
+                "mysterious"
+            ],
+            "emojis": [
+                "🕵️",
+                "😒"
+            ]
+        },
+        {
+            "id": "snappy",
+            "name": "Snappy",
+            "keywords": [
+                "bow tie",
+                "cookie",
+                "smirk"
+            ],
+            "emojis": [
+                "😏",
+                "🍪"
+            ]
+        },
+        {
+            "id": "strong",
+            "name": "Strong",
+            "keywords": [
+                "x",
+                "sunglasses",
+                "tough"
+            ],
+            "emojis": [
+                "💪",
+                "😎"
+            ]
+        },
+        {
+            "id": "wild",
+            "name": "Wild",
+            "keywords": [
+                "helmet",
+                "lightning",
+                "sunglasses"
+            ],
+            "emojis": [
+                "⚡",
+                "😎"
+            ]
+        },
+        {
+            "id": "206",
+            "name": "206",
+            "keywords": [
+                "amplifier",
+                "guitar",
+                "music"
+            ],
+            "emojis": [
+                "🎸",
+                "🔊"
+            ]
+        },
+        {
+            "id": "pumped",
+            "name": "Pumped!",
+            "keywords": [
+                "boombox",
+                "music",
+                "party"
+            ],
+            "emojis": [
+                "📻",
+                "🎶"
+            ]
+        },
+        {
+            "id": "groovy",
+            "name": "Groovy",
+            "keywords": [
+                "lava lamp",
+                "retro",
+                "70s"
+            ],
+            "emojis": [
+                "🪩",
+                "✌️"
+            ]
+        },
+        {
+            "id": "143",
+            "name": "143",
+            "keywords": [
+                "microphone",
+                "karaoke",
+                "sing"
+            ],
+            "emojis": [
+                "🎤",
+                "🎶"
+            ]
+        },
+        {
+            "id": "118",
+            "name": "118",
+            "keywords": [
+                "headset",
+                "listening",
+                "music"
+            ],
+            "emojis": [
+                "🎧",
+                "😌"
+            ]
+        },
+        {
+            "id": "quirky",
+            "name": "Quirky",
+            "keywords": [
+                "hat",
+                "colorful",
+                "funny"
+            ],
+            "emojis": [
+                "🤪",
+                "👒"
+            ]
+        },
+        {
+            "id": "184",
+            "name": "184",
+            "keywords": [
+                "propeller cap",
+                "goofy",
+                "kid"
+            ],
+            "emojis": [
+                "🤪",
+                "🧢"
+            ]
+        },
+        {
+            "id": "220",
+            "name": "220",
+            "keywords": [
+                "drum",
+                "tambourine",
+                "wink"
+            ],
+            "emojis": [
+                "🥁",
+                "😉"
+            ]
+        },
+        {
+            "id": "bacano",
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "hat",
+                "cool"
+            ],
+            "emojis": [
+                "🇨🇴",
+                "😎"
+            ]
+        },
+        {
+            "id": "leopard",
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "sunglasses",
+                "wild"
+            ],
+            "emojis": [
+                "🐆",
+                "😎"
+            ]
+        },
+        {
+            "id": "sidekick",
+            "name": "Sidekick",
+            "keywords": [
+                "partner",
+                "beard",
+                "buddy"
+            ],
+            "emojis": [
+                "🤝",
+                "😏"
+            ]
+        },
+        {
+            "id": "geeky",
+            "name": "Geeky",
+            "keywords": [
+                "glasses",
+                "nerd",
+                "staring"
+            ],
+            "emojis": [
+                "🤓"
+            ]
+        },
+        {
+            "id": "240",
+            "name": "240",
+            "keywords": [
+                "glasses",
+                "smart",
+                "smirk"
+            ],
+            "emojis": [
+                "🤓",
+                "😏"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "122",
+            "keywords": [
+                "lightbulb",
+                "glasses",
+                "idea"
+            ],
+            "emojis": [
+                "💡",
+                "🤓"
+            ]
+        },
+        {
+            "id": "222",
+            "name": "222",
+            "keywords": [
+                "lightbulb",
+                "think",
+                "idea"
+            ],
+            "emojis": [
+                "💡",
+                "🙂"
+            ]
+        },
+        {
+            "id": "smart",
+            "name": "Smart",
+            "keywords": [
+                "lightbulb",
+                "tongue",
+                "idea"
+            ],
+            "emojis": [
+                "💡",
+                "😜"
+            ]
+        },
+        {
+            "id": "255",
+            "name": "255",
+            "keywords": [
+                "glasses",
+                "blonde",
+                "study"
+            ],
+            "emojis": [
+                "🤓",
+                "📚"
+            ]
+        },
+        {
+            "id": "256",
+            "name": "256",
+            "keywords": [
+                "cape",
+                "hero",
+                "glasses"
+            ],
+            "emojis": [
+                "🦸",
+                "😌"
+            ]
+        },
+        {
+            "id": "257",
+            "name": "257",
+            "keywords": [
+                "crown",
+                "sunglasses",
+                "king"
+            ],
+            "emojis": [
+                "👑",
+                "😎"
+            ]
+        },
+        {
+            "id": "light",
+            "name": "Light",
+            "keywords": [
+                "spiky",
+                "blond",
+                "pout"
+            ],
+            "emojis": [
+                "😗",
+                "⚡"
+            ]
+        },
+        {
+            "id": "123",
+            "name": "123",
+            "keywords": [
+                "bubbles",
+                "potion",
+                "happy"
+            ],
+            "emojis": [
+                "🫧",
+                "😊"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "106",
+            "keywords": [
+                "lying down",
+                "party hat",
+                "relaxed"
+            ],
+            "emojis": [
+                "😌",
+                "🥳"
+            ]
+        },
+        {
+            "id": "162",
+            "name": "162",
+            "keywords": [
+                "alien",
+                "helmet",
+                "space"
+            ],
+            "emojis": [
+                "👽",
+                "🛸"
+            ]
+        },
+        {
+            "id": "223",
+            "name": "223",
+            "keywords": [
+                "hand",
+                "salute",
+                "greeting"
+            ],
+            "emojis": [
+                "🖖"
+            ]
+        },
+        {
+            "id": "44",
+            "name": "44",
+            "keywords": [
+                "ram horns",
+                "sunglasses",
+                "bold"
+            ],
+            "emojis": [
+                "🐏",
+                "😎"
+            ]
+        }
+    ]
+}

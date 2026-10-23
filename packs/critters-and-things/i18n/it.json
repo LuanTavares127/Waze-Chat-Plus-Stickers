@@ -1,0 +1,358 @@
+{
+    "name": "Animaletti e cose",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "roccia",
+                "sasso",
+                "veloce"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "orso",
+                "cappello da pescatore",
+                "sorriso"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capibara",
+                "uccello",
+                "relax"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "cervello",
+                "intelligente",
+                "pensare"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosauro",
+                "denti",
+                "morso"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "zanne",
+                "denti",
+                "sorrisone"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "mucca",
+                "muu",
+                "fattoria"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "cane",
+                "corgi",
+                "corona"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "cane",
+                "corgi",
+                "occhiolino"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "cane",
+                "corgi",
+                "corona"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "drago",
+                "rosso",
+                "mostro"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "mano",
+                "occhio",
+                "protezione"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "occhio",
+                "segno",
+                "mistero"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "teiera",
+                "tè",
+                "mela"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "uccello",
+                "berretto",
+                "parlare"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bit",
+            "keywords": [
+                "pixel",
+                "retrò",
+                "gioco"
+            ]
+        },
+        "aware": {
+            "name": "Consapevole",
+            "keywords": [
+                "arcobaleno",
+                "calma",
+                "colori"
+            ]
+        },
+        "baby": {
+            "name": "Bebè",
+            "keywords": [
+                "ciuccio",
+                "bebè",
+                "carino"
+            ]
+        },
+        "blobby": {
+            "name": "Gelatinoso",
+            "keywords": [
+                "macchia",
+                "bolle",
+                "stelle"
+            ]
+        },
+        "bright": {
+            "name": "Luminoso",
+            "keywords": [
+                "stella",
+                "brillare",
+                "arcobaleno"
+            ]
+        },
+        "calm": {
+            "name": "Calma",
+            "keywords": [
+                "nuvola",
+                "berretto",
+                "cielo"
+            ]
+        },
+        "captivated": {
+            "name": "Rapito",
+            "keywords": [
+                "fotocamera",
+                "foto",
+                "immagine"
+            ]
+        },
+        "cat": {
+            "name": "Gatto",
+            "keywords": [
+                "gatto",
+                "micio",
+                "miao"
+            ]
+        },
+        "cell": {
+            "name": "Cellula",
+            "keywords": [
+                "cellula",
+                "biologia",
+                "macchia"
+            ]
+        },
+        "centered": {
+            "name": "Centrato",
+            "keywords": [
+                "sassi",
+                "equilibrio",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Cosmico",
+            "keywords": [
+                "antenne",
+                "alieno",
+                "felice"
+            ]
+        },
+        "destemido": {
+            "name": "Senza paura",
+            "keywords": [
+                "cactus",
+                "pianta",
+                "duro"
+            ]
+        },
+        "dog": {
+            "name": "Cane",
+            "keywords": [
+                "cane",
+                "cucciolo",
+                "lingua"
+            ]
+        },
+        "fancy": {
+            "name": "Elegante",
+            "keywords": [
+                "torta",
+                "fetta",
+                "ciliegia"
+            ]
+        },
+        "flowing": {
+            "name": "Fluido",
+            "keywords": [
+                "acqua",
+                "goccia",
+                "pioggia"
+            ]
+        },
+        "hopeful": {
+            "name": "Fiducioso",
+            "keywords": [
+                "nuvola",
+                "sole",
+                "calma"
+            ]
+        },
+        "hungry": {
+            "name": "Affamato",
+            "keywords": [
+                "hamburger",
+                "cibo",
+                "pranzo"
+            ]
+        },
+        "magical": {
+            "name": "Magico",
+            "keywords": [
+                "unicorno",
+                "arcobaleno",
+                "magia"
+            ]
+        },
+        "magical-2": {
+            "name": "Magico (2)",
+            "keywords": [
+                "magia",
+                "rosa",
+                "famoso"
+            ]
+        },
+        "open": {
+            "name": "Aperto",
+            "keywords": [
+                "montagna",
+                "bandiera",
+                "vetta"
+            ]
+        },
+        "playful": {
+            "name": "Giocherellone",
+            "keywords": [
+                "delfino",
+                "mare",
+                "divertimento"
+            ]
+        },
+        "prickly": {
+            "name": "Spinoso",
+            "keywords": [
+                "cactus",
+                "scorbutico",
+                "appuntito"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "pianeta",
+                "orbita",
+                "spazio"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "macchina",
+                "tecnologia"
+            ]
+        },
+        "rocket": {
+            "name": "Razzo",
+            "keywords": [
+                "razzo",
+                "veloce",
+                "fuoco"
+            ]
+        },
+        "spiritual": {
+            "name": "Spirituale",
+            "keywords": [
+                "panda",
+                "occhiali da sole",
+                "relax"
+            ]
+        },
+        "starry": {
+            "name": "Stellato",
+            "keywords": [
+                "un occhio",
+                "mostro",
+                "sorpreso"
+            ]
+        },
+        "sunny": {
+            "name": "Solare",
+            "keywords": [
+                "girasole",
+                "sole",
+                "fiore"
+            ]
+        },
+        "sweet": {
+            "name": "Dolce",
+            "keywords": [
+                "caramella",
+                "menta",
+                "dolce"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosauro",
+                "denti",
+                "ruggito"
+            ]
+        },
+        "wolfie": {
+            "name": "Lupetto",
+            "keywords": [
+                "lupo",
+                "ululato",
+                "furbo"
+            ]
+        }
+    }
+}

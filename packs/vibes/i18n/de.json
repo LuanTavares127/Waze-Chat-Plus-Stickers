@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "Widderhörner",
+                "Sonnenbrille",
+                "kühn"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "Bandana",
+                "Sonnenbrille",
+                "Fels"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "Musik",
+                "Noten",
+                "Hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "High Heel",
+                "Mode",
+                "Diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "liegend",
+                "Partyhut",
+                "entspannt"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "Headset",
+                "zuhören",
+                "Musik"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "Glühbirne",
+                "Brille",
+                "Idee"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "Blasen",
+                "Zaubertrank",
+                "glücklich"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "funkeln",
+                "Sonnenbrille",
+                "elegant"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "Kopfhörer",
+                "Leopard",
+                "Musik"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "Mikrofon",
+                "Karaoke",
+                "singen"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "Außerirdischer",
+                "Helm",
+                "Weltraum"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "Kopfhörer",
+                "Musik",
+                "cool"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "Mütze",
+                "rückwärts",
+                "Seitenblick"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "Propellermütze",
+                "albern",
+                "Kind"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "Verstärker",
+                "Gitarre",
+                "Musik"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "Trommel",
+                "Tamburin",
+                "zwinkern"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "Glühbirne",
+                "denken",
+                "Idee"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "Hand",
+                "Gruß",
+                "Begrüßung"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "Brille",
+                "schlau",
+                "Schmunzeln"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "Brille",
+                "blond",
+                "lernen"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "Umhang",
+                "Held",
+                "Brille"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "Krone",
+                "Sonnenbrille",
+                "König"
+            ]
+        },
+        "chill": {
+            "name": "Chillig",
+            "keywords": [
+                "Sonnenbrille",
+                "entspannt",
+                "cool"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Chillig mit Brille",
+            "keywords": [
+                "runde Brille",
+                "entspannt",
+                "cool"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "Partybrille",
+                "Zunge",
+                "übertrieben"
+            ]
+        },
+        "feisty": {
+            "name": "Kampflustig",
+            "keywords": [
+                "Boxen",
+                "Handschuh",
+                "Kampf"
+            ]
+        },
+        "gutsy": {
+            "name": "Mutig",
+            "keywords": [
+                "Sonnenbrille",
+                "hart",
+                "mutig"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "Reggae",
+                "Rasta",
+                "gute Stimmung"
+            ]
+        },
+        "rad": {
+            "name": "Krass",
+            "keywords": [
+                "Sonnenbrille",
+                "cool",
+                "grinsen"
+            ]
+        },
+        "savvy": {
+            "name": "Clever",
+            "keywords": [
+                "Sonnenbrille",
+                "Weihnachtsmütze",
+                "schlau"
+            ]
+        },
+        "serene": {
+            "name": "Gelassen",
+            "keywords": [
+                "runde Brille",
+                "ruhig",
+                "lächeln"
+            ]
+        },
+        "shady": {
+            "name": "Zwielichtig",
+            "keywords": [
+                "Fedora",
+                "Sonnenbrille",
+                "geheimnisvoll"
+            ]
+        },
+        "snappy": {
+            "name": "Schick",
+            "keywords": [
+                "Fliege",
+                "Keks",
+                "Schmunzeln"
+            ]
+        },
+        "strong": {
+            "name": "Stark",
+            "keywords": [
+                "x",
+                "Sonnenbrille",
+                "hart"
+            ]
+        },
+        "wild": {
+            "name": "Wild",
+            "keywords": [
+                "Helm",
+                "Blitz",
+                "Sonnenbrille"
+            ]
+        },
+        "pumped": {
+            "name": "Motiviert!",
+            "keywords": [
+                "Ghettoblaster",
+                "Musik",
+                "Party"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "Lavalampe",
+                "Retro",
+                "70er"
+            ]
+        },
+        "quirky": {
+            "name": "Schrullig",
+            "keywords": [
+                "Hut",
+                "bunt",
+                "lustig"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "Kolumbien",
+                "Hut",
+                "cool"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "Leopard",
+                "Sonnenbrille",
+                "wild"
+            ]
+        },
+        "sidekick": {
+            "name": "Sidekick",
+            "keywords": [
+                "Partner",
+                "Bart",
+                "Kumpel"
+            ]
+        },
+        "geeky": {
+            "name": "Nerdig",
+            "keywords": [
+                "Brille",
+                "Nerd",
+                "starren"
+            ]
+        },
+        "smart": {
+            "name": "Schlau",
+            "keywords": [
+                "Glühbirne",
+                "Zunge",
+                "Idee"
+            ]
+        },
+        "light": {
+            "name": "Hell",
+            "keywords": [
+                "spitz",
+                "blond",
+                "Schmollmund"
+            ]
+        }
+    }
+}

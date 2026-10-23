@@ -1,0 +1,358 @@
+{
+    "name": "Tierchen & Dinge",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "Fels",
+                "Stein",
+                "schnell"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "Bär",
+                "Fischerhut",
+                "lächeln"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "Capybara",
+                "Vogel",
+                "chillen"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "Gehirn",
+                "schlau",
+                "denken"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "Dinosaurier",
+                "Zähne",
+                "Biss"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "Reißzähne",
+                "Zähne",
+                "grinsen"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "Kuh",
+                "muh",
+                "Bauernhof"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "Krone"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "zwinkern"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "Krone"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "Drache",
+                "rot",
+                "Monster"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "Hand",
+                "Auge",
+                "Schutz"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "Auge",
+                "Zeichen",
+                "Rätsel"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "Teekanne",
+                "Tee",
+                "Apfel"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "Vogel",
+                "Mütze",
+                "reden"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "Pixel",
+                "Retro",
+                "Spiel"
+            ]
+        },
+        "aware": {
+            "name": "Achtsam",
+            "keywords": [
+                "Regenbogen",
+                "ruhig",
+                "Farben"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "Schnuller",
+                "Baby",
+                "süß"
+            ]
+        },
+        "blobby": {
+            "name": "Blobby",
+            "keywords": [
+                "Klecks",
+                "Blasen",
+                "Sterne"
+            ]
+        },
+        "bright": {
+            "name": "Strahlend",
+            "keywords": [
+                "Stern",
+                "glänzen",
+                "Regenbogen"
+            ]
+        },
+        "calm": {
+            "name": "Ruhig",
+            "keywords": [
+                "Wolke",
+                "Mütze",
+                "Himmel"
+            ]
+        },
+        "captivated": {
+            "name": "Gefesselt",
+            "keywords": [
+                "Kamera",
+                "Foto",
+                "Bild"
+            ]
+        },
+        "cat": {
+            "name": "Katze",
+            "keywords": [
+                "Katze",
+                "Kätzchen",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Zelle",
+            "keywords": [
+                "Zelle",
+                "Biologie",
+                "Klecks"
+            ]
+        },
+        "centered": {
+            "name": "Ausgeglichen",
+            "keywords": [
+                "Steine",
+                "Gleichgewicht",
+                "Zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmisch",
+            "keywords": [
+                "Fühler",
+                "Außerirdischer",
+                "glücklich"
+            ]
+        },
+        "destemido": {
+            "name": "Furchtlos",
+            "keywords": [
+                "Kaktus",
+                "Pflanze",
+                "hart"
+            ]
+        },
+        "dog": {
+            "name": "Hund",
+            "keywords": [
+                "Hund",
+                "Welpe",
+                "Zunge"
+            ]
+        },
+        "fancy": {
+            "name": "Vornehm",
+            "keywords": [
+                "Kuchen",
+                "Stück",
+                "Kirsche"
+            ]
+        },
+        "flowing": {
+            "name": "Fließend",
+            "keywords": [
+                "Wasser",
+                "Tropfen",
+                "Regen"
+            ]
+        },
+        "hopeful": {
+            "name": "Hoffnungsvoll",
+            "keywords": [
+                "Wolke",
+                "Sonne",
+                "ruhig"
+            ]
+        },
+        "hungry": {
+            "name": "Hungrig",
+            "keywords": [
+                "Burger",
+                "Essen",
+                "Mittagessen"
+            ]
+        },
+        "magical": {
+            "name": "Magisch",
+            "keywords": [
+                "Einhorn",
+                "Regenbogen",
+                "Magie"
+            ]
+        },
+        "magical-2": {
+            "name": "Magisch (2)",
+            "keywords": [
+                "Magie",
+                "rosa",
+                "berühmt"
+            ]
+        },
+        "open": {
+            "name": "Offen",
+            "keywords": [
+                "Berg",
+                "Flagge",
+                "Gipfel"
+            ]
+        },
+        "playful": {
+            "name": "Verspielt",
+            "keywords": [
+                "Delfin",
+                "Meer",
+                "Spaß"
+            ]
+        },
+        "prickly": {
+            "name": "Stachelig",
+            "keywords": [
+                "Kaktus",
+                "mürrisch",
+                "spitz"
+            ]
+        },
+        "quantom": {
+            "name": "Quantum",
+            "keywords": [
+                "Planet",
+                "Umlaufbahn",
+                "Weltraum"
+            ]
+        },
+        "robot": {
+            "name": "Roboter",
+            "keywords": [
+                "Roboter",
+                "Maschine",
+                "Technik"
+            ]
+        },
+        "rocket": {
+            "name": "Rakete",
+            "keywords": [
+                "Rakete",
+                "schnell",
+                "Feuer"
+            ]
+        },
+        "spiritual": {
+            "name": "Spirituell",
+            "keywords": [
+                "Panda",
+                "Sonnenbrille",
+                "chillen"
+            ]
+        },
+        "starry": {
+            "name": "Sternig",
+            "keywords": [
+                "ein Auge",
+                "Monster",
+                "überrascht"
+            ]
+        },
+        "sunny": {
+            "name": "Sonnig",
+            "keywords": [
+                "Sonnenblume",
+                "Sonne",
+                "Blume"
+            ]
+        },
+        "sweet": {
+            "name": "Süß",
+            "keywords": [
+                "Bonbon",
+                "Pfefferminz",
+                "süß"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "Dinosaurier",
+                "Zähne",
+                "Gebrüll"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "Wolf",
+                "heulen",
+                "gerissen"
+            ]
+        }
+    }
+}

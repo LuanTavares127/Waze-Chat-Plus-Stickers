@@ -1,0 +1,342 @@
+{
+    "name": "Suasana",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "tanduk biri-biri",
+                "cermin mata hitam",
+                "berani"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "cermin mata hitam",
+                "batu karang"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "muzik",
+                "not muzik",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "kasut tumit tinggi",
+                "fesyen",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "berbaring",
+                "topi parti",
+                "santai"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "set kepala",
+                "mendengar",
+                "muzik"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "mentol",
+                "cermin mata",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "gelembung",
+                "ramuan",
+                "gembira"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "berkilau",
+                "cermin mata hitam",
+                "bergaya"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "fon kepala",
+                "harimau bintang",
+                "muzik"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "menyanyi"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "makhluk asing",
+                "topi keledar",
+                "angkasa"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "fon kepala",
+                "muzik",
+                "hebat"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "topi",
+                "ke belakang",
+                "jeling"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "topi baling-baling",
+                "bodoh-bodoh",
+                "budak"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "penguat",
+                "gitar",
+                "muzik"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "dram",
+                "tamborin",
+                "kenyit mata"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "mentol",
+                "fikir",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "tangan",
+                "tabik hormat",
+                "ucapan"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "cermin mata",
+                "pandai",
+                "senyum sinis"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "cermin mata",
+                "berambut perang",
+                "belajar"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "jubah",
+                "wira",
+                "cermin mata"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "mahkota",
+                "cermin mata hitam",
+                "raja"
+            ]
+        },
+        "chill": {
+            "name": "Santai",
+            "keywords": [
+                "cermin mata hitam",
+                "santai",
+                "hebat"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Cermin Mata Santai",
+            "keywords": [
+                "cermin mata bulat",
+                "santai",
+                "hebat"
+            ]
+        },
+        "extra": {
+            "name": "Keterlaluan",
+            "keywords": [
+                "cermin mata parti",
+                "lidah",
+                "keterlaluan"
+            ]
+        },
+        "feisty": {
+            "name": "Garang",
+            "keywords": [
+                "tinju",
+                "sarung tangan",
+                "pergaduhan"
+            ]
+        },
+        "gutsy": {
+            "name": "Berani Mati",
+            "keywords": [
+                "cermin mata hitam",
+                "kuat",
+                "berani"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "aura positif"
+            ]
+        },
+        "rad": {
+            "name": "Hebat",
+            "keywords": [
+                "cermin mata hitam",
+                "hebat",
+                "sengih"
+            ]
+        },
+        "savvy": {
+            "name": "Bijak",
+            "keywords": [
+                "cermin mata hitam",
+                "topi santa",
+                "pandai"
+            ]
+        },
+        "serene": {
+            "name": "Tenteram",
+            "keywords": [
+                "cermin mata bulat",
+                "tenang",
+                "senyum"
+            ]
+        },
+        "shady": {
+            "name": "Mencurigakan",
+            "keywords": [
+                "fedora",
+                "cermin mata hitam",
+                "misteri"
+            ]
+        },
+        "snappy": {
+            "name": "Kemas",
+            "keywords": [
+                "tali leher kupu-kupu",
+                "biskut",
+                "senyum sinis"
+            ]
+        },
+        "strong": {
+            "name": "Kuat",
+            "keywords": [
+                "x",
+                "cermin mata hitam",
+                "kuat"
+            ]
+        },
+        "wild": {
+            "name": "Liar",
+            "keywords": [
+                "topi keledar",
+                "kilat",
+                "cermin mata hitam"
+            ]
+        },
+        "pumped": {
+            "name": "Bersemangat!",
+            "keywords": [
+                "boombox",
+                "muzik",
+                "parti"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lampu lava",
+                "retro",
+                "tahun 70-an"
+            ]
+        },
+        "quirky": {
+            "name": "Pelik",
+            "keywords": [
+                "topi",
+                "berwarna-warni",
+                "kelakar"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "topi",
+                "hebat"
+            ]
+        },
+        "leopard": {
+            "name": "Harimau Bintang",
+            "keywords": [
+                "harimau bintang",
+                "cermin mata hitam",
+                "liar"
+            ]
+        },
+        "sidekick": {
+            "name": "Pembantu",
+            "keywords": [
+                "rakan kongsi",
+                "janggut",
+                "kawan"
+            ]
+        },
+        "geeky": {
+            "name": "Kutu Buku",
+            "keywords": [
+                "cermin mata",
+                "nerd",
+                "merenung"
+            ]
+        },
+        "smart": {
+            "name": "Pandai",
+            "keywords": [
+                "mentol",
+                "lidah",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Ringan",
+            "keywords": [
+                "tajam",
+                "berambut perang",
+                "memuncung"
+            ]
+        }
+    }
+}

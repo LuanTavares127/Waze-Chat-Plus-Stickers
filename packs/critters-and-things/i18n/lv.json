@@ -1,0 +1,358 @@
+{
+    "name": "Radījumi un lietas",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "klints",
+                "akmens",
+                "ātrs"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "lācis",
+                "zvejnieka cepure",
+                "smaids"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "putns",
+                "atpūta"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "smadzenes",
+                "gudrs",
+                "domāt"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozaurs",
+                "zobi",
+                "kodiens"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "ilkņi",
+                "zobi",
+                "platsmaids"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "govs",
+                "mū",
+                "lauku sēta"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "suns",
+                "korgijs",
+                "kronis"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "suns",
+                "korgijs",
+                "piemiegt"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "suns",
+                "korgijs",
+                "kronis"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "pūķis",
+                "sarkans",
+                "briesmonis"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "roka",
+                "acs",
+                "aizsardzība"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "acs",
+                "zīme",
+                "noslēpums"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "tējkanna",
+                "tēja",
+                "ābols"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "putns",
+                "cepure",
+                "runāt"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bitu",
+            "keywords": [
+                "pikselis",
+                "retro",
+                "spēle"
+            ]
+        },
+        "aware": {
+            "name": "Apzinīgs",
+            "keywords": [
+                "varavīksne",
+                "mierīgs",
+                "krāsas"
+            ]
+        },
+        "baby": {
+            "name": "Mazulis",
+            "keywords": [
+                "knupis",
+                "mazulis",
+                "jauks"
+            ]
+        },
+        "blobby": {
+            "name": "Želejveida",
+            "keywords": [
+                "kamols",
+                "burbuļi",
+                "zvaigznes"
+            ]
+        },
+        "bright": {
+            "name": "Spilgts",
+            "keywords": [
+                "zvaigzne",
+                "mirdzēt",
+                "varavīksne"
+            ]
+        },
+        "calm": {
+            "name": "Mierīgs",
+            "keywords": [
+                "mākonis",
+                "cepure",
+                "debesis"
+            ]
+        },
+        "captivated": {
+            "name": "Savaldzināts",
+            "keywords": [
+                "kamera",
+                "foto",
+                "attēls"
+            ]
+        },
+        "cat": {
+            "name": "Kaķis",
+            "keywords": [
+                "kaķis",
+                "kaķēns",
+                "ņau"
+            ]
+        },
+        "cell": {
+            "name": "Šūna",
+            "keywords": [
+                "šūna",
+                "bioloģija",
+                "kamols"
+            ]
+        },
+        "centered": {
+            "name": "Līdzsvarā",
+            "keywords": [
+                "akmeņi",
+                "līdzsvars",
+                "dzens"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmisks",
+            "keywords": [
+                "taustekļi",
+                "citplanētietis",
+                "laimīgs"
+            ]
+        },
+        "destemido": {
+            "name": "Bezbailīgs",
+            "keywords": [
+                "kaktuss",
+                "augs",
+                "izturīgs"
+            ]
+        },
+        "dog": {
+            "name": "Suns",
+            "keywords": [
+                "suns",
+                "kucēns",
+                "mēle"
+            ]
+        },
+        "fancy": {
+            "name": "Elegants",
+            "keywords": [
+                "kūka",
+                "šķēle",
+                "ķirsis"
+            ]
+        },
+        "flowing": {
+            "name": "Plūstošs",
+            "keywords": [
+                "ūdens",
+                "piliens",
+                "lietus"
+            ]
+        },
+        "hopeful": {
+            "name": "Cerīgs",
+            "keywords": [
+                "mākonis",
+                "saule",
+                "mierīgs"
+            ]
+        },
+        "hungry": {
+            "name": "Izsalcis",
+            "keywords": [
+                "burgers",
+                "ēdiens",
+                "pusdienas"
+            ]
+        },
+        "magical": {
+            "name": "Burvīgs",
+            "keywords": [
+                "vienradzis",
+                "varavīksne",
+                "maģija"
+            ]
+        },
+        "magical-2": {
+            "name": "Burvīgs (2)",
+            "keywords": [
+                "maģija",
+                "rozā",
+                "slavens"
+            ]
+        },
+        "open": {
+            "name": "Atvērts",
+            "keywords": [
+                "kalns",
+                "karogs",
+                "virsotne"
+            ]
+        },
+        "playful": {
+            "name": "Rotaļīgs",
+            "keywords": [
+                "delfīns",
+                "jūra",
+                "jautrība"
+            ]
+        },
+        "prickly": {
+            "name": "Dzeloņains",
+            "keywords": [
+                "kaktuss",
+                "īgnums",
+                "ērkšķains"
+            ]
+        },
+        "quantom": {
+            "name": "Kvantoms",
+            "keywords": [
+                "planēta",
+                "orbīta",
+                "kosmoss"
+            ]
+        },
+        "robot": {
+            "name": "Robots",
+            "keywords": [
+                "robots",
+                "mašīna",
+                "tehnoloģijas"
+            ]
+        },
+        "rocket": {
+            "name": "Raķete",
+            "keywords": [
+                "raķete",
+                "ātrs",
+                "uguns"
+            ]
+        },
+        "spiritual": {
+            "name": "Garīgs",
+            "keywords": [
+                "panda",
+                "saulesbrilles",
+                "atpūta"
+            ]
+        },
+        "starry": {
+            "name": "Zvaigžņots",
+            "keywords": [
+                "viena acs",
+                "briesmonis",
+                "pārsteigts"
+            ]
+        },
+        "sunny": {
+            "name": "Saulains",
+            "keywords": [
+                "saulespuķe",
+                "saule",
+                "zieds"
+            ]
+        },
+        "sweet": {
+            "name": "Salds",
+            "keywords": [
+                "konfekte",
+                "piparmētra",
+                "salds"
+            ]
+        },
+        "t-rex": {
+            "name": "T-reksis",
+            "keywords": [
+                "dinozaurs",
+                "zobi",
+                "rēkt"
+            ]
+        },
+        "wolfie": {
+            "name": "Vilcēns",
+            "keywords": [
+                "vilks",
+                "gaudot",
+                "viltīgs"
+            ]
+        }
+    }
+}

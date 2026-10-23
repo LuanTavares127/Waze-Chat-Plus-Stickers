@@ -1,0 +1,214 @@
+{
+    "name": "Crossover",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "Minion",
+                "ein Auge",
+                "Banane"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "Minion",
+                "ein Auge",
+                "Honigwabe"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "Symbiont",
+                "Zähne",
+                "Bösewicht"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "Fraggle",
+                "Puppe",
+                "glücklich"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "Fraggle",
+                "Brille",
+                "Haare"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "Fraggle",
+                "Puppe",
+                "nervös"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "Fraggle",
+                "Hut",
+                "lachen"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Loyal",
+            "keywords": [
+                "Minion",
+                "Schutzbrille",
+                "loyal"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Mutig",
+            "keywords": [
+                "Minion",
+                "Schutzbrille",
+                "mutig"
+            ]
+        },
+        "james": {
+            "name": "James - Künstlerisch",
+            "keywords": [
+                "Minion",
+                "Kunst",
+                "malen"
+            ]
+        },
+        "alliance": {
+            "name": "Allianz",
+            "keywords": [
+                "Helm",
+                "Rüstung",
+                "Krieger"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "Fledermaus",
+                "Held",
+                "Gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "Fragezeichen",
+                "Bösewicht",
+                "Maske"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "Maske",
+                "Antiheld",
+                "rot"
+            ]
+        },
+        "brave": {
+            "name": "Mutig",
+            "keywords": [
+                "Schwamm",
+                "Pirat",
+                "Augenklappe"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "Polizei",
+                "Hund",
+                "Welpe"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "Feuerwehrmann",
+                "Hund",
+                "Welpe"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "Pilot",
+                "Hund",
+                "Welpe"
+            ]
+        },
+        "energetic": {
+            "name": "Energiegeladen",
+            "keywords": [
+                "Igel",
+                "schnell",
+                "blau"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "Bauarbeiter",
+                "Helm",
+                "Baustelle"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "Fraggle",
+                "rote Haare",
+                "lachen"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "Ork",
+                "Hauer",
+                "Krieger"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "Spartaner",
+                "Helm",
+                "Soldat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "Brutalo",
+                "Rüstung",
+                "Bösewicht"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "Elite",
+                "Rüstung",
+                "Hörner"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "Spartaner",
+                "Helm",
+                "Visier"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "Elf",
+                "Edelstein",
+                "Bösewicht"
+            ]
+        }
+    }
+}

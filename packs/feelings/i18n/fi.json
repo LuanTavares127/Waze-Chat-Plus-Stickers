@@ -1,0 +1,360 @@
+{
+    "name": "Tunteet",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassinen",
+                "hei",
+                "iloinen"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "kyynel",
+                "surullinen",
+                "yölakki"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "tyhjä",
+                "neutraali",
+                "tavallinen"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "rakkaus",
+                "sydän",
+                "makea"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "vanhempi",
+                "vauva",
+                "perhe"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "itku",
+                "järkyttynyt",
+                "epätoivo"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "sairas",
+                "pahoinvointi",
+                "huonovointinen"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "kiusallinen",
+                "epämukava",
+                "hyi"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "innoissaan",
+                "jee",
+                "siivet"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "iloinen",
+                "nauru",
+                "hattu"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "vihainen",
+                "ärsyyntynyt",
+                "otsan rypistys"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "kysymys",
+                "mitä",
+                "epäilys"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lootus",
+                "meditaatio",
+                "rauha"
+            ]
+        },
+        "amazing": {
+            "name": "Mahtava",
+            "keywords": [
+                "vau",
+                "tähtisilmät",
+                "mahtava"
+            ]
+        },
+        "amused": {
+            "name": "Huvittunut",
+            "keywords": [
+                "silmien pyörittely",
+                "ihan sama",
+                "ivallinen hymy"
+            ]
+        },
+        "antsy": {
+            "name": "Levoton",
+            "keywords": [
+                "kärsimätön",
+                "stressaantunut",
+                "hyi"
+            ]
+        },
+        "bored": {
+            "name": "Tylsistynyt",
+            "keywords": [
+                "ei kiinnosta",
+                "tylsä",
+                "höpöhöpö"
+            ]
+        },
+        "carsick": {
+            "name": "Automatkapahoinvointi",
+            "keywords": [
+                "sairas",
+                "pahoinvointi",
+                "matkapahoinvointi"
+            ]
+        },
+        "cheeky": {
+            "name": "Nenäkäs",
+            "keywords": [
+                "silmänisku",
+                "kieli",
+                "vitsailu"
+            ]
+        },
+        "depressed": {
+            "name": "Masentunut",
+            "keywords": [
+                "surullinen",
+                "maassa",
+                "surullinen"
+            ]
+        },
+        "exasperated": {
+            "name": "Kyllästynyt",
+            "keywords": [
+                "kyllästynyt",
+                "huokaus",
+                "ärsyyntynyt"
+            ]
+        },
+        "flustered": {
+            "name": "Hämmentynyt",
+            "keywords": [
+                "järkyttynyt",
+                "huutaa",
+                "voi ei"
+            ]
+        },
+        "funny": {
+            "name": "Hauska",
+            "keywords": [
+                "nauru",
+                "haha",
+                "ilon kyyneleet"
+            ]
+        },
+        "furious": {
+            "name": "Raivoissaan",
+            "keywords": [
+                "raivo",
+                "kiroilu",
+                "vihainen"
+            ]
+        },
+        "grumpy": {
+            "name": "Ärtyisä",
+            "keywords": [
+                "äkäinen",
+                "ärsyyntynyt",
+                "kuulokkeet"
+            ]
+        },
+        "happy": {
+            "name": "Iloinen",
+            "keywords": [
+                "ilo",
+                "nauru",
+                "hymy"
+            ]
+        },
+        "hilarious": {
+            "name": "Hillitön",
+            "keywords": [
+                "haha",
+                "nauru",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Nöyrä",
+            "keywords": [
+                "kiitollinen",
+                "rauha",
+                "siivet"
+            ]
+        },
+        "joyful": {
+            "name": "Riemukas",
+            "keywords": [
+                "nauru",
+                "iloinen",
+                "huh"
+            ]
+        },
+        "judgmental": {
+            "name": "Tuomitseva",
+            "keywords": [
+                "paheksua",
+                "otsan rypistys",
+                "tuomitseva"
+            ]
+        },
+        "loved-up": {
+            "name": "Rakastunut",
+            "keywords": [
+                "rakastunut",
+                "sydänsilmät",
+                "ihastus"
+            ]
+        },
+        "mind-blown": {
+            "name": "Mielenräjähdys",
+            "keywords": [
+                "järkyttynyt",
+                "vau",
+                "räjähdys"
+            ]
+        },
+        "moody": {
+            "name": "Tuulinen",
+            "keywords": [
+                "ei kiinnosta",
+                "mutkaviiva",
+                "laatikko"
+            ]
+        },
+        "nervous": {
+            "name": "Hermostunut",
+            "keywords": [
+                "ahdistunut",
+                "hiki",
+                "huolestunut"
+            ]
+        },
+        "obsessed": {
+            "name": "Pakkomielteinen",
+            "keywords": [
+                "tähtisilmät",
+                "huuto",
+                "fani"
+            ]
+        },
+        "sad": {
+            "name": "Surullinen",
+            "keywords": [
+                "kyynel",
+                "itkeä",
+                "maassa"
+            ]
+        },
+        "shy": {
+            "name": "Ujo",
+            "keywords": [
+                "punastus",
+                "söpö",
+                "nolostunut"
+            ]
+        },
+        "skeptical": {
+            "name": "Epäilevä",
+            "keywords": [
+                "epäilys",
+                "vaikuttumaton",
+                "oikeasti"
+            ]
+        },
+        "spacey": {
+            "name": "Hajamielinen",
+            "keywords": [
+                "hajamielinen",
+                "päiväuni",
+                "poissaoleva"
+            ]
+        },
+        "tired": {
+            "name": "Väsynyt",
+            "keywords": [
+                "silmämuna",
+                "verestävät silmät",
+                "uninen"
+            ]
+        },
+        "unproductive": {
+            "name": "Tehoton",
+            "keywords": [
+                "muistilappu",
+                "laiska",
+                "valmis"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "rauha",
+                "rento",
+                "rauha"
+            ]
+        },
+        "mischievous": {
+            "name": "Veitikka",
+            "keywords": [
+                "oho",
+                "yllättynyt",
+                "laatikko"
+            ]
+        },
+        "wicked": {
+            "name": "Ilkeä",
+            "keywords": [
+                "ilkeä virnistys",
+                "kujeet",
+                "laatikko"
+            ]
+        },
+        "motivated": {
+            "name": "Motivoitunut",
+            "keywords": [
+                "innoissaan",
+                "mennään",
+                "hiukset"
+            ]
+        },
+        "proud": {
+            "name": "Ylpeä",
+            "keywords": [
+                "ylpeys",
+                "sateenkaari",
+                "sydän"
+            ]
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "name": "Juhlat, horoskoopit ja fantasia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "lumiukko",
+                "talvi",
+                "huivi"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "juhlahattu",
+                "syntymäpäivä",
+                "juhlia"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viikinki",
+                "kypärä",
+                "karttaneula"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "hovinarri",
+                "hattu",
+                "nauru"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "joulu",
+                "joulupukki",
+                "aurinkolasit"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "velho",
+                "hattu",
+                "taikuus"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "noita",
+                "hattu",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnevaali",
+                "päähine",
+                "höyhenet"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "huivi",
+                "pipo",
+                "talvi"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnevaali",
+                "naamio",
+                "juhla"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "uusivuosi",
+                "2026",
+                "juhla"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viikinki",
+                "vasara",
+                "kilpi"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "talvi",
+                "pipo",
+                "kylmä"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "vartija",
+                "lontoo",
+                "hattu"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "silinteri",
+                "tee",
+                "ihmemaa"
+            ]
+        },
+        "aries": {
+            "name": "Oinas",
+            "keywords": [
+                "horoskooppi",
+                "oinas",
+                "horoskooppi"
+            ]
+        },
+        "taurus": {
+            "name": "Härkä",
+            "keywords": [
+                "horoskooppi",
+                "härkä",
+                "horoskooppi"
+            ]
+        },
+        "gemini": {
+            "name": "Kaksoset",
+            "keywords": [
+                "horoskooppi",
+                "kaksoset",
+                "horoskooppi"
+            ]
+        },
+        "cancer": {
+            "name": "Rapu",
+            "keywords": [
+                "horoskooppi",
+                "rapu",
+                "horoskooppi"
+            ]
+        },
+        "leo": {
+            "name": "Leijona",
+            "keywords": [
+                "horoskooppi",
+                "leijona",
+                "horoskooppi"
+            ]
+        },
+        "virgo": {
+            "name": "Neitsyt",
+            "keywords": [
+                "horoskooppi",
+                "neito",
+                "horoskooppi"
+            ]
+        },
+        "libra": {
+            "name": "Vaaka",
+            "keywords": [
+                "horoskooppi",
+                "vaaka",
+                "horoskooppi"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpioni",
+            "keywords": [
+                "horoskooppi",
+                "skorpioni",
+                "horoskooppi"
+            ]
+        },
+        "sagittarius": {
+            "name": "Jousimies",
+            "keywords": [
+                "horoskooppi",
+                "jousiampuja",
+                "horoskooppi"
+            ]
+        },
+        "capricorn": {
+            "name": "Kauris",
+            "keywords": [
+                "horoskooppi",
+                "vuohi",
+                "horoskooppi"
+            ]
+        },
+        "aquarius": {
+            "name": "Vesimies",
+            "keywords": [
+                "horoskooppi",
+                "vesi",
+                "horoskooppi"
+            ]
+        },
+        "pisces": {
+            "name": "Kalat",
+            "keywords": [
+                "horoskooppi",
+                "kala",
+                "horoskooppi"
+            ]
+        },
+        "santa": {
+            "name": "Joulupukki",
+            "keywords": [
+                "joulu",
+                "joulupukki",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Juhlava",
+            "keywords": [
+                "joulu",
+                "tonttulakki",
+                "parta"
+            ]
+        },
+        "frazzled": {
+            "name": "Näännyksissä",
+            "keywords": [
+                "joulu",
+                "väsynyt",
+                "joulupukki"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnevaalikävijä",
+            "keywords": [
+                "karnevaali",
+                "merimies",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Iloiset juhlat",
+            "keywords": [
+                "juhlahattu",
+                "tähti",
+                "juhlia"
+            ]
+        },
+        "blossom": {
+            "name": "Kukinta",
+            "keywords": [
+                "kukka",
+                "vaaleanpunainen",
+                "kevät"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "ystävänpäivä",
+                "nuoli",
+                "rakkaus"
+            ]
+        },
+        "happy-clown": {
+            "name": "Iloinen klovni",
+            "keywords": [
+                "klovni",
+                "sirkus",
+                "hauskaa"
+            ]
+        },
+        "scary-clown": {
+            "name": "Pelottava klovni",
+            "keywords": [
+                "klovni",
+                "halloween",
+                "karmiva"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "halloween",
+                "zombi",
+                "eloonherännyt"
+            ]
+        },
+        "zombified": {
+            "name": "Zombiutunut",
+            "keywords": [
+                "zombi",
+                "väsynyt",
+                "ompeleet"
+            ]
+        },
+        "monster": {
+            "name": "Hirviö",
+            "keywords": [
+                "yksi silmä",
+                "kyklooppi",
+                "hirviö"
+            ]
+        },
+        "mystical": {
+            "name": "Mystinen",
+            "keywords": [
+                "huppu",
+                "haltia",
+                "taikuus"
+            ]
+        },
+        "mighty": {
+            "name": "Mahtava",
+            "keywords": [
+                "viikinki",
+                "viikset",
+                "sarvet"
+            ]
+        },
+        "angelic": {
+            "name": "Enkelimäinen",
+            "keywords": [
+                "enkeli",
+                "sädekehä",
+                "siivet"
+            ]
+        },
+        "devious": {
+            "name": "Ovela",
+            "keywords": [
+                "piru",
+                "sarvet",
+                "virnistys"
+            ]
+        },
+        "diabolical": {
+            "name": "Pirullinen",
+            "keywords": [
+                "konna",
+                "monokkeli",
+                "paha"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "nero",
+                "tiedemies",
+                "kieli"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgia",
+                "torvi",
+                "fani"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronautti",
+                "avaruus",
+                "kypärä"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (sininen)",
+            "keywords": [
+                "astronautti",
+                "avaruus",
+                "kuu"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "sankari",
+                "tiara",
+                "voima"
+            ]
+        }
+    }
+}

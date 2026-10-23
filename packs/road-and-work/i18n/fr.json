@@ -1,0 +1,351 @@
+{
+    "name": "Sur la route et au travail",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "baluchon",
+                "voyage",
+                "aventure"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "potion",
+                "lunettes",
+                "labo"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "explorateur",
+                "chapeau",
+                "aventure"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "appareil photo",
+                "drapeau",
+                "visite touristique"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marin",
+                "casquette",
+                "bateau"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "valise",
+                "chapeau",
+                "voyage"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilote",
+                "lunettes de protection",
+                "casque"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "hibou",
+                "remise de diplôme",
+                "intelligent"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "extincteur",
+                "sécurité",
+                "nerveux"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "casque de chantier",
+                "chantier",
+                "gilet"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "chapeau de paille",
+                "ferme",
+                "fête de juin"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "casque",
+                "étoiles",
+                "pilote de course"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "masque facial",
+                "santé",
+                "sûr"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "chronomètre",
+                "bandeau",
+                "entraînement"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "vote",
+                "élection",
+                "bulletin de vote"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "vote",
+                "signe",
+                "élection"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "médaille",
+                "ruban",
+                "clin d'œil"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "livraison",
+                "casque",
+                "boîte"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenna",
+                "explorateur"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "bulle de dialogue",
+                "discussion",
+                "parler"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "sifflet",
+                "arbitre",
+                "faute"
+            ]
+        },
+        "road-warrior": {
+            "name": "Guerrier de la route",
+            "keywords": [
+                "casque",
+                "lunettes de protection",
+                "aile"
+            ]
+        },
+        "limitless": {
+            "name": "Sans limites",
+            "keywords": [
+                "autoroute",
+                "bouclier",
+                "panneau routier"
+            ]
+        },
+        "map-master": {
+            "name": "Maître des cartes",
+            "keywords": [
+                "éditeur",
+                "carte",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Méga-routier",
+            "keywords": [
+                "camion",
+                "lunettes de protection",
+                "routier"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Capitaine Merci",
+            "keywords": [
+                "merci",
+                "capitaine",
+                "moustache"
+            ]
+        },
+        "all-business": {
+            "name": "Très sérieux",
+            "keywords": [
+                "costume",
+                "cravate",
+                "travail"
+            ]
+        },
+        "business-casual": {
+            "name": "Chic décontracté",
+            "keywords": [
+                "cravate",
+                "bandeau",
+                "langue"
+            ]
+        },
+        "businessy": {
+            "name": "Style affaires",
+            "keywords": [
+                "costume",
+                "lunettes",
+                "bureau"
+            ]
+        },
+        "bawse-y": {
+            "name": "Patron",
+            "keywords": [
+                "patron",
+                "lunettes de soleil",
+                "costume"
+            ]
+        },
+        "productive": {
+            "name": "Productif",
+            "keywords": [
+                "casque micro",
+                "travail",
+                "clin d'œil"
+            ]
+        },
+        "dialed-up": {
+            "name": "Connecté",
+            "keywords": [
+                "ordinateur",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Infiltré",
+            "keywords": [
+                "déguisement",
+                "lunettes",
+                "nez"
+            ]
+        },
+        "sneaky": {
+            "name": "Discret",
+            "keywords": [
+                "ninja",
+                "furtif",
+                "masque"
+            ]
+        },
+        "survivalist": {
+            "name": "Survivaliste",
+            "keywords": [
+                "bandana",
+                "cicatrice",
+                "robuste"
+            ]
+        },
+        "speedy": {
+            "name": "Rapide",
+            "keywords": [
+                "rapide",
+                "vitesse",
+                "sourire en coin"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "cyclisme",
+                "casquette",
+                "rapide"
+            ]
+        },
+        "unstoppable": {
+            "name": "Inarrêtable",
+            "keywords": [
+                "rapide",
+                "étincelle",
+                "courir"
+            ]
+        },
+        "comfortable": {
+            "name": "Confortable",
+            "keywords": [
+                "basket",
+                "chaussure",
+                "cosy"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Écolo",
+            "keywords": [
+                "terre",
+                "planète",
+                "vert"
+            ]
+        },
+        "global": {
+            "name": "Mondial",
+            "keywords": [
+                "terre",
+                "mégaphone",
+                "monde"
+            ]
+        },
+        "victorious": {
+            "name": "Victorieux",
+            "keywords": [
+                "trophée",
+                "gagnant",
+                "champion"
+            ]
+        },
+        "beautiful": {
+            "name": "Beau jeu",
+            "keywords": [
+                "football",
+                "football",
+                "ballon"
+            ]
+        },
+        "masterful": {
+            "name": "Magistral",
+            "keywords": [
+                "golf",
+                "ballon",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "casque",
+                "moto",
+                "précipitation"
+            ]
+        }
+    }
+}

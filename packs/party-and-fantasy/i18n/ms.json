@@ -1,0 +1,382 @@
+{
+    "name": "Parti, Zodiak & Fantasi",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "orang salji",
+                "musim sejuk",
+                "skarf"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "topi parti",
+                "hari jadi",
+                "meraikan"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "topi keledar",
+                "pin peta"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "badut istana",
+                "topi",
+                "ketawa"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "krismas",
+                "santa",
+                "cermin mata hitam"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "ahli sihir",
+                "topi",
+                "sihir"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "ahli sihir wanita",
+                "topi",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnival",
+                "hiasan kepala",
+                "bulu"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "skarf",
+                "topi kupluk",
+                "musim sejuk"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnival",
+                "topeng",
+                "parti"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "tahun baru",
+                "2026",
+                "parti"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "tukul",
+                "perisai"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "musim sejuk",
+                "topi kupluk",
+                "sejuk"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "pengawal",
+                "london",
+                "topi"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "topi tinggi",
+                "teh",
+                "negeri ajaib"
+            ]
+        },
+        "aries": {
+            "name": "Aries",
+            "keywords": [
+                "zodiak",
+                "biri-biri jantan",
+                "horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Taurus",
+            "keywords": [
+                "zodiak",
+                "lembu jantan",
+                "horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Gemini",
+            "keywords": [
+                "zodiak",
+                "kembar",
+                "horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Cancer",
+            "keywords": [
+                "zodiak",
+                "ketam",
+                "horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Leo",
+            "keywords": [
+                "zodiak",
+                "singa",
+                "horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Virgo",
+            "keywords": [
+                "zodiak",
+                "gadis",
+                "horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Libra",
+            "keywords": [
+                "zodiak",
+                "neraca",
+                "horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Scorpio",
+            "keywords": [
+                "zodiak",
+                "kala jengking",
+                "horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Sagittarius",
+            "keywords": [
+                "zodiak",
+                "pemanah",
+                "horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Capricorn",
+            "keywords": [
+                "zodiak",
+                "kambing",
+                "horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Aquarius",
+            "keywords": [
+                "zodiak",
+                "air",
+                "horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Pisces",
+            "keywords": [
+                "zodiak",
+                "ikan",
+                "horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Santa",
+            "keywords": [
+                "krismas",
+                "santa",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Meriah",
+            "keywords": [
+                "krismas",
+                "topi santa",
+                "janggut"
+            ]
+        },
+        "frazzled": {
+            "name": "Kepenatan",
+            "keywords": [
+                "krismas",
+                "penat",
+                "santa"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Peraya karnival",
+            "keywords": [
+                "karnival",
+                "kelasi",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Parti ceria",
+            "keywords": [
+                "topi parti",
+                "bintang",
+                "meraikan"
+            ]
+        },
+        "blossom": {
+            "name": "Berkembang",
+            "keywords": [
+                "bunga",
+                "merah jambu",
+                "musim bunga"
+            ]
+        },
+        "cupid": {
+            "name": "Cupid",
+            "keywords": [
+                "valentine",
+                "anak panah",
+                "cinta"
+            ]
+        },
+        "happy-clown": {
+            "name": "Badut gembira",
+            "keywords": [
+                "badut",
+                "sarkas",
+                "seronok"
+            ]
+        },
+        "scary-clown": {
+            "name": "Badut menakutkan",
+            "keywords": [
+                "badut",
+                "halloween",
+                "seram"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "halloween",
+                "zombi",
+                "mayat hidup"
+            ]
+        },
+        "zombified": {
+            "name": "Jadi zombi",
+            "keywords": [
+                "zombi",
+                "penat",
+                "jahitan"
+            ]
+        },
+        "monster": {
+            "name": "Raksasa",
+            "keywords": [
+                "satu mata",
+                "cyclops",
+                "raksasa"
+            ]
+        },
+        "mystical": {
+            "name": "Mistik",
+            "keywords": [
+                "tudung",
+                "bunian",
+                "sihir"
+            ]
+        },
+        "mighty": {
+            "name": "Gagah",
+            "keywords": [
+                "viking",
+                "misai",
+                "tanduk"
+            ]
+        },
+        "angelic": {
+            "name": "Seperti malaikat",
+            "keywords": [
+                "malaikat",
+                "lingkaran cahaya",
+                "sayap"
+            ]
+        },
+        "devious": {
+            "name": "Licik",
+            "keywords": [
+                "syaitan",
+                "tanduk",
+                "sengih"
+            ]
+        },
+        "diabolical": {
+            "name": "Jahat sekali",
+            "keywords": [
+                "penjahat",
+                "monokel",
+                "jahat"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "genius",
+                "saintis",
+                "lidah"
+            ]
+        },
+        "belgie": {
+            "name": "Belgium",
+            "keywords": [
+                "belgium",
+                "hon",
+                "peminat"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "angkasawan",
+                "angkasa",
+                "topi keledar"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (biru)",
+            "keywords": [
+                "angkasawan",
+                "angkasa",
+                "bulan"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "wira",
+                "tiara",
+                "kuasa"
+            ]
+        }
+    }
+}

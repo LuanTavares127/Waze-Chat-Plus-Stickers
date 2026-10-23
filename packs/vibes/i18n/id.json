@@ -1,0 +1,342 @@
+{
+    "name": "Suasana",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "tanduk domba",
+                "kacamata hitam",
+                "berani"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "kacamata hitam",
+                "batu karang"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musik",
+                "not",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "sepatu hak tinggi",
+                "mode",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "berbaring",
+                "topi pesta",
+                "santai"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "headset",
+                "mendengarkan",
+                "musik"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bola lampu",
+                "kacamata",
+                "ide"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "gelembung",
+                "ramuan",
+                "senang"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "berkilau",
+                "kacamata hitam",
+                "mewah"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "headphone",
+                "macan tutul",
+                "musik"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "bernyanyi"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "alien",
+                "helm",
+                "luar angkasa"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "headphone",
+                "musik",
+                "keren"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "topi",
+                "terbalik",
+                "lirikan"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "topi baling-baling",
+                "konyol",
+                "anak"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplifier",
+                "gitar",
+                "musik"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "drum",
+                "rebana",
+                "kedip"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bola lampu",
+                "berpikir",
+                "ide"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "tangan",
+                "hormat",
+                "sapaan"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "kacamata",
+                "pintar",
+                "senyum miring"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "kacamata",
+                "pirang",
+                "belajar"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "jubah",
+                "pahlawan",
+                "kacamata"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "mahkota",
+                "kacamata hitam",
+                "raja"
+            ]
+        },
+        "chill": {
+            "name": "Santai",
+            "keywords": [
+                "kacamata hitam",
+                "santai",
+                "keren"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Kacamata Santai",
+            "keywords": [
+                "kacamata bulat",
+                "santai",
+                "keren"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "kacamata pesta",
+                "lidah",
+                "berlebihan"
+            ]
+        },
+        "feisty": {
+            "name": "Tangguh",
+            "keywords": [
+                "tinju",
+                "sarung tangan",
+                "berkelahi"
+            ]
+        },
+        "gutsy": {
+            "name": "Nekat",
+            "keywords": [
+                "kacamata hitam",
+                "tangguh",
+                "berani"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ]
+        },
+        "rad": {
+            "name": "Keren",
+            "keywords": [
+                "kacamata hitam",
+                "keren",
+                "nyengir"
+            ]
+        },
+        "savvy": {
+            "name": "Cerdik",
+            "keywords": [
+                "kacamata hitam",
+                "topi sinterklas",
+                "pintar"
+            ]
+        },
+        "serene": {
+            "name": "Damai",
+            "keywords": [
+                "kacamata bulat",
+                "tenang",
+                "senyum"
+            ]
+        },
+        "shady": {
+            "name": "Mencurigakan",
+            "keywords": [
+                "fedora",
+                "kacamata hitam",
+                "misterius"
+            ]
+        },
+        "snappy": {
+            "name": "Gesit",
+            "keywords": [
+                "dasi kupu-kupu",
+                "kue kering",
+                "senyum miring"
+            ]
+        },
+        "strong": {
+            "name": "Kuat",
+            "keywords": [
+                "x",
+                "kacamata hitam",
+                "tangguh"
+            ]
+        },
+        "wild": {
+            "name": "Liar",
+            "keywords": [
+                "helm",
+                "petir",
+                "kacamata hitam"
+            ]
+        },
+        "pumped": {
+            "name": "Semangat!",
+            "keywords": [
+                "boombox",
+                "musik",
+                "pesta"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lampu lava",
+                "retro",
+                "tahun 70-an"
+            ]
+        },
+        "quirky": {
+            "name": "Unik",
+            "keywords": [
+                "topi",
+                "warna-warni",
+                "lucu"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolombia",
+                "topi",
+                "keren"
+            ]
+        },
+        "leopard": {
+            "name": "Macan Tutul",
+            "keywords": [
+                "macan tutul",
+                "kacamata hitam",
+                "liar"
+            ]
+        },
+        "sidekick": {
+            "name": "Sahabat",
+            "keywords": [
+                "rekan",
+                "jenggot",
+                "kawan"
+            ]
+        },
+        "geeky": {
+            "name": "Kutu Buku",
+            "keywords": [
+                "kacamata",
+                "kutu buku",
+                "menatap"
+            ]
+        },
+        "smart": {
+            "name": "Pintar",
+            "keywords": [
+                "bola lampu",
+                "lidah",
+                "ide"
+            ]
+        },
+        "light": {
+            "name": "Cahaya",
+            "keywords": [
+                "berduri",
+                "pirang",
+                "manyun"
+            ]
+        }
+    }
+}

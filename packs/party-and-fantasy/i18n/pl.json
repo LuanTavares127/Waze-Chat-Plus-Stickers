@@ -1,0 +1,382 @@
+{
+    "name": "Impreza, zodiak i fantazja",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "bałwan",
+                "zima",
+                "szalik"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "czapeczka imprezowa",
+                "urodziny",
+                "świętować"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "wiking",
+                "hełm",
+                "pinezka"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "błazen",
+                "kapelusz",
+                "śmiech"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "święta",
+                "mikołaj",
+                "okulary przeciwsłoneczne"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "czarodziej",
+                "kapelusz",
+                "magia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "wiedźma",
+                "kapelusz",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnawał",
+                "pióropusz",
+                "pióra"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "szalik",
+                "czapka zimowa",
+                "zima"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnawał",
+                "maska",
+                "impreza"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nowy rok",
+                "2026",
+                "impreza"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "wiking",
+                "młot",
+                "tarcza"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "zima",
+                "czapka zimowa",
+                "zimno"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "gwardzista",
+                "londyn",
+                "kapelusz"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cylinder",
+                "herbata",
+                "kraina czarów"
+            ]
+        },
+        "aries": {
+            "name": "Baran",
+            "keywords": [
+                "zodiak",
+                "baran",
+                "horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Byk",
+            "keywords": [
+                "zodiak",
+                "byk",
+                "horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Bliźnięta",
+            "keywords": [
+                "zodiak",
+                "bliźnięta",
+                "horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Rak",
+            "keywords": [
+                "zodiak",
+                "krab",
+                "horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Lew",
+            "keywords": [
+                "zodiak",
+                "lew",
+                "horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Panna",
+            "keywords": [
+                "zodiak",
+                "panna",
+                "horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Waga",
+            "keywords": [
+                "zodiak",
+                "waga",
+                "horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpion",
+            "keywords": [
+                "zodiak",
+                "skorpion",
+                "horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Strzelec",
+            "keywords": [
+                "zodiak",
+                "łucznik",
+                "horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Koziorożec",
+            "keywords": [
+                "zodiak",
+                "koza",
+                "horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Wodnik",
+            "keywords": [
+                "zodiak",
+                "woda",
+                "horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Ryby",
+            "keywords": [
+                "zodiak",
+                "ryba",
+                "horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Mikołaj",
+            "keywords": [
+                "święta",
+                "mikołaj",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Świąteczny",
+            "keywords": [
+                "święta",
+                "czapka mikołaja",
+                "broda"
+            ]
+        },
+        "frazzled": {
+            "name": "Wykończony",
+            "keywords": [
+                "święta",
+                "zmęczony",
+                "mikołaj"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnawałowicz",
+            "keywords": [
+                "karnawał",
+                "marynarz",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Radosna impreza",
+            "keywords": [
+                "czapeczka imprezowa",
+                "gwiazda",
+                "świętować"
+            ]
+        },
+        "blossom": {
+            "name": "Kwitnący",
+            "keywords": [
+                "kwiat",
+                "różowy",
+                "wiosna"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "walentynki",
+                "strzała",
+                "miłość"
+            ]
+        },
+        "happy-clown": {
+            "name": "Wesoły klaun",
+            "keywords": [
+                "klaun",
+                "cyrk",
+                "zabawa"
+            ]
+        },
+        "scary-clown": {
+            "name": "Straszny klaun",
+            "keywords": [
+                "klaun",
+                "halloween",
+                "straszny"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "nieumarły"
+            ]
+        },
+        "zombified": {
+            "name": "Zzombifikowany",
+            "keywords": [
+                "zombie",
+                "zmęczony",
+                "szwy"
+            ]
+        },
+        "monster": {
+            "name": "Potwór",
+            "keywords": [
+                "jedno oko",
+                "cyklop",
+                "potwór"
+            ]
+        },
+        "mystical": {
+            "name": "Mistyczny",
+            "keywords": [
+                "kaptur",
+                "elf",
+                "magia"
+            ]
+        },
+        "mighty": {
+            "name": "Potężny",
+            "keywords": [
+                "wiking",
+                "wąsy",
+                "rogi"
+            ]
+        },
+        "angelic": {
+            "name": "Anielski",
+            "keywords": [
+                "anioł",
+                "aureola",
+                "skrzydła"
+            ]
+        },
+        "devious": {
+            "name": "Podstępny",
+            "keywords": [
+                "diabeł",
+                "rogi",
+                "szeroki uśmiech"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabelski",
+            "keywords": [
+                "złoczyńca",
+                "monokl",
+                "zły"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "geniusz",
+                "naukowiec",
+                "język"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgia",
+                "róg",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronauta",
+                "kosmos",
+                "hełm"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (niebieski)",
+            "keywords": [
+                "astronauta",
+                "kosmos",
+                "księżyc"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "bohater",
+                "tiara",
+                "moc"
+            ]
+        }
+    }
+}

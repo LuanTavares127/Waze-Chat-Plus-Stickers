@@ -1,0 +1,360 @@
+{
+    "name": "Jausmai",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasika",
+                "labas",
+                "laimingas"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "ašara",
+                "liūdnas",
+                "naktinė kepurė"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "tuščias",
+                "neutralus",
+                "paprastas"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "meilė",
+                "širdis",
+                "saldus"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "tėvas",
+                "kūdikis",
+                "šeima"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "verkimas",
+                "nusiminęs",
+                "neviltis"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "sergantis",
+                "pykinimas",
+                "nesveikas"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "nepatogu",
+                "nejauku",
+                "fui"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "sujaudintas",
+                "valio",
+                "sparnai"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "laimingas",
+                "juokas",
+                "skrybėlė"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "piktas",
+                "susierzinęs",
+                "suraukti"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "klausimas",
+                "ką",
+                "abejonė"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotosas",
+                "meditacija",
+                "ramus"
+            ]
+        },
+        "amazing": {
+            "name": "Nuostabu",
+            "keywords": [
+                "oho",
+                "žvaigždžių akys",
+                "puiku"
+            ]
+        },
+        "amused": {
+            "name": "Pralinksmintas",
+            "keywords": [
+                "akių vartymas",
+                "nesvarbu",
+                "šypsnis"
+            ]
+        },
+        "antsy": {
+            "name": "Neramus",
+            "keywords": [
+                "nekantrus",
+                "įsitempęs",
+                "fui"
+            ]
+        },
+        "bored": {
+            "name": "Nuobodžiaujantis",
+            "keywords": [
+                "na",
+                "nuobodu",
+                "bla bla"
+            ]
+        },
+        "carsick": {
+            "name": "Pykina mašinoje",
+            "keywords": [
+                "sergantis",
+                "pykinimas",
+                "judesio liga"
+            ]
+        },
+        "cheeky": {
+            "name": "Įžūlus",
+            "keywords": [
+                "mirktelėjimas",
+                "liežuvis",
+                "juokauja"
+            ]
+        },
+        "depressed": {
+            "name": "Prislėgtas",
+            "keywords": [
+                "liūdnas",
+                "nuleistas",
+                "mėlyna"
+            ]
+        },
+        "exasperated": {
+            "name": "Pasipiktinęs",
+            "keywords": [
+                "atsibodo",
+                "atsidusimas",
+                "susierzinęs"
+            ]
+        },
+        "flustered": {
+            "name": "Sutrikęs",
+            "keywords": [
+                "šokiruotas",
+                "šauksmas",
+                "o ne"
+            ]
+        },
+        "funny": {
+            "name": "Juokingas",
+            "keywords": [
+                "juokas",
+                "lol",
+                "džiaugsmo ašaros"
+            ]
+        },
+        "furious": {
+            "name": "Įsiutęs",
+            "keywords": [
+                "įniršis",
+                "keiksmai",
+                "piktas"
+            ]
+        },
+        "grumpy": {
+            "name": "Niurzga",
+            "keywords": [
+                "nepatenkintas",
+                "susierzinęs",
+                "ausinės"
+            ]
+        },
+        "happy": {
+            "name": "Laimingas",
+            "keywords": [
+                "džiaugsmas",
+                "juokas",
+                "šypsena"
+            ]
+        },
+        "hilarious": {
+            "name": "Nepakartojamai juokinga",
+            "keywords": [
+                "lol",
+                "juokas",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Nuolankus",
+            "keywords": [
+                "dėkingas",
+                "ramus",
+                "sparnai"
+            ]
+        },
+        "joyful": {
+            "name": "Džiugus",
+            "keywords": [
+                "juokas",
+                "laimingas",
+                "ufff"
+            ]
+        },
+        "judgmental": {
+            "name": "Smerkiantis",
+            "keywords": [
+                "nepritarti",
+                "suraukti",
+                "teisti"
+            ]
+        },
+        "loved-up": {
+            "name": "Įsimylėjęs",
+            "keywords": [
+                "įsimylėjęs",
+                "širdelės akyse",
+                "simpatija"
+            ]
+        },
+        "mind-blown": {
+            "name": "Pritrenktas",
+            "keywords": [
+                "šokiruotas",
+                "oho",
+                "sprogimas"
+            ]
+        },
+        "moody": {
+            "name": "Nuotaikingas",
+            "keywords": [
+                "na",
+                "vingis",
+                "dėžė"
+            ]
+        },
+        "nervous": {
+            "name": "Nervingas",
+            "keywords": [
+                "nerimastingas",
+                "prakaitas",
+                "susirūpinęs"
+            ]
+        },
+        "obsessed": {
+            "name": "Apsėstas",
+            "keywords": [
+                "žvaigždžių akys",
+                "klyksmas",
+                "gerbėjas"
+            ]
+        },
+        "sad": {
+            "name": "Liūdnas",
+            "keywords": [
+                "ašara",
+                "verkti",
+                "nuleistas"
+            ]
+        },
+        "shy": {
+            "name": "Drovus",
+            "keywords": [
+                "raudonis",
+                "mielas",
+                "sugėdintas"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptiškas",
+            "keywords": [
+                "abejonė",
+                "nesužavėtas",
+                "tikrai"
+            ]
+        },
+        "spacey": {
+            "name": "Svajingas",
+            "keywords": [
+                "išsiblaškęs",
+                "svajonės",
+                "nesamas"
+            ]
+        },
+        "tired": {
+            "name": "Pavargęs",
+            "keywords": [
+                "akies obuolys",
+                "raudonos akys",
+                "mieguistas"
+            ]
+        },
+        "unproductive": {
+            "name": "Neproduktyvus",
+            "keywords": [
+                "lipdukas",
+                "tingus",
+                "padaryta"
+            ]
+        },
+        "zen": {
+            "name": "Dzen",
+            "keywords": [
+                "ramus",
+                "atsipalaidavęs",
+                "taika"
+            ]
+        },
+        "mischievous": {
+            "name": "Išdykęs",
+            "keywords": [
+                "o",
+                "nustebęs",
+                "dėžė"
+            ]
+        },
+        "wicked": {
+            "name": "Nedoras",
+            "keywords": [
+                "piktas šypsnis",
+                "išdaigos",
+                "dėžė"
+            ]
+        },
+        "motivated": {
+            "name": "Motyvuotas",
+            "keywords": [
+                "sujaudintas",
+                "eime",
+                "plaukai"
+            ]
+        },
+        "proud": {
+            "name": "Išdidus",
+            "keywords": [
+                "išdidumas",
+                "vaivorykštė",
+                "širdis"
+            ]
+        }
+    }
+}

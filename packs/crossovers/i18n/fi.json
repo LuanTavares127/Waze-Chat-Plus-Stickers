@@ -1,0 +1,214 @@
+{
+    "name": "Yhteistyöt",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "yksi silmä",
+                "banaani"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "yksi silmä",
+                "kennosto"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiootti",
+                "hampaat",
+                "konna"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "nukke",
+                "iloinen"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "silmälasit",
+                "hiukset"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "nukke",
+                "hermostunut"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "hattu",
+                "nauru"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Uskollinen",
+            "keywords": [
+                "minion",
+                "suojalasit",
+                "uskollinen"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Rohkea",
+            "keywords": [
+                "minion",
+                "suojalasit",
+                "urhea"
+            ]
+        },
+        "james": {
+            "name": "James - Taiteellinen",
+            "keywords": [
+                "minion",
+                "taide",
+                "maali"
+            ]
+        },
+        "alliance": {
+            "name": "Liittouma",
+            "keywords": [
+                "kypärä",
+                "haarniska",
+                "soturi"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "lepakko",
+                "sankari",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "kysymysmerkki",
+                "konna",
+                "naamio"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "naamio",
+                "antisankari",
+                "punainen"
+            ]
+        },
+        "brave": {
+            "name": "Urhea",
+            "keywords": [
+                "sieni",
+                "merirosvo",
+                "silmälappu"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "poliisi",
+                "koira",
+                "pentu"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "palomies",
+                "koira",
+                "pentu"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "lentäjä",
+                "koira",
+                "pentu"
+            ]
+        },
+        "energetic": {
+            "name": "Energinen",
+            "keywords": [
+                "siili",
+                "nopea",
+                "sininen"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "rakentaja",
+                "kypärä",
+                "rakennus"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "punaiset hiukset",
+                "nauru"
+            ]
+        },
+        "horde": {
+            "name": "Lauma",
+            "keywords": [
+                "örkki",
+                "syöksyhampaat",
+                "soturi"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartalainen",
+                "kypärä",
+                "sotilas"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "raakalainen",
+                "haarniska",
+                "konna"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "eliitti",
+                "haarniska",
+                "sarvet"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartalainen",
+                "kypärä",
+                "visiiri"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "haltia",
+                "jalokivi",
+                "konna"
+            ]
+        }
+    }
+}

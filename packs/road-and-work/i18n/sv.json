@@ -1,0 +1,351 @@
+{
+    "name": "På vägen och på jobbet",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "knyte",
+                "resa",
+                "äventyr"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "trolldryck",
+                "glasögon",
+                "labb"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "upptäckare",
+                "hatt",
+                "äventyr"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "flagga",
+                "sightseeing"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "sjöman",
+                "keps",
+                "båt"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "resväska",
+                "hatt",
+                "resa"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "skyddsglasögon",
+                "hjälm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "uggla",
+                "examen",
+                "smart"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "brandsläckare",
+                "säkerhet",
+                "nervös"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "skyddshjälm",
+                "bygge",
+                "väst"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "halmhatt",
+                "bondgård",
+                "junifest"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "hjälm",
+                "stjärnor",
+                "racerförare"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "munskydd",
+                "hälsa",
+                "säker"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stoppur",
+                "pannband",
+                "träning"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "rösta",
+                "val",
+                "valsedel"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "rösta",
+                "skylt",
+                "val"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalj",
+                "band",
+                "blinka"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "leverans",
+                "hjälm",
+                "låda"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenn",
+                "upptäckare"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "pratbubbla",
+                "chatt",
+                "prata"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "visselpipa",
+                "domare",
+                "foul"
+            ]
+        },
+        "road-warrior": {
+            "name": "Vägkrigare",
+            "keywords": [
+                "hjälm",
+                "skyddsglasögon",
+                "vinge"
+            ]
+        },
+        "limitless": {
+            "name": "Gränslös",
+            "keywords": [
+                "motorväg",
+                "sköld",
+                "vägskylt"
+            ]
+        },
+        "map-master": {
+            "name": "Kartmästare",
+            "keywords": [
+                "redaktör",
+                "karta",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-lastbil",
+            "keywords": [
+                "lastbil",
+                "skyddsglasögon",
+                "åkare"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapten Tack",
+            "keywords": [
+                "tack",
+                "kapten",
+                "mustasch"
+            ]
+        },
+        "all-business": {
+            "name": "Allvar",
+            "keywords": [
+                "kostym",
+                "slips",
+                "jobb"
+            ]
+        },
+        "business-casual": {
+            "name": "Business casual",
+            "keywords": [
+                "slips",
+                "pannband",
+                "tunga"
+            ]
+        },
+        "businessy": {
+            "name": "Affärsmässig",
+            "keywords": [
+                "kostym",
+                "glasögon",
+                "kontor"
+            ]
+        },
+        "bawse-y": {
+            "name": "Chefig",
+            "keywords": [
+                "chef",
+                "solglasögon",
+                "kostym"
+            ]
+        },
+        "productive": {
+            "name": "Produktiv",
+            "keywords": [
+                "headset",
+                "jobb",
+                "blinka"
+            ]
+        },
+        "dialed-up": {
+            "name": "Uppringd",
+            "keywords": [
+                "dator",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Under täckmantel",
+            "keywords": [
+                "förklädnad",
+                "glasögon",
+                "näsa"
+            ]
+        },
+        "sneaky": {
+            "name": "Smygande",
+            "keywords": [
+                "ninja",
+                "smyg",
+                "mask"
+            ]
+        },
+        "survivalist": {
+            "name": "Överlevare",
+            "keywords": [
+                "bandana",
+                "ärr",
+                "tuff"
+            ]
+        },
+        "speedy": {
+            "name": "Snabb",
+            "keywords": [
+                "snabb",
+                "fart",
+                "smirk"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "cykling",
+                "keps",
+                "snabb"
+            ]
+        },
+        "unstoppable": {
+            "name": "Ostoppbar",
+            "keywords": [
+                "snabb",
+                "gnista",
+                "springa"
+            ]
+        },
+        "comfortable": {
+            "name": "Bekväm",
+            "keywords": [
+                "gymnastiksko",
+                "sko",
+                "mysig"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Miljövänlig",
+            "keywords": [
+                "jorden",
+                "planet",
+                "grön"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "jorden",
+                "megafon",
+                "värld"
+            ]
+        },
+        "victorious": {
+            "name": "Segerrik",
+            "keywords": [
+                "pokal",
+                "vinnare",
+                "mästare"
+            ]
+        },
+        "beautiful": {
+            "name": "Vacker",
+            "keywords": [
+                "fotboll",
+                "fotboll",
+                "boll"
+            ]
+        },
+        "masterful": {
+            "name": "Mästerlig",
+            "keywords": [
+                "golf",
+                "boll",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "hjälm",
+                "motorcykel",
+                "brådska"
+            ]
+        }
+    }
+}

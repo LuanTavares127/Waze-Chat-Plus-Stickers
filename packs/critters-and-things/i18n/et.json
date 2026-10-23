@@ -1,0 +1,358 @@
+{
+    "name": "Loomad ja asjad",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "kivi",
+                "kivi",
+                "kiire"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "karu",
+                "kalamehe müts",
+                "naeratus"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "lind",
+                "rahulik"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "aju",
+                "tark",
+                "mõtlema"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaurus",
+                "hambad",
+                "hammustus"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "kihvad",
+                "hambad",
+                "muie"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "lehm",
+                "ammuu",
+                "talu"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "koer",
+                "korgi",
+                "kroon"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "koer",
+                "korgi",
+                "silmapilgutus"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "koer",
+                "korgi",
+                "kroon"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "draakon",
+                "punane",
+                "koletis"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "käsi",
+                "silm",
+                "kaitse"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "silm",
+                "märk",
+                "mõistatus"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "teekann",
+                "tee",
+                "õun"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "lind",
+                "nokamüts",
+                "rääkima"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bitine",
+            "keywords": [
+                "piksel",
+                "retro",
+                "mäng"
+            ]
+        },
+        "aware": {
+            "name": "Teadlik",
+            "keywords": [
+                "vikerkaar",
+                "rahu",
+                "värvid"
+            ]
+        },
+        "baby": {
+            "name": "Beebi",
+            "keywords": [
+                "lutt",
+                "beebi",
+                "armas"
+            ]
+        },
+        "blobby": {
+            "name": "Plönn",
+            "keywords": [
+                "plönn",
+                "mullid",
+                "tähed"
+            ]
+        },
+        "bright": {
+            "name": "Särav",
+            "keywords": [
+                "täht",
+                "sära",
+                "vikerkaar"
+            ]
+        },
+        "calm": {
+            "name": "Rahulik",
+            "keywords": [
+                "pilv",
+                "nokamüts",
+                "taevas"
+            ]
+        },
+        "captivated": {
+            "name": "Lummatud",
+            "keywords": [
+                "kaamera",
+                "foto",
+                "pilt"
+            ]
+        },
+        "cat": {
+            "name": "Kass",
+            "keywords": [
+                "kass",
+                "kiisu",
+                "näu"
+            ]
+        },
+        "cell": {
+            "name": "Rakk",
+            "keywords": [
+                "rakk",
+                "bioloogia",
+                "plönn"
+            ]
+        },
+        "centered": {
+            "name": "Tasakaalus",
+            "keywords": [
+                "kivid",
+                "tasakaal",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmiline",
+            "keywords": [
+                "tundlad",
+                "tulnukas",
+                "rõõmus"
+            ]
+        },
+        "destemido": {
+            "name": "Kartmatu",
+            "keywords": [
+                "kaktus",
+                "taim",
+                "kõva"
+            ]
+        },
+        "dog": {
+            "name": "Koer",
+            "keywords": [
+                "koer",
+                "kutsikas",
+                "keel"
+            ]
+        },
+        "fancy": {
+            "name": "Peen",
+            "keywords": [
+                "kook",
+                "tükk",
+                "kirss"
+            ]
+        },
+        "flowing": {
+            "name": "Voolav",
+            "keywords": [
+                "vesi",
+                "tilk",
+                "vihm"
+            ]
+        },
+        "hopeful": {
+            "name": "Lootusrikas",
+            "keywords": [
+                "pilv",
+                "päike",
+                "rahu"
+            ]
+        },
+        "hungry": {
+            "name": "Näljane",
+            "keywords": [
+                "burger",
+                "toit",
+                "lõuna"
+            ]
+        },
+        "magical": {
+            "name": "Maagiline",
+            "keywords": [
+                "ükssarvik",
+                "vikerkaar",
+                "maagia"
+            ]
+        },
+        "magical-2": {
+            "name": "Maagiline (2)",
+            "keywords": [
+                "maagia",
+                "roosa",
+                "kuulus"
+            ]
+        },
+        "open": {
+            "name": "Avatud",
+            "keywords": [
+                "mägi",
+                "lipp",
+                "tipp"
+            ]
+        },
+        "playful": {
+            "name": "Mänguhimuline",
+            "keywords": [
+                "delfiin",
+                "meri",
+                "lõbu"
+            ]
+        },
+        "prickly": {
+            "name": "Okkaline",
+            "keywords": [
+                "kaktus",
+                "tusane",
+                "okkaline"
+            ]
+        },
+        "quantom": {
+            "name": "Kvant",
+            "keywords": [
+                "planeet",
+                "orbiit",
+                "kosmos"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "masin",
+                "tehnika"
+            ]
+        },
+        "rocket": {
+            "name": "Rakett",
+            "keywords": [
+                "rakett",
+                "kiire",
+                "tuli"
+            ]
+        },
+        "spiritual": {
+            "name": "Vaimne",
+            "keywords": [
+                "panda",
+                "päikeseprillid",
+                "rahulik"
+            ]
+        },
+        "starry": {
+            "name": "Tähine",
+            "keywords": [
+                "üks silm",
+                "koletis",
+                "üllatunud"
+            ]
+        },
+        "sunny": {
+            "name": "Päikeseline",
+            "keywords": [
+                "päevalill",
+                "päike",
+                "lill"
+            ]
+        },
+        "sweet": {
+            "name": "Armas",
+            "keywords": [
+                "komm",
+                "piparmünt",
+                "magus"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaurus",
+                "hambad",
+                "möire"
+            ]
+        },
+        "wolfie": {
+            "name": "Hundike",
+            "keywords": [
+                "hunt",
+                "ulg",
+                "kaval"
+            ]
+        }
+    }
+}

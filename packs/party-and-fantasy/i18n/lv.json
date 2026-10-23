@@ -1,0 +1,382 @@
+{
+    "name": "Svētki, zodiaks un fantāzija",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "sniegavīrs",
+                "ziema",
+                "šalle"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "svētku cepure",
+                "dzimšanas diena",
+                "svinēt"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "vikings",
+                "ķivere",
+                "kartes tapa"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "āksts",
+                "cepure",
+                "smiekli"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "ziemassvētki",
+                "ziemassvētku vecītis",
+                "saulesbrilles"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "burvis",
+                "cepure",
+                "maģija"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "ragana",
+                "cepure",
+                "helovīns"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnevāls",
+                "galvassega",
+                "spalvas"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "šalle",
+                "adīta cepure",
+                "ziema"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnevāls",
+                "maska",
+                "ballīte"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "jaunais gads",
+                "2026",
+                "ballīte"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "vikings",
+                "āmurs",
+                "vairogs"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "ziema",
+                "adīta cepure",
+                "auksts"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "sargs",
+                "londona",
+                "cepure"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cilindrs",
+                "tēja",
+                "brīnumzeme"
+            ]
+        },
+        "aries": {
+            "name": "Auns",
+            "keywords": [
+                "zodiaks",
+                "auns",
+                "horoskops"
+            ]
+        },
+        "taurus": {
+            "name": "Vērsis",
+            "keywords": [
+                "zodiaks",
+                "vērsis",
+                "horoskops"
+            ]
+        },
+        "gemini": {
+            "name": "Dvīņi",
+            "keywords": [
+                "zodiaks",
+                "dvīņi",
+                "horoskops"
+            ]
+        },
+        "cancer": {
+            "name": "Vēzis",
+            "keywords": [
+                "zodiaks",
+                "krabis",
+                "horoskops"
+            ]
+        },
+        "leo": {
+            "name": "Lauva",
+            "keywords": [
+                "zodiaks",
+                "lauva",
+                "horoskops"
+            ]
+        },
+        "virgo": {
+            "name": "Jaunava",
+            "keywords": [
+                "zodiaks",
+                "jaunava",
+                "horoskops"
+            ]
+        },
+        "libra": {
+            "name": "Svari",
+            "keywords": [
+                "zodiaks",
+                "svari",
+                "horoskops"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpions",
+            "keywords": [
+                "zodiaks",
+                "skorpions",
+                "horoskops"
+            ]
+        },
+        "sagittarius": {
+            "name": "Strēlnieks",
+            "keywords": [
+                "zodiaks",
+                "strēlnieks",
+                "horoskops"
+            ]
+        },
+        "capricorn": {
+            "name": "Mežāzis",
+            "keywords": [
+                "zodiaks",
+                "āzis",
+                "horoskops"
+            ]
+        },
+        "aquarius": {
+            "name": "Ūdensvīrs",
+            "keywords": [
+                "zodiaks",
+                "ūdens",
+                "horoskops"
+            ]
+        },
+        "pisces": {
+            "name": "Zivis",
+            "keywords": [
+                "zodiaks",
+                "zivs",
+                "horoskops"
+            ]
+        },
+        "santa": {
+            "name": "Ziemassvētku vecītis",
+            "keywords": [
+                "ziemassvētki",
+                "ziemassvētku vecītis",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Svētku",
+            "keywords": [
+                "ziemassvētki",
+                "ziemassvētku vecīša cepure",
+                "bārda"
+            ]
+        },
+        "frazzled": {
+            "name": "Nogurdināts",
+            "keywords": [
+                "ziemassvētki",
+                "noguris",
+                "ziemassvētku vecītis"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnevāla dalībnieks",
+            "keywords": [
+                "karnevāls",
+                "jūrnieks",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Jautra ballīte",
+            "keywords": [
+                "svētku cepure",
+                "zvaigzne",
+                "svinēt"
+            ]
+        },
+        "blossom": {
+            "name": "Ziedēšana",
+            "keywords": [
+                "zieds",
+                "rozā",
+                "pavasaris"
+            ]
+        },
+        "cupid": {
+            "name": "Kupidons",
+            "keywords": [
+                "valentīndiena",
+                "bulta",
+                "mīlestība"
+            ]
+        },
+        "happy-clown": {
+            "name": "Laimīgs klauns",
+            "keywords": [
+                "klauns",
+                "cirks",
+                "jautrība"
+            ]
+        },
+        "scary-clown": {
+            "name": "Biedējošs klauns",
+            "keywords": [
+                "klauns",
+                "helovīns",
+                "baisi"
+            ]
+        },
+        "zombie": {
+            "name": "Zombijs",
+            "keywords": [
+                "helovīns",
+                "zombijs",
+                "nemirušais"
+            ]
+        },
+        "zombified": {
+            "name": "Pārvērsts zombijā",
+            "keywords": [
+                "zombijs",
+                "noguris",
+                "šuves"
+            ]
+        },
+        "monster": {
+            "name": "Briesmonis",
+            "keywords": [
+                "viena acs",
+                "ciklops",
+                "briesmonis"
+            ]
+        },
+        "mystical": {
+            "name": "Mistisks",
+            "keywords": [
+                "kapuce",
+                "elfs",
+                "maģija"
+            ]
+        },
+        "mighty": {
+            "name": "Varens",
+            "keywords": [
+                "vikings",
+                "ūsas",
+                "ragi"
+            ]
+        },
+        "angelic": {
+            "name": "Eņģeļa",
+            "keywords": [
+                "eņģelis",
+                "oreols",
+                "spārni"
+            ]
+        },
+        "devious": {
+            "name": "Viltīgs",
+            "keywords": [
+                "velns",
+                "ragi",
+                "platsmaids"
+            ]
+        },
+        "diabolical": {
+            "name": "Velnišķīgs",
+            "keywords": [
+                "ļaundaris",
+                "monoklis",
+                "ļauns"
+            ]
+        },
+        "albert": {
+            "name": "Alberts",
+            "keywords": [
+                "ģēnijs",
+                "zinātnieks",
+                "mēle"
+            ]
+        },
+        "belgie": {
+            "name": "Beļģija",
+            "keywords": [
+                "beļģija",
+                "rags",
+                "fans"
+            ]
+        },
+        "neil": {
+            "name": "Nīls",
+            "keywords": [
+                "astronauts",
+                "kosmoss",
+                "ķivere"
+            ]
+        },
+        "neil-blue": {
+            "name": "Nīls (zils)",
+            "keywords": [
+                "astronauts",
+                "kosmoss",
+                "mēness"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "varonis",
+                "tiāra",
+                "spēks"
+            ]
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "name": "Šventės, zodiakas ir fantazija",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "sniego senis",
+                "žiema",
+                "šalikas"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "šventinė kepurė",
+                "gimtadienis",
+                "švęsti"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "vikingas",
+                "šalmas",
+                "žemėlapio smeigtukas"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "juokdarys",
+                "skrybėlė",
+                "juokas"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "kalėdos",
+                "kalėdų senelis",
+                "akiniai nuo saulės"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "burtininkas",
+                "skrybėlė",
+                "magija"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "ragana",
+                "skrybėlė",
+                "helovinas"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnavalas",
+                "galvos apdangalas",
+                "plunksnos"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "šalikas",
+                "megzta kepurė",
+                "žiema"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnavalas",
+                "kaukė",
+                "vakarėlis"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "naujieji metai",
+                "2026",
+                "vakarėlis"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "vikingas",
+                "plaktukas",
+                "skydas"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "žiema",
+                "megzta kepurė",
+                "šalta"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "sargybinis",
+                "londonas",
+                "skrybėlė"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cilindras",
+                "arbata",
+                "stebuklų šalis"
+            ]
+        },
+        "aries": {
+            "name": "Avinas",
+            "keywords": [
+                "zodiakas",
+                "avinas",
+                "horoskopas"
+            ]
+        },
+        "taurus": {
+            "name": "Jautis",
+            "keywords": [
+                "zodiakas",
+                "jautis",
+                "horoskopas"
+            ]
+        },
+        "gemini": {
+            "name": "Dvyniai",
+            "keywords": [
+                "zodiakas",
+                "dvyniai",
+                "horoskopas"
+            ]
+        },
+        "cancer": {
+            "name": "Vėžys",
+            "keywords": [
+                "zodiakas",
+                "krabas",
+                "horoskopas"
+            ]
+        },
+        "leo": {
+            "name": "Liūtas",
+            "keywords": [
+                "zodiakas",
+                "liūtas",
+                "horoskopas"
+            ]
+        },
+        "virgo": {
+            "name": "Mergelė",
+            "keywords": [
+                "zodiakas",
+                "mergelė",
+                "horoskopas"
+            ]
+        },
+        "libra": {
+            "name": "Svarstyklės",
+            "keywords": [
+                "zodiakas",
+                "svarstyklės",
+                "horoskopas"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpionas",
+            "keywords": [
+                "zodiakas",
+                "skorpionas",
+                "horoskopas"
+            ]
+        },
+        "sagittarius": {
+            "name": "Šaulys",
+            "keywords": [
+                "zodiakas",
+                "šaulys",
+                "horoskopas"
+            ]
+        },
+        "capricorn": {
+            "name": "Ožiaragis",
+            "keywords": [
+                "zodiakas",
+                "ožys",
+                "horoskopas"
+            ]
+        },
+        "aquarius": {
+            "name": "Vandenis",
+            "keywords": [
+                "zodiakas",
+                "vanduo",
+                "horoskopas"
+            ]
+        },
+        "pisces": {
+            "name": "Žuvys",
+            "keywords": [
+                "zodiakas",
+                "žuvis",
+                "horoskopas"
+            ]
+        },
+        "santa": {
+            "name": "Kalėdų Senelis",
+            "keywords": [
+                "kalėdos",
+                "kalėdų senelis",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Šventinis",
+            "keywords": [
+                "kalėdos",
+                "kalėdų senelio kepurė",
+                "barzda"
+            ]
+        },
+        "frazzled": {
+            "name": "Išsekęs",
+            "keywords": [
+                "kalėdos",
+                "pavargęs",
+                "kalėdų senelis"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnavalo dalyvis",
+            "keywords": [
+                "karnavalas",
+                "jūreivis",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Linksmas vakarėlis",
+            "keywords": [
+                "šventinė kepurė",
+                "žvaigždė",
+                "švęsti"
+            ]
+        },
+        "blossom": {
+            "name": "Žydėjimas",
+            "keywords": [
+                "gėlė",
+                "rožinis",
+                "pavasaris"
+            ]
+        },
+        "cupid": {
+            "name": "Kupidonas",
+            "keywords": [
+                "valentino diena",
+                "strėlė",
+                "meilė"
+            ]
+        },
+        "happy-clown": {
+            "name": "Laimingas klounas",
+            "keywords": [
+                "klounas",
+                "cirkas",
+                "linksmybės"
+            ]
+        },
+        "scary-clown": {
+            "name": "Baisus klounas",
+            "keywords": [
+                "klounas",
+                "helovinas",
+                "šiurpus"
+            ]
+        },
+        "zombie": {
+            "name": "Zombis",
+            "keywords": [
+                "helovinas",
+                "zombis",
+                "numirėlis"
+            ]
+        },
+        "zombified": {
+            "name": "Paverstas zombiu",
+            "keywords": [
+                "zombis",
+                "pavargęs",
+                "siūlės"
+            ]
+        },
+        "monster": {
+            "name": "Monstras",
+            "keywords": [
+                "viena akis",
+                "kiklopas",
+                "monstras"
+            ]
+        },
+        "mystical": {
+            "name": "Mistinis",
+            "keywords": [
+                "gobtuvas",
+                "elfas",
+                "magija"
+            ]
+        },
+        "mighty": {
+            "name": "Galingas",
+            "keywords": [
+                "vikingas",
+                "ūsai",
+                "ragai"
+            ]
+        },
+        "angelic": {
+            "name": "Angeliškas",
+            "keywords": [
+                "angelas",
+                "aureolė",
+                "sparnai"
+            ]
+        },
+        "devious": {
+            "name": "Klastingas",
+            "keywords": [
+                "velnias",
+                "ragai",
+                "šypsnys"
+            ]
+        },
+        "diabolical": {
+            "name": "Velniškas",
+            "keywords": [
+                "piktadarys",
+                "monoklis",
+                "piktas"
+            ]
+        },
+        "albert": {
+            "name": "Albertas",
+            "keywords": [
+                "genijus",
+                "mokslininkas",
+                "liežuvis"
+            ]
+        },
+        "belgie": {
+            "name": "Belgija",
+            "keywords": [
+                "belgija",
+                "ragas",
+                "gerbėjas"
+            ]
+        },
+        "neil": {
+            "name": "Neilas",
+            "keywords": [
+                "astronautas",
+                "kosmosas",
+                "šalmas"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neilas (mėlynas)",
+            "keywords": [
+                "astronautas",
+                "kosmosas",
+                "mėnulis"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "didvyris",
+                "tiara",
+                "galia"
+            ]
+        }
+    }
+}

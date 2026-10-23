@@ -1,0 +1,382 @@
+{
+    "name": "Jaia, zodiakoa eta fantasia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "elur-gizona",
+                "negua",
+                "zapia"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "jai-kapela",
+                "urtebetetzea",
+                "ospatu"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "bikingoa",
+                "kaskoa",
+                "mapako txintxeta"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "bufoia",
+                "kapela",
+                "barrea"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "eguberriak",
+                "santa klaus",
+                "eguzkitako betaurrekoak"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "aztia",
+                "kapela",
+                "magia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "sorgina",
+                "kapela",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "inauteriak",
+                "buruko apaindura",
+                "lumak"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "zapia",
+                "txano",
+                "negua"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "inauteriak",
+                "maskara",
+                "jaia"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "urte berria",
+                "2026",
+                "jaia"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "bikingoa",
+                "mailua",
+                "ezkutua"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "negua",
+                "txano",
+                "hotza"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "zaindaria",
+                "londres",
+                "kapela"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "txistera",
+                "tea",
+                "mirarien herrialdea"
+            ]
+        },
+        "aries": {
+            "name": "Ahari",
+            "keywords": [
+                "zodiakoa",
+                "ahari",
+                "horoskopoa"
+            ]
+        },
+        "taurus": {
+            "name": "Zezen",
+            "keywords": [
+                "zodiakoa",
+                "zezena",
+                "horoskopoa"
+            ]
+        },
+        "gemini": {
+            "name": "Bikiak",
+            "keywords": [
+                "zodiakoa",
+                "bikiak",
+                "horoskopoa"
+            ]
+        },
+        "cancer": {
+            "name": "Karramarro",
+            "keywords": [
+                "zodiakoa",
+                "karramarroa",
+                "horoskopoa"
+            ]
+        },
+        "leo": {
+            "name": "Lehoi",
+            "keywords": [
+                "zodiakoa",
+                "lehoia",
+                "horoskopoa"
+            ]
+        },
+        "virgo": {
+            "name": "Birjina",
+            "keywords": [
+                "zodiakoa",
+                "neska",
+                "horoskopoa"
+            ]
+        },
+        "libra": {
+            "name": "Balantza",
+            "keywords": [
+                "zodiakoa",
+                "balantza",
+                "horoskopoa"
+            ]
+        },
+        "scorpio": {
+            "name": "Eskorpioi",
+            "keywords": [
+                "zodiakoa",
+                "eskorpioia",
+                "horoskopoa"
+            ]
+        },
+        "sagittarius": {
+            "name": "Arkulari",
+            "keywords": [
+                "zodiakoa",
+                "arkulari",
+                "horoskopoa"
+            ]
+        },
+        "capricorn": {
+            "name": "Ahuntz",
+            "keywords": [
+                "zodiakoa",
+                "ahuntza",
+                "horoskopoa"
+            ]
+        },
+        "aquarius": {
+            "name": "Ur-garbitzaile",
+            "keywords": [
+                "zodiakoa",
+                "ura",
+                "horoskopoa"
+            ]
+        },
+        "pisces": {
+            "name": "Arrainak",
+            "keywords": [
+                "zodiakoa",
+                "arraina",
+                "horoskopoa"
+            ]
+        },
+        "santa": {
+            "name": "Santa Klaus",
+            "keywords": [
+                "eguberriak",
+                "santa klaus",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Jaiezkoa",
+            "keywords": [
+                "eguberriak",
+                "santa klausen txanoa",
+                "bizarra"
+            ]
+        },
+        "frazzled": {
+            "name": "Akituta",
+            "keywords": [
+                "eguberriak",
+                "nekatua",
+                "santa klaus"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Inauteri-zalea",
+            "keywords": [
+                "inauteriak",
+                "marinela",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Festa alaia",
+            "keywords": [
+                "jai-kapela",
+                "izarra",
+                "ospatu"
+            ]
+        },
+        "blossom": {
+            "name": "Lorea",
+            "keywords": [
+                "lorea",
+                "arrosa",
+                "udaberria"
+            ]
+        },
+        "cupid": {
+            "name": "Kupido",
+            "keywords": [
+                "san valentin",
+                "gezia",
+                "maitasuna"
+            ]
+        },
+        "happy-clown": {
+            "name": "Pailazo alaia",
+            "keywords": [
+                "pailazoa",
+                "zirkua",
+                "dibertsioa"
+            ]
+        },
+        "scary-clown": {
+            "name": "Pailazo beldurgarria",
+            "keywords": [
+                "pailazoa",
+                "halloween",
+                "ikaragarria"
+            ]
+        },
+        "zombie": {
+            "name": "Zonbia",
+            "keywords": [
+                "halloween",
+                "zonbia",
+                "hil-biziko"
+            ]
+        },
+        "zombified": {
+            "name": "Zonbitua",
+            "keywords": [
+                "zonbia",
+                "nekatua",
+                "josturak"
+            ]
+        },
+        "monster": {
+            "name": "Munstroa",
+            "keywords": [
+                "begi bakarra",
+                "ziklopea",
+                "munstroa"
+            ]
+        },
+        "mystical": {
+            "name": "Mistikoa",
+            "keywords": [
+                "kapusaila",
+                "elfoa",
+                "magia"
+            ]
+        },
+        "mighty": {
+            "name": "Indartsua",
+            "keywords": [
+                "bikingoa",
+                "bibotea",
+                "adarrak"
+            ]
+        },
+        "angelic": {
+            "name": "Aingerutarra",
+            "keywords": [
+                "aingerua",
+                "aureola",
+                "hegoak"
+            ]
+        },
+        "devious": {
+            "name": "Maltzurra",
+            "keywords": [
+                "deabrua",
+                "adarrak",
+                "irribarre maltzurra"
+            ]
+        },
+        "diabolical": {
+            "name": "Deabruzkoa",
+            "keywords": [
+                "gaiztoa",
+                "monokulua",
+                "gaiztoa"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "jenioa",
+                "zientzialaria",
+                "mihia"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgika",
+                "adarra",
+                "zalea"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronauta",
+                "espazioa",
+                "kaskoa"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (urdina)",
+            "keywords": [
+                "astronauta",
+                "espazioa",
+                "ilargia"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "heroia",
+                "tiara",
+                "indarra"
+            ]
+        }
+    }
+}

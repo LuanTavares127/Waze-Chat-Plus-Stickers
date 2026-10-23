@@ -1,0 +1,351 @@
+{
+    "name": "Tiellä ja töissä",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "myttyyli",
+                "matka",
+                "seikkailu"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "taikajuoma",
+                "silmälasit",
+                "laboratorio"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "tutkimusmatkailija",
+                "hattu",
+                "seikkailu"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "lippu",
+                "nähtävyydet"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "merimies",
+                "lippalakki",
+                "vene"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "matkalaukku",
+                "hattu",
+                "matka"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "lentäjä",
+                "suojalasit",
+                "kypärä"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "pöllö",
+                "valmistujaiset",
+                "älykäs"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "sammutin",
+                "turvallisuus",
+                "hermostunut"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "kypärä",
+                "rakennus",
+                "liivi"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "olkihattu",
+                "maatila",
+                "kesäkuun juhla"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "kypärä",
+                "tähdet",
+                "kisakuski"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "kasvomaski",
+                "terveys",
+                "turvallinen"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "sekuntikello",
+                "otsanauha",
+                "harjoittelu"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "äänestys",
+                "vaalit",
+                "äänestysliuska"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signaali",
+                "robotti",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "äänestys",
+                "merkki",
+                "vaalit"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "mitali",
+                "nauha",
+                "silmänisku"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "toimitus",
+                "kypärä",
+                "laatikko"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robotti",
+                "antenni",
+                "tutkimusmatkailija"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "puhekupla",
+                "keskustelu",
+                "puhua"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "pilli",
+                "tuomari",
+                "rike"
+            ]
+        },
+        "road-warrior": {
+            "name": "Tien soturi",
+            "keywords": [
+                "kypärä",
+                "suojalasit",
+                "siipi"
+            ]
+        },
+        "limitless": {
+            "name": "Rajaton",
+            "keywords": [
+                "moottoritie",
+                "kilpi",
+                "liikennemerkki"
+            ]
+        },
+        "map-master": {
+            "name": "Karttamestari",
+            "keywords": [
+                "editori",
+                "kartta",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-rekkamies",
+            "keywords": [
+                "rekka",
+                "suojalasit",
+                "rekkamies"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapteeni Kiitos",
+            "keywords": [
+                "kiitos",
+                "kapteeni",
+                "viikset"
+            ]
+        },
+        "all-business": {
+            "name": "Täysin asiallinen",
+            "keywords": [
+                "puku",
+                "solmio",
+                "työ"
+            ]
+        },
+        "business-casual": {
+            "name": "Rento bisnes",
+            "keywords": [
+                "solmio",
+                "otsanauha",
+                "kieli"
+            ]
+        },
+        "businessy": {
+            "name": "Liikemies",
+            "keywords": [
+                "puku",
+                "silmälasit",
+                "toimisto"
+            ]
+        },
+        "bawse-y": {
+            "name": "Pomo",
+            "keywords": [
+                "pomo",
+                "aurinkolasit",
+                "puku"
+            ]
+        },
+        "productive": {
+            "name": "Tuottelias",
+            "keywords": [
+                "kuulokemikrofoni",
+                "työ",
+                "silmänisku"
+            ]
+        },
+        "dialed-up": {
+            "name": "Soittoyhteys",
+            "keywords": [
+                "tietokone",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Salainen",
+            "keywords": [
+                "valepuku",
+                "silmälasit",
+                "nenä"
+            ]
+        },
+        "sneaky": {
+            "name": "Hiippailija",
+            "keywords": [
+                "ninja",
+                "hiiviskely",
+                "naamio"
+            ]
+        },
+        "survivalist": {
+            "name": "Selviytyjä",
+            "keywords": [
+                "bandana",
+                "arpi",
+                "kova"
+            ]
+        },
+        "speedy": {
+            "name": "Nopea",
+            "keywords": [
+                "nopea",
+                "nopeus",
+                "ivallinen hymy"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "pyöräily",
+                "lippalakki",
+                "nopea"
+            ]
+        },
+        "unstoppable": {
+            "name": "Pysäyttämätön",
+            "keywords": [
+                "nopea",
+                "kipinä",
+                "juosta"
+            ]
+        },
+        "comfortable": {
+            "name": "Mukava",
+            "keywords": [
+                "lenkkitossu",
+                "kenkä",
+                "kodikas"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ympäristöystävällinen",
+            "keywords": [
+                "maapallo",
+                "planeetta",
+                "vihreä"
+            ]
+        },
+        "global": {
+            "name": "Globaali",
+            "keywords": [
+                "maapallo",
+                "megafoni",
+                "maailma"
+            ]
+        },
+        "victorious": {
+            "name": "Voittaja",
+            "keywords": [
+                "pokaali",
+                "voittaja",
+                "mestari"
+            ]
+        },
+        "beautiful": {
+            "name": "Kaunis",
+            "keywords": [
+                "jalkapallo",
+                "jalkapallo",
+                "pallo"
+            ]
+        },
+        "masterful": {
+            "name": "Mestarillinen",
+            "keywords": [
+                "golf",
+                "pallo",
+                "urheilu"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "kypärä",
+                "moottoripyörä",
+                "kiire"
+            ]
+        }
+    }
+}

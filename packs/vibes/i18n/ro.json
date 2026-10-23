@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "coarne de berbec",
+                "ochelari de soare",
+                "îndrăzneț"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandană",
+                "ochelari de soare",
+                "stâncă"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "muzică",
+                "note",
+                "hipiot"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "toc înalt",
+                "modă",
+                "divă"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "întins",
+                "pălărie de petrecere",
+                "relaxat"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "cască cu microfon",
+                "ascultare",
+                "muzică"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bec",
+                "ochelari",
+                "idee"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bule",
+                "poțiune",
+                "fericit"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "scânteie",
+                "ochelari de soare",
+                "elegant"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "căști",
+                "leopard",
+                "muzică"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "microfon",
+                "karaoke",
+                "a cânta"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterestru",
+                "cască",
+                "spațiu"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "căști",
+                "muzică",
+                "mișto"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "șapcă",
+                "pe dos",
+                "privire piezișă"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "căciulă cu elice",
+                "caraghios",
+                "copil"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificator",
+                "chitară",
+                "muzică"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tobă",
+                "tamburină",
+                "clipit"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bec",
+                "a gândi",
+                "idee"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mână",
+                "salut militar",
+                "salutare"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "ochelari",
+                "deștept",
+                "zâmbet ironic"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "ochelari",
+                "blondă",
+                "studiu"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "pelerină",
+                "erou",
+                "ochelari"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "coroană",
+                "ochelari de soare",
+                "rege"
+            ]
+        },
+        "chill": {
+            "name": "Relaxat",
+            "keywords": [
+                "ochelari de soare",
+                "relaxat",
+                "mișto"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Relaxat cu ochelari",
+            "keywords": [
+                "ochelari rotunzi",
+                "relaxat",
+                "mișto"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "ochelari de petrecere",
+                "limbă",
+                "exagerat"
+            ]
+        },
+        "feisty": {
+            "name": "Arțăgos",
+            "keywords": [
+                "box",
+                "mănușă",
+                "luptă"
+            ]
+        },
+        "gutsy": {
+            "name": "Curajos",
+            "keywords": [
+                "ochelari de soare",
+                "dur",
+                "curajos"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "vibe bun"
+            ]
+        },
+        "rad": {
+            "name": "Fain",
+            "keywords": [
+                "ochelari de soare",
+                "mișto",
+                "rânjet"
+            ]
+        },
+        "savvy": {
+            "name": "Isteț",
+            "keywords": [
+                "ochelari de soare",
+                "căciulă de moș crăciun",
+                "deștept"
+            ]
+        },
+        "serene": {
+            "name": "Senin",
+            "keywords": [
+                "ochelari rotunzi",
+                "calm",
+                "zâmbet"
+            ]
+        },
+        "shady": {
+            "name": "Dubios",
+            "keywords": [
+                "pălărie fedora",
+                "ochelari de soare",
+                "misterios"
+            ]
+        },
+        "snappy": {
+            "name": "Șic",
+            "keywords": [
+                "papion",
+                "biscuit",
+                "zâmbet ironic"
+            ]
+        },
+        "strong": {
+            "name": "Puternic",
+            "keywords": [
+                "x",
+                "ochelari de soare",
+                "dur"
+            ]
+        },
+        "wild": {
+            "name": "Sălbatic",
+            "keywords": [
+                "cască",
+                "fulger",
+                "ochelari de soare"
+            ]
+        },
+        "pumped": {
+            "name": "Plin de energie!",
+            "keywords": [
+                "casetofon",
+                "muzică",
+                "petrecere"
+            ]
+        },
+        "groovy": {
+            "name": "Psihedelic",
+            "keywords": [
+                "lampă cu lavă",
+                "retro",
+                "anii 70"
+            ]
+        },
+        "quirky": {
+            "name": "Excentric",
+            "keywords": [
+                "pălărie",
+                "colorat",
+                "amuzant"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "columbia",
+                "pălărie",
+                "mișto"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "ochelari de soare",
+                "sălbatic"
+            ]
+        },
+        "sidekick": {
+            "name": "Tovarăș",
+            "keywords": [
+                "partener",
+                "barbă",
+                "amic"
+            ]
+        },
+        "geeky": {
+            "name": "Tocilar",
+            "keywords": [
+                "ochelari",
+                "tocilar",
+                "privire fixă"
+            ]
+        },
+        "smart": {
+            "name": "Deștept",
+            "keywords": [
+                "bec",
+                "limbă",
+                "idee"
+            ]
+        },
+        "light": {
+            "name": "Ușor",
+            "keywords": [
+                "țepos",
+                "blond",
+                "bosumflare"
+            ]
+        }
+    }
+}

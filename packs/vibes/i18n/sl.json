@@ -1,0 +1,342 @@
+{
+    "name": "Vibracije",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "ovnovi rogovi",
+                "sončna očala",
+                "drzno"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "sončna očala",
+                "skala"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "glasba",
+                "note",
+                "hipi"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "visoka peta",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "ležanje",
+                "party klobuk",
+                "sproščeno"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "slušalke z mikrofonom",
+                "poslušanje",
+                "glasba"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "žarnica",
+                "očala",
+                "ideja"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "mehurčki",
+                "napoj",
+                "srečno"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "iskrica",
+                "sončna očala",
+                "elegantno"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "slušalke",
+                "leopard",
+                "glasba"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "peti"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "vesoljec",
+                "čelada",
+                "vesolje"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "slušalke",
+                "glasba",
+                "kul"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "kapa",
+                "nazaj obrnjeno",
+                "postrani pogled"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "kapa s propelerjem",
+                "bedasto",
+                "otrok"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "ojačevalnik",
+                "kitara",
+                "glasba"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "boben",
+                "tamburin",
+                "pomežik"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "žarnica",
+                "razmišljati",
+                "ideja"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "roka",
+                "pozdrav",
+                "pozdravljanje"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "očala",
+                "pametno",
+                "zadovoljen nasmešek"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "očala",
+                "blondinka",
+                "študij"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "plašč",
+                "junak",
+                "očala"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "krona",
+                "sončna očala",
+                "kralj"
+            ]
+        },
+        "chill": {
+            "name": "Sproščeni",
+            "keywords": [
+                "sončna očala",
+                "sproščeno",
+                "kul"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Sproščeni z očali",
+            "keywords": [
+                "okrogla očala",
+                "sproščeno",
+                "kul"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "zabavna očala",
+                "jezik",
+                "pretirano"
+            ]
+        },
+        "feisty": {
+            "name": "Borbeni",
+            "keywords": [
+                "boks",
+                "rokavica",
+                "boj"
+            ]
+        },
+        "gutsy": {
+            "name": "Drzni",
+            "keywords": [
+                "sončna očala",
+                "trdo",
+                "pogumno"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "dobre vibracije"
+            ]
+        },
+        "rad": {
+            "name": "Odlični",
+            "keywords": [
+                "sončna očala",
+                "kul",
+                "muzanje"
+            ]
+        },
+        "savvy": {
+            "name": "Preudarni",
+            "keywords": [
+                "sončna očala",
+                "božičkova kapa",
+                "pametno"
+            ]
+        },
+        "serene": {
+            "name": "Spokojni",
+            "keywords": [
+                "okrogla očala",
+                "mirno",
+                "nasmeh"
+            ]
+        },
+        "shady": {
+            "name": "Sumljivi",
+            "keywords": [
+                "klobuk fedora",
+                "sončna očala",
+                "skrivnostno"
+            ]
+        },
+        "snappy": {
+            "name": "Urni",
+            "keywords": [
+                "metuljček",
+                "piškot",
+                "zadovoljen nasmešek"
+            ]
+        },
+        "strong": {
+            "name": "Močni",
+            "keywords": [
+                "x",
+                "sončna očala",
+                "trdo"
+            ]
+        },
+        "wild": {
+            "name": "Divji",
+            "keywords": [
+                "čelada",
+                "strela",
+                "sončna očala"
+            ]
+        },
+        "pumped": {
+            "name": "Nabiti!",
+            "keywords": [
+                "glasbeni stolp",
+                "glasba",
+                "zabava"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lava svetilka",
+                "retro",
+                "sedemdeseta"
+            ]
+        },
+        "quirky": {
+            "name": "Čudaški",
+            "keywords": [
+                "klobuk",
+                "pisano",
+                "smešno"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolumbija",
+                "klobuk",
+                "kul"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "sončna očala",
+                "divje"
+            ]
+        },
+        "sidekick": {
+            "name": "Pomočnik",
+            "keywords": [
+                "partner",
+                "brada",
+                "kolega"
+            ]
+        },
+        "geeky": {
+            "name": "Piflarski",
+            "keywords": [
+                "očala",
+                "piflar",
+                "strmenje"
+            ]
+        },
+        "smart": {
+            "name": "Pametni",
+            "keywords": [
+                "žarnica",
+                "jezik",
+                "ideja"
+            ]
+        },
+        "light": {
+            "name": "Svetlobni",
+            "keywords": [
+                "bodičasto",
+                "plavolasec",
+                "našobljena usta"
+            ]
+        }
+    }
+}

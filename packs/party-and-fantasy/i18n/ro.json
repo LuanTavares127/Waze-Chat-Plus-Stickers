@@ -1,0 +1,382 @@
+{
+    "name": "Petreceri, zodiac și fantezie",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "om de zăpadă",
+                "iarnă",
+                "fular"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "pălărie de petrecere",
+                "zi de naștere",
+                "a sărbători"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "cască",
+                "pin pe hartă"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "bufon",
+                "pălărie",
+                "râs"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "crăciun",
+                "moș crăciun",
+                "ochelari de soare"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "vrăjitor",
+                "pălărie",
+                "magie"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "vrăjitoare",
+                "pălărie",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "carnaval",
+                "podoabă de cap",
+                "pene"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "fular",
+                "căciulă",
+                "iarnă"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "carnaval",
+                "mască",
+                "petrecere"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "anul nou",
+                "2026",
+                "petrecere"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "ciocan",
+                "scut"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "iarnă",
+                "căciulă",
+                "frig"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "gardian",
+                "londra",
+                "pălărie"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "joben",
+                "ceai",
+                "țara minunilor"
+            ]
+        },
+        "aries": {
+            "name": "Berbec",
+            "keywords": [
+                "zodiac",
+                "berbec",
+                "horoscop"
+            ]
+        },
+        "taurus": {
+            "name": "Taur",
+            "keywords": [
+                "zodiac",
+                "taur",
+                "horoscop"
+            ]
+        },
+        "gemini": {
+            "name": "Gemeni",
+            "keywords": [
+                "zodiac",
+                "gemeni",
+                "horoscop"
+            ]
+        },
+        "cancer": {
+            "name": "Rac",
+            "keywords": [
+                "zodiac",
+                "rac",
+                "horoscop"
+            ]
+        },
+        "leo": {
+            "name": "Leu",
+            "keywords": [
+                "zodiac",
+                "leu",
+                "horoscop"
+            ]
+        },
+        "virgo": {
+            "name": "Fecioară",
+            "keywords": [
+                "zodiac",
+                "fecioară",
+                "horoscop"
+            ]
+        },
+        "libra": {
+            "name": "Balanță",
+            "keywords": [
+                "zodiac",
+                "cumpănă",
+                "horoscop"
+            ]
+        },
+        "scorpio": {
+            "name": "Scorpion",
+            "keywords": [
+                "zodiac",
+                "scorpion",
+                "horoscop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Săgetător",
+            "keywords": [
+                "zodiac",
+                "arcaș",
+                "horoscop"
+            ]
+        },
+        "capricorn": {
+            "name": "Capricorn",
+            "keywords": [
+                "zodiac",
+                "capră",
+                "horoscop"
+            ]
+        },
+        "aquarius": {
+            "name": "Vărsător",
+            "keywords": [
+                "zodiac",
+                "apă",
+                "horoscop"
+            ]
+        },
+        "pisces": {
+            "name": "Pești",
+            "keywords": [
+                "zodiac",
+                "pește",
+                "horoscop"
+            ]
+        },
+        "santa": {
+            "name": "Moș Crăciun",
+            "keywords": [
+                "crăciun",
+                "moș crăciun",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Sărbătoresc",
+            "keywords": [
+                "crăciun",
+                "căciulă de moș crăciun",
+                "barbă"
+            ]
+        },
+        "frazzled": {
+            "name": "Epuizat",
+            "keywords": [
+                "crăciun",
+                "obosit",
+                "moș crăciun"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Petrecăreț de carnaval",
+            "keywords": [
+                "carnaval",
+                "marinar",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Petrecere veselă",
+            "keywords": [
+                "pălărie de petrecere",
+                "stea",
+                "a sărbători"
+            ]
+        },
+        "blossom": {
+            "name": "Floare",
+            "keywords": [
+                "floare",
+                "roz",
+                "primăvară"
+            ]
+        },
+        "cupid": {
+            "name": "Cupidon",
+            "keywords": [
+                "Ziua îndrăgostiților",
+                "săgeată",
+                "dragoste"
+            ]
+        },
+        "happy-clown": {
+            "name": "Clovn vesel",
+            "keywords": [
+                "clovn",
+                "circ",
+                "distracție"
+            ]
+        },
+        "scary-clown": {
+            "name": "Clovn înfricoșător",
+            "keywords": [
+                "clovn",
+                "halloween",
+                "înfricoșător"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "halloween",
+                "zombi",
+                "nemort"
+            ]
+        },
+        "zombified": {
+            "name": "Transformat în zombi",
+            "keywords": [
+                "zombi",
+                "obosit",
+                "cusături"
+            ]
+        },
+        "monster": {
+            "name": "Monstru",
+            "keywords": [
+                "un ochi",
+                "ciclop",
+                "monstru"
+            ]
+        },
+        "mystical": {
+            "name": "Mistic",
+            "keywords": [
+                "glugă",
+                "elf",
+                "magie"
+            ]
+        },
+        "mighty": {
+            "name": "Puternic",
+            "keywords": [
+                "viking",
+                "mustață",
+                "coarne"
+            ]
+        },
+        "angelic": {
+            "name": "Angelic",
+            "keywords": [
+                "înger",
+                "aureolă",
+                "aripi"
+            ]
+        },
+        "devious": {
+            "name": "Șiret",
+            "keywords": [
+                "diavol",
+                "coarne",
+                "rânjet"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabolic",
+            "keywords": [
+                "răufăcător",
+                "monoclu",
+                "rău"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "geniu",
+                "om de știință",
+                "limbă"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgia",
+                "corn",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "spațiu",
+                "cască"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (albastru)",
+            "keywords": [
+                "astronaut",
+                "spațiu",
+                "lună"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "erou",
+                "tiară",
+                "putere"
+            ]
+        }
+    }
+}

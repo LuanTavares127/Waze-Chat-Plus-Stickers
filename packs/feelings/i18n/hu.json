@@ -1,0 +1,360 @@
+{
+    "name": "Érzések",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasszikus",
+                "helló",
+                "boldog"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "könnycsepp",
+                "szomorú",
+                "hálósapka"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "üres",
+                "semleges",
+                "egyszerű"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "szerelem",
+                "szív",
+                "édes"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "szülő",
+                "baba",
+                "család"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "sírás",
+                "felzaklatott",
+                "kétségbeesés"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "beteg",
+                "hányinger",
+                "rosszul"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "kínos",
+                "kényelmetlen",
+                "brr"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "izgatott",
+                "hurrá",
+                "szárnyak"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "boldog",
+                "nevetés",
+                "kalap"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "dühös",
+                "bosszús",
+                "összeráncolt homlok"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "kérdés",
+                "mi",
+                "kétség"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lótusz",
+                "meditáció",
+                "nyugodt"
+            ]
+        },
+        "amazing": {
+            "name": "Elképesztő",
+            "keywords": [
+                "wow",
+                "csillogó szemek",
+                "fantasztikus"
+            ]
+        },
+        "amused": {
+            "name": "Mulatságos",
+            "keywords": [
+                "szemforgatás",
+                "mindegy",
+                "önelégült mosoly"
+            ]
+        },
+        "antsy": {
+            "name": "Ideges",
+            "keywords": [
+                "türelmetlen",
+                "stresszes",
+                "brr"
+            ]
+        },
+        "bored": {
+            "name": "Unatkozó",
+            "keywords": [
+                "ejnye",
+                "unalmas",
+                "bla-bla"
+            ]
+        },
+        "carsick": {
+            "name": "Autóbeteg",
+            "keywords": [
+                "beteg",
+                "hányinger",
+                "tengeribetegség"
+            ]
+        },
+        "cheeky": {
+            "name": "Pimasz",
+            "keywords": [
+                "kacsintás",
+                "nyelv",
+                "viccelés"
+            ]
+        },
+        "depressed": {
+            "name": "Levert",
+            "keywords": [
+                "szomorú",
+                "lehangolt",
+                "kék"
+            ]
+        },
+        "exasperated": {
+            "name": "Kétségbeesett",
+            "keywords": [
+                "elegem van",
+                "sóhaj",
+                "bosszús"
+            ]
+        },
+        "flustered": {
+            "name": "Zavarban",
+            "keywords": [
+                "megdöbbent",
+                "kiabálás",
+                "jaj ne"
+            ]
+        },
+        "funny": {
+            "name": "Vicces",
+            "keywords": [
+                "nevetés",
+                "lol",
+                "örömkönnyek"
+            ]
+        },
+        "furious": {
+            "name": "Dühöngő",
+            "keywords": [
+                "harag",
+                "káromkodás",
+                "mérges"
+            ]
+        },
+        "grumpy": {
+            "name": "Mogorva",
+            "keywords": [
+                "morcos",
+                "bosszús",
+                "fejhallgató"
+            ]
+        },
+        "happy": {
+            "name": "Boldog",
+            "keywords": [
+                "öröm",
+                "nevetés",
+                "mosoly"
+            ]
+        },
+        "hilarious": {
+            "name": "Hihetetlenül vicces",
+            "keywords": [
+                "lol",
+                "nevetés",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Szerény",
+            "keywords": [
+                "hálás",
+                "nyugodt",
+                "szárnyak"
+            ]
+        },
+        "joyful": {
+            "name": "Vidám",
+            "keywords": [
+                "nevetés",
+                "boldog",
+                "huh"
+            ]
+        },
+        "judgmental": {
+            "name": "Ítélkező",
+            "keywords": [
+                "rosszallás",
+                "összeráncolt homlok",
+                "ítélkezés"
+            ]
+        },
+        "loved-up": {
+            "name": "Szerelmes",
+            "keywords": [
+                "szerelmes",
+                "szív szemek",
+                "szerelem"
+            ]
+        },
+        "mind-blown": {
+            "name": "Padlót fogott",
+            "keywords": [
+                "megdöbbent",
+                "wow",
+                "robbanás"
+            ]
+        },
+        "moody": {
+            "name": "Hangulatember",
+            "keywords": [
+                "ejnye",
+                "firka",
+                "doboz"
+            ]
+        },
+        "nervous": {
+            "name": "Izgatott",
+            "keywords": [
+                "aggódó",
+                "izzadság",
+                "aggódik"
+            ]
+        },
+        "obsessed": {
+            "name": "Megszállott",
+            "keywords": [
+                "csillogó szemek",
+                "sikoly",
+                "rajongó"
+            ]
+        },
+        "sad": {
+            "name": "Szomorú",
+            "keywords": [
+                "könnycsepp",
+                "sír",
+                "lehangolt"
+            ]
+        },
+        "shy": {
+            "name": "Félénk",
+            "keywords": [
+                "elpirulás",
+                "aranyos",
+                "zavarban"
+            ]
+        },
+        "skeptical": {
+            "name": "Szkeptikus",
+            "keywords": [
+                "kétség",
+                "nem hat meg",
+                "tényleg"
+            ]
+        },
+        "spacey": {
+            "name": "Szórakozott",
+            "keywords": [
+                "elterelődött",
+                "ábrándozás",
+                "hiányzik"
+            ]
+        },
+        "tired": {
+            "name": "Fáradt",
+            "keywords": [
+                "szemgolyó",
+                "vörös szem",
+                "álmos"
+            ]
+        },
+        "unproductive": {
+            "name": "Improduktív",
+            "keywords": [
+                "jegyzetpapír",
+                "lusta",
+                "kész"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "nyugodt",
+                "nyugodt",
+                "béke"
+            ]
+        },
+        "mischievous": {
+            "name": "Csintalan",
+            "keywords": [
+                "ó",
+                "meglepett",
+                "doboz"
+            ]
+        },
+        "wicked": {
+            "name": "Gonosz",
+            "keywords": [
+                "gonosz vigyor",
+                "csínytevés",
+                "doboz"
+            ]
+        },
+        "motivated": {
+            "name": "Motivált",
+            "keywords": [
+                "izgatott",
+                "gyerünk",
+                "haj"
+            ]
+        },
+        "proud": {
+            "name": "Büszke",
+            "keywords": [
+                "büszkeség",
+                "szivárvány",
+                "szív"
+            ]
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "name": "Sentimenduak",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasikoa",
+                "kaixo",
+                "pozik"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "malkoa",
+                "triste",
+                "gau-txapela"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "zuria",
+                "neutroa",
+                "soila"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "maitasuna",
+                "bihotza",
+                "goxoa"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "guraso",
+                "haurra",
+                "familia"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "negarrez",
+                "haserre",
+                "etsipena"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "gaixo",
+                "goragalea",
+                "gaizki"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "deseroso",
+                "ezerosoa",
+                "ufa"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "ilusioz",
+                "aupa",
+                "hegoak"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "pozik",
+                "barrea",
+                "kapela"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "haserre",
+                "nazkatuta",
+                "kopeta ilunduta"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "galdera",
+                "zer",
+                "zalantza"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotoa",
+                "meditazioa",
+                "lasaitasuna"
+            ]
+        },
+        "amazing": {
+            "name": "Harrigarria",
+            "keywords": [
+                "ene",
+                "izar-begiak",
+                "zoragarria"
+            ]
+        },
+        "amused": {
+            "name": "Dibertitua",
+            "keywords": [
+                "begiak jira",
+                "berdin zait",
+                "irribarre iraingarria"
+            ]
+        },
+        "antsy": {
+            "name": "Urduria",
+            "keywords": [
+                "pazientziarik gabe",
+                "estresatuta",
+                "ufa"
+            ]
+        },
+        "bored": {
+            "name": "Aspertua",
+            "keywords": [
+                "ez da gauza handirik",
+                "aspergarria",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Autoan nahasia",
+            "keywords": [
+                "gaixo",
+                "goragalea",
+                "zorabioa"
+            ]
+        },
+        "cheeky": {
+            "name": "Lotsagabea",
+            "keywords": [
+                "begi-keinua",
+                "mihia",
+                "txantxetan"
+            ]
+        },
+        "depressed": {
+            "name": "Depresiboa",
+            "keywords": [
+                "triste",
+                "goibel",
+                "triste"
+            ]
+        },
+        "exasperated": {
+            "name": "Amorratua",
+            "keywords": [
+                "nazkatuta",
+                "hasperena",
+                "nazkatuta"
+            ]
+        },
+        "flustered": {
+            "name": "Aztoratua",
+            "keywords": [
+                "harrituta",
+                "garrasi",
+                "ai ene"
+            ]
+        },
+        "funny": {
+            "name": "Barregarria",
+            "keywords": [
+                "barrea",
+                "jajaja",
+                "pozezko malkoak"
+            ]
+        },
+        "furious": {
+            "name": "Haserre bizia",
+            "keywords": [
+                "amorrua",
+                "biraoak",
+                "haserre"
+            ]
+        },
+        "grumpy": {
+            "name": "Haserrekorra",
+            "keywords": [
+                "zakar",
+                "nazkatuta",
+                "aurikularrak"
+            ]
+        },
+        "happy": {
+            "name": "Pozik",
+            "keywords": [
+                "poza",
+                "barrea",
+                "irribarrea"
+            ]
+        },
+        "hilarious": {
+            "name": "Algaragarria",
+            "keywords": [
+                "jajaja",
+                "barrea",
+                "jaja"
+            ]
+        },
+        "humble": {
+            "name": "Xumea",
+            "keywords": [
+                "esker oneko",
+                "lasaitasuna",
+                "hegoak"
+            ]
+        },
+        "joyful": {
+            "name": "Alaia",
+            "keywords": [
+                "barrea",
+                "pozik",
+                "eskerrak"
+            ]
+        },
+        "judgmental": {
+            "name": "Epaile",
+            "keywords": [
+                "gaitzetsi",
+                "kopeta ilunduta",
+                "epaitzea"
+            ]
+        },
+        "loved-up": {
+            "name": "Maitemindua",
+            "keywords": [
+                "maiteminduta",
+                "bihotz-begiak",
+                "maitemindura"
+            ]
+        },
+        "mind-blown": {
+            "name": "Txundituta",
+            "keywords": [
+                "harrituta",
+                "ene",
+                "leherketa"
+            ]
+        },
+        "moody": {
+            "name": "Umore aldakorra",
+            "keywords": [
+                "ez da gauza handirik",
+                "marra uhinduna",
+                "kaxa"
+            ]
+        },
+        "nervous": {
+            "name": "Urduri",
+            "keywords": [
+                "antsiatsu",
+                "izerdia",
+                "kezkatuta"
+            ]
+        },
+        "obsessed": {
+            "name": "Obsesionatua",
+            "keywords": [
+                "izar-begiak",
+                "garrasia",
+                "zalea"
+            ]
+        },
+        "sad": {
+            "name": "Triste",
+            "keywords": [
+                "malkoa",
+                "negar egin",
+                "goibel"
+            ]
+        },
+        "shy": {
+            "name": "Lotsatia",
+            "keywords": [
+                "lotsa",
+                "polita",
+                "lotsatuta"
+            ]
+        },
+        "skeptical": {
+            "name": "Eszeptikoa",
+            "keywords": [
+                "zalantza",
+                "axolagabe",
+                "benetan"
+            ]
+        },
+        "spacey": {
+            "name": "Burutik kanpo",
+            "keywords": [
+                "distraitua",
+                "ametsetan",
+                "hutsik"
+            ]
+        },
+        "tired": {
+            "name": "Nekatua",
+            "keywords": [
+                "begi-globoa",
+                "odol-begiak",
+                "logura"
+            ]
+        },
+        "unproductive": {
+            "name": "Ez-produktiboa",
+            "keywords": [
+                "ohar itsaskorra",
+                "alferra",
+                "eginda"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "lasaitasuna",
+                "lasai",
+                "bakea"
+            ]
+        },
+        "mischievous": {
+            "name": "Maltzurra",
+            "keywords": [
+                "oh",
+                "harrituta",
+                "kaxa"
+            ]
+        },
+        "wicked": {
+            "name": "Gaiztoa",
+            "keywords": [
+                "irribarre gaiztoa",
+                "bihurrikeria",
+                "kaxa"
+            ]
+        },
+        "motivated": {
+            "name": "Motibatua",
+            "keywords": [
+                "ilusioz",
+                "goazen",
+                "ilea"
+            ]
+        },
+        "proud": {
+            "name": "Harro",
+            "keywords": [
+                "harrotasuna",
+                "ostadarra",
+                "bihotza"
+            ]
+        }
+    }
+}

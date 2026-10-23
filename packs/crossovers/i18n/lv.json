@@ -1,0 +1,214 @@
+{
+    "name": "Krosoveri",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "pakalpiņš",
+                "viena acs",
+                "banāns"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "pakalpiņš",
+                "viena acs",
+                "šūnas"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbionts",
+                "zobi",
+                "ļaundaris"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraglis",
+                "lelle",
+                "laimīgs"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraglis",
+                "brilles",
+                "mati"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraglis",
+                "lelle",
+                "nervozs"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraglis",
+                "cepure",
+                "smiekli"
+            ]
+        },
+        "ed": {
+            "name": "Eds - uzticīgs",
+            "keywords": [
+                "pakalpiņš",
+                "aizsargbrilles",
+                "uzticīgs"
+            ]
+        },
+        "henry": {
+            "name": "Henrijs - drosmīgs",
+            "keywords": [
+                "pakalpiņš",
+                "aizsargbrilles",
+                "drosmīgs"
+            ]
+        },
+        "james": {
+            "name": "Džeimss - radošs",
+            "keywords": [
+                "pakalpiņš",
+                "māksla",
+                "krāsa"
+            ]
+        },
+        "alliance": {
+            "name": "Alianse",
+            "keywords": [
+                "ķivere",
+                "bruņas",
+                "karotājs"
+            ]
+        },
+        "batman": {
+            "name": "Betmens",
+            "keywords": [
+                "sikspārnis",
+                "varonis",
+                "gotema"
+            ]
+        },
+        "riddler": {
+            "name": "Mīklu Kungs",
+            "keywords": [
+                "jautājuma zīme",
+                "ļaundaris",
+                "maska"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maska",
+                "antivaronis",
+                "sarkans"
+            ]
+        },
+        "brave": {
+            "name": "Drosmīgs",
+            "keywords": [
+                "sūklis",
+                "pirāts",
+                "acu aizsegs"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policija",
+                "suns",
+                "kucēns"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "ugunsdzēsējs",
+                "suns",
+                "kucēns"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilots",
+                "suns",
+                "kucēns"
+            ]
+        },
+        "energetic": {
+            "name": "Enerģisks",
+            "keywords": [
+                "ezis",
+                "ātrs",
+                "zils"
+            ]
+        },
+        "doozer": {
+            "name": "Dūzers",
+            "keywords": [
+                "celtnieks",
+                "ķivere",
+                "būvniecība"
+            ]
+        },
+        "red": {
+            "name": "Sarkans",
+            "keywords": [
+                "fraglis",
+                "sarkani mati",
+                "smiekli"
+            ]
+        },
+        "horde": {
+            "name": "Orda",
+            "keywords": [
+                "orks",
+                "ilkņi",
+                "karotājs"
+            ]
+        },
+        "master-chief": {
+            "name": "Meistars Čīfs",
+            "keywords": [
+                "spartietis",
+                "ķivere",
+                "kareivis"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "brutālis",
+                "bruņas",
+                "ļaundaris"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "bruņas",
+                "ragi"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartietis",
+                "ķivere",
+                "sejsegs"
+            ]
+        },
+        "void": {
+            "name": "Tukšums",
+            "keywords": [
+                "elfs",
+                "dārgakmens",
+                "ļaundaris"
+            ]
+        }
+    }
+}

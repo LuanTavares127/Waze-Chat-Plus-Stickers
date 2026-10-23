@@ -1,0 +1,351 @@
+{
+    "name": "Pe drum și la muncă",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "boccea",
+                "călătorie",
+                "aventură"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "poțiune",
+                "ochelari",
+                "laborator"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "explorator",
+                "pălărie",
+                "aventură"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "aparat foto",
+                "steag",
+                "vizitare"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marinar",
+                "șapcă",
+                "barcă"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "valiză",
+                "pălărie",
+                "călătorie"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "ochelari de protecție",
+                "cască"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "bufniță",
+                "absolvire",
+                "deștept"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "stingător",
+                "siguranță",
+                "nervos"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "cască de protecție",
+                "construcții",
+                "vestă"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "pălărie de paie",
+                "fermă",
+                "festa junina"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "cască",
+                "stele",
+                "pilot de curse"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "mască de protecție",
+                "sănătate",
+                "în siguranță"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "cronometru",
+                "bentiță",
+                "antrenament"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "vot",
+                "alegeri",
+                "urnă"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "semnal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "vot",
+                "semn",
+                "alegeri"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalie",
+                "panglică",
+                "clipit"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "livrare",
+                "cască",
+                "cutie"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenă",
+                "explorator"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "bulă de dialog",
+                "chat",
+                "a vorbi"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "fluier",
+                "arbitru",
+                "fault"
+            ]
+        },
+        "road-warrior": {
+            "name": "Războinic al drumului",
+            "keywords": [
+                "cască",
+                "ochelari de protecție",
+                "aripă"
+            ]
+        },
+        "limitless": {
+            "name": "Fără limite",
+            "keywords": [
+                "autostradă",
+                "scut",
+                "indicator rutier"
+            ]
+        },
+        "map-master": {
+            "name": "Maestrul hărții",
+            "keywords": [
+                "editor",
+                "hartă",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-camionagiu",
+            "keywords": [
+                "camion",
+                "ochelari de protecție",
+                "transportator"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Căpitanul Mulțumesc",
+            "keywords": [
+                "mulțumesc",
+                "căpitan",
+                "mustață"
+            ]
+        },
+        "all-business": {
+            "name": "Numai afaceri",
+            "keywords": [
+                "costum",
+                "cravată",
+                "muncă"
+            ]
+        },
+        "business-casual": {
+            "name": "Business casual",
+            "keywords": [
+                "cravată",
+                "bentiță",
+                "limbă"
+            ]
+        },
+        "businessy": {
+            "name": "De afaceri",
+            "keywords": [
+                "costum",
+                "ochelari",
+                "birou"
+            ]
+        },
+        "bawse-y": {
+            "name": "Șefuleț",
+            "keywords": [
+                "șef",
+                "ochelari de soare",
+                "costum"
+            ]
+        },
+        "productive": {
+            "name": "Productiv",
+            "keywords": [
+                "cască cu microfon",
+                "muncă",
+                "clipit"
+            ]
+        },
+        "dialed-up": {
+            "name": "Internet dial-up",
+            "keywords": [
+                "calculator",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Sub acoperire",
+            "keywords": [
+                "deghizare",
+                "ochelari",
+                "nas"
+            ]
+        },
+        "sneaky": {
+            "name": "Pe furiș",
+            "keywords": [
+                "ninja",
+                "pe furiș",
+                "mască"
+            ]
+        },
+        "survivalist": {
+            "name": "Supraviețuitor",
+            "keywords": [
+                "bandană",
+                "cicatrice",
+                "dur"
+            ]
+        },
+        "speedy": {
+            "name": "Iute",
+            "keywords": [
+                "rapid",
+                "viteză",
+                "zâmbet ironic"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "ciclism",
+                "șapcă",
+                "rapid"
+            ]
+        },
+        "unstoppable": {
+            "name": "De neoprit",
+            "keywords": [
+                "rapid",
+                "scânteie",
+                "alergare"
+            ]
+        },
+        "comfortable": {
+            "name": "Confortabil",
+            "keywords": [
+                "adidas",
+                "pantof",
+                "confortabil"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ecologic",
+            "keywords": [
+                "pământ",
+                "planetă",
+                "verde"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "pământ",
+                "megafon",
+                "lume"
+            ]
+        },
+        "victorious": {
+            "name": "Victorios",
+            "keywords": [
+                "trofeu",
+                "câștigător",
+                "campion"
+            ]
+        },
+        "beautiful": {
+            "name": "Joc frumos",
+            "keywords": [
+                "fotbal",
+                "fotbal",
+                "minge"
+            ]
+        },
+        "masterful": {
+            "name": "Maestru",
+            "keywords": [
+                "golf",
+                "minge",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "Fără grabă",
+            "keywords": [
+                "cască",
+                "motocicletă",
+                "grabă"
+            ]
+        }
+    }
+}

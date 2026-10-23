@@ -1,0 +1,214 @@
+{
+    "name": "Krosoveriai",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "pakalikas",
+                "viena akis",
+                "bananas"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "pakalikas",
+                "viena akis",
+                "koriai"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbiontas",
+                "dantys",
+                "piktadarys"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraglis",
+                "lėlė",
+                "laimingas"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraglis",
+                "akiniai",
+                "plaukai"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraglis",
+                "lėlė",
+                "nervingas"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraglis",
+                "skrybėlė",
+                "juokas"
+            ]
+        },
+        "ed": {
+            "name": "Edas - ištikimas",
+            "keywords": [
+                "pakalikas",
+                "apsauginiai akiniai",
+                "ištikimas"
+            ]
+        },
+        "henry": {
+            "name": "Henris - drąsus",
+            "keywords": [
+                "pakalikas",
+                "apsauginiai akiniai",
+                "drąsus"
+            ]
+        },
+        "james": {
+            "name": "Džeimsas - kūrybingas",
+            "keywords": [
+                "pakalikas",
+                "menas",
+                "dažai"
+            ]
+        },
+        "alliance": {
+            "name": "Aljansas",
+            "keywords": [
+                "šalmas",
+                "šarvai",
+                "karys"
+            ]
+        },
+        "batman": {
+            "name": "Betmenas",
+            "keywords": [
+                "šikšnosparnis",
+                "didvyris",
+                "gotamas"
+            ]
+        },
+        "riddler": {
+            "name": "Mįslininkas",
+            "keywords": [
+                "klaustukas",
+                "piktadarys",
+                "kaukė"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "kaukė",
+                "antivyris",
+                "raudona"
+            ]
+        },
+        "brave": {
+            "name": "Drąsus",
+            "keywords": [
+                "kempinė",
+                "piratas",
+                "akies raištis"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policija",
+                "šuo",
+                "šuniukas"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "ugniagesys",
+                "šuo",
+                "šuniukas"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilotas",
+                "šuo",
+                "šuniukas"
+            ]
+        },
+        "energetic": {
+            "name": "Energingas",
+            "keywords": [
+                "ežys",
+                "greitas",
+                "mėlyna"
+            ]
+        },
+        "doozer": {
+            "name": "Duzeris",
+            "keywords": [
+                "statytojas",
+                "šalmas",
+                "statyba"
+            ]
+        },
+        "red": {
+            "name": "Raudona",
+            "keywords": [
+                "fraglis",
+                "raudoni plaukai",
+                "juokas"
+            ]
+        },
+        "horde": {
+            "name": "Orda",
+            "keywords": [
+                "orkas",
+                "ilčiai",
+                "karys"
+            ]
+        },
+        "master-chief": {
+            "name": "Meistras Čifas",
+            "keywords": [
+                "spartietis",
+                "šalmas",
+                "kareivis"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "gorila",
+                "šarvai",
+                "piktadarys"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elitas",
+                "šarvai",
+                "ragai"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartietis",
+                "šalmas",
+                "skydelis"
+            ]
+        },
+        "void": {
+            "name": "Tuštuma",
+            "keywords": [
+                "elfas",
+                "brangakmenis",
+                "piktadarys"
+            ]
+        }
+    }
+}

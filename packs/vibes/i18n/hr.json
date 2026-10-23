@@ -1,0 +1,342 @@
+{
+    "name": "Vibracije",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "ovnujski rogovi",
+                "sunčane naočale",
+                "hrabro"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "sunčane naočale",
+                "stijena"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "glazba",
+                "note",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "štikla",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "ležeći",
+                "kapa za zabavu",
+                "opušten"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "slušalice s mikrofonom",
+                "slušanje",
+                "glazba"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "žarulja",
+                "naočale",
+                "ideja"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "mjehurići",
+                "napitak",
+                "sretan"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "iskrenje",
+                "sunčane naočale",
+                "otmjeno"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "slušalice",
+                "leopard",
+                "glazba"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "pjevati"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "vanzemaljac",
+                "kaciga",
+                "svemir"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "slušalice",
+                "glazba",
+                "kul"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "kapa",
+                "naopako",
+                "pogled postrance"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "kapa s propelerom",
+                "šašav",
+                "dijete"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "pojačalo",
+                "gitara",
+                "glazba"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "bubanj",
+                "tamburin",
+                "namigivanje"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "žarulja",
+                "razmišljati",
+                "ideja"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "ruka",
+                "pozdrav",
+                "pozdrav"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "naočale",
+                "pametan",
+                "podsmijeh"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "naočale",
+                "plavuša",
+                "učenje"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "ogrtač",
+                "junak",
+                "naočale"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "kruna",
+                "sunčane naočale",
+                "kralj"
+            ]
+        },
+        "chill": {
+            "name": "Opušten",
+            "keywords": [
+                "sunčane naočale",
+                "opušten",
+                "kul"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Opuštene naočale",
+            "keywords": [
+                "okrugle naočale",
+                "opušten",
+                "kul"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "naočale za zabavu",
+                "jezik",
+                "pretjerano"
+            ]
+        },
+        "feisty": {
+            "name": "Borben",
+            "keywords": [
+                "boks",
+                "rukavica",
+                "borba"
+            ]
+        },
+        "gutsy": {
+            "name": "Smion",
+            "keywords": [
+                "sunčane naočale",
+                "žilav",
+                "hrabar"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "dobre vibracije"
+            ]
+        },
+        "rad": {
+            "name": "Super",
+            "keywords": [
+                "sunčane naočale",
+                "kul",
+                "cerek"
+            ]
+        },
+        "savvy": {
+            "name": "Pametan",
+            "keywords": [
+                "sunčane naočale",
+                "božićna kapa",
+                "pametan"
+            ]
+        },
+        "serene": {
+            "name": "Spokojan",
+            "keywords": [
+                "okrugle naočale",
+                "mirno",
+                "osmijeh"
+            ]
+        },
+        "shady": {
+            "name": "Sumnjiv",
+            "keywords": [
+                "fedora",
+                "sunčane naočale",
+                "tajanstven"
+            ]
+        },
+        "snappy": {
+            "name": "Elegantan",
+            "keywords": [
+                "leptir-mašna",
+                "keks",
+                "podsmijeh"
+            ]
+        },
+        "strong": {
+            "name": "Jak",
+            "keywords": [
+                "x",
+                "sunčane naočale",
+                "žilav"
+            ]
+        },
+        "wild": {
+            "name": "Divlji",
+            "keywords": [
+                "kaciga",
+                "munja",
+                "sunčane naočale"
+            ]
+        },
+        "pumped": {
+            "name": "Nabrijan!",
+            "keywords": [
+                "radiokasetofon",
+                "glazba",
+                "zabava"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lava lampa",
+                "retro",
+                "sedamdesete"
+            ]
+        },
+        "quirky": {
+            "name": "Neobičan",
+            "keywords": [
+                "šešir",
+                "šaren",
+                "smiješan"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolumbija",
+                "šešir",
+                "kul"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "sunčane naočale",
+                "divlji"
+            ]
+        },
+        "sidekick": {
+            "name": "Pomoćnik",
+            "keywords": [
+                "partner",
+                "brada",
+                "prijatelj"
+            ]
+        },
+        "geeky": {
+            "name": "Štreber",
+            "keywords": [
+                "naočale",
+                "štreber",
+                "zurenje"
+            ]
+        },
+        "smart": {
+            "name": "Pametan",
+            "keywords": [
+                "žarulja",
+                "jezik",
+                "ideja"
+            ]
+        },
+        "light": {
+            "name": "Svjetlo",
+            "keywords": [
+                "bodljikav",
+                "plavokos",
+                "napućena usta"
+            ]
+        }
+    }
+}

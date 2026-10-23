@@ -1,0 +1,342 @@
+{
+    "name": "Ambiances",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "cornes de bélier",
+                "lunettes de soleil",
+                "audacieux"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "lunettes de soleil",
+                "roche"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musique",
+                "notes",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "talon haut",
+                "mode",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "allongé",
+                "chapeau de fête",
+                "détendu"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "casque micro",
+                "écoute",
+                "musique"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "ampoule",
+                "lunettes",
+                "idée"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bulles",
+                "potion",
+                "heureux"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "étincelle",
+                "lunettes de soleil",
+                "chic"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "casque audio",
+                "léopard",
+                "musique"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "micro",
+                "karaoke",
+                "chanter"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterrestre",
+                "casque",
+                "espace"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "casque audio",
+                "musique",
+                "cool"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "casquette",
+                "à l'envers",
+                "regard en coin"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "casquette à hélice",
+                "rigolo",
+                "enfant"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "ampli",
+                "guitare",
+                "musique"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tambour",
+                "tambourin",
+                "clin d'œil"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "ampoule",
+                "réfléchir",
+                "idée"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "main",
+                "salut",
+                "salutation"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "lunettes",
+                "intelligent",
+                "sourire en coin"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "lunettes",
+                "blonde",
+                "étudier"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "cape",
+                "héros",
+                "lunettes"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "couronne",
+                "lunettes de soleil",
+                "roi"
+            ]
+        },
+        "chill": {
+            "name": "Détendu",
+            "keywords": [
+                "lunettes de soleil",
+                "détendu",
+                "cool"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Lunettes détendues",
+            "keywords": [
+                "lunettes rondes",
+                "détendu",
+                "cool"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "lunettes de fête",
+                "langue",
+                "excessif"
+            ]
+        },
+        "feisty": {
+            "name": "Fougueux",
+            "keywords": [
+                "boxe",
+                "gant",
+                "combat"
+            ]
+        },
+        "gutsy": {
+            "name": "Audacieux",
+            "keywords": [
+                "lunettes de soleil",
+                "robuste",
+                "courageux"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ]
+        },
+        "rad": {
+            "name": "Génial",
+            "keywords": [
+                "lunettes de soleil",
+                "cool",
+                "grand sourire"
+            ]
+        },
+        "savvy": {
+            "name": "Malin",
+            "keywords": [
+                "lunettes de soleil",
+                "bonnet de Noël",
+                "intelligent"
+            ]
+        },
+        "serene": {
+            "name": "Serein",
+            "keywords": [
+                "lunettes rondes",
+                "calme",
+                "sourire"
+            ]
+        },
+        "shady": {
+            "name": "Louche",
+            "keywords": [
+                "fedora",
+                "lunettes de soleil",
+                "mystérieux"
+            ]
+        },
+        "snappy": {
+            "name": "Élégant",
+            "keywords": [
+                "nœud papillon",
+                "cookie",
+                "sourire en coin"
+            ]
+        },
+        "strong": {
+            "name": "Fort",
+            "keywords": [
+                "x",
+                "lunettes de soleil",
+                "robuste"
+            ]
+        },
+        "wild": {
+            "name": "Sauvage",
+            "keywords": [
+                "casque",
+                "éclair",
+                "lunettes de soleil"
+            ]
+        },
+        "pumped": {
+            "name": "À fond !",
+            "keywords": [
+                "radiocassette",
+                "musique",
+                "fête"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lampe à lave",
+                "retro",
+                "années 70"
+            ]
+        },
+        "quirky": {
+            "name": "Excentrique",
+            "keywords": [
+                "chapeau",
+                "coloré",
+                "drôle"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombie",
+                "chapeau",
+                "cool"
+            ]
+        },
+        "leopard": {
+            "name": "Léopard",
+            "keywords": [
+                "léopard",
+                "lunettes de soleil",
+                "sauvage"
+            ]
+        },
+        "sidekick": {
+            "name": "Acolyte",
+            "keywords": [
+                "partenaire",
+                "barbe",
+                "pote"
+            ]
+        },
+        "geeky": {
+            "name": "Geeky",
+            "keywords": [
+                "lunettes",
+                "intello",
+                "regard fixe"
+            ]
+        },
+        "smart": {
+            "name": "Intelligent",
+            "keywords": [
+                "ampoule",
+                "langue",
+                "idée"
+            ]
+        },
+        "light": {
+            "name": "Lumière",
+            "keywords": [
+                "hérissé",
+                "blond",
+                "moue"
+            ]
+        }
+    }
+}

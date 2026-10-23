@@ -1,0 +1,351 @@
+{
+    "name": "Op die pad en by die werk",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "bondel",
+                "uitstappie",
+                "avontuur"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "drankie",
+                "bril",
+                "laboratorium"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "ontdekkingsreisiger",
+                "hoed",
+                "avontuur"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "vlag",
+                "toerisme"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "matroos",
+                "pet",
+                "boot"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "tas",
+                "hoed",
+                "uitstappie"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "vlieënier",
+                "duikbril",
+                "helm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "uil",
+                "gradeplegtigheid",
+                "slim"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "brandblusser",
+                "veiligheid",
+                "senuweeagtig"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "veiligheidshelm",
+                "konstruksie",
+                "baadjie"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "strooihoed",
+                "plaas",
+                "junie-fees"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "helm",
+                "sterre",
+                "renjaer"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "gesigmasker",
+                "gesondheid",
+                "veilig"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stophorlosie",
+                "hoofband",
+                "opleiding"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "stem",
+                "verkiesing",
+                "stembrief"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "sein",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "stem",
+                "teken",
+                "verkiesing"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalje",
+                "lint",
+                "knipoog"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "aflewering",
+                "helm",
+                "boks"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenna",
+                "ontdekkingsreisiger"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "spraakborrel",
+                "gesels",
+                "praat"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "fluitjie",
+                "skeidsregter",
+                "oortreding"
+            ]
+        },
+        "road-warrior": {
+            "name": "Padkryger",
+            "keywords": [
+                "helm",
+                "duikbril",
+                "vleuel"
+            ]
+        },
+        "limitless": {
+            "name": "Grenslose",
+            "keywords": [
+                "snelweg",
+                "skild",
+                "padteken"
+            ]
+        },
+        "map-master": {
+            "name": "Kaartmeester",
+            "keywords": [
+                "redigeerder",
+                "kaart",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-Vragmotor",
+            "keywords": [
+                "vragmotor",
+                "duikbril",
+                "vervoerder"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kaptein Dankie",
+            "keywords": [
+                "dankie",
+                "kaptein",
+                "snor"
+            ]
+        },
+        "all-business": {
+            "name": "Doodernstig",
+            "keywords": [
+                "pak",
+                "das",
+                "werk"
+            ]
+        },
+        "business-casual": {
+            "name": "Kasuele Sakepak",
+            "keywords": [
+                "das",
+                "hoofband",
+                "tong"
+            ]
+        },
+        "businessy": {
+            "name": "Sakerig",
+            "keywords": [
+                "pak",
+                "bril",
+                "kantoor"
+            ]
+        },
+        "bawse-y": {
+            "name": "Baasagtig",
+            "keywords": [
+                "baas",
+                "sonbril",
+                "pak"
+            ]
+        },
+        "productive": {
+            "name": "Produktief",
+            "keywords": [
+                "kopstuk",
+                "werk",
+                "knipoog"
+            ]
+        },
+        "dialed-up": {
+            "name": "Skakelverbinding",
+            "keywords": [
+                "rekenaar",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Geheime Agent",
+            "keywords": [
+                "vermomming",
+                "bril",
+                "neus"
+            ]
+        },
+        "sneaky": {
+            "name": "Sluipend",
+            "keywords": [
+                "ninja",
+                "sluip",
+                "masker"
+            ]
+        },
+        "survivalist": {
+            "name": "Oorlewingskenner",
+            "keywords": [
+                "kopdoek",
+                "litteken",
+                "taai"
+            ]
+        },
+        "speedy": {
+            "name": "Snel",
+            "keywords": [
+                "vinnig",
+                "spoed",
+                "spottende glimlag"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "fietsry",
+                "pet",
+                "vinnig"
+            ]
+        },
+        "unstoppable": {
+            "name": "Onstuitbaar",
+            "keywords": [
+                "vinnig",
+                "vonkel",
+                "hardloop"
+            ]
+        },
+        "comfortable": {
+            "name": "Gemaklik",
+            "keywords": [
+                "seilskoen",
+                "skoen",
+                "gesellig"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Omgewingsvriendelik",
+            "keywords": [
+                "aarde",
+                "planeet",
+                "groen"
+            ]
+        },
+        "global": {
+            "name": "Wêreldwyd",
+            "keywords": [
+                "aarde",
+                "megafoon",
+                "wêreld"
+            ]
+        },
+        "victorious": {
+            "name": "Oorwinnend",
+            "keywords": [
+                "trofee",
+                "wenner",
+                "kampioen"
+            ]
+        },
+        "beautiful": {
+            "name": "Pragtig",
+            "keywords": [
+                "sokker",
+                "voetbal",
+                "bal"
+            ]
+        },
+        "masterful": {
+            "name": "Meesterlik",
+            "keywords": [
+                "gholf",
+                "bal",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "Moenie jaag nie",
+            "keywords": [
+                "helm",
+                "motorfiets",
+                "haas"
+            ]
+        }
+    }
+}

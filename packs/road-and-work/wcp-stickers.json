@@ -1,0 +1,649 @@
+{
+    "format": 1,
+    "id": "road-and-work",
+    "name": "On the Road & at Work",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "map-master",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "148",
+            "name": "148",
+            "keywords": [
+                "hard hat",
+                "construction",
+                "vest"
+            ],
+            "emojis": [
+                "👷",
+                "🚧"
+            ]
+        },
+        {
+            "id": "116",
+            "name": "116",
+            "keywords": [
+                "suitcase",
+                "hat",
+                "trip"
+            ],
+            "emojis": [
+                "🧳",
+                "✈️"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "18",
+            "keywords": [
+                "bindle",
+                "trip",
+                "adventure"
+            ],
+            "emojis": [
+                "🎒",
+                "🛣️"
+            ]
+        },
+        {
+            "id": "52",
+            "name": "52",
+            "keywords": [
+                "camera",
+                "flag",
+                "sightseeing"
+            ],
+            "emojis": [
+                "📸",
+                "🚩"
+            ]
+        },
+        {
+            "id": "51",
+            "name": "51",
+            "keywords": [
+                "explorer",
+                "hat",
+                "adventure"
+            ],
+            "emojis": [
+                "🧭",
+                "🌍"
+            ]
+        },
+        {
+            "id": "road-warrior",
+            "name": "Road Warrior",
+            "keywords": [
+                "helmet",
+                "goggles",
+                "wing"
+            ],
+            "emojis": [
+                "🏍️",
+                "🛣️"
+            ]
+        },
+        {
+            "id": "limitless",
+            "name": "Limitless",
+            "keywords": [
+                "highway",
+                "shield",
+                "road sign"
+            ],
+            "emojis": [
+                "🛣️",
+                "🚗"
+            ]
+        },
+        {
+            "id": "map-master",
+            "name": "Map Master",
+            "keywords": [
+                "editor",
+                "map",
+                "wazer"
+            ],
+            "emojis": [
+                "🗺️",
+                "😌"
+            ]
+        },
+        {
+            "id": "mega-hauler",
+            "name": "Mega-Hauler",
+            "keywords": [
+                "truck",
+                "goggles",
+                "hauler"
+            ],
+            "emojis": [
+                "🚚",
+                "😎"
+            ]
+        },
+        {
+            "id": "244",
+            "name": "244",
+            "keywords": [
+                "delivery",
+                "helmet",
+                "box"
+            ],
+            "emojis": [
+                "📦",
+                "⚡"
+            ]
+        },
+        {
+            "id": "245",
+            "name": "245",
+            "keywords": [
+                "robot",
+                "antenna",
+                "explorer"
+            ],
+            "emojis": [
+                "🤖",
+                "📡"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "208",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ],
+            "emojis": [
+                "📶",
+                "🤖"
+            ]
+        },
+        {
+            "id": "247",
+            "name": "247",
+            "keywords": [
+                "speech bubble",
+                "chat",
+                "talk"
+            ],
+            "emojis": [
+                "💬",
+                "😄"
+            ]
+        },
+        {
+            "id": "248",
+            "name": "248",
+            "keywords": [
+                "whistle",
+                "referee",
+                "foul"
+            ],
+            "emojis": [
+                "⚽",
+                "😗"
+            ]
+        },
+        {
+            "id": "124",
+            "name": "124",
+            "keywords": [
+                "pilot",
+                "goggles",
+                "helmet"
+            ],
+            "emojis": [
+                "✈️",
+                "🧑‍✈️"
+            ]
+        },
+        {
+            "id": "147",
+            "name": "147",
+            "keywords": [
+                "fire extinguisher",
+                "safety",
+                "nervous"
+            ],
+            "emojis": [
+                "🧯",
+                "😬"
+            ]
+        },
+        {
+            "id": "74",
+            "name": "74",
+            "keywords": [
+                "sailor",
+                "cap",
+                "boat"
+            ],
+            "emojis": [
+                "⚓",
+                "🧑‍✈️"
+            ]
+        },
+        {
+            "id": "captain-thank-you",
+            "name": "Captain Thank You",
+            "keywords": [
+                "thanks",
+                "captain",
+                "mustache"
+            ],
+            "emojis": [
+                "🙏",
+                "⚓"
+            ]
+        },
+        {
+            "id": "173",
+            "name": "173",
+            "keywords": [
+                "stopwatch",
+                "headband",
+                "training"
+            ],
+            "emojis": [
+                "⏱️",
+                "🏃"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "161",
+            "keywords": [
+                "helmet",
+                "stars",
+                "racer"
+            ],
+            "emojis": [
+                "🏁",
+                "🏍️"
+            ]
+        },
+        {
+            "id": "171",
+            "name": "171",
+            "keywords": [
+                "face mask",
+                "health",
+                "safe"
+            ],
+            "emojis": [
+                "😷"
+            ]
+        },
+        {
+            "id": "207",
+            "name": "207",
+            "keywords": [
+                "vote",
+                "election",
+                "ballot"
+            ],
+            "emojis": [
+                "🗳️"
+            ]
+        },
+        {
+            "id": "212",
+            "name": "212",
+            "keywords": [
+                "vote",
+                "sign",
+                "election"
+            ],
+            "emojis": [
+                "🗳️",
+                "📣"
+            ]
+        },
+        {
+            "id": "all-business",
+            "name": "All Business",
+            "keywords": [
+                "suit",
+                "tie",
+                "work"
+            ],
+            "emojis": [
+                "👔",
+                "💼"
+            ]
+        },
+        {
+            "id": "business-casual",
+            "name": "Business Casual",
+            "keywords": [
+                "tie",
+                "headband",
+                "tongue"
+            ],
+            "emojis": [
+                "👔",
+                "😜"
+            ]
+        },
+        {
+            "id": "businessy",
+            "name": "Businessy",
+            "keywords": [
+                "suit",
+                "glasses",
+                "office"
+            ],
+            "emojis": [
+                "💼",
+                "🤓"
+            ]
+        },
+        {
+            "id": "bawse-y",
+            "name": "Bawse-y",
+            "keywords": [
+                "boss",
+                "sunglasses",
+                "suit"
+            ],
+            "emojis": [
+                "😎",
+                "💼"
+            ]
+        },
+        {
+            "id": "productive",
+            "name": "Productive",
+            "keywords": [
+                "headset",
+                "work",
+                "wink"
+            ],
+            "emojis": [
+                "🎧",
+                "😉"
+            ]
+        },
+        {
+            "id": "dialed-up",
+            "name": "Dialed Up",
+            "keywords": [
+                "computer",
+                "retro",
+                "internet"
+            ],
+            "emojis": [
+                "💻",
+                "📠"
+            ]
+        },
+        {
+            "id": "undercover",
+            "name": "Undercover",
+            "keywords": [
+                "disguise",
+                "glasses",
+                "nose"
+            ],
+            "emojis": [
+                "🥸"
+            ]
+        },
+        {
+            "id": "sneaky",
+            "name": "Sneaky",
+            "keywords": [
+                "ninja",
+                "stealth",
+                "mask"
+            ],
+            "emojis": [
+                "🥷"
+            ]
+        },
+        {
+            "id": "survivalist",
+            "name": "Survivalist",
+            "keywords": [
+                "bandana",
+                "scar",
+                "tough"
+            ],
+            "emojis": [
+                "💪",
+                "🩹"
+            ]
+        },
+        {
+            "id": "speedy",
+            "name": "Speedy",
+            "keywords": [
+                "fast",
+                "speed",
+                "smirk"
+            ],
+            "emojis": [
+                "💨",
+                "😏"
+            ]
+        },
+        {
+            "id": "sprinteur",
+            "name": "Sprinteur",
+            "keywords": [
+                "cycling",
+                "cap",
+                "fast"
+            ],
+            "emojis": [
+                "🚴",
+                "💨"
+            ]
+        },
+        {
+            "id": "unstoppable",
+            "name": "Unstoppable",
+            "keywords": [
+                "fast",
+                "sparkle",
+                "run"
+            ],
+            "emojis": [
+                "💨",
+                "✨"
+            ]
+        },
+        {
+            "id": "comfortable",
+            "name": "Comfortable",
+            "keywords": [
+                "sneaker",
+                "shoe",
+                "cozy"
+            ],
+            "emojis": [
+                "👟",
+                "😌"
+            ]
+        },
+        {
+            "id": "eco-friendly",
+            "name": "Eco-friendly",
+            "keywords": [
+                "earth",
+                "planet",
+                "green"
+            ],
+            "emojis": [
+                "🌍",
+                "💚"
+            ]
+        },
+        {
+            "id": "global",
+            "name": "Global",
+            "keywords": [
+                "earth",
+                "megaphone",
+                "world"
+            ],
+            "emojis": [
+                "🌎",
+                "📣"
+            ]
+        },
+        {
+            "id": "victorious",
+            "name": "Victorious",
+            "keywords": [
+                "trophy",
+                "winner",
+                "champion"
+            ],
+            "emojis": [
+                "🏆"
+            ]
+        },
+        {
+            "id": "217",
+            "name": "217",
+            "keywords": [
+                "medal",
+                "ribbon",
+                "wink"
+            ],
+            "emojis": [
+                "🏅",
+                "😉"
+            ]
+        },
+        {
+            "id": "beautiful",
+            "name": "Beautiful",
+            "keywords": [
+                "soccer",
+                "football",
+                "ball"
+            ],
+            "emojis": [
+                "⚽",
+                "😎"
+            ]
+        },
+        {
+            "id": "masterful",
+            "name": "Masterful",
+            "keywords": [
+                "golf",
+                "ball",
+                "sport"
+            ],
+            "emojis": [
+                "⛳",
+                "😊"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "20",
+            "keywords": [
+                "potion",
+                "glasses",
+                "lab"
+            ],
+            "emojis": [
+                "🧪",
+                "🤓"
+            ]
+        },
+        {
+            "id": "131",
+            "name": "131",
+            "keywords": [
+                "owl",
+                "graduation",
+                "smart"
+            ],
+            "emojis": [
+                "🦉",
+                "🎓"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "150",
+            "keywords": [
+                "straw hat",
+                "farm",
+                "june festival"
+            ],
+            "emojis": [
+                "👒",
+                "🌾"
+            ]
+        },
+        {
+            "id": "no-corre",
+            "name": "No corre",
+            "keywords": [
+                "helmet",
+                "motorcycle",
+                "rush"
+            ],
+            "emojis": [
+                "🪖",
+                "🏍️"
+            ]
+        }
+    ]
+}

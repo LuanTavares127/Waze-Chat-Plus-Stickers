@@ -1,0 +1,342 @@
+{
+    "name": "Fiilikset",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "oinaan sarvet",
+                "aurinkolasit",
+                "rohkea"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "aurinkolasit",
+                "rock"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musiikki",
+                "nuotit",
+                "hippi"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "korkokenkä",
+                "muoti",
+                "diiva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "makaa",
+                "juhlahattu",
+                "rento"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "kuulokemikrofoni",
+                "kuuntelee",
+                "musiikki"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "hehkulamppu",
+                "silmälasit",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "kuplat",
+                "taikajuoma",
+                "iloinen"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "kipinä",
+                "aurinkolasit",
+                "hieno"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "kuulokkeet",
+                "leopardi",
+                "musiikki"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofoni",
+                "karaoke",
+                "laulaa"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "avaruusolio",
+                "kypärä",
+                "avaruus"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "kuulokkeet",
+                "musiikki",
+                "siisti"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "lippalakki",
+                "takaperin",
+                "sivusilmäys"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "potkurilakki",
+                "hassu",
+                "lapsi"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "vahvistin",
+                "kitara",
+                "musiikki"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "rumpu",
+                "tamburiini",
+                "silmänisku"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "hehkulamppu",
+                "ajatella",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "käsi",
+                "tervehdys",
+                "tervehtiä"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "silmälasit",
+                "älykäs",
+                "ivallinen hymy"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "silmälasit",
+                "blondi",
+                "opiskella"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "viitta",
+                "sankari",
+                "silmälasit"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "kruunu",
+                "aurinkolasit",
+                "kuningas"
+            ]
+        },
+        "chill": {
+            "name": "Rento",
+            "keywords": [
+                "aurinkolasit",
+                "rento",
+                "siisti"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Rento silmälaseissa",
+            "keywords": [
+                "pyöreät lasit",
+                "rento",
+                "siisti"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "juhlalasit",
+                "kieli",
+                "överit"
+            ]
+        },
+        "feisty": {
+            "name": "Tulinen",
+            "keywords": [
+                "nyrkkeily",
+                "hanska",
+                "tappelu"
+            ]
+        },
+        "gutsy": {
+            "name": "Rohkea",
+            "keywords": [
+                "aurinkolasit",
+                "kova",
+                "urhea"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "hyvät fiilikset"
+            ]
+        },
+        "rad": {
+            "name": "Siisti",
+            "keywords": [
+                "aurinkolasit",
+                "siisti",
+                "virnistys"
+            ]
+        },
+        "savvy": {
+            "name": "Fiksu",
+            "keywords": [
+                "aurinkolasit",
+                "tonttulakki",
+                "älykäs"
+            ]
+        },
+        "serene": {
+            "name": "Tyyni",
+            "keywords": [
+                "pyöreät lasit",
+                "rauha",
+                "hymy"
+            ]
+        },
+        "shady": {
+            "name": "Epäilyttävä",
+            "keywords": [
+                "fedora",
+                "aurinkolasit",
+                "salaperäinen"
+            ]
+        },
+        "snappy": {
+            "name": "Tyylikäs",
+            "keywords": [
+                "rusetti",
+                "keksi",
+                "ivallinen hymy"
+            ]
+        },
+        "strong": {
+            "name": "Vahva",
+            "keywords": [
+                "x",
+                "aurinkolasit",
+                "kova"
+            ]
+        },
+        "wild": {
+            "name": "Villi",
+            "keywords": [
+                "kypärä",
+                "salama",
+                "aurinkolasit"
+            ]
+        },
+        "pumped": {
+            "name": "Täynnä virtaa!",
+            "keywords": [
+                "boomboxi",
+                "musiikki",
+                "juhla"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "laavalamppu",
+                "retro",
+                "70-luku"
+            ]
+        },
+        "quirky": {
+            "name": "Erikoinen",
+            "keywords": [
+                "hattu",
+                "värikäs",
+                "hauska"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolumbia",
+                "hattu",
+                "siisti"
+            ]
+        },
+        "leopard": {
+            "name": "Leopardi",
+            "keywords": [
+                "leopardi",
+                "aurinkolasit",
+                "villi"
+            ]
+        },
+        "sidekick": {
+            "name": "Apuri",
+            "keywords": [
+                "kumppani",
+                "parta",
+                "kaveri"
+            ]
+        },
+        "geeky": {
+            "name": "Nörtti",
+            "keywords": [
+                "silmälasit",
+                "nörtti",
+                "tuijotus"
+            ]
+        },
+        "smart": {
+            "name": "Älykäs",
+            "keywords": [
+                "hehkulamppu",
+                "kieli",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Vaalea",
+            "keywords": [
+                "piikikäs",
+                "vaalea",
+                "suu mutrussa"
+            ]
+        }
+    }
+}

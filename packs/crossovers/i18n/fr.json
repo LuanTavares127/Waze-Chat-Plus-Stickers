@@ -1,0 +1,214 @@
+{
+    "name": "Crossovers",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "un œil",
+                "banane"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "un œil",
+                "rayon de miel"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiote",
+                "dents",
+                "méchant"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "marionnette",
+                "heureux"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "lunettes",
+                "cheveux"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "marionnette",
+                "nerveux"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "chapeau",
+                "rire"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Loyal",
+            "keywords": [
+                "minion",
+                "lunettes de protection",
+                "loyal"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Courageux",
+            "keywords": [
+                "minion",
+                "lunettes de protection",
+                "courageux"
+            ]
+        },
+        "james": {
+            "name": "James - Artiste",
+            "keywords": [
+                "minion",
+                "art",
+                "peinture"
+            ]
+        },
+        "alliance": {
+            "name": "Alliance",
+            "keywords": [
+                "casque",
+                "armure",
+                "guerrier"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "chauve-souris",
+                "héros",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Le Sphinx",
+            "keywords": [
+                "point d'interrogation",
+                "méchant",
+                "masque"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "masque",
+                "antihéros",
+                "rouge"
+            ]
+        },
+        "brave": {
+            "name": "Courageux",
+            "keywords": [
+                "éponge",
+                "pirate",
+                "cache-œil"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "police",
+                "chien",
+                "chiot"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "pompier",
+                "chien",
+                "chiot"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilote",
+                "chien",
+                "chiot"
+            ]
+        },
+        "energetic": {
+            "name": "Énergique",
+            "keywords": [
+                "hérisson",
+                "rapide",
+                "bleu"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "bâtisseur",
+                "casque",
+                "chantier"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "cheveux roux",
+                "rire"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "orque",
+                "défenses",
+                "guerrier"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "casque",
+                "soldat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "brute",
+                "armure",
+                "méchant"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "armure",
+                "cornes"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "casque",
+                "visière"
+            ]
+        },
+        "void": {
+            "name": "Vide",
+            "keywords": [
+                "elfe",
+                "gemme",
+                "méchant"
+            ]
+        }
+    }
+}

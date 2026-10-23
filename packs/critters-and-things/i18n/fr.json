@@ -1,0 +1,358 @@
+{
+    "name": "Bestioles et compagnie",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "roche",
+                "pierre",
+                "rapide"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "ours",
+                "bob",
+                "sourire"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capybara",
+                "oiseau",
+                "détente"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "cerveau",
+                "intelligent",
+                "réfléchir"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "mordre"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "crocs",
+                "dents",
+                "grand sourire"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "vache",
+                "meuh",
+                "ferme"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "chien",
+                "corgi",
+                "couronne"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "chien",
+                "corgi",
+                "clin d'œil"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "chien",
+                "corgi",
+                "couronne"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "dragon",
+                "rouge",
+                "monstre"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "main",
+                "œil",
+                "protection"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "œil",
+                "signe",
+                "mystère"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "théière",
+                "thé",
+                "pomme"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "oiseau",
+                "casquette",
+                "parler"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "jeu"
+            ]
+        },
+        "aware": {
+            "name": "Conscient",
+            "keywords": [
+                "arc-en-ciel",
+                "calme",
+                "couleurs"
+            ]
+        },
+        "baby": {
+            "name": "Bébé",
+            "keywords": [
+                "tétine",
+                "bébé",
+                "mignon"
+            ]
+        },
+        "blobby": {
+            "name": "Blobby",
+            "keywords": [
+                "blob",
+                "bulles",
+                "étoiles"
+            ]
+        },
+        "bright": {
+            "name": "Lumineux",
+            "keywords": [
+                "étoile",
+                "briller",
+                "arc-en-ciel"
+            ]
+        },
+        "calm": {
+            "name": "Calme",
+            "keywords": [
+                "nuage",
+                "casquette",
+                "ciel"
+            ]
+        },
+        "captivated": {
+            "name": "Captivé",
+            "keywords": [
+                "appareil photo",
+                "photo",
+                "image"
+            ]
+        },
+        "cat": {
+            "name": "Chat",
+            "keywords": [
+                "chat",
+                "minou",
+                "miaou"
+            ]
+        },
+        "cell": {
+            "name": "Cellule",
+            "keywords": [
+                "cellule",
+                "biologie",
+                "blob"
+            ]
+        },
+        "centered": {
+            "name": "Centré",
+            "keywords": [
+                "pierres",
+                "équilibre",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Cosmique",
+            "keywords": [
+                "antennes",
+                "extraterrestre",
+                "heureux"
+            ]
+        },
+        "destemido": {
+            "name": "Intrépide",
+            "keywords": [
+                "cactus",
+                "plante",
+                "robuste"
+            ]
+        },
+        "dog": {
+            "name": "Chien",
+            "keywords": [
+                "chien",
+                "chiot",
+                "langue"
+            ]
+        },
+        "fancy": {
+            "name": "Chic",
+            "keywords": [
+                "gâteau",
+                "part",
+                "cerise"
+            ]
+        },
+        "flowing": {
+            "name": "Fluide",
+            "keywords": [
+                "eau",
+                "goutte",
+                "pluie"
+            ]
+        },
+        "hopeful": {
+            "name": "Plein d'espoir",
+            "keywords": [
+                "nuage",
+                "soleil",
+                "calme"
+            ]
+        },
+        "hungry": {
+            "name": "Affamé",
+            "keywords": [
+                "burger",
+                "nourriture",
+                "déjeuner"
+            ]
+        },
+        "magical": {
+            "name": "Magique",
+            "keywords": [
+                "licorne",
+                "arc-en-ciel",
+                "magie"
+            ]
+        },
+        "magical-2": {
+            "name": "Magique (2)",
+            "keywords": [
+                "magie",
+                "rose",
+                "célèbre"
+            ]
+        },
+        "open": {
+            "name": "Ouvert",
+            "keywords": [
+                "montagne",
+                "drapeau",
+                "sommet"
+            ]
+        },
+        "playful": {
+            "name": "Joueur",
+            "keywords": [
+                "dauphin",
+                "mer",
+                "amusant"
+            ]
+        },
+        "prickly": {
+            "name": "Piquant",
+            "keywords": [
+                "cactus",
+                "grincheux",
+                "hérissé"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "planète",
+                "orbite",
+                "espace"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "machine",
+                "technologie"
+            ]
+        },
+        "rocket": {
+            "name": "Rocket",
+            "keywords": [
+                "fusée",
+                "rapide",
+                "feu"
+            ]
+        },
+        "spiritual": {
+            "name": "Spirituel",
+            "keywords": [
+                "panda",
+                "lunettes de soleil",
+                "détente"
+            ]
+        },
+        "starry": {
+            "name": "Étoilé",
+            "keywords": [
+                "un œil",
+                "monstre",
+                "surpris"
+            ]
+        },
+        "sunny": {
+            "name": "Ensoleillé",
+            "keywords": [
+                "tournesol",
+                "soleil",
+                "fleur"
+            ]
+        },
+        "sweet": {
+            "name": "Doux",
+            "keywords": [
+                "bonbon",
+                "menthe",
+                "doux"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "rugir"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "loup",
+                "hurler",
+                "rusé"
+            ]
+        }
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "name": "Na estrada e no trabalho",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "trouxa",
+                "viagem",
+                "aventura"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "poção",
+                "óculos",
+                "laboratório"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "explorador",
+                "chapéu",
+                "aventura"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "câmara",
+                "bandeira",
+                "turismo"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marinheiro",
+                "boné",
+                "barco"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "mala",
+                "chapéu",
+                "viagem"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "piloto",
+                "óculos de proteção",
+                "capacete"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "coruja",
+                "licenciatura",
+                "inteligente"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "extintor",
+                "segurança",
+                "nervoso"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "capacete de obra",
+                "construção",
+                "colete"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "chapéu de palha",
+                "quinta",
+                "festa junina"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "capacete",
+                "estrelas",
+                "piloto de corridas"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "máscara facial",
+                "saúde",
+                "seguro"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "cronómetro",
+                "fita de cabelo",
+                "treino"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "voto",
+                "eleição",
+                "urna"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "sinal",
+                "robô",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "voto",
+                "sinal",
+                "eleição"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalha",
+                "fita",
+                "piscar de olho"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "entrega",
+                "capacete",
+                "caixa"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robô",
+                "antena",
+                "explorador"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "balão de fala",
+                "conversa",
+                "falar"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "apito",
+                "árbitro",
+                "falta"
+            ]
+        },
+        "road-warrior": {
+            "name": "Guerreiro da estrada",
+            "keywords": [
+                "capacete",
+                "óculos de proteção",
+                "asa"
+            ]
+        },
+        "limitless": {
+            "name": "Sem limites",
+            "keywords": [
+                "autoestrada",
+                "escudo",
+                "sinal de trânsito"
+            ]
+        },
+        "map-master": {
+            "name": "Mestre do mapa",
+            "keywords": [
+                "editor",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Super-camionista",
+            "keywords": [
+                "camião",
+                "óculos de proteção",
+                "transportador"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Capitão Obrigado",
+            "keywords": [
+                "obrigado",
+                "capitão",
+                "bigode"
+            ]
+        },
+        "all-business": {
+            "name": "Só negócios",
+            "keywords": [
+                "fato",
+                "gravata",
+                "trabalho"
+            ]
+        },
+        "business-casual": {
+            "name": "Casual de escritório",
+            "keywords": [
+                "gravata",
+                "fita de cabelo",
+                "língua"
+            ]
+        },
+        "businessy": {
+            "name": "Executivo",
+            "keywords": [
+                "fato",
+                "óculos",
+                "escritório"
+            ]
+        },
+        "bawse-y": {
+            "name": "Chefão",
+            "keywords": [
+                "chefe",
+                "óculos de sol",
+                "fato"
+            ]
+        },
+        "productive": {
+            "name": "Produtivo",
+            "keywords": [
+                "auricular com microfone",
+                "trabalho",
+                "piscar de olho"
+            ]
+        },
+        "dialed-up": {
+            "name": "Internet por linha telefónica",
+            "keywords": [
+                "computador",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Disfarçado",
+            "keywords": [
+                "disfarce",
+                "óculos",
+                "nariz"
+            ]
+        },
+        "sneaky": {
+            "name": "Furtivo",
+            "keywords": [
+                "ninja",
+                "furtivo",
+                "máscara"
+            ]
+        },
+        "survivalist": {
+            "name": "Sobrevivente",
+            "keywords": [
+                "bandana",
+                "cicatriz",
+                "duro"
+            ]
+        },
+        "speedy": {
+            "name": "Veloz",
+            "keywords": [
+                "rápido",
+                "velocidade",
+                "sorriso trocista"
+            ]
+        },
+        "sprinteur": {
+            "name": "Ciclista",
+            "keywords": [
+                "ciclismo",
+                "boné",
+                "rápido"
+            ]
+        },
+        "unstoppable": {
+            "name": "Imparável",
+            "keywords": [
+                "rápido",
+                "brilho",
+                "correr"
+            ]
+        },
+        "comfortable": {
+            "name": "Confortável",
+            "keywords": [
+                "sapatilha",
+                "sapato",
+                "aconchegante"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ecológico",
+            "keywords": [
+                "terra",
+                "planeta",
+                "verde"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "terra",
+                "megafone",
+                "mundo"
+            ]
+        },
+        "victorious": {
+            "name": "Vitorioso",
+            "keywords": [
+                "troféu",
+                "vencedor",
+                "campeão"
+            ]
+        },
+        "beautiful": {
+            "name": "Jogo bonito",
+            "keywords": [
+                "futebol",
+                "futebol",
+                "bola"
+            ]
+        },
+        "masterful": {
+            "name": "Mestre do golfe",
+            "keywords": [
+                "golfe",
+                "bola",
+                "desporto"
+            ]
+        },
+        "no-corre": {
+            "name": "Sem correria",
+            "keywords": [
+                "capacete",
+                "mota",
+                "pressa"
+            ]
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "name": "Párty, zverokruh a fantázia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "snehuliak",
+                "zima",
+                "šál"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "párty čiapka",
+                "narodeniny",
+                "oslava"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "vikink",
+                "helma",
+                "špendlík na mape"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "šašo",
+                "klobúk",
+                "smiech"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "vianoce",
+                "mikuláš",
+                "slnečné okuliare"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "čarodejník",
+                "klobúk",
+                "mágia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "čarodejnica",
+                "klobúk",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karneval",
+                "pokrývka hlavy",
+                "perá"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "šál",
+                "čiapka",
+                "zima"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karneval",
+                "maska",
+                "párty"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nový rok",
+                "2026",
+                "párty"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "vikink",
+                "kladivo",
+                "štít"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "zima",
+                "čiapka",
+                "zima"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "strážca",
+                "londýn",
+                "klobúk"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cylinder",
+                "čaj",
+                "krajina zázrakov"
+            ]
+        },
+        "aries": {
+            "name": "Baran",
+            "keywords": [
+                "zverokruh",
+                "baran",
+                "horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Býk",
+            "keywords": [
+                "zverokruh",
+                "býk",
+                "horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Blížence",
+            "keywords": [
+                "zverokruh",
+                "dvojčatá",
+                "horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Rak",
+            "keywords": [
+                "zverokruh",
+                "rak",
+                "horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Lev",
+            "keywords": [
+                "zverokruh",
+                "lev",
+                "horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Panna",
+            "keywords": [
+                "zverokruh",
+                "panna",
+                "horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Váhy",
+            "keywords": [
+                "zverokruh",
+                "váhy",
+                "horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Škorpión",
+            "keywords": [
+                "zverokruh",
+                "škorpión",
+                "horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Strelec",
+            "keywords": [
+                "zverokruh",
+                "strelec",
+                "horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Kozorožec",
+            "keywords": [
+                "zverokruh",
+                "koza",
+                "horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Vodnár",
+            "keywords": [
+                "zverokruh",
+                "voda",
+                "horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Ryby",
+            "keywords": [
+                "zverokruh",
+                "ryba",
+                "horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Mikuláš",
+            "keywords": [
+                "vianoce",
+                "mikuláš",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Sviatočný",
+            "keywords": [
+                "vianoce",
+                "čiapka Mikuláša",
+                "brada"
+            ]
+        },
+        "frazzled": {
+            "name": "Vyčerpaný",
+            "keywords": [
+                "vianoce",
+                "unavený",
+                "mikuláš"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnevalista",
+            "keywords": [
+                "karneval",
+                "námorník",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Veselá párty",
+            "keywords": [
+                "párty čiapka",
+                "hviezda",
+                "oslava"
+            ]
+        },
+        "blossom": {
+            "name": "Kvietok",
+            "keywords": [
+                "kvet",
+                "ružový",
+                "jar"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "valentín",
+                "šíp",
+                "láska"
+            ]
+        },
+        "happy-clown": {
+            "name": "Veselý klaun",
+            "keywords": [
+                "klaun",
+                "cirkus",
+                "zábava"
+            ]
+        },
+        "scary-clown": {
+            "name": "Strašidelný klaun",
+            "keywords": [
+                "klaun",
+                "halloween",
+                "strašidelný"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "nemŕtvy"
+            ]
+        },
+        "zombified": {
+            "name": "Zozombíčený",
+            "keywords": [
+                "zombie",
+                "unavený",
+                "stehy"
+            ]
+        },
+        "monster": {
+            "name": "Príšera",
+            "keywords": [
+                "jedno oko",
+                "kyklop",
+                "príšera"
+            ]
+        },
+        "mystical": {
+            "name": "Mystický",
+            "keywords": [
+                "kapucňa",
+                "elf",
+                "mágia"
+            ]
+        },
+        "mighty": {
+            "name": "Mocný",
+            "keywords": [
+                "vikink",
+                "fúzy",
+                "rohy"
+            ]
+        },
+        "angelic": {
+            "name": "Anjelský",
+            "keywords": [
+                "anjel",
+                "svätožiara",
+                "krídla"
+            ]
+        },
+        "devious": {
+            "name": "Prefíkaný",
+            "keywords": [
+                "diabol",
+                "rohy",
+                "škerenie"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabolský",
+            "keywords": [
+                "záporák",
+                "monokel",
+                "zlý"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "génius",
+                "vedec",
+                "jazyk"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgicko",
+                "roh",
+                "fanúšik"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "vesmír",
+                "helma"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (modrý)",
+            "keywords": [
+                "astronaut",
+                "vesmír",
+                "mesiac"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "hrdina",
+                "tiara",
+                "sila"
+            ]
+        }
+    }
+}

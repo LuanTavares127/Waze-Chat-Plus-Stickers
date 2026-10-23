@@ -1,0 +1,360 @@
+{
+    "name": "Gevoelens",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassiek",
+                "hallo",
+                "blij"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "traan",
+                "verdrietig",
+                "slaapmuts"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "blanco",
+                "neutraal",
+                "gewoon"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "liefde",
+                "hartje",
+                "zoet"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "ouder",
+                "baby",
+                "gezin"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "huilend",
+                "overstuur",
+                "wanhoop"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "ziek",
+                "misselijk",
+                "onwel"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "ongemakkelijk",
+                "onprettig",
+                "bah"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "opgewonden",
+                "hoera",
+                "vleugels"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "blij",
+                "lachen",
+                "hoed"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "boos",
+                "geïrriteerd",
+                "frons"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "vraag",
+                "wat",
+                "twijfel"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "meditatie",
+                "kalm"
+            ]
+        },
+        "amazing": {
+            "name": "Geweldig",
+            "keywords": [
+                "wow",
+                "sterrenogen",
+                "geweldig"
+            ]
+        },
+        "amused": {
+            "name": "Geamuseerd",
+            "keywords": [
+                "oogrol",
+                "maakt niet uit",
+                "spottende lach"
+            ]
+        },
+        "antsy": {
+            "name": "Onrustig",
+            "keywords": [
+                "ongeduldig",
+                "gestrest",
+                "bah"
+            ]
+        },
+        "bored": {
+            "name": "Verveeld",
+            "keywords": [
+                "meh",
+                "saai",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Wagenziek",
+            "keywords": [
+                "ziek",
+                "misselijk",
+                "wagenziekte"
+            ]
+        },
+        "cheeky": {
+            "name": "Brutaal",
+            "keywords": [
+                "knipoog",
+                "tong",
+                "grapje"
+            ]
+        },
+        "depressed": {
+            "name": "Depressief",
+            "keywords": [
+                "verdrietig",
+                "somber",
+                "blauw"
+            ]
+        },
+        "exasperated": {
+            "name": "Radeloos",
+            "keywords": [
+                "het zat",
+                "zucht",
+                "geïrriteerd"
+            ]
+        },
+        "flustered": {
+            "name": "Overstuur",
+            "keywords": [
+                "geschokt",
+                "schreeuwen",
+                "oh nee"
+            ]
+        },
+        "funny": {
+            "name": "Grappig",
+            "keywords": [
+                "lachen",
+                "lol",
+                "lachtranen"
+            ]
+        },
+        "furious": {
+            "name": "Woedend",
+            "keywords": [
+                "woede",
+                "vloeken",
+                "boos"
+            ]
+        },
+        "grumpy": {
+            "name": "Chagrijnig",
+            "keywords": [
+                "knorrig",
+                "geïrriteerd",
+                "koptelefoon"
+            ]
+        },
+        "happy": {
+            "name": "Blij",
+            "keywords": [
+                "vreugde",
+                "lachen",
+                "glimlach"
+            ]
+        },
+        "hilarious": {
+            "name": "Hilarisch",
+            "keywords": [
+                "lol",
+                "lachen",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Nederig",
+            "keywords": [
+                "dankbaar",
+                "kalm",
+                "vleugels"
+            ]
+        },
+        "joyful": {
+            "name": "Vrolijk",
+            "keywords": [
+                "lachen",
+                "blij",
+                "oef"
+            ]
+        },
+        "judgmental": {
+            "name": "Oordelend",
+            "keywords": [
+                "afkeuren",
+                "frons",
+                "oordelen"
+            ]
+        },
+        "loved-up": {
+            "name": "Smoorverliefd",
+            "keywords": [
+                "verliefd",
+                "hartjesogen",
+                "verliefdheid"
+            ]
+        },
+        "mind-blown": {
+            "name": "Verbijsterd",
+            "keywords": [
+                "geschokt",
+                "wow",
+                "explosie"
+            ]
+        },
+        "moody": {
+            "name": "Humeurig",
+            "keywords": [
+                "meh",
+                "kronkel",
+                "doos"
+            ]
+        },
+        "nervous": {
+            "name": "Zenuwachtig",
+            "keywords": [
+                "angstig",
+                "zweet",
+                "bezorgd"
+            ]
+        },
+        "obsessed": {
+            "name": "Geobsedeerd",
+            "keywords": [
+                "sterrenogen",
+                "gil",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Verdrietig",
+            "keywords": [
+                "traan",
+                "huilen",
+                "somber"
+            ]
+        },
+        "shy": {
+            "name": "Verlegen",
+            "keywords": [
+                "blozen",
+                "schattig",
+                "beschaamd"
+            ]
+        },
+        "skeptical": {
+            "name": "Sceptisch",
+            "keywords": [
+                "twijfel",
+                "niet onder de indruk",
+                "echt"
+            ]
+        },
+        "spacey": {
+            "name": "Verstrooid",
+            "keywords": [
+                "afgeleid",
+                "dagdromen",
+                "afwezig"
+            ]
+        },
+        "tired": {
+            "name": "Moe",
+            "keywords": [
+                "oogbal",
+                "bloeddoorlopen",
+                "slaperig"
+            ]
+        },
+        "unproductive": {
+            "name": "Onproductief",
+            "keywords": [
+                "plakbriefje",
+                "lui",
+                "klaar"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "kalm",
+                "ontspannen",
+                "vrede"
+            ]
+        },
+        "mischievous": {
+            "name": "Ondeugend",
+            "keywords": [
+                "oh",
+                "verrast",
+                "doos"
+            ]
+        },
+        "wicked": {
+            "name": "Gemeen",
+            "keywords": [
+                "gemene grijns",
+                "kattenkwaad",
+                "doos"
+            ]
+        },
+        "motivated": {
+            "name": "Gemotiveerd",
+            "keywords": [
+                "opgewonden",
+                "kom op",
+                "haar"
+            ]
+        },
+        "proud": {
+            "name": "Trots",
+            "keywords": [
+                "trots",
+                "regenboog",
+                "hartje"
+            ]
+        }
+    }
+}

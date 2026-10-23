@@ -1,0 +1,358 @@
+{
+    "name": "Thú vật & đồ vật",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "đá",
+                "hòn đá",
+                "nhanh"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "gấu",
+                "mũ bucket",
+                "mỉm cười"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capybara",
+                "chim",
+                "thư giãn"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "não",
+                "thông minh",
+                "suy nghĩ"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "khủng long",
+                "răng",
+                "cắn"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "nanh",
+                "răng",
+                "cười toe"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "bò",
+                "ò ò",
+                "nông trại"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "chó",
+                "corgi",
+                "vương miện"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "chó",
+                "corgi",
+                "nháy mắt"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "chó",
+                "corgi",
+                "vương miện"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "rồng",
+                "đỏ",
+                "quái vật"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "tay",
+                "mắt",
+                "bảo vệ"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "mắt",
+                "biển hiệu",
+                "bí ẩn"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "ấm trà",
+                "trà",
+                "táo"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "chim",
+                "mũ lưỡi trai",
+                "nói chuyện"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bit",
+            "keywords": [
+                "điểm ảnh",
+                "hoài cổ",
+                "trò chơi"
+            ]
+        },
+        "aware": {
+            "name": "Tỉnh thức",
+            "keywords": [
+                "cầu vồng",
+                "bình tĩnh",
+                "màu sắc"
+            ]
+        },
+        "baby": {
+            "name": "Em bé",
+            "keywords": [
+                "núm vú giả",
+                "em bé",
+                "dễ thương"
+            ]
+        },
+        "blobby": {
+            "name": "Cục bột",
+            "keywords": [
+                "cục",
+                "bong bóng",
+                "các ngôi sao"
+            ]
+        },
+        "bright": {
+            "name": "Rạng rỡ",
+            "keywords": [
+                "ngôi sao",
+                "tỏa sáng",
+                "cầu vồng"
+            ]
+        },
+        "calm": {
+            "name": "Bình tĩnh",
+            "keywords": [
+                "mây",
+                "mũ lưỡi trai",
+                "bầu trời"
+            ]
+        },
+        "captivated": {
+            "name": "Say mê",
+            "keywords": [
+                "máy ảnh",
+                "ảnh",
+                "hình"
+            ]
+        },
+        "cat": {
+            "name": "Mèo",
+            "keywords": [
+                "mèo",
+                "mèo con",
+                "meo"
+            ]
+        },
+        "cell": {
+            "name": "Tế bào",
+            "keywords": [
+                "tế bào",
+                "sinh học",
+                "cục"
+            ]
+        },
+        "centered": {
+            "name": "Cân bằng",
+            "keywords": [
+                "đá",
+                "cân bằng",
+                "thiền"
+            ]
+        },
+        "cosmic": {
+            "name": "Vũ trụ",
+            "keywords": [
+                "râu",
+                "người ngoài hành tinh",
+                "vui"
+            ]
+        },
+        "destemido": {
+            "name": "Dũng cảm",
+            "keywords": [
+                "xương rồng",
+                "cây",
+                "cứng cỏi"
+            ]
+        },
+        "dog": {
+            "name": "Chó",
+            "keywords": [
+                "chó",
+                "cún con",
+                "lè lưỡi"
+            ]
+        },
+        "fancy": {
+            "name": "Sang chảnh",
+            "keywords": [
+                "bánh",
+                "lát",
+                "anh đào"
+            ]
+        },
+        "flowing": {
+            "name": "Trôi chảy",
+            "keywords": [
+                "nước",
+                "giọt",
+                "mưa"
+            ]
+        },
+        "hopeful": {
+            "name": "Hy vọng",
+            "keywords": [
+                "mây",
+                "mặt trời",
+                "bình tĩnh"
+            ]
+        },
+        "hungry": {
+            "name": "Đói bụng",
+            "keywords": [
+                "bánh burger",
+                "đồ ăn",
+                "bữa trưa"
+            ]
+        },
+        "magical": {
+            "name": "Kỳ diệu",
+            "keywords": [
+                "kỳ lân",
+                "cầu vồng",
+                "phép thuật"
+            ]
+        },
+        "magical-2": {
+            "name": "Kỳ diệu (2)",
+            "keywords": [
+                "phép thuật",
+                "hồng",
+                "nổi tiếng"
+            ]
+        },
+        "open": {
+            "name": "Cởi mở",
+            "keywords": [
+                "núi",
+                "cờ",
+                "đỉnh núi"
+            ]
+        },
+        "playful": {
+            "name": "Tinh nghịch",
+            "keywords": [
+                "cá heo",
+                "biển",
+                "vui"
+            ]
+        },
+        "prickly": {
+            "name": "Gai góc",
+            "keywords": [
+                "xương rồng",
+                "cau có",
+                "gai"
+            ]
+        },
+        "quantom": {
+            "name": "Lượng tử",
+            "keywords": [
+                "hành tinh",
+                "quỹ đạo",
+                "không gian"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "rô bốt",
+                "máy móc",
+                "công nghệ"
+            ]
+        },
+        "rocket": {
+            "name": "Tên lửa",
+            "keywords": [
+                "tên lửa",
+                "nhanh",
+                "lửa"
+            ]
+        },
+        "spiritual": {
+            "name": "Tâm linh",
+            "keywords": [
+                "gấu trúc",
+                "kính râm",
+                "thư giãn"
+            ]
+        },
+        "starry": {
+            "name": "Đầy sao",
+            "keywords": [
+                "một mắt",
+                "quái vật",
+                "ngạc nhiên"
+            ]
+        },
+        "sunny": {
+            "name": "Nắng",
+            "keywords": [
+                "hướng dương",
+                "mặt trời",
+                "hoa"
+            ]
+        },
+        "sweet": {
+            "name": "Ngọt ngào",
+            "keywords": [
+                "kẹo",
+                "bạc hà",
+                "ngọt"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "khủng long",
+                "răng",
+                "gầm"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "sói",
+                "hú",
+                "ranh mãnh"
+            ]
+        }
+    }
+}

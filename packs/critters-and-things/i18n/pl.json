@@ -1,0 +1,358 @@
+{
+    "name": "Stworki i różności",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "skała",
+                "kamień",
+                "szybki"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "niedźwiedź",
+                "kapelusz wędkarski",
+                "uśmiech"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "ptak",
+                "chill"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "mózg",
+                "mądry",
+                "myśleć"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozaur",
+                "zęby",
+                "ugryzienie"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "kły",
+                "zęby",
+                "szeroki uśmiech"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "krowa",
+                "muu",
+                "farma"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "pies",
+                "corgi",
+                "korona"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "pies",
+                "corgi",
+                "mrugnięcie"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "pies",
+                "corgi",
+                "korona"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "smok",
+                "czerwony",
+                "potwór"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "ręka",
+                "oko",
+                "ochrona"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "oko",
+                "znak",
+                "tajemnica"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "czajniczek",
+                "herbata",
+                "jabłko"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "ptak",
+                "czapka",
+                "rozmowa"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "piksel",
+                "retro",
+                "gra"
+            ]
+        },
+        "aware": {
+            "name": "Świadomy",
+            "keywords": [
+                "tęcza",
+                "spokój",
+                "kolory"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "smoczek",
+                "dziecko",
+                "słodki"
+            ]
+        },
+        "blobby": {
+            "name": "Kleksik",
+            "keywords": [
+                "kleks",
+                "bąbelki",
+                "gwiazdy"
+            ]
+        },
+        "bright": {
+            "name": "Promienny",
+            "keywords": [
+                "gwiazda",
+                "blask",
+                "tęcza"
+            ]
+        },
+        "calm": {
+            "name": "Spokojny",
+            "keywords": [
+                "chmura",
+                "czapka",
+                "niebo"
+            ]
+        },
+        "captivated": {
+            "name": "Zafascynowany",
+            "keywords": [
+                "aparat",
+                "zdjęcie",
+                "obrazek"
+            ]
+        },
+        "cat": {
+            "name": "Kot",
+            "keywords": [
+                "kot",
+                "kotek",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Komórka",
+            "keywords": [
+                "komórka",
+                "biologia",
+                "kleks"
+            ]
+        },
+        "centered": {
+            "name": "Wyciszony",
+            "keywords": [
+                "kamienie",
+                "równowaga",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmiczny",
+            "keywords": [
+                "czułki",
+                "kosmita",
+                "szczęśliwy"
+            ]
+        },
+        "destemido": {
+            "name": "Nieustraszony",
+            "keywords": [
+                "kaktus",
+                "roślina",
+                "twardziel"
+            ]
+        },
+        "dog": {
+            "name": "Pies",
+            "keywords": [
+                "pies",
+                "szczeniak",
+                "język"
+            ]
+        },
+        "fancy": {
+            "name": "Elegancki",
+            "keywords": [
+                "ciasto",
+                "kawałek",
+                "wiśnia"
+            ]
+        },
+        "flowing": {
+            "name": "Płynący",
+            "keywords": [
+                "woda",
+                "kropla",
+                "deszcz"
+            ]
+        },
+        "hopeful": {
+            "name": "Pełen nadziei",
+            "keywords": [
+                "chmura",
+                "słońce",
+                "spokój"
+            ]
+        },
+        "hungry": {
+            "name": "Głodny",
+            "keywords": [
+                "burger",
+                "jedzenie",
+                "obiad"
+            ]
+        },
+        "magical": {
+            "name": "Magiczny",
+            "keywords": [
+                "jednorożec",
+                "tęcza",
+                "magia"
+            ]
+        },
+        "magical-2": {
+            "name": "Magiczny (2)",
+            "keywords": [
+                "magia",
+                "różowy",
+                "sławny"
+            ]
+        },
+        "open": {
+            "name": "Otwarty",
+            "keywords": [
+                "góra",
+                "flaga",
+                "szczyt"
+            ]
+        },
+        "playful": {
+            "name": "Figlarny",
+            "keywords": [
+                "delfin",
+                "morze",
+                "zabawa"
+            ]
+        },
+        "prickly": {
+            "name": "Kolczasty",
+            "keywords": [
+                "kaktus",
+                "zrzędliwy",
+                "kolczasty"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "planeta",
+                "orbita",
+                "kosmos"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "maszyna",
+                "technologia"
+            ]
+        },
+        "rocket": {
+            "name": "Rakieta",
+            "keywords": [
+                "rakieta",
+                "szybki",
+                "ogień"
+            ]
+        },
+        "spiritual": {
+            "name": "Duchowy",
+            "keywords": [
+                "panda",
+                "okulary przeciwsłoneczne",
+                "chill"
+            ]
+        },
+        "starry": {
+            "name": "Gwiaździsty",
+            "keywords": [
+                "jedno oko",
+                "potwór",
+                "zaskoczony"
+            ]
+        },
+        "sunny": {
+            "name": "Słoneczny",
+            "keywords": [
+                "słonecznik",
+                "słońce",
+                "kwiat"
+            ]
+        },
+        "sweet": {
+            "name": "Słodki",
+            "keywords": [
+                "cukierek",
+                "mięta",
+                "słodki"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinozaur",
+                "zęby",
+                "ryk"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "wilk",
+                "wycie",
+                "przebiegły"
+            ]
+        }
+    }
+}

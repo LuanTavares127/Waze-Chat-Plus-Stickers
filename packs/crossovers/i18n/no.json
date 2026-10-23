@@ -1,0 +1,214 @@
+{
+    "name": "Crossovers",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "ett øye",
+                "banan"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "ett øye",
+                "vokskake"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiont",
+                "tenner",
+                "skurk"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "dukke",
+                "glad"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "briller",
+                "hår"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "dukke",
+                "nervøs"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "hatt",
+                "le"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Lojal",
+            "keywords": [
+                "minion",
+                "vernebriller",
+                "lojal"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Modig",
+            "keywords": [
+                "minion",
+                "vernebriller",
+                "modig"
+            ]
+        },
+        "james": {
+            "name": "James - Kunstnerisk",
+            "keywords": [
+                "minion",
+                "kunst",
+                "maling"
+            ]
+        },
+        "alliance": {
+            "name": "Allianse",
+            "keywords": [
+                "hjelm",
+                "rustning",
+                "kriger"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "flaggermus",
+                "helt",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "spørsmålstegn",
+                "skurk",
+                "maske"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maske",
+                "antihelt",
+                "rød"
+            ]
+        },
+        "brave": {
+            "name": "Modig",
+            "keywords": [
+                "svamp",
+                "pirat",
+                "øyelapp"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "politi",
+                "hund",
+                "valp"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "brannmann",
+                "hund",
+                "valp"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "hund",
+                "valp"
+            ]
+        },
+        "energetic": {
+            "name": "Energisk",
+            "keywords": [
+                "pinnsvin",
+                "fort",
+                "blå"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "byggmester",
+                "hjelm",
+                "bygg"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "rødt hår",
+                "le"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "støttenner",
+                "kriger"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartaner",
+                "hjelm",
+                "soldat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "bruteskalling",
+                "rustning",
+                "skurk"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "rustning",
+                "horn"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartaner",
+                "hjelm",
+                "visir"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "alv",
+                "edelsten",
+                "skurk"
+            ]
+        }
+    }
+}

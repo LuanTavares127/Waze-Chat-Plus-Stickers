@@ -1,0 +1,214 @@
+{
+    "name": "Crossoverek",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "egy szem",
+                "banán"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "egy szem",
+                "lépes méz"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiote",
+                "fogak",
+                "gonosztevő"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "báb",
+                "boldog"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "szemüveg",
+                "haj"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "báb",
+                "ideges"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "kalap",
+                "nevetés"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Hűséges",
+            "keywords": [
+                "minion",
+                "védőszemüveg",
+                "hűséges"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Bátor",
+            "keywords": [
+                "minion",
+                "védőszemüveg",
+                "bátor"
+            ]
+        },
+        "james": {
+            "name": "James - Művész",
+            "keywords": [
+                "minion",
+                "művészet",
+                "festés"
+            ]
+        },
+        "alliance": {
+            "name": "Szövetség",
+            "keywords": [
+                "sisak",
+                "páncél",
+                "harcos"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "denevér",
+                "hős",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Rejtvénykirály",
+            "keywords": [
+                "kérdőjel",
+                "gonosztevő",
+                "maszk"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maszk",
+                "antihős",
+                "piros"
+            ]
+        },
+        "brave": {
+            "name": "Bátor",
+            "keywords": [
+                "szivacs",
+                "pirate",
+                "szemkötő"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "rendőrség",
+                "kutya",
+                "kölyök"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "tűzoltó",
+                "kutya",
+                "kölyök"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilóta",
+                "kutya",
+                "kölyök"
+            ]
+        },
+        "energetic": {
+            "name": "Energikus",
+            "keywords": [
+                "sün",
+                "gyors",
+                "kék"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "építő",
+                "sisak",
+                "építkezés"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "vörös haj",
+                "nevetés"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "agyarak",
+                "harcos"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "sisak",
+                "katona"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "bunkó",
+                "páncél",
+                "gonosztevő"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "páncél",
+                "szarvak"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "sisak",
+                "sisakrostély"
+            ]
+        },
+        "void": {
+            "name": "Űr",
+            "keywords": [
+                "tünde",
+                "ékszer",
+                "gonosztevő"
+            ]
+        }
+    }
+}

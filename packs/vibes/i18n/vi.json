@@ -1,0 +1,342 @@
+{
+    "name": "Phong cách",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "sừng cừu",
+                "kính râm",
+                "táo bạo"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "khăn bandana",
+                "kính râm",
+                "đá"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "âm nhạc",
+                "nốt nhạc",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "giày cao gót",
+                "thời trang",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "nằm",
+                "mũ tiệc",
+                "thoải mái"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "tai nghe mic",
+                "nghe",
+                "âm nhạc"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bóng đèn",
+                "kính",
+                "ý tưởng"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bong bóng",
+                "thuốc thần",
+                "vui"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "lấp lánh",
+                "kính râm",
+                "sang trọng"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "tai nghe",
+                "báo hoa mai",
+                "âm nhạc"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "micro",
+                "karaoke",
+                "hát"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "người ngoài hành tinh",
+                "mũ bảo hiểm",
+                "không gian"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "tai nghe",
+                "âm nhạc",
+                "ngầu"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "mũ lưỡi trai",
+                "đội ngược",
+                "liếc xéo"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "mũ chong chóng",
+                "ngố",
+                "trẻ con"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "ampli",
+                "guitar",
+                "âm nhạc"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "trống",
+                "trống lục lạc",
+                "nháy mắt"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bóng đèn",
+                "suy nghĩ",
+                "ý tưởng"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "tay",
+                "chào",
+                "lời chào"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "kính",
+                "thông minh",
+                "cười khẩy"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "kính",
+                "tóc vàng",
+                "học bài"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "áo choàng",
+                "anh hùng",
+                "kính"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "vương miện",
+                "kính râm",
+                "vua"
+            ]
+        },
+        "chill": {
+            "name": "Thư giãn",
+            "keywords": [
+                "kính râm",
+                "thoải mái",
+                "ngầu"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Thư giãn đeo kính",
+            "keywords": [
+                "kính tròn",
+                "thoải mái",
+                "ngầu"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "kính tiệc",
+                "lè lưỡi",
+                "quá lố"
+            ]
+        },
+        "feisty": {
+            "name": "Hăng hái",
+            "keywords": [
+                "quyền anh",
+                "găng tay",
+                "đánh nhau"
+            ]
+        },
+        "gutsy": {
+            "name": "Gan dạ",
+            "keywords": [
+                "kính râm",
+                "cứng cỏi",
+                "dũng cảm"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "vibe tốt"
+            ]
+        },
+        "rad": {
+            "name": "Ngầu",
+            "keywords": [
+                "kính râm",
+                "ngầu",
+                "cười toe"
+            ]
+        },
+        "savvy": {
+            "name": "Sành sỏi",
+            "keywords": [
+                "kính râm",
+                "mũ ông già noel",
+                "thông minh"
+            ]
+        },
+        "serene": {
+            "name": "Thanh bình",
+            "keywords": [
+                "kính tròn",
+                "bình tĩnh",
+                "mỉm cười"
+            ]
+        },
+        "shady": {
+            "name": "Khả nghi",
+            "keywords": [
+                "mũ fedora",
+                "kính râm",
+                "bí ẩn"
+            ]
+        },
+        "snappy": {
+            "name": "Lanh lẹ",
+            "keywords": [
+                "nơ cổ",
+                "bánh quy",
+                "cười khẩy"
+            ]
+        },
+        "strong": {
+            "name": "Mạnh mẽ",
+            "keywords": [
+                "x",
+                "kính râm",
+                "cứng cỏi"
+            ]
+        },
+        "wild": {
+            "name": "Hoang dã",
+            "keywords": [
+                "mũ bảo hiểm",
+                "sét",
+                "kính râm"
+            ]
+        },
+        "pumped": {
+            "name": "Hào hứng!",
+            "keywords": [
+                "loa đài",
+                "âm nhạc",
+                "tiệc"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "đèn dung nham",
+                "hoài cổ",
+                "thập niên 70"
+            ]
+        },
+        "quirky": {
+            "name": "Dị thường",
+            "keywords": [
+                "mũ",
+                "sặc sỡ",
+                "buồn cười"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "mũ",
+                "ngầu"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "báo hoa mai",
+                "kính râm",
+                "hoang dã"
+            ]
+        },
+        "sidekick": {
+            "name": "Trợ thủ",
+            "keywords": [
+                "bạn đồng hành",
+                "râu",
+                "bạn thân"
+            ]
+        },
+        "geeky": {
+            "name": "Mọt sách",
+            "keywords": [
+                "kính",
+                "mọt sách",
+                "nhìn chằm chằm"
+            ]
+        },
+        "smart": {
+            "name": "Thông minh",
+            "keywords": [
+                "bóng đèn",
+                "lè lưỡi",
+                "ý tưởng"
+            ]
+        },
+        "light": {
+            "name": "Sáng",
+            "keywords": [
+                "gai",
+                "tóc vàng hoe",
+                "bĩu môi"
+            ]
+        }
+    }
+}

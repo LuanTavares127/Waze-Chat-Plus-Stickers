@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "ramshoorns",
+                "zonnebril",
+                "gedurfd"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "zonnebril",
+                "rots"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "muziek",
+                "noten",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "hoge hak",
+                "mode",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "liggend",
+                "feestmuts",
+                "ontspannen"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "headset",
+                "luisteren",
+                "muziek"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "gloeilamp",
+                "bril",
+                "idee"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bellen",
+                "drankje",
+                "blij"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "glinstering",
+                "zonnebril",
+                "chique"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "koptelefoon",
+                "luipaard",
+                "muziek"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "microfoon",
+                "karaoke",
+                "zingen"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "alien",
+                "helm",
+                "ruimte"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "koptelefoon",
+                "muziek",
+                "cool"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "pet",
+                "achterstevoren",
+                "schuine blik"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "propellerpet",
+                "gek",
+                "kind"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "versterker",
+                "gitaar",
+                "muziek"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "trommel",
+                "tamboerijn",
+                "knipoog"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "gloeilamp",
+                "denken",
+                "idee"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "hand",
+                "salueren",
+                "groet"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "bril",
+                "slim",
+                "spottende lach"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "bril",
+                "blond",
+                "studeren"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "cape",
+                "held",
+                "bril"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "kroon",
+                "zonnebril",
+                "koning"
+            ]
+        },
+        "chill": {
+            "name": "Chill",
+            "keywords": [
+                "zonnebril",
+                "ontspannen",
+                "cool"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Chillbril",
+            "keywords": [
+                "ronde bril",
+                "ontspannen",
+                "cool"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "feestbril",
+                "tong",
+                "overdreven"
+            ]
+        },
+        "feisty": {
+            "name": "Vurig",
+            "keywords": [
+                "boksen",
+                "handschoen",
+                "vechten"
+            ]
+        },
+        "gutsy": {
+            "name": "Doortastend",
+            "keywords": [
+                "zonnebril",
+                "stoer",
+                "dapper"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ]
+        },
+        "rad": {
+            "name": "Gaaf",
+            "keywords": [
+                "zonnebril",
+                "cool",
+                "grijns"
+            ]
+        },
+        "savvy": {
+            "name": "Slim",
+            "keywords": [
+                "zonnebril",
+                "kerstmuts",
+                "slim"
+            ]
+        },
+        "serene": {
+            "name": "Sereen",
+            "keywords": [
+                "ronde bril",
+                "kalm",
+                "glimlach"
+            ]
+        },
+        "shady": {
+            "name": "Lichtschuw",
+            "keywords": [
+                "fedora",
+                "zonnebril",
+                "mysterieus"
+            ]
+        },
+        "snappy": {
+            "name": "Kwiek",
+            "keywords": [
+                "strikje",
+                "koekje",
+                "spottende lach"
+            ]
+        },
+        "strong": {
+            "name": "Sterk",
+            "keywords": [
+                "x",
+                "zonnebril",
+                "stoer"
+            ]
+        },
+        "wild": {
+            "name": "Wild",
+            "keywords": [
+                "helm",
+                "bliksem",
+                "zonnebril"
+            ]
+        },
+        "pumped": {
+            "name": "Opgefokt!",
+            "keywords": [
+                "boombox",
+                "muziek",
+                "feest"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lavalamp",
+                "retro",
+                "jaren 70"
+            ]
+        },
+        "quirky": {
+            "name": "Eigenzinnig",
+            "keywords": [
+                "hoed",
+                "kleurrijk",
+                "grappig"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "hoed",
+                "cool"
+            ]
+        },
+        "leopard": {
+            "name": "Luipaard",
+            "keywords": [
+                "luipaard",
+                "zonnebril",
+                "wild"
+            ]
+        },
+        "sidekick": {
+            "name": "Maatje",
+            "keywords": [
+                "partner",
+                "baard",
+                "maatje"
+            ]
+        },
+        "geeky": {
+            "name": "Nerdy",
+            "keywords": [
+                "bril",
+                "nerd",
+                "staren"
+            ]
+        },
+        "smart": {
+            "name": "Slim",
+            "keywords": [
+                "gloeilamp",
+                "tong",
+                "idee"
+            ]
+        },
+        "light": {
+            "name": "Licht",
+            "keywords": [
+                "stekelig",
+                "blond",
+                "pruilen"
+            ]
+        }
+    }
+}

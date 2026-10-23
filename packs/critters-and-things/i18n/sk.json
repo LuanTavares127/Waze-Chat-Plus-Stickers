@@ -1,0 +1,358 @@
+{
+    "name": "Zvieratká a veci",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "skala",
+                "kameň",
+                "rýchly"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "medveď",
+                "rybársky klobúk",
+                "úsmev"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapybara",
+                "vták",
+                "pohoda"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "mozog",
+                "múdry",
+                "premýšľať"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaurus",
+                "zuby",
+                "uhryznutie"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "tesáky",
+                "zuby",
+                "škerenie"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "krava",
+                "bú",
+                "farma"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "koruna"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "žmurknutie"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "koruna"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "drak",
+                "červený",
+                "príšera"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "ruka",
+                "oko",
+                "ochrana"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "oko",
+                "znak",
+                "záhada"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "čajník",
+                "čaj",
+                "jablko"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "vták",
+                "šiltovka",
+                "rozprávať"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "hra"
+            ]
+        },
+        "aware": {
+            "name": "Uvedomelý",
+            "keywords": [
+                "dúha",
+                "pokoj",
+                "farby"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "cumlík",
+                "bábätko",
+                "roztomilý"
+            ]
+        },
+        "blobby": {
+            "name": "Škvrnka",
+            "keywords": [
+                "škvrna",
+                "bubliny",
+                "hviezdy"
+            ]
+        },
+        "bright": {
+            "name": "Žiarivý",
+            "keywords": [
+                "hviezda",
+                "lesk",
+                "dúha"
+            ]
+        },
+        "calm": {
+            "name": "Pokojný",
+            "keywords": [
+                "oblak",
+                "šiltovka",
+                "obloha"
+            ]
+        },
+        "captivated": {
+            "name": "Uchvátený",
+            "keywords": [
+                "fotoaparát",
+                "fotka",
+                "obrázok"
+            ]
+        },
+        "cat": {
+            "name": "Mačka",
+            "keywords": [
+                "mačka",
+                "mačiatko",
+                "mňau"
+            ]
+        },
+        "cell": {
+            "name": "Bunka",
+            "keywords": [
+                "bunka",
+                "biológia",
+                "škvrna"
+            ]
+        },
+        "centered": {
+            "name": "Vyrovnaný",
+            "keywords": [
+                "kamene",
+                "rovnováha",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kozmický",
+            "keywords": [
+                "tykadlá",
+                "mimozemšťan",
+                "šťastný"
+            ]
+        },
+        "destemido": {
+            "name": "Nebojácny",
+            "keywords": [
+                "kaktus",
+                "rastlina",
+                "tvrďák"
+            ]
+        },
+        "dog": {
+            "name": "Pes",
+            "keywords": [
+                "pes",
+                "šteniatko",
+                "jazyk"
+            ]
+        },
+        "fancy": {
+            "name": "Elegantný",
+            "keywords": [
+                "torta",
+                "kúsok",
+                "čerešňa"
+            ]
+        },
+        "flowing": {
+            "name": "Plynulý",
+            "keywords": [
+                "voda",
+                "kvapka",
+                "dážď"
+            ]
+        },
+        "hopeful": {
+            "name": "Plný nádeje",
+            "keywords": [
+                "oblak",
+                "slnko",
+                "pokoj"
+            ]
+        },
+        "hungry": {
+            "name": "Hladný",
+            "keywords": [
+                "burger",
+                "jedlo",
+                "obed"
+            ]
+        },
+        "magical": {
+            "name": "Čarovný",
+            "keywords": [
+                "jednorožec",
+                "dúha",
+                "mágia"
+            ]
+        },
+        "magical-2": {
+            "name": "Čarovný (2)",
+            "keywords": [
+                "mágia",
+                "ružový",
+                "slávny"
+            ]
+        },
+        "open": {
+            "name": "Otvorený",
+            "keywords": [
+                "hora",
+                "vlajka",
+                "vrchol"
+            ]
+        },
+        "playful": {
+            "name": "Hravý",
+            "keywords": [
+                "delfín",
+                "more",
+                "zábava"
+            ]
+        },
+        "prickly": {
+            "name": "Ostnatý",
+            "keywords": [
+                "kaktus",
+                "mrzutý",
+                "ostnatý"
+            ]
+        },
+        "quantom": {
+            "name": "Kvantový",
+            "keywords": [
+                "planéta",
+                "obežná dráha",
+                "vesmír"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "stroj",
+                "technológie"
+            ]
+        },
+        "rocket": {
+            "name": "Raketa",
+            "keywords": [
+                "raketa",
+                "rýchly",
+                "oheň"
+            ]
+        },
+        "spiritual": {
+            "name": "Duchovný",
+            "keywords": [
+                "panda",
+                "slnečné okuliare",
+                "pohoda"
+            ]
+        },
+        "starry": {
+            "name": "Hviezdny",
+            "keywords": [
+                "jedno oko",
+                "príšera",
+                "prekvapený"
+            ]
+        },
+        "sunny": {
+            "name": "Slnečný",
+            "keywords": [
+                "slnečnica",
+                "slnko",
+                "kvet"
+            ]
+        },
+        "sweet": {
+            "name": "Sladký",
+            "keywords": [
+                "cukrík",
+                "mäta",
+                "sladký"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaurus",
+                "zuby",
+                "zareval"
+            ]
+        },
+        "wolfie": {
+            "name": "Vĺčik",
+            "keywords": [
+                "vlk",
+                "vytie",
+                "prefíkaný"
+            ]
+        }
+    }
+}

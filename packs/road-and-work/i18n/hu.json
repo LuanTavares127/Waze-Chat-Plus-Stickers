@@ -1,0 +1,351 @@
+{
+    "name": "Úton és munkában",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "batyu",
+                "kirándulás",
+                "kaland"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "bájital",
+                "szemüveg",
+                "labor"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "felfedező",
+                "kalap",
+                "kaland"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "fényképezőgép",
+                "zászló",
+                "városnézés"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "tengerész",
+                "sapka",
+                "hajó"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "bőrönd",
+                "kalap",
+                "kirándulás"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilóta",
+                "védőszemüveg",
+                "sisak"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "bagoly",
+                "ballagás",
+                "okos"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "tűzoltó készülék",
+                "biztonság",
+                "ideges"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "védősisak",
+                "építkezés",
+                "mellény"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "szalmakalap",
+                "farm",
+                "júniusi ünnep"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "sisak",
+                "csillagok",
+                "versenyző"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "arcmaszk",
+                "egészség",
+                "biztonságos"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stopper",
+                "fejpánt",
+                "edzés"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "szavazás",
+                "választás",
+                "szavazólap"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "szavazás",
+                "jel",
+                "választás"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "érem",
+                "szalag",
+                "kacsintás"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "kiszállítás",
+                "sisak",
+                "doboz"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenna",
+                "felfedező"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "szövegbuborék",
+                "csevegés",
+                "beszél"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "síp",
+                "játékvezető",
+                "szabálytalanság"
+            ]
+        },
+        "road-warrior": {
+            "name": "Országúti harcos",
+            "keywords": [
+                "sisak",
+                "védőszemüveg",
+                "szárny"
+            ]
+        },
+        "limitless": {
+            "name": "Határtalan",
+            "keywords": [
+                "autópálya",
+                "pajzs",
+                "útjelző tábla"
+            ]
+        },
+        "map-master": {
+            "name": "Térképmester",
+            "keywords": [
+                "szerkesztő",
+                "térkép",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-kamionos",
+            "keywords": [
+                "teherautó",
+                "védőszemüveg",
+                "fuvaros"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Köszönet kapitány",
+            "keywords": [
+                "köszönet",
+                "kapitány",
+                "bajusz"
+            ]
+        },
+        "all-business": {
+            "name": "Komoly üzlet",
+            "keywords": [
+                "öltöny",
+                "nyakkendő",
+                "munka"
+            ]
+        },
+        "business-casual": {
+            "name": "Elegáns hétköznapi",
+            "keywords": [
+                "nyakkendő",
+                "fejpánt",
+                "nyelv"
+            ]
+        },
+        "businessy": {
+            "name": "Üzleties",
+            "keywords": [
+                "öltöny",
+                "szemüveg",
+                "iroda"
+            ]
+        },
+        "bawse-y": {
+            "name": "Főnökös",
+            "keywords": [
+                "főnök",
+                "napszemüveg",
+                "öltöny"
+            ]
+        },
+        "productive": {
+            "name": "Termékeny",
+            "keywords": [
+                "headset",
+                "munka",
+                "kacsintás"
+            ]
+        },
+        "dialed-up": {
+            "name": "Betárcsázós",
+            "keywords": [
+                "számítógép",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Álruhában",
+            "keywords": [
+                "álca",
+                "szemüveg",
+                "orr"
+            ]
+        },
+        "sneaky": {
+            "name": "Settenkedő",
+            "keywords": [
+                "ninja",
+                "lopakodás",
+                "maszk"
+            ]
+        },
+        "survivalist": {
+            "name": "Túlélő",
+            "keywords": [
+                "bandana",
+                "heg",
+                "kemény"
+            ]
+        },
+        "speedy": {
+            "name": "Sebes",
+            "keywords": [
+                "gyors",
+                "sebesség",
+                "önelégült mosoly"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "kerékpározás",
+                "sapka",
+                "gyors"
+            ]
+        },
+        "unstoppable": {
+            "name": "Megállíthatatlan",
+            "keywords": [
+                "gyors",
+                "csillogás",
+                "futás"
+            ]
+        },
+        "comfortable": {
+            "name": "Kényelmes",
+            "keywords": [
+                "tornacipő",
+                "cipő",
+                "otthonos"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Környezetbarát",
+            "keywords": [
+                "föld",
+                "bolygó",
+                "zöld"
+            ]
+        },
+        "global": {
+            "name": "Globális",
+            "keywords": [
+                "föld",
+                "megafon",
+                "világ"
+            ]
+        },
+        "victorious": {
+            "name": "Győztes",
+            "keywords": [
+                "trófea",
+                "győztes",
+                "bajnok"
+            ]
+        },
+        "beautiful": {
+            "name": "Gyönyörű",
+            "keywords": [
+                "foci",
+                "labdarúgás",
+                "labda"
+            ]
+        },
+        "masterful": {
+            "name": "Mesteri",
+            "keywords": [
+                "golf",
+                "labda",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "sisak",
+                "motor",
+                "rohanás"
+            ]
+        }
+    }
+}

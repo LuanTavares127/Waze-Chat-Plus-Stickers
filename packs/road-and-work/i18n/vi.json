@@ -1,0 +1,351 @@
+{
+    "name": "Trên đường & đi làm",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "bọc hành lý",
+                "chuyến đi",
+                "phiêu lưu"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "thuốc thần",
+                "kính",
+                "phòng thí nghiệm"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "nhà thám hiểm",
+                "mũ",
+                "phiêu lưu"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "máy ảnh",
+                "cờ",
+                "tham quan"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "thủy thủ",
+                "mũ lưỡi trai",
+                "thuyền"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "va li",
+                "mũ",
+                "chuyến đi"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "phi công",
+                "kính bảo hộ",
+                "mũ bảo hiểm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "cú",
+                "tốt nghiệp",
+                "thông minh"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "bình chữa cháy",
+                "an toàn",
+                "lo lắng"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "mũ bảo hộ",
+                "xây dựng",
+                "áo vest"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "mũ rơm",
+                "nông trại",
+                "lễ hội tháng sáu"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "mũ bảo hiểm",
+                "các ngôi sao",
+                "tay đua"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "khẩu trang",
+                "sức khỏe",
+                "an toàn"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "đồng hồ bấm giờ",
+                "băng đô",
+                "tập luyện"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "bỏ phiếu",
+                "bầu cử",
+                "lá phiếu"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "tín hiệu",
+                "rô bốt",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "bỏ phiếu",
+                "biển hiệu",
+                "bầu cử"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "huy chương",
+                "ruy băng",
+                "nháy mắt"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "giao hàng",
+                "mũ bảo hiểm",
+                "hộp"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "rô bốt",
+                "ăng ten",
+                "nhà thám hiểm"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "bong bóng thoại",
+                "trò chuyện",
+                "nói chuyện"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "còi",
+                "trọng tài",
+                "phạm lỗi"
+            ]
+        },
+        "road-warrior": {
+            "name": "Chiến binh đường phố",
+            "keywords": [
+                "mũ bảo hiểm",
+                "kính bảo hộ",
+                "cánh"
+            ]
+        },
+        "limitless": {
+            "name": "Không giới hạn",
+            "keywords": [
+                "cao tốc",
+                "khiên",
+                "biển báo"
+            ]
+        },
+        "map-master": {
+            "name": "Bậc thầy bản đồ",
+            "keywords": [
+                "biên tập viên",
+                "bản đồ",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Siêu tài xế",
+            "keywords": [
+                "xe tải",
+                "kính bảo hộ",
+                "tài xế xe tải"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Thuyền trưởng Cảm ơn",
+            "keywords": [
+                "cảm ơn",
+                "thuyền trưởng",
+                "ria mép"
+            ]
+        },
+        "all-business": {
+            "name": "Toàn công việc",
+            "keywords": [
+                "bộ vest",
+                "cà vạt",
+                "công việc"
+            ]
+        },
+        "business-casual": {
+            "name": "Công sở thoải mái",
+            "keywords": [
+                "cà vạt",
+                "băng đô",
+                "lè lưỡi"
+            ]
+        },
+        "businessy": {
+            "name": "Doanh nhân",
+            "keywords": [
+                "bộ vest",
+                "kính",
+                "văn phòng"
+            ]
+        },
+        "bawse-y": {
+            "name": "Kiểu sếp",
+            "keywords": [
+                "sếp",
+                "kính râm",
+                "bộ vest"
+            ]
+        },
+        "productive": {
+            "name": "Hiệu quả",
+            "keywords": [
+                "tai nghe mic",
+                "công việc",
+                "nháy mắt"
+            ]
+        },
+        "dialed-up": {
+            "name": "Quay số",
+            "keywords": [
+                "máy tính",
+                "hoài cổ",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Ngụy trang",
+            "keywords": [
+                "cải trang",
+                "kính",
+                "mũi"
+            ]
+        },
+        "sneaky": {
+            "name": "Lén lút",
+            "keywords": [
+                "ninja",
+                "ẩn mình",
+                "mặt nạ"
+            ]
+        },
+        "survivalist": {
+            "name": "Sinh tồn",
+            "keywords": [
+                "khăn bandana",
+                "sẹo",
+                "cứng cỏi"
+            ]
+        },
+        "speedy": {
+            "name": "Nhanh nhẹn",
+            "keywords": [
+                "nhanh",
+                "tốc độ",
+                "cười khẩy"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "đạp xe",
+                "mũ lưỡi trai",
+                "nhanh"
+            ]
+        },
+        "unstoppable": {
+            "name": "Không thể cản",
+            "keywords": [
+                "nhanh",
+                "lấp lánh",
+                "chạy"
+            ]
+        },
+        "comfortable": {
+            "name": "Thoải mái",
+            "keywords": [
+                "giày thể thao",
+                "giày",
+                "ấm cúng"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Thân thiện môi trường",
+            "keywords": [
+                "trái đất",
+                "hành tinh",
+                "xanh lá"
+            ]
+        },
+        "global": {
+            "name": "Toàn cầu",
+            "keywords": [
+                "trái đất",
+                "loa",
+                "thế giới"
+            ]
+        },
+        "victorious": {
+            "name": "Chiến thắng",
+            "keywords": [
+                "cúp",
+                "người thắng",
+                "nhà vô địch"
+            ]
+        },
+        "beautiful": {
+            "name": "Tuyệt đẹp",
+            "keywords": [
+                "bóng đá",
+                "bóng đá",
+                "bóng"
+            ]
+        },
+        "masterful": {
+            "name": "Điêu luyện",
+            "keywords": [
+                "gôn",
+                "bóng",
+                "thể thao"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "mũ bảo hiểm",
+                "xe máy",
+                "vội vàng"
+            ]
+        }
+    }
+}

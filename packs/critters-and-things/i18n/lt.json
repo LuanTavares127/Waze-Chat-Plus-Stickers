@@ -1,0 +1,358 @@
+{
+    "name": "Gyvūnėliai ir daiktai",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "uola",
+                "akmuo",
+                "greitas"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "meška",
+                "žvejo kepurė",
+                "šypsena"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "paukštis",
+                "ramybė"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "smegenys",
+                "protingas",
+                "galvoti"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozauras",
+                "dantys",
+                "įkąsti"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "iltys",
+                "dantys",
+                "šypsnys"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "karvė",
+                "mū",
+                "ūkis"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "šuo",
+                "korgis",
+                "karūna"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "šuo",
+                "korgis",
+                "mirktelėjimas"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "šuo",
+                "korgis",
+                "karūna"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "drakonas",
+                "raudona",
+                "monstras"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "ranka",
+                "akis",
+                "apsauga"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "akis",
+                "ženklas",
+                "paslaptis"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "arbatinukas",
+                "arbata",
+                "obuolys"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "paukštis",
+                "kepurė",
+                "kalbėti"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bitų",
+            "keywords": [
+                "pikselis",
+                "retro",
+                "žaidimas"
+            ]
+        },
+        "aware": {
+            "name": "Sąmoningas",
+            "keywords": [
+                "vaivorykštė",
+                "ramus",
+                "spalvos"
+            ]
+        },
+        "baby": {
+            "name": "Kūdikis",
+            "keywords": [
+                "čiulptukas",
+                "kūdikis",
+                "mielas"
+            ]
+        },
+        "blobby": {
+            "name": "Drebutis",
+            "keywords": [
+                "gumulas",
+                "burbulai",
+                "žvaigždės"
+            ]
+        },
+        "bright": {
+            "name": "Ryškus",
+            "keywords": [
+                "žvaigždė",
+                "spindėti",
+                "vaivorykštė"
+            ]
+        },
+        "calm": {
+            "name": "Ramus",
+            "keywords": [
+                "debesis",
+                "kepurė",
+                "dangus"
+            ]
+        },
+        "captivated": {
+            "name": "Pakerėtas",
+            "keywords": [
+                "fotoaparatas",
+                "nuotrauka",
+                "paveikslėlis"
+            ]
+        },
+        "cat": {
+            "name": "Katė",
+            "keywords": [
+                "katė",
+                "kačiukas",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Ląstelė",
+            "keywords": [
+                "ląstelė",
+                "biologija",
+                "gumulas"
+            ]
+        },
+        "centered": {
+            "name": "Susikaupęs",
+            "keywords": [
+                "akmenys",
+                "pusiausvyra",
+                "dzen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosminis",
+            "keywords": [
+                "antenos",
+                "ateivis",
+                "laimingas"
+            ]
+        },
+        "destemido": {
+            "name": "Bebaimis",
+            "keywords": [
+                "kaktusas",
+                "augalas",
+                "tvirtas"
+            ]
+        },
+        "dog": {
+            "name": "Šuo",
+            "keywords": [
+                "šuo",
+                "šuniukas",
+                "liežuvis"
+            ]
+        },
+        "fancy": {
+            "name": "Elegantiškas",
+            "keywords": [
+                "pyragas",
+                "riekė",
+                "vyšnia"
+            ]
+        },
+        "flowing": {
+            "name": "Sruvenantis",
+            "keywords": [
+                "vanduo",
+                "lašas",
+                "lietus"
+            ]
+        },
+        "hopeful": {
+            "name": "Viltingas",
+            "keywords": [
+                "debesis",
+                "saulė",
+                "ramus"
+            ]
+        },
+        "hungry": {
+            "name": "Alkanas",
+            "keywords": [
+                "mėsainis",
+                "maistas",
+                "pietūs"
+            ]
+        },
+        "magical": {
+            "name": "Stebuklingas",
+            "keywords": [
+                "vienaragis",
+                "vaivorykštė",
+                "magija"
+            ]
+        },
+        "magical-2": {
+            "name": "Stebuklingas (2)",
+            "keywords": [
+                "magija",
+                "rožinis",
+                "garsus"
+            ]
+        },
+        "open": {
+            "name": "Atviras",
+            "keywords": [
+                "kalnas",
+                "vėliava",
+                "viršūnė"
+            ]
+        },
+        "playful": {
+            "name": "Žaismingas",
+            "keywords": [
+                "delfinas",
+                "jūra",
+                "linksmybės"
+            ]
+        },
+        "prickly": {
+            "name": "Dygus",
+            "keywords": [
+                "kaktusas",
+                "niurzga",
+                "dygliuotas"
+            ]
+        },
+        "quantom": {
+            "name": "Kvantomas",
+            "keywords": [
+                "planeta",
+                "orbita",
+                "kosmosas"
+            ]
+        },
+        "robot": {
+            "name": "Robotas",
+            "keywords": [
+                "robotas",
+                "mašina",
+                "technologijos"
+            ]
+        },
+        "rocket": {
+            "name": "Raketa",
+            "keywords": [
+                "raketa",
+                "greitas",
+                "ugnis"
+            ]
+        },
+        "spiritual": {
+            "name": "Dvasingas",
+            "keywords": [
+                "panda",
+                "akiniai nuo saulės",
+                "ramybė"
+            ]
+        },
+        "starry": {
+            "name": "Žvaigždėtas",
+            "keywords": [
+                "viena akis",
+                "monstras",
+                "nustebęs"
+            ]
+        },
+        "sunny": {
+            "name": "Saulėtas",
+            "keywords": [
+                "saulėgrąža",
+                "saulė",
+                "gėlė"
+            ]
+        },
+        "sweet": {
+            "name": "Saldus",
+            "keywords": [
+                "saldainis",
+                "mėta",
+                "saldus"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Reksas",
+            "keywords": [
+                "dinozauras",
+                "dantys",
+                "riaumojimas"
+            ]
+        },
+        "wolfie": {
+            "name": "Vilkiukas",
+            "keywords": [
+                "vilkas",
+                "staugimas",
+                "gudrus"
+            ]
+        }
+    }
+}

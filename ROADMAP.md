@@ -6,9 +6,9 @@ Parte da Fase 48 do Waze Chat Plus (plano completo, decisões do usuário e as f
 |---|---|---|---|---|
 | 48a | Curadoria dos 259 moods em 6 pacotes | Opus 5.5 (visão) + usuário | médio | ✅ Aprovada em 2026-10-22 (`curation/stickers-curation.json`) |
 | 48b | Especificação pública `docs/sticker-packs.md` (formato 1) | Opus 5.5 | médio | 🧪 Escrita em 2026-10-22, aguardando revisão do usuário |
-| 48c | Pacotes oficiais em `packs/`, `showcase.json`, `blocked.json`, `tools/build.mjs`, `tools/validate.mjs`, GitHub Action, tag `v1.0.0` | Sonnet 5.5 | médio | ⏳ Pendente |
-| 48d | Nomes e palavras-chave dos pacotes oficiais nos 46 idiomas | Sonnet 5.5 | médio | ⏳ Pendente |
-| 48e | Worker: `/stickers/showcase`, `/stickers/blocked` (cache 5 min) e `/stickers/report` (issue no GitHub); código em `worker/` | Sonnet 5.5 | baixo | ⏳ Pendente |
+| 48c | Pacotes oficiais em `packs/`, `showcase.json`, `blocked.json`, `tools/build.mjs`, `tools/validate.mjs`, GitHub Action, tag `v1.0.0` | Sonnet 5.5 | médio | 🧪 Implementada em 2026-10-22, aguardando commit, push e tag `v1.0.0` (ver "Pendências da 48c") |
+| 48d | Nomes e palavras-chave dos pacotes oficiais nos 46 idiomas | Sonnet 5.5 | médio | 🧪 Implementada em 2026-10-22: 43 idiomas × 6 pacotes em `i18n/<locale>.json` (sem `en-AU`/`en-GB`, que caem no manifesto em inglês), `locales` dos manifestos atualizados, validador sem erros; sem revisão por falantes nativos; aguardando commit e nova tag (skill `publish-packs`) |
+| 48e | Worker: `/stickers/showcase`, `/stickers/blocked` (cache 5 min) e `/stickers/report` (issue no GitHub); código em `worker/` | Sonnet 5.5 | baixo | 🧪 Implementada em 2026-10-22 em `worker/worker.js` (testado com mocks no Node), aguardando colar no editor da Cloudflare e criar o segredo `GITHUB_TOKEN` (ver "Pendências da 48e") |
 
 **Legenda:** ⏳ Pendente · 🚧 Em andamento · 🧪 Implementada, aguardando teste · ✅ Concluída · ⏸️ Adiada · ⛔ Bloqueada.
 
@@ -37,6 +37,13 @@ Antes: o usuário cria o repositório público `waze-chat-plus-stickers` no GitH
   - rule para `wcp-stickers.json`/`i18n/*.json` (ids permanentes, limites da especificação, sem `note`) e para `docs/sticker-packs.md` (contrato: atualizar a §8c do AGENTS.md do script na mesma tarefa);
   - skill `publish-packs`: validar, criar a tag `vX.Y.Z` nova (nunca mover uma antiga), atualizar o `showcase.json`.
 
+### Pendências da 48c
+
+- **Feito:** `tools/build.mjs` (259 figurinhas em 6 pacotes, 7,7 MB; a arte original é recortada rente ao desenho, então o build a reduz para uma caixa de 480 px e a centraliza num canvas transparente de 512 px, margem de 16 px; leva ~25 min por ler a pasta do Drive), `tools/validate.mjs` (0 erros e 0 avisos nos 6 pacotes, com `sharp`; testado com um pacote quebrado), `showcase.json` (links em `tree/v1.0.0`), `blocked.json` vazio, `.github/workflows/validate.yml`, hooks/rules/skill em `.claude/`.
+- **Licença dos pacotes:** o build escreve `All rights reserved` (a arte dos moods é da Waze) e o autor `luan_tavares_127`; trocar em `tools/build.mjs` (`AUTHOR`, `LICENSE`) se o usuário quiser outro texto. Ainda sem arquivo `LICENSE` de código: o usuário escolhe.
+- **`.claude/settings.json`** (liga os hooks e as permissões) foi negado pelo classificador de permissões ao ser criado: os hooks existem em `.claude/hooks/` mas não estão ligados até o usuário criar/autorizar esse arquivo.
+- **Falta:** commit, `git tag v1.0.0`, `git push origin main v1.0.0` (o usuário pede) e conferir `curl -sI https://cdn.jsdelivr.net/gh/LuanTavares127/waze-chat-plus-stickers@v1.0.0/packs/feelings/wcp-stickers.json`. O repositório no GitHub é `Waze-Chat-Plus-Stickers` (maiúsculas); a identidade dos pacotes fica em minúsculas (especificação §1) e GitHub/jsDelivr não diferenciam (conferido com curl em 2026-10-22: as duas grafias respondem 200 em `github.com/…` e em `cdn.jsdelivr.net/gh/…@main/README.md`), então nada precisa mudar.
+
 ## 48d — Idiomas dos pacotes oficiais (Sonnet 5.5)
 
 Nomes, palavras-chave e nome do pacote nos 46 idiomas do script: um `i18n/<locale>.json` por pacote (especificação §3) e os códigos em `locales` do manifesto. O agente `i18n-translator` do script trabalha com `scripts/i18n.mjs` de lá, então aqui ele recebe a tarefa com a instrução de escrever esses JSON direto (ids iguais, nomes numéricos ficam o número). Nova tag de versão depois. Antes: um agente de tradução próprio em `.claude/agents/` (ou o `i18n-translator` adaptado) que escreve os `i18n/<locale>.json` direto.
@@ -47,6 +54,12 @@ O código do Worker atual (proxy de GIFs da KLIPY) passa a ficar em `worker/`, c
 - `GET /stickers/showcase` e `GET /stickers/blocked`: cópia de `showcase.json`/`blocked.json` deste repositório (lidos do jsDelivr na branch padrão ou da API do GitHub), cache de 5 min;
 - se fizer falta, um hook que confere o código de `worker/` ao editar;
 - `POST /stickers/report`: `{ pack, sticker?, reason, details? }` validado (os `reason` da especificação §8), limite por IP, vira issue aqui por um token *fine-grained* só de issues (segredo do Worker).
+
+### Pendências da 48e
+
+- **Feito:** `worker/worker.js` = o proxy de GIFs que já estava no ar (lido da Cloudflare, comportamento igual) + `GET /stickers/showcase` e `/stickers/blocked` (lidos da branch `main` pelo `raw.githubusercontent.com`, JSON de formato 1 conferido, cache de 5 min) + `POST /stickers/report` (valida `pack`, `sticker?`, `reason` da especificação §8 e `details` ≤ 500; 5 por hora por IP; texto limpo de menções e crases; abre issue pela API do GitHub; nunca devolve o corpo de erro deles). Fallback para o jsDelivr fica no script (48g).
+- **Falta (usuário):** (1) criar um token *fine-grained* só deste repositório com a permissão "Issues: read and write"; (2) na Cloudflare, Settings > Variables and Secrets: segredo `GITHUB_TOKEN`; (3) colar `worker/worker.js` no editor e publicar; (4) conferir `curl https://waze-chat-plus-gifs.luan-francisco808.workers.dev/stickers/blocked` (só funciona com o repositório público e o `showcase.json` na `main`).
+- **Atenção:** na Cloudflare, `KLIPY_KEY` está como *Text* (texto visível no painel e na API), não *Secret*. Convém recriá-la como Secret (e, por ter ficado exposta, considerar trocar a chave na KLIPY).
 
 ## Depois da 48
 

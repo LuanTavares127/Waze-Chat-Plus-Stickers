@@ -1,0 +1,360 @@
+{
+    "name": "Perasaan",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasik",
+                "halo",
+                "senang"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "air mata",
+                "sedih",
+                "topi tidur"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "kosong",
+                "netral",
+                "polos"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "cinta",
+                "hati",
+                "manis"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "orang tua",
+                "bayi",
+                "keluarga"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "menangis",
+                "kesal",
+                "putus asa"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "sakit",
+                "mual",
+                "tidak enak badan"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "canggung",
+                "tidak nyaman",
+                "duh"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "bersemangat",
+                "hore",
+                "sayap"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "senang",
+                "tertawa",
+                "topi"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "marah",
+                "kesal",
+                "cemberut"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "pertanyaan",
+                "apa",
+                "ragu"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "teratai",
+                "meditasi",
+                "tenang"
+            ]
+        },
+        "amazing": {
+            "name": "Luar Biasa",
+            "keywords": [
+                "wow",
+                "mata berbinar",
+                "keren banget"
+            ]
+        },
+        "amused": {
+            "name": "Terhibur",
+            "keywords": [
+                "memutar mata",
+                "terserah",
+                "senyum miring"
+            ]
+        },
+        "antsy": {
+            "name": "Gelisah",
+            "keywords": [
+                "tidak sabar",
+                "stres",
+                "duh"
+            ]
+        },
+        "bored": {
+            "name": "Bosan",
+            "keywords": [
+                "biasa saja",
+                "membosankan",
+                "bla bla"
+            ]
+        },
+        "carsick": {
+            "name": "Mabuk Kendaraan",
+            "keywords": [
+                "sakit",
+                "mual",
+                "mabuk perjalanan"
+            ]
+        },
+        "cheeky": {
+            "name": "Usil",
+            "keywords": [
+                "kedip",
+                "lidah",
+                "bercanda"
+            ]
+        },
+        "depressed": {
+            "name": "Depresi",
+            "keywords": [
+                "sedih",
+                "murung",
+                "biru"
+            ]
+        },
+        "exasperated": {
+            "name": "Jengkel Berat",
+            "keywords": [
+                "muak",
+                "menghela napas",
+                "kesal"
+            ]
+        },
+        "flustered": {
+            "name": "Panik",
+            "keywords": [
+                "syok",
+                "berteriak",
+                "aduh"
+            ]
+        },
+        "funny": {
+            "name": "Lucu",
+            "keywords": [
+                "tertawa",
+                "wkwk",
+                "air mata bahagia"
+            ]
+        },
+        "furious": {
+            "name": "Murka",
+            "keywords": [
+                "amarah",
+                "mengumpat",
+                "marah"
+            ]
+        },
+        "grumpy": {
+            "name": "Cemberut",
+            "keywords": [
+                "uring-uringan",
+                "kesal",
+                "headphone"
+            ]
+        },
+        "happy": {
+            "name": "Senang",
+            "keywords": [
+                "sukacita",
+                "tertawa",
+                "senyum"
+            ]
+        },
+        "hilarious": {
+            "name": "Kocak",
+            "keywords": [
+                "wkwk",
+                "tertawa",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Rendah Hati",
+            "keywords": [
+                "bersyukur",
+                "tenang",
+                "sayap"
+            ]
+        },
+        "joyful": {
+            "name": "Gembira",
+            "keywords": [
+                "tertawa",
+                "senang",
+                "huh"
+            ]
+        },
+        "judgmental": {
+            "name": "Menghakimi",
+            "keywords": [
+                "tidak setuju",
+                "cemberut",
+                "menilai"
+            ]
+        },
+        "loved-up": {
+            "name": "Dimabuk Cinta",
+            "keywords": [
+                "jatuh cinta",
+                "mata hati",
+                "naksir"
+            ]
+        },
+        "mind-blown": {
+            "name": "Takjub",
+            "keywords": [
+                "syok",
+                "wow",
+                "ledakan"
+            ]
+        },
+        "moody": {
+            "name": "Moody",
+            "keywords": [
+                "biasa saja",
+                "coretan",
+                "kotak"
+            ]
+        },
+        "nervous": {
+            "name": "Gugup",
+            "keywords": [
+                "cemas",
+                "keringat",
+                "khawatir"
+            ]
+        },
+        "obsessed": {
+            "name": "Terobsesi",
+            "keywords": [
+                "mata berbinar",
+                "jeritan",
+                "penggemar"
+            ]
+        },
+        "sad": {
+            "name": "Sedih",
+            "keywords": [
+                "air mata",
+                "nangis",
+                "murung"
+            ]
+        },
+        "shy": {
+            "name": "Pemalu",
+            "keywords": [
+                "merona",
+                "imut",
+                "malu"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptis",
+            "keywords": [
+                "ragu",
+                "tidak terkesan",
+                "yang benar"
+            ]
+        },
+        "spacey": {
+            "name": "Melamun",
+            "keywords": [
+                "teralihkan",
+                "melamun",
+                "tidak hadir"
+            ]
+        },
+        "tired": {
+            "name": "Lelah",
+            "keywords": [
+                "bola mata",
+                "mata merah",
+                "mengantuk"
+            ]
+        },
+        "unproductive": {
+            "name": "Tidak Produktif",
+            "keywords": [
+                "catatan tempel",
+                "malas",
+                "selesai"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "tenang",
+                "santai",
+                "damai"
+            ]
+        },
+        "mischievous": {
+            "name": "Nakal",
+            "keywords": [
+                "oh",
+                "terkejut",
+                "kotak"
+            ]
+        },
+        "wicked": {
+            "name": "Jahat",
+            "keywords": [
+                "seringai jahat",
+                "kenakalan",
+                "kotak"
+            ]
+        },
+        "motivated": {
+            "name": "Termotivasi",
+            "keywords": [
+                "bersemangat",
+                "ayo",
+                "rambut"
+            ]
+        },
+        "proud": {
+            "name": "Bangga",
+            "keywords": [
+                "kebanggaan",
+                "pelangi",
+                "hati"
+            ]
+        }
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "name": "W drodze i w pracy",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "węzełek",
+                "podróż",
+                "przygoda"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "eliksir",
+                "okulary",
+                "laboratorium"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "odkrywca",
+                "kapelusz",
+                "przygoda"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "aparat",
+                "flaga",
+                "zwiedzanie"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marynarz",
+                "czapka",
+                "łódź"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "walizka",
+                "kapelusz",
+                "podróż"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "gogle",
+                "hełm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "sowa",
+                "ukończenie szkoły",
+                "mądry"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "gaśnica",
+                "bezpieczeństwo",
+                "zdenerwowany"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "kask budowlany",
+                "budowa",
+                "kamizelka"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "słomkowy kapelusz",
+                "farma",
+                "festa junina"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "hełm",
+                "gwiazdy",
+                "kierowca wyścigowy"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "maseczka",
+                "zdrowie",
+                "bezpieczny"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stoper",
+                "opaska",
+                "trening"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "głosowanie",
+                "wybory",
+                "karta do głosowania"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "sygnał",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "głosowanie",
+                "znak",
+                "wybory"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medal",
+                "wstążka",
+                "mrugnięcie"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "dostawa",
+                "hełm",
+                "pudełko"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antena",
+                "odkrywca"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "dymek",
+                "czat",
+                "rozmowa"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "gwizdek",
+                "sędzia",
+                "faul"
+            ]
+        },
+        "road-warrior": {
+            "name": "Wojownik szos",
+            "keywords": [
+                "hełm",
+                "gogle",
+                "skrzydło"
+            ]
+        },
+        "limitless": {
+            "name": "Bez granic",
+            "keywords": [
+                "autostrada",
+                "tarcza",
+                "znak drogowy"
+            ]
+        },
+        "map-master": {
+            "name": "Mistrz map",
+            "keywords": [
+                "edytor",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-przewoźnik",
+            "keywords": [
+                "ciężarówka",
+                "gogle",
+                "przewoźnik"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapitan Dziękuję",
+            "keywords": [
+                "dzięki",
+                "kapitan",
+                "wąsy"
+            ]
+        },
+        "all-business": {
+            "name": "Cały w interesach",
+            "keywords": [
+                "garnitur",
+                "krawat",
+                "praca"
+            ]
+        },
+        "business-casual": {
+            "name": "Biznesowo-swobodny",
+            "keywords": [
+                "krawat",
+                "opaska",
+                "język"
+            ]
+        },
+        "businessy": {
+            "name": "Biznesowy",
+            "keywords": [
+                "garnitur",
+                "okulary",
+                "biuro"
+            ]
+        },
+        "bawse-y": {
+            "name": "Szefowski",
+            "keywords": [
+                "szef",
+                "okulary przeciwsłoneczne",
+                "garnitur"
+            ]
+        },
+        "productive": {
+            "name": "Produktywny",
+            "keywords": [
+                "zestaw słuchawkowy",
+                "praca",
+                "mrugnięcie"
+            ]
+        },
+        "dialed-up": {
+            "name": "Na łączach",
+            "keywords": [
+                "komputer",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Undercover",
+            "keywords": [
+                "przebranie",
+                "okulary",
+                "nos"
+            ]
+        },
+        "sneaky": {
+            "name": "Podstępny",
+            "keywords": [
+                "ninja",
+                "skradanie się",
+                "maska"
+            ]
+        },
+        "survivalist": {
+            "name": "Survivalist",
+            "keywords": [
+                "bandana",
+                "blizna",
+                "twardziel"
+            ]
+        },
+        "speedy": {
+            "name": "Szybki",
+            "keywords": [
+                "szybki",
+                "prędkość",
+                "uśmieszek"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "kolarstwo",
+                "czapka",
+                "szybki"
+            ]
+        },
+        "unstoppable": {
+            "name": "Niepowstrzymany",
+            "keywords": [
+                "szybki",
+                "błysk",
+                "bieg"
+            ]
+        },
+        "comfortable": {
+            "name": "Wygodny",
+            "keywords": [
+                "sneaker",
+                "but",
+                "przytulnie"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ekologiczny",
+            "keywords": [
+                "ziemia",
+                "planeta",
+                "zielony"
+            ]
+        },
+        "global": {
+            "name": "Globalny",
+            "keywords": [
+                "ziemia",
+                "megafon",
+                "świat"
+            ]
+        },
+        "victorious": {
+            "name": "Zwycięski",
+            "keywords": [
+                "trofeum",
+                "zwycięzca",
+                "mistrz"
+            ]
+        },
+        "beautiful": {
+            "name": "Piękny",
+            "keywords": [
+                "piłka nożna",
+                "futbol",
+                "piłka"
+            ]
+        },
+        "masterful": {
+            "name": "Mistrzowski",
+            "keywords": [
+                "golf",
+                "piłka",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "hełm",
+                "motocykl",
+                "pośpiech"
+            ]
+        }
+    }
+}

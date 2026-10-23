@@ -1,0 +1,360 @@
+{
+    "name": "Občutki",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasika",
+                "živjo",
+                "srečno"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "solza",
+                "žalostno",
+                "nočna kapa"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "prazno",
+                "nevtralno",
+                "navadno"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "ljubezen",
+                "srce",
+                "sladko"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "starš",
+                "dojenček",
+                "družina"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "jok",
+                "razburjeno",
+                "obup"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "bolno",
+                "slabost",
+                "bolan"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "nerodno",
+                "neprijetno",
+                "uf"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "navdušeno",
+                "juhu",
+                "krila"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "srečno",
+                "smeh",
+                "klobuk"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "jezno",
+                "nadlegovano",
+                "mrščenje"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "vprašanje",
+                "kaj",
+                "dvom"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotos",
+                "meditacija",
+                "mirno"
+            ]
+        },
+        "amazing": {
+            "name": "Neverjetni",
+            "keywords": [
+                "vau",
+                "zvezdnate oči",
+                "odlično"
+            ]
+        },
+        "amused": {
+            "name": "Zabavani",
+            "keywords": [
+                "obračanje oči",
+                "vseeno",
+                "zadovoljen nasmešek"
+            ]
+        },
+        "antsy": {
+            "name": "Nestrpni",
+            "keywords": [
+                "nestrpno",
+                "pod stresom",
+                "uf"
+            ]
+        },
+        "bored": {
+            "name": "Dolgočasni",
+            "keywords": [
+                "meh",
+                "dolgočasno",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Slabo v avtu",
+            "keywords": [
+                "bolno",
+                "slabost",
+                "slabost v vozilu"
+            ]
+        },
+        "cheeky": {
+            "name": "Predrzni",
+            "keywords": [
+                "pomežik",
+                "jezik",
+                "šala"
+            ]
+        },
+        "depressed": {
+            "name": "Potrti",
+            "keywords": [
+                "žalostno",
+                "potrto",
+                "modro"
+            ]
+        },
+        "exasperated": {
+            "name": "Izčrpani",
+            "keywords": [
+                "sit",
+                "vzdih",
+                "nadlegovano"
+            ]
+        },
+        "flustered": {
+            "name": "Zmedeni",
+            "keywords": [
+                "šokirano",
+                "kričati",
+                "joj"
+            ]
+        },
+        "funny": {
+            "name": "Smešni",
+            "keywords": [
+                "smeh",
+                "lol",
+                "solze sreče"
+            ]
+        },
+        "furious": {
+            "name": "Besni",
+            "keywords": [
+                "bes",
+                "preklinjanje",
+                "jezen"
+            ]
+        },
+        "grumpy": {
+            "name": "Godrnjavi",
+            "keywords": [
+                "razdražljivo",
+                "nadlegovano",
+                "slušalke"
+            ]
+        },
+        "happy": {
+            "name": "Srečni",
+            "keywords": [
+                "veselje",
+                "smeh",
+                "nasmeh"
+            ]
+        },
+        "hilarious": {
+            "name": "Presmešni",
+            "keywords": [
+                "lol",
+                "smeh",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Skromni",
+            "keywords": [
+                "hvaležno",
+                "mirno",
+                "krila"
+            ]
+        },
+        "joyful": {
+            "name": "Veseli",
+            "keywords": [
+                "smeh",
+                "srečno",
+                "uf"
+            ]
+        },
+        "judgmental": {
+            "name": "Obsojajoči",
+            "keywords": [
+                "neodobravanje",
+                "mrščenje",
+                "obsojanje"
+            ]
+        },
+        "loved-up": {
+            "name": "Zaljubljeni",
+            "keywords": [
+                "zaljubljeno",
+                "srčaste oči",
+                "zaljubljenost"
+            ]
+        },
+        "mind-blown": {
+            "name": "Osupli",
+            "keywords": [
+                "šokirano",
+                "vau",
+                "eksplozija"
+            ]
+        },
+        "moody": {
+            "name": "Muhasti",
+            "keywords": [
+                "meh",
+                "zavita črta",
+                "škatla"
+            ]
+        },
+        "nervous": {
+            "name": "Nervozni",
+            "keywords": [
+                "tesnobno",
+                "znoj",
+                "zaskrbljeno"
+            ]
+        },
+        "obsessed": {
+            "name": "Obsedeni",
+            "keywords": [
+                "zvezdnate oči",
+                "krik",
+                "oboževalec"
+            ]
+        },
+        "sad": {
+            "name": "Žalostni",
+            "keywords": [
+                "solza",
+                "jokati",
+                "potrto"
+            ]
+        },
+        "shy": {
+            "name": "Sramežljivi",
+            "keywords": [
+                "rdečica",
+                "luštno",
+                "v zadregi"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptični",
+            "keywords": [
+                "dvom",
+                "neimpresionirano",
+                "res"
+            ]
+        },
+        "spacey": {
+            "name": "Odsotni",
+            "keywords": [
+                "raztreseno",
+                "sanjarjenje",
+                "odsotno"
+            ]
+        },
+        "tired": {
+            "name": "Utrujeni",
+            "keywords": [
+                "zrklo",
+                "krvave oči",
+                "zaspano"
+            ]
+        },
+        "unproductive": {
+            "name": "Neproduktivni",
+            "keywords": [
+                "lepljivi listek",
+                "len",
+                "končano"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "mirno",
+                "sproščeno",
+                "mir"
+            ]
+        },
+        "mischievous": {
+            "name": "Navihani",
+            "keywords": [
+                "oh",
+                "presenečeno",
+                "škatla"
+            ]
+        },
+        "wicked": {
+            "name": "Hudobni",
+            "keywords": [
+                "hudoben smeh",
+                "nagajivost",
+                "škatla"
+            ]
+        },
+        "motivated": {
+            "name": "Motivirani",
+            "keywords": [
+                "navdušeno",
+                "gremo",
+                "lasje"
+            ]
+        },
+        "proud": {
+            "name": "Ponosni",
+            "keywords": [
+                "ponos",
+                "mavrica",
+                "srce"
+            ]
+        }
+    }
+}

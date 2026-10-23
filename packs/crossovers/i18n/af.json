@@ -1,0 +1,214 @@
+{
+    "name": "Kruisverwysings",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "een oog",
+                "piesang"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "een oog",
+                "heuningkoek"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "simbioot",
+                "tande",
+                "skurk"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "marionet",
+                "bly"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "bril",
+                "hare"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "marionet",
+                "senuweeagtig"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "hoed",
+                "lag"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Lojaal",
+            "keywords": [
+                "minion",
+                "duikbril",
+                "lojaal"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Dapper",
+            "keywords": [
+                "minion",
+                "duikbril",
+                "dapper"
+            ]
+        },
+        "james": {
+            "name": "James - Kunstig",
+            "keywords": [
+                "minion",
+                "kuns",
+                "verf"
+            ]
+        },
+        "alliance": {
+            "name": "Alliansie",
+            "keywords": [
+                "helm",
+                "harnas",
+                "vegter"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "vlermuis",
+                "held",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "vraagteken",
+                "skurk",
+                "masker"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "masker",
+                "anti-held",
+                "rooi"
+            ]
+        },
+        "brave": {
+            "name": "Dapper",
+            "keywords": [
+                "spons",
+                "seerower",
+                "oogklap"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "polisie",
+                "hond",
+                "hondjie"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "brandweerman",
+                "hond",
+                "hondjie"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "vlieënier",
+                "hond",
+                "hondjie"
+            ]
+        },
+        "energetic": {
+            "name": "Energiek",
+            "keywords": [
+                "krimpvarkie",
+                "vinnig",
+                "blou"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "bouer",
+                "helm",
+                "konstruksie"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "rooi hare",
+                "lag"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "slagtande",
+                "vegter"
+            ]
+        },
+        "master-chief": {
+            "name": "Die Master Chief",
+            "keywords": [
+                "spartaan",
+                "helm",
+                "soldaat"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "bruut",
+                "harnas",
+                "skurk"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "harnas",
+                "horings"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartaan",
+                "helm",
+                "visier"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "edelsteen",
+                "skurk"
+            ]
+        }
+    }
+}

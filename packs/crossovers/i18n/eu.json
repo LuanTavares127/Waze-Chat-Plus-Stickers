@@ -1,0 +1,214 @@
+{
+    "name": "Lankidetzak",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "begi bakarra",
+                "banana"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "begi bakarra",
+                "ezti-zerra"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "sinbiontea",
+                "hortzak",
+                "gaiztoa"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "txotxongiloa",
+                "pozik"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "betaurrekoak",
+                "ilea"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "txotxongiloa",
+                "urduri"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "kapela",
+                "barrea"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Leiala",
+            "keywords": [
+                "minion",
+                "babes-betaurrekoak",
+                "leiala"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Ausarta",
+            "keywords": [
+                "minion",
+                "babes-betaurrekoak",
+                "ausarta"
+            ]
+        },
+        "james": {
+            "name": "James - Artistikoa",
+            "keywords": [
+                "minion",
+                "artea",
+                "pintura"
+            ]
+        },
+        "alliance": {
+            "name": "Aliantza",
+            "keywords": [
+                "kaskoa",
+                "armadura",
+                "gudaria"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "saguzarra",
+                "heroia",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "galdera-ikurra",
+                "gaiztoa",
+                "maskara"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maskara",
+                "antiheroia",
+                "gorria"
+            ]
+        },
+        "brave": {
+            "name": "Ausarta",
+            "keywords": [
+                "belakia",
+                "pirata",
+                "begi-zapia"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "polizia",
+                "txakurra",
+                "txakurkumea"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "suhiltzailea",
+                "txakurra",
+                "txakurkumea"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilotua",
+                "txakurra",
+                "txakurkumea"
+            ]
+        },
+        "energetic": {
+            "name": "Energetikoa",
+            "keywords": [
+                "triku",
+                "azkar",
+                "urdina"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "eraikitzailea",
+                "kaskoa",
+                "eraikuntza"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "ile gorria",
+                "barrea"
+            ]
+        },
+        "horde": {
+            "name": "Horda",
+            "keywords": [
+                "orkoa",
+                "letaginak",
+                "gudaria"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "esparta",
+                "kaskoa",
+                "soldadua"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "basatia",
+                "armadura",
+                "gaiztoa"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elitea",
+                "armadura",
+                "adarrak"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "esparta",
+                "kaskoa",
+                "bisera"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elfoa",
+                "harribitxia",
+                "gaiztoa"
+            ]
+        }
+    }
+}

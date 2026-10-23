@@ -1,0 +1,685 @@
+{
+    "format": 1,
+    "id": "party-and-fantasy",
+    "name": "Party, Zodiac & Fantasy",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "festive",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "aries",
+            "name": "Aries",
+            "keywords": [
+                "zodiac",
+                "ram",
+                "horoscope"
+            ],
+            "emojis": [
+                "♈",
+                "🐏"
+            ]
+        },
+        {
+            "id": "taurus",
+            "name": "Taurus",
+            "keywords": [
+                "zodiac",
+                "bull",
+                "horoscope"
+            ],
+            "emojis": [
+                "♉",
+                "🐂"
+            ]
+        },
+        {
+            "id": "gemini",
+            "name": "Gemini",
+            "keywords": [
+                "zodiac",
+                "twins",
+                "horoscope"
+            ],
+            "emojis": [
+                "♊"
+            ]
+        },
+        {
+            "id": "cancer",
+            "name": "Cancer",
+            "keywords": [
+                "zodiac",
+                "crab",
+                "horoscope"
+            ],
+            "emojis": [
+                "♋",
+                "🦀"
+            ]
+        },
+        {
+            "id": "leo",
+            "name": "Leo",
+            "keywords": [
+                "zodiac",
+                "lion",
+                "horoscope"
+            ],
+            "emojis": [
+                "♌",
+                "🦁"
+            ]
+        },
+        {
+            "id": "virgo",
+            "name": "Virgo",
+            "keywords": [
+                "zodiac",
+                "maiden",
+                "horoscope"
+            ],
+            "emojis": [
+                "♍"
+            ]
+        },
+        {
+            "id": "libra",
+            "name": "Libra",
+            "keywords": [
+                "zodiac",
+                "scales",
+                "horoscope"
+            ],
+            "emojis": [
+                "♎",
+                "⚖️"
+            ]
+        },
+        {
+            "id": "scorpio",
+            "name": "Scorpio",
+            "keywords": [
+                "zodiac",
+                "scorpion",
+                "horoscope"
+            ],
+            "emojis": [
+                "♏",
+                "🦂"
+            ]
+        },
+        {
+            "id": "sagittarius",
+            "name": "Sagittarius",
+            "keywords": [
+                "zodiac",
+                "archer",
+                "horoscope"
+            ],
+            "emojis": [
+                "♐",
+                "🏹"
+            ]
+        },
+        {
+            "id": "capricorn",
+            "name": "Capricorn",
+            "keywords": [
+                "zodiac",
+                "goat",
+                "horoscope"
+            ],
+            "emojis": [
+                "♑",
+                "🐐"
+            ]
+        },
+        {
+            "id": "aquarius",
+            "name": "Aquarius",
+            "keywords": [
+                "zodiac",
+                "water",
+                "horoscope"
+            ],
+            "emojis": [
+                "♒",
+                "🏺"
+            ]
+        },
+        {
+            "id": "pisces",
+            "name": "Pisces",
+            "keywords": [
+                "zodiac",
+                "fish",
+                "horoscope"
+            ],
+            "emojis": [
+                "♓",
+                "🐟"
+            ]
+        },
+        {
+            "id": "santa",
+            "name": "Santa",
+            "keywords": [
+                "christmas",
+                "santa",
+                "ho ho ho"
+            ],
+            "emojis": [
+                "🎅",
+                "🎄"
+            ]
+        },
+        {
+            "id": "festive",
+            "name": "Festive",
+            "keywords": [
+                "christmas",
+                "santa hat",
+                "beard"
+            ],
+            "emojis": [
+                "🎅",
+                "🎁"
+            ]
+        },
+        {
+            "id": "frazzled",
+            "name": "Frazzled",
+            "keywords": [
+                "christmas",
+                "tired",
+                "santa"
+            ],
+            "emojis": [
+                "🎅",
+                "😩"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "92",
+            "keywords": [
+                "christmas",
+                "santa",
+                "sunglasses"
+            ],
+            "emojis": [
+                "🎅",
+                "😎"
+            ]
+        },
+        {
+            "id": "183",
+            "name": "183",
+            "keywords": [
+                "winter",
+                "beanie",
+                "cold"
+            ],
+            "emojis": [
+                "❄️",
+                "🧶"
+            ]
+        },
+        {
+            "id": "31",
+            "name": "31",
+            "keywords": [
+                "snowman",
+                "winter",
+                "scarf"
+            ],
+            "emojis": [
+                "☃️",
+                "❄️"
+            ]
+        },
+        {
+            "id": "151",
+            "name": "151",
+            "keywords": [
+                "scarf",
+                "beanie",
+                "winter"
+            ],
+            "emojis": [
+                "🧣",
+                "😊"
+            ]
+        },
+        {
+            "id": "157",
+            "name": "157",
+            "keywords": [
+                "new year",
+                "2026",
+                "party"
+            ],
+            "emojis": [
+                "🎆",
+                "🥳"
+            ]
+        },
+        {
+            "id": "156",
+            "name": "156",
+            "keywords": [
+                "carnival",
+                "mask",
+                "party"
+            ],
+            "emojis": [
+                "🎭",
+                "🎉"
+            ]
+        },
+        {
+            "id": "127",
+            "name": "127",
+            "keywords": [
+                "carnival",
+                "headdress",
+                "feathers"
+            ],
+            "emojis": [
+                "🪶",
+                "✨"
+            ]
+        },
+        {
+            "id": "carnavalesco",
+            "name": "Reveler",
+            "keywords": [
+                "carnival",
+                "sailor",
+                "samba"
+            ],
+            "emojis": [
+                "🎉",
+                "⚓"
+            ]
+        },
+        {
+            "id": "49",
+            "name": "49",
+            "keywords": [
+                "party hat",
+                "birthday",
+                "celebrate"
+            ],
+            "emojis": [
+                "🥳",
+                "🎉"
+            ]
+        },
+        {
+            "id": "joyful-party",
+            "name": "Joyful Party",
+            "keywords": [
+                "party hat",
+                "star",
+                "celebrate"
+            ],
+            "emojis": [
+                "🥳",
+                "⭐"
+            ]
+        },
+        {
+            "id": "blossom",
+            "name": "Blossom",
+            "keywords": [
+                "flower",
+                "pink",
+                "spring"
+            ],
+            "emojis": [
+                "🌸",
+                "😊"
+            ]
+        },
+        {
+            "id": "cupid",
+            "name": "Cupid",
+            "keywords": [
+                "valentine",
+                "arrow",
+                "love"
+            ],
+            "emojis": [
+                "💘"
+            ]
+        },
+        {
+            "id": "happy-clown",
+            "name": "Happy Clown",
+            "keywords": [
+                "clown",
+                "circus",
+                "fun"
+            ],
+            "emojis": [
+                "🤡"
+            ]
+        },
+        {
+            "id": "scary-clown",
+            "name": "Scary Clown",
+            "keywords": [
+                "clown",
+                "halloween",
+                "creepy"
+            ],
+            "emojis": [
+                "🤡",
+                "😱"
+            ]
+        },
+        {
+            "id": "zombie",
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "undead"
+            ],
+            "emojis": [
+                "🧟"
+            ]
+        },
+        {
+            "id": "zombified",
+            "name": "Zombified",
+            "keywords": [
+                "zombie",
+                "tired",
+                "stitches"
+            ],
+            "emojis": [
+                "🧟",
+                "😵"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "126",
+            "keywords": [
+                "witch",
+                "hat",
+                "halloween"
+            ],
+            "emojis": [
+                "🧙‍♀️",
+                "🎃"
+            ]
+        },
+        {
+            "id": "120",
+            "name": "120",
+            "keywords": [
+                "wizard",
+                "hat",
+                "magic"
+            ],
+            "emojis": [
+                "🧙",
+                "✨"
+            ]
+        },
+        {
+            "id": "monster",
+            "name": "Monster",
+            "keywords": [
+                "one eye",
+                "cyclops",
+                "monster"
+            ],
+            "emojis": [
+                "👾",
+                "👁️"
+            ]
+        },
+        {
+            "id": "mystical",
+            "name": "Mystical",
+            "keywords": [
+                "hood",
+                "elf",
+                "magic"
+            ],
+            "emojis": [
+                "🧝",
+                "✨"
+            ]
+        },
+        {
+            "id": "61",
+            "name": "61",
+            "keywords": [
+                "viking",
+                "helmet",
+                "map pin"
+            ],
+            "emojis": [
+                "⚔️",
+                "📍"
+            ]
+        },
+        {
+            "id": "160",
+            "name": "160",
+            "keywords": [
+                "viking",
+                "hammer",
+                "shield"
+            ],
+            "emojis": [
+                "🛡️",
+                "🔨"
+            ]
+        },
+        {
+            "id": "mighty",
+            "name": "Mighty",
+            "keywords": [
+                "viking",
+                "mustache",
+                "horns"
+            ],
+            "emojis": [
+                "💪",
+                "⚔️"
+            ]
+        },
+        {
+            "id": "angelic",
+            "name": "Angelic",
+            "keywords": [
+                "angel",
+                "halo",
+                "wings"
+            ],
+            "emojis": [
+                "😇"
+            ]
+        },
+        {
+            "id": "devious",
+            "name": "Devious",
+            "keywords": [
+                "devil",
+                "horns",
+                "grin"
+            ],
+            "emojis": [
+                "😈"
+            ]
+        },
+        {
+            "id": "diabolical",
+            "name": "Diabolical",
+            "keywords": [
+                "villain",
+                "monocle",
+                "evil"
+            ],
+            "emojis": [
+                "🦹",
+                "😠"
+            ]
+        },
+        {
+            "id": "254",
+            "name": "254",
+            "keywords": [
+                "top hat",
+                "tea",
+                "wonderland"
+            ],
+            "emojis": [
+                "🎩",
+                "☕"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "80",
+            "keywords": [
+                "jester",
+                "hat",
+                "laugh"
+            ],
+            "emojis": [
+                "🃏",
+                "😄"
+            ]
+        },
+        {
+            "id": "albert",
+            "name": "Albert",
+            "keywords": [
+                "genius",
+                "scientist",
+                "tongue"
+            ],
+            "emojis": [
+                "🧑‍🔬",
+                "😛"
+            ]
+        },
+        {
+            "id": "belgie",
+            "name": "België",
+            "keywords": [
+                "belgium",
+                "horn",
+                "fan"
+            ],
+            "emojis": [
+                "🇧🇪",
+                "📯"
+            ]
+        },
+        {
+            "id": "neil",
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "space",
+                "helmet"
+            ],
+            "emojis": [
+                "🧑‍🚀",
+                "🚀"
+            ]
+        },
+        {
+            "id": "neil-blue",
+            "name": "Neil (Blue)",
+            "keywords": [
+                "astronaut",
+                "space",
+                "moon"
+            ],
+            "emojis": [
+                "🧑‍🚀",
+                "🌙"
+            ]
+        },
+        {
+            "id": "234",
+            "name": "234",
+            "keywords": [
+                "guard",
+                "london",
+                "hat"
+            ],
+            "emojis": [
+                "💂"
+            ]
+        },
+        {
+            "id": "wonder-wazer",
+            "name": "Wonder Wazer",
+            "keywords": [
+                "hero",
+                "tiara",
+                "power"
+            ],
+            "emojis": [
+                "🦸‍♀️",
+                "✨"
+            ]
+        }
+    ]
+}

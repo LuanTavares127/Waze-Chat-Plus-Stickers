@@ -1,0 +1,358 @@
+{
+    "name": "Bestioles i coses",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "roca",
+                "pedra",
+                "ràpid"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "ós",
+                "barret de pescador",
+                "somriure"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capibara",
+                "ocell",
+                "relaxat"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "cervell",
+                "llest",
+                "pensar"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "mossegada"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "ullals",
+                "dents",
+                "somriure ample"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "vaca",
+                "mu",
+                "granja"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "gos",
+                "corgi",
+                "corona"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "gos",
+                "corgi",
+                "picada d'ullet"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "gos",
+                "corgi",
+                "corona"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "drac",
+                "vermell",
+                "monstre"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "mà",
+                "ull",
+                "protecció"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "ull",
+                "senyal",
+                "misteri"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "tetera",
+                "te",
+                "poma"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "ocell",
+                "gorra",
+                "parlar"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bits",
+            "keywords": [
+                "píxel",
+                "retro",
+                "joc"
+            ]
+        },
+        "aware": {
+            "name": "Atent",
+            "keywords": [
+                "arc de Sant Martí",
+                "calma",
+                "colors"
+            ]
+        },
+        "baby": {
+            "name": "Nadó",
+            "keywords": [
+                "xumet",
+                "nadó",
+                "monin"
+            ]
+        },
+        "blobby": {
+            "name": "Taca",
+            "keywords": [
+                "taca",
+                "bombolles",
+                "estrelles"
+            ]
+        },
+        "bright": {
+            "name": "Brillant",
+            "keywords": [
+                "estrella",
+                "brillar",
+                "arc de Sant Martí"
+            ]
+        },
+        "calm": {
+            "name": "Calmat",
+            "keywords": [
+                "núvol",
+                "gorra",
+                "cel"
+            ]
+        },
+        "captivated": {
+            "name": "Captivat",
+            "keywords": [
+                "càmera",
+                "foto",
+                "imatge"
+            ]
+        },
+        "cat": {
+            "name": "Gat",
+            "keywords": [
+                "gat",
+                "gatet",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Cèl·lula",
+            "keywords": [
+                "cèl·lula",
+                "biologia",
+                "taca"
+            ]
+        },
+        "centered": {
+            "name": "Centrat",
+            "keywords": [
+                "pedres",
+                "equilibri",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Còsmic",
+            "keywords": [
+                "antenes",
+                "extraterrestre",
+                "content"
+            ]
+        },
+        "destemido": {
+            "name": "Sense por",
+            "keywords": [
+                "cactus",
+                "planta",
+                "dur"
+            ]
+        },
+        "dog": {
+            "name": "Gos",
+            "keywords": [
+                "gos",
+                "cadell",
+                "llengua"
+            ]
+        },
+        "fancy": {
+            "name": "Elegant",
+            "keywords": [
+                "pastís",
+                "tros",
+                "cirera"
+            ]
+        },
+        "flowing": {
+            "name": "Fluid",
+            "keywords": [
+                "aigua",
+                "gota",
+                "pluja"
+            ]
+        },
+        "hopeful": {
+            "name": "Esperançat",
+            "keywords": [
+                "núvol",
+                "sol",
+                "calma"
+            ]
+        },
+        "hungry": {
+            "name": "Famolenc",
+            "keywords": [
+                "hamburguesa",
+                "menjar",
+                "dinar"
+            ]
+        },
+        "magical": {
+            "name": "Màgic",
+            "keywords": [
+                "unicorn",
+                "arc de Sant Martí",
+                "màgia"
+            ]
+        },
+        "magical-2": {
+            "name": "Màgic (2)",
+            "keywords": [
+                "màgia",
+                "rosa",
+                "famós"
+            ]
+        },
+        "open": {
+            "name": "Obert",
+            "keywords": [
+                "muntanya",
+                "bandera",
+                "cim"
+            ]
+        },
+        "playful": {
+            "name": "Joganer",
+            "keywords": [
+                "dofí",
+                "mar",
+                "diversió"
+            ]
+        },
+        "prickly": {
+            "name": "Punxós",
+            "keywords": [
+                "cactus",
+                "rondinaire",
+                "punxegut"
+            ]
+        },
+        "quantom": {
+            "name": "Quàntic",
+            "keywords": [
+                "planeta",
+                "òrbita",
+                "espai"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "màquina",
+                "tecnologia"
+            ]
+        },
+        "rocket": {
+            "name": "Coet",
+            "keywords": [
+                "coet",
+                "ràpid",
+                "foc"
+            ]
+        },
+        "spiritual": {
+            "name": "Espiritual",
+            "keywords": [
+                "panda",
+                "ulleres de sol",
+                "relaxat"
+            ]
+        },
+        "starry": {
+            "name": "Estelat",
+            "keywords": [
+                "un ull",
+                "monstre",
+                "sorprès"
+            ]
+        },
+        "sunny": {
+            "name": "Assolellat",
+            "keywords": [
+                "gira-sol",
+                "sol",
+                "flor"
+            ]
+        },
+        "sweet": {
+            "name": "Dolç",
+            "keywords": [
+                "caramel",
+                "menta",
+                "dolç"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "rugit"
+            ]
+        },
+        "wolfie": {
+            "name": "Llopet",
+            "keywords": [
+                "llop",
+                "udol",
+                "murri"
+            ]
+        }
+    }
+}

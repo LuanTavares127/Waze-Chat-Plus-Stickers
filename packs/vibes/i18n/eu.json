@@ -1,0 +1,342 @@
+{
+    "name": "Giroak",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "ahari-adarrak",
+                "eguzkitako betaurrekoak",
+                "ausarta"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "eguzkitako betaurrekoak",
+                "rocka"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musika",
+                "notak",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "takoia",
+                "moda",
+                "diba"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "etzanda",
+                "jai-kapela",
+                "lasai"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "aurikular mikrofonoduna",
+                "entzuten",
+                "musika"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bonbilla",
+                "betaurrekoak",
+                "ideia"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "burbuilak",
+                "edabea",
+                "pozik"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "dirdira",
+                "eguzkitako betaurrekoak",
+                "dotorea"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "aurikularrak",
+                "lehoinabarra",
+                "musika"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofonoa",
+                "karaokea",
+                "abestu"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "estralurtarra",
+                "kaskoa",
+                "espazioa"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "aurikularrak",
+                "musika",
+                "dotorea"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "txapela",
+                "atzekoz aurrera",
+                "begirada zeharka"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "helize-txanoa",
+                "alua",
+                "umea"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "anplifikadorea",
+                "gitarra",
+                "musika"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "danbor",
+                "pandereta",
+                "begi-keinua"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bonbilla",
+                "pentsatu",
+                "ideia"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "eskua",
+                "agurra",
+                "agurtu"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "betaurrekoak",
+                "argia",
+                "irribarre iraingarria"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "betaurrekoak",
+                "ilehoria",
+                "ikasi"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "kapa",
+                "heroia",
+                "betaurrekoak"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "koroa",
+                "eguzkitako betaurrekoak",
+                "erregea"
+            ]
+        },
+        "chill": {
+            "name": "Lasai",
+            "keywords": [
+                "eguzkitako betaurrekoak",
+                "lasai",
+                "dotorea"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Lasai betaurrekoekin",
+            "keywords": [
+                "betaurreko biribilak",
+                "lasai",
+                "dotorea"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "jai-betaurrekoak",
+                "mihia",
+                "gehiegizkoa"
+            ]
+        },
+        "feisty": {
+            "name": "Sutsua",
+            "keywords": [
+                "boxeoa",
+                "eskularrua",
+                "borroka"
+            ]
+        },
+        "gutsy": {
+            "name": "Ausarta",
+            "keywords": [
+                "eguzkitako betaurrekoak",
+                "gogorra",
+                "ausarta"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "giro ona"
+            ]
+        },
+        "rad": {
+            "name": "Bikaina",
+            "keywords": [
+                "eguzkitako betaurrekoak",
+                "dotorea",
+                "irribarre maltzurra"
+            ]
+        },
+        "savvy": {
+            "name": "Trebea",
+            "keywords": [
+                "eguzkitako betaurrekoak",
+                "santa klausen txanoa",
+                "argia"
+            ]
+        },
+        "serene": {
+            "name": "Baketsua",
+            "keywords": [
+                "betaurreko biribilak",
+                "lasaitasuna",
+                "irribarrea"
+            ]
+        },
+        "shady": {
+            "name": "Susmagarria",
+            "keywords": [
+                "fedora",
+                "eguzkitako betaurrekoak",
+                "misteriotsua"
+            ]
+        },
+        "snappy": {
+            "name": "Dotorea",
+            "keywords": [
+                "paparra",
+                "galleta",
+                "irribarre iraingarria"
+            ]
+        },
+        "strong": {
+            "name": "Indartsua",
+            "keywords": [
+                "x",
+                "eguzkitako betaurrekoak",
+                "gogorra"
+            ]
+        },
+        "wild": {
+            "name": "Basatia",
+            "keywords": [
+                "kaskoa",
+                "tximista",
+                "eguzkitako betaurrekoak"
+            ]
+        },
+        "pumped": {
+            "name": "Gogotsu!",
+            "keywords": [
+                "irratia",
+                "musika",
+                "jaia"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lava-lanpara",
+                "retro",
+                "70eko hamarkada"
+            ]
+        },
+        "quirky": {
+            "name": "Bitxia",
+            "keywords": [
+                "kapela",
+                "koloretsua",
+                "barregarria"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolonbia",
+                "kapela",
+                "dotorea"
+            ]
+        },
+        "leopard": {
+            "name": "Lehoinabarra",
+            "keywords": [
+                "lehoinabarra",
+                "eguzkitako betaurrekoak",
+                "basatia"
+            ]
+        },
+        "sidekick": {
+            "name": "Laguntzailea",
+            "keywords": [
+                "bikotekidea",
+                "bizarra",
+                "lagun"
+            ]
+        },
+        "geeky": {
+            "name": "Geek",
+            "keywords": [
+                "betaurrekoak",
+                "piper",
+                "begirada finkoa"
+            ]
+        },
+        "smart": {
+            "name": "Argia",
+            "keywords": [
+                "bonbilla",
+                "mihia",
+                "ideia"
+            ]
+        },
+        "light": {
+            "name": "Arina",
+            "keywords": [
+                "ziztrinkorra",
+                "ilehoria",
+                "ezpain-ximur"
+            ]
+        }
+    }
+}

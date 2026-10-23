@@ -1,0 +1,351 @@
+{
+    "name": "Errepidean eta lanean",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "bilkoa",
+                "bidaia",
+                "abentura"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "edabea",
+                "betaurrekoak",
+                "laborategia"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "esploratzailea",
+                "kapela",
+                "abentura"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "bandera",
+                "turismoa"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marinela",
+                "txapela",
+                "ontzia"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "maleta",
+                "kapela",
+                "bidaia"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilotua",
+                "babes-betaurrekoak",
+                "kaskoa"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "hontza",
+                "graduazioa",
+                "argia"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "su-itzalgailua",
+                "segurtasuna",
+                "urduri"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "segurtasun-kaskoa",
+                "eraikuntza",
+                "txalekoa"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "lastozko kapela",
+                "baserria",
+                "ekaineko jaia"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "kaskoa",
+                "izarrak",
+                "lasterkaria"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "maskara",
+                "osasuna",
+                "seguru"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "kronometroa",
+                "buruko zinta",
+                "entrenamendua"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "botoa",
+                "hauteskundeak",
+                "boto-kutxa"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "seinalea",
+                "robota",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "botoa",
+                "seinalea",
+                "hauteskundeak"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "domina",
+                "zinta",
+                "begi-keinua"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "banaketa",
+                "kaskoa",
+                "kaxa"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robota",
+                "antena",
+                "esploratzailea"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "testu-globoa",
+                "txata",
+                "hitz egin"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "txistua",
+                "epailea",
+                "falta"
+            ]
+        },
+        "road-warrior": {
+            "name": "Errepideko gudaria",
+            "keywords": [
+                "kaskoa",
+                "babes-betaurrekoak",
+                "hegala"
+            ]
+        },
+        "limitless": {
+            "name": "Mugarik gabe",
+            "keywords": [
+                "autobidea",
+                "ezkutua",
+                "trafiko-seinalea"
+            ]
+        },
+        "map-master": {
+            "name": "Mapa-maisua",
+            "keywords": [
+                "editorea",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Kamioilari handia",
+            "keywords": [
+                "kamioia",
+                "babes-betaurrekoak",
+                "garraiolaria"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapitain Eskerrik asko",
+            "keywords": [
+                "eskerrik asko",
+                "kapitaina",
+                "bibotea"
+            ]
+        },
+        "all-business": {
+            "name": "Lana lehenik",
+            "keywords": [
+                "trajea",
+                "gorbata",
+                "lana"
+            ]
+        },
+        "business-casual": {
+            "name": "Lan-jantzi informala",
+            "keywords": [
+                "gorbata",
+                "buruko zinta",
+                "mihia"
+            ]
+        },
+        "businessy": {
+            "name": "Enpresaria",
+            "keywords": [
+                "trajea",
+                "betaurrekoak",
+                "bulegoa"
+            ]
+        },
+        "bawse-y": {
+            "name": "Nagusia",
+            "keywords": [
+                "nagusia",
+                "eguzkitako betaurrekoak",
+                "trajea"
+            ]
+        },
+        "productive": {
+            "name": "Produktiboa",
+            "keywords": [
+                "aurikular mikrofonoduna",
+                "lana",
+                "begi-keinua"
+            ]
+        },
+        "dialed-up": {
+            "name": "Modem bidezko konexioa",
+            "keywords": [
+                "ordenagailua",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Ezkutuan",
+            "keywords": [
+                "mozorroa",
+                "betaurrekoak",
+                "sudurra"
+            ]
+        },
+        "sneaky": {
+            "name": "Isila",
+            "keywords": [
+                "ninja",
+                "isilean",
+                "maskara"
+            ]
+        },
+        "survivalist": {
+            "name": "Bizirauten dakiena",
+            "keywords": [
+                "bandana",
+                "orbain",
+                "gogorra"
+            ]
+        },
+        "speedy": {
+            "name": "Azkarra",
+            "keywords": [
+                "azkar",
+                "abiadura",
+                "irribarre iraingarria"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "txirrindularitza",
+                "txapela",
+                "azkar"
+            ]
+        },
+        "unstoppable": {
+            "name": "Geldiezina",
+            "keywords": [
+                "azkar",
+                "dirdira",
+                "korrika"
+            ]
+        },
+        "comfortable": {
+            "name": "Erosoa",
+            "keywords": [
+                "zapatilak",
+                "zapata",
+                "goxo"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ekologikoa",
+            "keywords": [
+                "lurra",
+                "planeta",
+                "berdea"
+            ]
+        },
+        "global": {
+            "name": "Globala",
+            "keywords": [
+                "lurra",
+                "megafonoa",
+                "mundua"
+            ]
+        },
+        "victorious": {
+            "name": "Garailea",
+            "keywords": [
+                "garaikurria",
+                "irabazlea",
+                "txapelduna"
+            ]
+        },
+        "beautiful": {
+            "name": "Ederra",
+            "keywords": [
+                "futbola",
+                "futbola",
+                "baloia"
+            ]
+        },
+        "masterful": {
+            "name": "Maisua",
+            "keywords": [
+                "golfa",
+                "baloia",
+                "kirola"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "kaskoa",
+                "motorra",
+                "presa"
+            ]
+        }
+    }
+}

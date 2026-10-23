@@ -1,0 +1,342 @@
+{
+    "name": "Vibracions",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "banyes de moltó",
+                "ulleres de sol",
+                "atrevit"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "ulleres de sol",
+                "roca"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "música",
+                "notes",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "taló alt",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "estirat",
+                "barret de festa",
+                "relaxat"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "auricular amb micro",
+                "escoltar",
+                "música"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "bombeta",
+                "ulleres",
+                "idea"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bombolles",
+                "poció",
+                "content"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "espurna",
+                "ulleres de sol",
+                "elegant"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "auriculars",
+                "lleopard",
+                "música"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "micròfon",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterrestre",
+                "casc",
+                "espai"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "auriculars",
+                "música",
+                "xulo"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "gorra",
+                "del revés",
+                "mirada de reüll"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "gorra amb hèlix",
+                "babau",
+                "nen"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tambor",
+                "pandereta",
+                "picada d'ullet"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "bombeta",
+                "pensar",
+                "idea"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mà",
+                "salutació",
+                "salutació"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "ulleres",
+                "llest",
+                "somriure murri"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "ulleres",
+                "rossa",
+                "estudiar"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "capa",
+                "heroi",
+                "ulleres"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "corona",
+                "ulleres de sol",
+                "rei"
+            ]
+        },
+        "chill": {
+            "name": "Relax",
+            "keywords": [
+                "ulleres de sol",
+                "relaxat",
+                "xulo"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Relax amb ulleres",
+            "keywords": [
+                "ulleres rodones",
+                "relaxat",
+                "xulo"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "ulleres de festa",
+                "llengua",
+                "exagerat"
+            ]
+        },
+        "feisty": {
+            "name": "Combatiu",
+            "keywords": [
+                "boxa",
+                "guant",
+                "baralla"
+            ]
+        },
+        "gutsy": {
+            "name": "Agosarat",
+            "keywords": [
+                "ulleres de sol",
+                "dur",
+                "valent"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "bon rotllo"
+            ]
+        },
+        "rad": {
+            "name": "Molt guai",
+            "keywords": [
+                "ulleres de sol",
+                "xulo",
+                "somriure ample"
+            ]
+        },
+        "savvy": {
+            "name": "Espavilat",
+            "keywords": [
+                "ulleres de sol",
+                "gorro de Pare Noel",
+                "llest"
+            ]
+        },
+        "serene": {
+            "name": "Serè",
+            "keywords": [
+                "ulleres rodones",
+                "calma",
+                "somriure"
+            ]
+        },
+        "shady": {
+            "name": "Sospitós",
+            "keywords": [
+                "fedora",
+                "ulleres de sol",
+                "misteriós"
+            ]
+        },
+        "snappy": {
+            "name": "Pulcre",
+            "keywords": [
+                "corbatí",
+                "galeta",
+                "somriure murri"
+            ]
+        },
+        "strong": {
+            "name": "Fort",
+            "keywords": [
+                "x",
+                "ulleres de sol",
+                "dur"
+            ]
+        },
+        "wild": {
+            "name": "Salvatge",
+            "keywords": [
+                "casc",
+                "llamp",
+                "ulleres de sol"
+            ]
+        },
+        "pumped": {
+            "name": "Amb ganes!",
+            "keywords": [
+                "radiocasset",
+                "música",
+                "festa"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "làmpada de lava",
+                "retro",
+                "anys 70"
+            ]
+        },
+        "quirky": {
+            "name": "Peculiar",
+            "keywords": [
+                "barret",
+                "colorit",
+                "divertit"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colòmbia",
+                "barret",
+                "xulo"
+            ]
+        },
+        "leopard": {
+            "name": "Lleopard",
+            "keywords": [
+                "lleopard",
+                "ulleres de sol",
+                "salvatge"
+            ]
+        },
+        "sidekick": {
+            "name": "Company",
+            "keywords": [
+                "parella",
+                "barba",
+                "col·lega"
+            ]
+        },
+        "geeky": {
+            "name": "Friqui",
+            "keywords": [
+                "ulleres",
+                "nerd",
+                "mirada fixa"
+            ]
+        },
+        "smart": {
+            "name": "Llest",
+            "keywords": [
+                "bombeta",
+                "llengua",
+                "idea"
+            ]
+        },
+        "light": {
+            "name": "Clar",
+            "keywords": [
+                "punxegut",
+                "ros",
+                "morros"
+            ]
+        }
+    }
+}

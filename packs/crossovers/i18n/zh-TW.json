@@ -1,0 +1,214 @@
+{
+    "name": "聯名",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "小小兵",
+                "獨眼",
+                "香蕉"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "小小兵",
+                "獨眼",
+                "蜂巢"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "共生體",
+                "牙齒",
+                "反派"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "弗拉格爾",
+                "木偶",
+                "開心"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "弗拉格爾",
+                "眼鏡",
+                "頭髮"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "弗拉格爾",
+                "木偶",
+                "緊張"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "弗拉格爾",
+                "帽子",
+                "大笑"
+            ]
+        },
+        "ed": {
+            "name": "Ed - 忠誠",
+            "keywords": [
+                "小小兵",
+                "護目鏡",
+                "忠誠"
+            ]
+        },
+        "henry": {
+            "name": "Henry - 勇敢",
+            "keywords": [
+                "小小兵",
+                "護目鏡",
+                "勇敢"
+            ]
+        },
+        "james": {
+            "name": "James - 藝術",
+            "keywords": [
+                "小小兵",
+                "藝術",
+                "繪畫"
+            ]
+        },
+        "alliance": {
+            "name": "聯盟",
+            "keywords": [
+                "頭盔",
+                "盔甲",
+                "戰士"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "蝙蝠",
+                "英雄",
+                "哥譚"
+            ]
+        },
+        "riddler": {
+            "name": "謎語人",
+            "keywords": [
+                "問號",
+                "反派",
+                "面具"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "面具",
+                "反英雄",
+                "紅色"
+            ]
+        },
+        "brave": {
+            "name": "勇敢",
+            "keywords": [
+                "海綿",
+                "海盜",
+                "眼罩"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "警察",
+                "狗",
+                "小狗"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "消防員",
+                "狗",
+                "小狗"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "飛行員",
+                "狗",
+                "小狗"
+            ]
+        },
+        "energetic": {
+            "name": "活力",
+            "keywords": [
+                "刺蝟",
+                "快",
+                "藍色"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "建築工",
+                "頭盔",
+                "施工"
+            ]
+        },
+        "red": {
+            "name": "紅",
+            "keywords": [
+                "弗拉格爾",
+                "紅髮",
+                "大笑"
+            ]
+        },
+        "horde": {
+            "name": "部落",
+            "keywords": [
+                "獸人",
+                "獠牙",
+                "戰士"
+            ]
+        },
+        "master-chief": {
+            "name": "士官長",
+            "keywords": [
+                "斯巴達戰士",
+                "頭盔",
+                "士兵"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "蠻兵",
+                "盔甲",
+                "反派"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "精英",
+                "盔甲",
+                "角"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "斯巴達戰士",
+                "頭盔",
+                "面甲"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "精靈",
+                "寶石",
+                "反派"
+            ]
+        }
+    }
+}

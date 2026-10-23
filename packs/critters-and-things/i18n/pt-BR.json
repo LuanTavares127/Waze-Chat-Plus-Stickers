@@ -1,0 +1,373 @@
+{
+    "name": "Bichos e coisas",
+    "stickers": {
+        "30": {
+            "name": "30",
+            "keywords": [
+                "pedra",
+                "rocha",
+                "rápido"
+            ]
+        },
+        "84": {
+            "name": "84",
+            "keywords": [
+                "urso",
+                "chapéu",
+                "sorriso"
+            ]
+        },
+        "85": {
+            "name": "85",
+            "keywords": [
+                "capivara",
+                "passarinho",
+                "tranquilo"
+            ]
+        },
+        "102": {
+            "name": "102",
+            "keywords": [
+                "cérebro",
+                "inteligente",
+                "pensar"
+            ]
+        },
+        "177": {
+            "name": "177",
+            "keywords": [
+                "dinossauro",
+                "dentes",
+                "morder"
+            ]
+        },
+        "219": {
+            "name": "219",
+            "keywords": [
+                "presas",
+                "dentes",
+                "sorriso"
+            ]
+        },
+        "227": {
+            "name": "227",
+            "keywords": [
+                "vaca",
+                "muu",
+                "fazenda"
+            ]
+        },
+        "229": {
+            "name": "229",
+            "keywords": [
+                "cachorro",
+                "corgi",
+                "coroa"
+            ]
+        },
+        "230": {
+            "name": "230",
+            "keywords": [
+                "cachorro",
+                "corgi",
+                "piscadinha"
+            ]
+        },
+        "231": {
+            "name": "231",
+            "keywords": [
+                "cachorro",
+                "corgi",
+                "coroa"
+            ]
+        },
+        "236": {
+            "name": "236",
+            "keywords": [
+                "dragão",
+                "vermelho",
+                "monstro"
+            ]
+        },
+        "241": {
+            "name": "241",
+            "keywords": [
+                "mão",
+                "olho",
+                "proteção"
+            ]
+        },
+        "249": {
+            "name": "249",
+            "keywords": [
+                "olho",
+                "placa",
+                "mistério"
+            ]
+        },
+        "251": {
+            "name": "251",
+            "keywords": [
+                "bule",
+                "chá",
+                "maçã"
+            ]
+        },
+        "259": {
+            "name": "259",
+            "keywords": [
+                "pássaro",
+                "boné",
+                "falar"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bits",
+            "keywords": [
+                "pixel",
+                "retrô",
+                "game"
+            ]
+        },
+        "aware": {
+            "name": "Atento",
+            "keywords": [
+                "arco-íris",
+                "calmo",
+                "cores"
+            ]
+        },
+        "baby": {
+            "name": "Bebê",
+            "keywords": [
+                "chupeta",
+                "bebê",
+                "fofo"
+            ]
+        },
+        "blobby": {
+            "name": "Gosminha",
+            "keywords": [
+                "bolha",
+                "gosma",
+                "estrelas"
+            ]
+        },
+        "bright": {
+            "name": "Estrela",
+            "keywords": [
+                "estrela",
+                "brilho",
+                "arco-íris"
+            ]
+        },
+        "calm": {
+            "name": "Calmo",
+            "keywords": [
+                "nuvem",
+                "boné",
+                "céu"
+            ]
+        },
+        "captivated": {
+            "name": "Fascinado",
+            "keywords": [
+                "câmera",
+                "foto",
+                "fotografia"
+            ]
+        },
+        "cat": {
+            "name": "Gato",
+            "keywords": [
+                "gato",
+                "gatinho",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Célula",
+            "keywords": [
+                "célula",
+                "biologia",
+                "bolha"
+            ]
+        },
+        "centered": {
+            "name": "Equilibrado",
+            "keywords": [
+                "pedras",
+                "equilíbrio",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Cósmico",
+            "keywords": [
+                "antenas",
+                "alienígena",
+                "feliz"
+            ]
+        },
+        "destemido": {
+            "name": "Destemido",
+            "keywords": [
+                "cacto",
+                "planta",
+                "durão"
+            ]
+        },
+        "dog": {
+            "name": "Cachorro",
+            "keywords": [
+                "cachorro",
+                "filhote",
+                "língua"
+            ]
+        },
+        "fancy": {
+            "name": "Chique",
+            "keywords": [
+                "bolo",
+                "fatia",
+                "cereja"
+            ]
+        },
+        "flowing": {
+            "name": "Fluido",
+            "keywords": [
+                "água",
+                "gota",
+                "chuva"
+            ]
+        },
+        "hopeful": {
+            "name": "Esperançoso",
+            "keywords": [
+                "nuvem",
+                "sol",
+                "calmo"
+            ]
+        },
+        "hungry": {
+            "name": "Com fome",
+            "keywords": [
+                "hambúrguer",
+                "comida",
+                "almoço"
+            ]
+        },
+        "magical": {
+            "name": "Mágico",
+            "keywords": [
+                "unicórnio",
+                "arco-íris",
+                "magia"
+            ]
+        },
+        "magical-2": {
+            "name": "Mágico (2)",
+            "keywords": [
+                "magia",
+                "rosa",
+                "famoso"
+            ]
+        },
+        "open": {
+            "name": "Aberto",
+            "keywords": [
+                "montanha",
+                "bandeira",
+                "cume"
+            ]
+        },
+        "playful": {
+            "name": "Brincalhão",
+            "keywords": [
+                "golfinho",
+                "mar",
+                "diversão"
+            ]
+        },
+        "prickly": {
+            "name": "Espinhento",
+            "keywords": [
+                "cacto",
+                "ranzinza",
+                "espinhos"
+            ]
+        },
+        "quantom": {
+            "name": "Quântico",
+            "keywords": [
+                "planeta",
+                "órbita",
+                "espaço"
+            ]
+        },
+        "robot": {
+            "name": "Robô",
+            "keywords": [
+                "robô",
+                "máquina",
+                "tecnologia"
+            ]
+        },
+        "rocket": {
+            "name": "Foguete",
+            "keywords": [
+                "foguete",
+                "rápido",
+                "fogo"
+            ]
+        },
+        "spiritual": {
+            "name": "Espiritual",
+            "keywords": [
+                "panda",
+                "óculos escuros",
+                "tranquilo"
+            ]
+        },
+        "starry": {
+            "name": "Estrelado",
+            "keywords": [
+                "um olho",
+                "monstro",
+                "surpreso"
+            ]
+        },
+        "sunny": {
+            "name": "Ensolarado",
+            "keywords": [
+                "girassol",
+                "sol",
+                "flor"
+            ]
+        },
+        "sweet": {
+            "name": "Docinho",
+            "keywords": [
+                "bala",
+                "hortelã",
+                "doce"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinossauro",
+                "dentes",
+                "rugido"
+            ]
+        },
+        "wolfie": {
+            "name": "Lobinho",
+            "keywords": [
+                "lobo",
+                "uivo",
+                "esperto"
+            ]
+        }
+    }
+}

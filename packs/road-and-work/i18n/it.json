@@ -1,0 +1,351 @@
+{
+    "name": "In strada e al lavoro",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "fagotto",
+                "viaggio",
+                "avventura"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "pozione",
+                "occhiali",
+                "laboratorio"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "esploratore",
+                "cappello",
+                "avventura"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "fotocamera",
+                "bandiera",
+                "turismo"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marinaio",
+                "berretto",
+                "barca"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "valigia",
+                "cappello",
+                "viaggio"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilota",
+                "occhialoni",
+                "elmo"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "gufo",
+                "laurea",
+                "intelligente"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "estintore",
+                "sicurezza",
+                "nervoso"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "casco da cantiere",
+                "costruzione",
+                "gilet"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "cappello di paglia",
+                "fattoria",
+                "festa di giugno"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "elmo",
+                "stelle",
+                "pilota"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "mascherina",
+                "salute",
+                "sicuro"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "cronometro",
+                "fascia",
+                "allenamento"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "voto",
+                "elezioni",
+                "scheda elettorale"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "segnale",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "voto",
+                "segno",
+                "elezioni"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medaglia",
+                "nastro",
+                "occhiolino"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "consegna",
+                "elmo",
+                "scatola"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenna",
+                "esploratore"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "fumetto",
+                "chat",
+                "parlare"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "fischietto",
+                "arbitro",
+                "fallo"
+            ]
+        },
+        "road-warrior": {
+            "name": "Guerriero della strada",
+            "keywords": [
+                "elmo",
+                "occhialoni",
+                "ala"
+            ]
+        },
+        "limitless": {
+            "name": "Senza limiti",
+            "keywords": [
+                "autostrada",
+                "scudo",
+                "segnale stradale"
+            ]
+        },
+        "map-master": {
+            "name": "Maestro delle mappe",
+            "keywords": [
+                "editor",
+                "mappa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega camionista",
+            "keywords": [
+                "camion",
+                "occhialoni",
+                "camionista"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Capitan Grazie",
+            "keywords": [
+                "grazie",
+                "capitano",
+                "baffi"
+            ]
+        },
+        "all-business": {
+            "name": "Tutto lavoro",
+            "keywords": [
+                "completo",
+                "cravatta",
+                "lavoro"
+            ]
+        },
+        "business-casual": {
+            "name": "Business casual",
+            "keywords": [
+                "cravatta",
+                "fascia",
+                "lingua"
+            ]
+        },
+        "businessy": {
+            "name": "Da ufficio",
+            "keywords": [
+                "completo",
+                "occhiali",
+                "ufficio"
+            ]
+        },
+        "bawse-y": {
+            "name": "Da capo",
+            "keywords": [
+                "capo",
+                "occhiali da sole",
+                "completo"
+            ]
+        },
+        "productive": {
+            "name": "Produttivo",
+            "keywords": [
+                "cuffia con microfono",
+                "lavoro",
+                "occhiolino"
+            ]
+        },
+        "dialed-up": {
+            "name": "Connesso",
+            "keywords": [
+                "computer",
+                "retrò",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Sotto copertura",
+            "keywords": [
+                "travestimento",
+                "occhiali",
+                "naso"
+            ]
+        },
+        "sneaky": {
+            "name": "Furtivo",
+            "keywords": [
+                "ninja",
+                "furtività",
+                "maschera"
+            ]
+        },
+        "survivalist": {
+            "name": "Sopravvissuto",
+            "keywords": [
+                "bandana",
+                "cicatrice",
+                "duro"
+            ]
+        },
+        "speedy": {
+            "name": "Veloce",
+            "keywords": [
+                "veloce",
+                "velocità",
+                "sorrisetto"
+            ]
+        },
+        "sprinteur": {
+            "name": "Velocista",
+            "keywords": [
+                "ciclismo",
+                "berretto",
+                "veloce"
+            ]
+        },
+        "unstoppable": {
+            "name": "Inarrestabile",
+            "keywords": [
+                "veloce",
+                "scintilla",
+                "correre"
+            ]
+        },
+        "comfortable": {
+            "name": "Comodo",
+            "keywords": [
+                "scarpa da ginnastica",
+                "scarpa",
+                "accogliente"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ecologico",
+            "keywords": [
+                "terra",
+                "pianeta",
+                "verde"
+            ]
+        },
+        "global": {
+            "name": "Globale",
+            "keywords": [
+                "terra",
+                "megafono",
+                "mondo"
+            ]
+        },
+        "victorious": {
+            "name": "Vittorioso",
+            "keywords": [
+                "trofeo",
+                "vincitore",
+                "campione"
+            ]
+        },
+        "beautiful": {
+            "name": "Bellissimo",
+            "keywords": [
+                "calcio",
+                "pallone",
+                "palla"
+            ]
+        },
+        "masterful": {
+            "name": "Magistrale",
+            "keywords": [
+                "golf",
+                "palla",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "elmo",
+                "moto",
+                "fretta"
+            ]
+        }
+    }
+}

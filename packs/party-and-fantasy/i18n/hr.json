@@ -1,0 +1,382 @@
+{
+    "name": "Zabava, zodijak i fantazija",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "snjegović",
+                "zima",
+                "šal"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "kapa za zabavu",
+                "rođendan",
+                "slaviti"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "kaciga",
+                "pribadača na karti"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "šaljivdžija",
+                "šešir",
+                "smijeh"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "božić",
+                "djed božićnjak",
+                "sunčane naočale"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "čarobnjak",
+                "šešir",
+                "magija"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "vještica",
+                "šešir",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karneval",
+                "ukras za glavu",
+                "perje"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "šal",
+                "kapa",
+                "zima"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karneval",
+                "maska",
+                "zabava"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nova godina",
+                "2026",
+                "zabava"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "čekić",
+                "štit"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "zima",
+                "kapa",
+                "hladno"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "stražar",
+                "london",
+                "šešir"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cilindar",
+                "čaj",
+                "zemlja čudesa"
+            ]
+        },
+        "aries": {
+            "name": "Ovan",
+            "keywords": [
+                "zodijak",
+                "ovan",
+                "horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Bik",
+            "keywords": [
+                "zodijak",
+                "bik",
+                "horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Blizanci",
+            "keywords": [
+                "zodijak",
+                "blizanci",
+                "horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Rak",
+            "keywords": [
+                "zodijak",
+                "rak",
+                "horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Lav",
+            "keywords": [
+                "zodijak",
+                "lav",
+                "horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Djevica",
+            "keywords": [
+                "zodijak",
+                "djevica",
+                "horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Vaga",
+            "keywords": [
+                "zodijak",
+                "vaga",
+                "horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Škorpion",
+            "keywords": [
+                "zodijak",
+                "škorpion",
+                "horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Strijelac",
+            "keywords": [
+                "zodijak",
+                "strijelac",
+                "horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Jarac",
+            "keywords": [
+                "zodijak",
+                "jarac",
+                "horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Vodenjak",
+            "keywords": [
+                "zodijak",
+                "voda",
+                "horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Ribe",
+            "keywords": [
+                "zodijak",
+                "riba",
+                "horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Djed Božićnjak",
+            "keywords": [
+                "božić",
+                "djed božićnjak",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Svečan",
+            "keywords": [
+                "božić",
+                "božićna kapa",
+                "brada"
+            ]
+        },
+        "frazzled": {
+            "name": "Iscrpljen",
+            "keywords": [
+                "božić",
+                "umoran",
+                "djed božićnjak"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Veseljak",
+            "keywords": [
+                "karneval",
+                "mornar",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Radosna zabava",
+            "keywords": [
+                "kapa za zabavu",
+                "zvijezda",
+                "slaviti"
+            ]
+        },
+        "blossom": {
+            "name": "Cvat",
+            "keywords": [
+                "cvijet",
+                "ružičasto",
+                "proljeće"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "valentinovo",
+                "strijela",
+                "ljubav"
+            ]
+        },
+        "happy-clown": {
+            "name": "Sretni klaun",
+            "keywords": [
+                "clown",
+                "cirkus",
+                "zabava"
+            ]
+        },
+        "scary-clown": {
+            "name": "Strašni klaun",
+            "keywords": [
+                "clown",
+                "halloween",
+                "jeziv"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "nemrtvac"
+            ]
+        },
+        "zombified": {
+            "name": "Pretvoren u zombija",
+            "keywords": [
+                "zombie",
+                "umoran",
+                "šavovi"
+            ]
+        },
+        "monster": {
+            "name": "Čudovište",
+            "keywords": [
+                "jedno oko",
+                "kiklop",
+                "čudovište"
+            ]
+        },
+        "mystical": {
+            "name": "Mističan",
+            "keywords": [
+                "kapuljača",
+                "vilenjak",
+                "magija"
+            ]
+        },
+        "mighty": {
+            "name": "Moćan",
+            "keywords": [
+                "viking",
+                "brkovi",
+                "rogovi"
+            ]
+        },
+        "angelic": {
+            "name": "Anđeoski",
+            "keywords": [
+                "anđeo",
+                "aureola",
+                "krila"
+            ]
+        },
+        "devious": {
+            "name": "Lukav",
+            "keywords": [
+                "vrag",
+                "rogovi",
+                "cerek"
+            ]
+        },
+        "diabolical": {
+            "name": "Đavolski",
+            "keywords": [
+                "zlikovac",
+                "monocle",
+                "zlo"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "genije",
+                "znanstvenik",
+                "jezik"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgija",
+                "rog",
+                "obožavatelj"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "svemir",
+                "kaciga"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (plavi)",
+            "keywords": [
+                "astronaut",
+                "svemir",
+                "mjesec"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "junak",
+                "dijadem",
+                "moć"
+            ]
+        }
+    }
+}

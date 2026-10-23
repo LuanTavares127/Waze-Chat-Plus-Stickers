@@ -1,0 +1,342 @@
+{
+    "name": "Vibrações",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "cornos de carneiro",
+                "óculos de sol",
+                "ousado"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "óculos de sol",
+                "pedra"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "salto alto",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "deitado",
+                "chapéu de festa",
+                "relaxado"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "auricular com microfone",
+                "a ouvir",
+                "música"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "lâmpada",
+                "óculos",
+                "ideia"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bolhas",
+                "poção",
+                "feliz"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "brilho",
+                "óculos de sol",
+                "chique"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "auscultadores",
+                "leopardo",
+                "música"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "microfone",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "extraterrestre",
+                "capacete",
+                "espaço"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "auscultadores",
+                "música",
+                "fixe"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "boné",
+                "ao contrário",
+                "olhar de lado"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "boné com hélice",
+                "patareco",
+                "miúdo"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tambor",
+                "pandeireta",
+                "piscar de olho"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "lâmpada",
+                "pensar",
+                "ideia"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "mão",
+                "continência",
+                "cumprimento"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "óculos",
+                "inteligente",
+                "sorriso trocista"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "óculos",
+                "loira",
+                "estudo"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "capa",
+                "herói",
+                "óculos"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "coroa",
+                "óculos de sol",
+                "rei"
+            ]
+        },
+        "chill": {
+            "name": "Descontraído",
+            "keywords": [
+                "óculos de sol",
+                "relaxado",
+                "fixe"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Descontraído de óculos",
+            "keywords": [
+                "óculos redondos",
+                "relaxado",
+                "fixe"
+            ]
+        },
+        "extra": {
+            "name": "Exagerado",
+            "keywords": [
+                "óculos de festa",
+                "língua",
+                "exagero"
+            ]
+        },
+        "feisty": {
+            "name": "Brigão",
+            "keywords": [
+                "boxe",
+                "luva",
+                "luta"
+            ]
+        },
+        "gutsy": {
+            "name": "Corajoso",
+            "keywords": [
+                "óculos de sol",
+                "duro",
+                "corajoso"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "boas vibrações"
+            ]
+        },
+        "rad": {
+            "name": "Radical",
+            "keywords": [
+                "óculos de sol",
+                "fixe",
+                "sorriso largo"
+            ]
+        },
+        "savvy": {
+            "name": "Esperto",
+            "keywords": [
+                "óculos de sol",
+                "gorro de pai natal",
+                "inteligente"
+            ]
+        },
+        "serene": {
+            "name": "Sereno",
+            "keywords": [
+                "óculos redondos",
+                "calmo",
+                "sorriso"
+            ]
+        },
+        "shady": {
+            "name": "Suspeito",
+            "keywords": [
+                "chapéu fedora",
+                "óculos de sol",
+                "misterioso"
+            ]
+        },
+        "snappy": {
+            "name": "Elegante",
+            "keywords": [
+                "laço",
+                "bolacha",
+                "sorriso trocista"
+            ]
+        },
+        "strong": {
+            "name": "Forte",
+            "keywords": [
+                "x",
+                "óculos de sol",
+                "duro"
+            ]
+        },
+        "wild": {
+            "name": "Selvagem",
+            "keywords": [
+                "capacete",
+                "relâmpago",
+                "óculos de sol"
+            ]
+        },
+        "pumped": {
+            "name": "Entusiasmado!",
+            "keywords": [
+                "rádio portátil",
+                "música",
+                "festa"
+            ]
+        },
+        "groovy": {
+            "name": "Psicadélico",
+            "keywords": [
+                "lâmpada de lava",
+                "retro",
+                "anos 70"
+            ]
+        },
+        "quirky": {
+            "name": "Excêntrico",
+            "keywords": [
+                "chapéu",
+                "colorido",
+                "engraçado"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colômbia",
+                "chapéu",
+                "fixe"
+            ]
+        },
+        "leopard": {
+            "name": "Leopardo",
+            "keywords": [
+                "leopardo",
+                "óculos de sol",
+                "selvagem"
+            ]
+        },
+        "sidekick": {
+            "name": "Parceiro",
+            "keywords": [
+                "parceiro",
+                "barba",
+                "amigo"
+            ]
+        },
+        "geeky": {
+            "name": "Geek",
+            "keywords": [
+                "óculos",
+                "marrão",
+                "a fitar"
+            ]
+        },
+        "smart": {
+            "name": "Inteligente",
+            "keywords": [
+                "lâmpada",
+                "língua",
+                "ideia"
+            ]
+        },
+        "light": {
+            "name": "Leve",
+            "keywords": [
+                "espinhoso",
+                "loiro",
+                "amuo"
+            ]
+        }
+    }
+}

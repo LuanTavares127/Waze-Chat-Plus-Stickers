@@ -1,0 +1,214 @@
+{
+    "name": "Crossoveri",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "jedno oko",
+                "banana"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "jedno oko",
+                "saće"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiote",
+                "zubi",
+                "zlikovac"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "sretan"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "naočale",
+                "kosa"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "nervozan"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "šešir",
+                "smijeh"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Odan",
+            "keywords": [
+                "minion",
+                "zaštitne naočale",
+                "odan"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Hrabar",
+            "keywords": [
+                "minion",
+                "zaštitne naočale",
+                "hrabar"
+            ]
+        },
+        "james": {
+            "name": "James - Umjetnik",
+            "keywords": [
+                "minion",
+                "umjetnost",
+                "bojanje"
+            ]
+        },
+        "alliance": {
+            "name": "Savez",
+            "keywords": [
+                "kaciga",
+                "oklop",
+                "ratnik"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "šišmiš",
+                "junak",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Zagonetač",
+            "keywords": [
+                "upitnik",
+                "zlikovac",
+                "maska"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maska",
+                "antijunak",
+                "crveno"
+            ]
+        },
+        "brave": {
+            "name": "Hrabar",
+            "keywords": [
+                "spužva",
+                "pirate",
+                "poveza za oko"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policija",
+                "pas",
+                "štene"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "vatrogasac",
+                "pas",
+                "štene"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "pas",
+                "štene"
+            ]
+        },
+        "energetic": {
+            "name": "Energičan",
+            "keywords": [
+                "jež",
+                "brzo",
+                "plavo"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "graditelj",
+                "kaciga",
+                "gradnja"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "crvena kosa",
+                "smijeh"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "kljove",
+                "ratnik"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "kaciga",
+                "vojnik"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "surovac",
+                "oklop",
+                "zlikovac"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elite",
+                "oklop",
+                "rogovi"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "kaciga",
+                "vizir"
+            ]
+        },
+        "void": {
+            "name": "Praznina",
+            "keywords": [
+                "vilenjak",
+                "dragulj",
+                "zlikovac"
+            ]
+        }
+    }
+}

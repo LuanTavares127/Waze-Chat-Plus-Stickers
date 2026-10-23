@@ -1,0 +1,360 @@
+{
+    "name": "Uczucia",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasyczny",
+                "cześć",
+                "szczęśliwy"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "łza",
+                "smutny",
+                "szlafmyca"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "pusty",
+                "neutralny",
+                "zwyczajny"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "miłość",
+                "serce",
+                "słodki"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "rodzic",
+                "dziecko",
+                "rodzina"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "płacz",
+                "zdenerwowany",
+                "rozpacz"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "chory",
+                "mdłości",
+                "niedobrze"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "niezręcznie",
+                "nieswojo",
+                "fuj"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "podekscytowany",
+                "hurra",
+                "skrzydła"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "szczęśliwy",
+                "śmiech",
+                "kapelusz"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "wściekły",
+                "zirytowany",
+                "marszczenie brwi"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "pytanie",
+                "co",
+                "wątpliwość"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotos",
+                "medytacja",
+                "spokój"
+            ]
+        },
+        "amazing": {
+            "name": "Niesamowity",
+            "keywords": [
+                "wow",
+                "gwiazdki w oczach",
+                "świetnie"
+            ]
+        },
+        "amused": {
+            "name": "Rozbawiony",
+            "keywords": [
+                "przewracanie oczami",
+                "jak chcesz",
+                "uśmieszek"
+            ]
+        },
+        "antsy": {
+            "name": "Niespokojny",
+            "keywords": [
+                "niecierpliwy",
+                "zestresowany",
+                "fuj"
+            ]
+        },
+        "bored": {
+            "name": "Znudzony",
+            "keywords": [
+                "no cóż",
+                "nudny",
+                "bla bla"
+            ]
+        },
+        "carsick": {
+            "name": "Chory w aucie",
+            "keywords": [
+                "chory",
+                "mdłości",
+                "choroba lokomocyjna"
+            ]
+        },
+        "cheeky": {
+            "name": "Bezczelny",
+            "keywords": [
+                "mrugnięcie",
+                "język",
+                "żart"
+            ]
+        },
+        "depressed": {
+            "name": "Przygnębiony",
+            "keywords": [
+                "smutny",
+                "przygnębiony",
+                "niebieski"
+            ]
+        },
+        "exasperated": {
+            "name": "Wyprowadzony z równowagi",
+            "keywords": [
+                "mam dość",
+                "westchnienie",
+                "zirytowany"
+            ]
+        },
+        "flustered": {
+            "name": "Zmieszany",
+            "keywords": [
+                "w szoku",
+                "krzyk",
+                "o nie"
+            ]
+        },
+        "funny": {
+            "name": "Zabawny",
+            "keywords": [
+                "śmiech",
+                "lol",
+                "łzy radości"
+            ]
+        },
+        "furious": {
+            "name": "Wściekły",
+            "keywords": [
+                "szał",
+                "przeklinanie",
+                "zły"
+            ]
+        },
+        "grumpy": {
+            "name": "Zrzędliwy",
+            "keywords": [
+                "marudny",
+                "zirytowany",
+                "słuchawki"
+            ]
+        },
+        "happy": {
+            "name": "Szczęśliwy",
+            "keywords": [
+                "radość",
+                "śmiech",
+                "uśmiech"
+            ]
+        },
+        "hilarious": {
+            "name": "Przekomiczny",
+            "keywords": [
+                "lol",
+                "śmiech",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Skromny",
+            "keywords": [
+                "wdzięczny",
+                "spokój",
+                "skrzydła"
+            ]
+        },
+        "joyful": {
+            "name": "Radosny",
+            "keywords": [
+                "śmiech",
+                "szczęśliwy",
+                "uff"
+            ]
+        },
+        "judgmental": {
+            "name": "Krytyczny",
+            "keywords": [
+                "dezaprobata",
+                "marszczenie brwi",
+                "ocenianie"
+            ]
+        },
+        "loved-up": {
+            "name": "Zakochany",
+            "keywords": [
+                "zakochany",
+                "serduszka w oczach",
+                "zauroczenie"
+            ]
+        },
+        "mind-blown": {
+            "name": "Pod wrażeniem",
+            "keywords": [
+                "w szoku",
+                "wow",
+                "wybuch"
+            ]
+        },
+        "moody": {
+            "name": "Humorzasty",
+            "keywords": [
+                "no cóż",
+                "zawijas",
+                "pudełko"
+            ]
+        },
+        "nervous": {
+            "name": "Zdenerwowany",
+            "keywords": [
+                "niespokojny",
+                "pot",
+                "zmartwiony"
+            ]
+        },
+        "obsessed": {
+            "name": "Opętany",
+            "keywords": [
+                "gwiazdki w oczach",
+                "wrzask",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Smutny",
+            "keywords": [
+                "łza",
+                "płakać",
+                "przygnębiony"
+            ]
+        },
+        "shy": {
+            "name": "Nieśmiały",
+            "keywords": [
+                "rumieniec",
+                "słodki",
+                "zawstydzony"
+            ]
+        },
+        "skeptical": {
+            "name": "Sceptyczny",
+            "keywords": [
+                "wątpliwość",
+                "niewzruszony",
+                "naprawdę"
+            ]
+        },
+        "spacey": {
+            "name": "Rozkojarzony",
+            "keywords": [
+                "rozkojarzony",
+                "marzenia",
+                "nieobecny"
+            ]
+        },
+        "tired": {
+            "name": "Zmęczony",
+            "keywords": [
+                "gałka oczna",
+                "przekrwione",
+                "śpiący"
+            ]
+        },
+        "unproductive": {
+            "name": "Nieproduktywny",
+            "keywords": [
+                "karteczka",
+                "leniwy",
+                "gotowe"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "spokój",
+                "zrelaksowany",
+                "pokój"
+            ]
+        },
+        "mischievous": {
+            "name": "Psotny",
+            "keywords": [
+                "oh",
+                "zaskoczony",
+                "pudełko"
+            ]
+        },
+        "wicked": {
+            "name": "Przebiegły",
+            "keywords": [
+                "złośliwy uśmiech",
+                "psikus",
+                "pudełko"
+            ]
+        },
+        "motivated": {
+            "name": "Zmotywowany",
+            "keywords": [
+                "podekscytowany",
+                "ruszamy",
+                "włosy"
+            ]
+        },
+        "proud": {
+            "name": "Dumny",
+            "keywords": [
+                "duma",
+                "tęcza",
+                "serce"
+            ]
+        }
+    }
+}

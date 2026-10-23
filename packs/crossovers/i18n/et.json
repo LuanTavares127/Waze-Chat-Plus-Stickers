@@ -1,0 +1,214 @@
+{
+    "name": "Koostööd",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "üks silm",
+                "banaan"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "üks silm",
+                "kärg"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "sümbiont",
+                "hambad",
+                "kurjam"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "nukk",
+                "rõõmus"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "prillid",
+                "juuksed"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "nukk",
+                "närvis"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "kübar",
+                "naer"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Lojaalne",
+            "keywords": [
+                "minion",
+                "kaitseprillid",
+                "lojaalne"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Vapper",
+            "keywords": [
+                "minion",
+                "kaitseprillid",
+                "julge"
+            ]
+        },
+        "james": {
+            "name": "James - Kunstiline",
+            "keywords": [
+                "minion",
+                "kunst",
+                "värv"
+            ]
+        },
+        "alliance": {
+            "name": "Liit",
+            "keywords": [
+                "kiiver",
+                "soomus",
+                "sõdalane"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "nahkhiir",
+                "kangelane",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "küsimärk",
+                "kurjam",
+                "mask"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "mask",
+                "antikangelane",
+                "punane"
+            ]
+        },
+        "brave": {
+            "name": "Julge",
+            "keywords": [
+                "käsn",
+                "piraat",
+                "silmaklapp"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "politsei",
+                "koer",
+                "kutsikas"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "tuletõrjuja",
+                "koer",
+                "kutsikas"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "piloot",
+                "koer",
+                "kutsikas"
+            ]
+        },
+        "energetic": {
+            "name": "Energiline",
+            "keywords": [
+                "siil",
+                "kiire",
+                "sinine"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "ehitaja",
+                "kiiver",
+                "ehitus"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "punased juuksed",
+                "naer"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "ork",
+                "kihvad",
+                "sõdalane"
+            ]
+        },
+        "master-chief": {
+            "name": "The Master Chief",
+            "keywords": [
+                "spartalane",
+                "kiiver",
+                "sõdur"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "toorus",
+                "soomus",
+                "kurjam"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "eliit",
+                "soomus",
+                "sarved"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartalane",
+                "kiiver",
+                "visiir"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "haldjas",
+                "vääriskivi",
+                "kurjam"
+            ]
+        }
+    }
+}

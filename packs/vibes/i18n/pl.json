@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "rogi barana",
+                "okulary przeciwsłoneczne",
+                "śmiały"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "okulary przeciwsłoneczne",
+                "skała"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "muzyka",
+                "nuty",
+                "hipis"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "szpilka",
+                "moda",
+                "diwa"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "leżenie",
+                "czapeczka imprezowa",
+                "zrelaksowany"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "zestaw słuchawkowy",
+                "słuchanie",
+                "muzyka"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "żarówka",
+                "okulary",
+                "pomysł"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bąbelki",
+                "eliksir",
+                "szczęśliwy"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "błysk",
+                "okulary przeciwsłoneczne",
+                "elegancki"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "słuchawki",
+                "lampart",
+                "muzyka"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "śpiew"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "kosmita",
+                "hełm",
+                "kosmos"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "słuchawki",
+                "muzyka",
+                "fajny"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "czapka",
+                "tyłem do przodu",
+                "zerknięcie"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "czapka ze śmigłem",
+                "głupkowaty",
+                "dzieciak"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "wzmacniacz",
+                "gitara",
+                "muzyka"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "bęben",
+                "tamburyn",
+                "mrugnięcie"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "żarówka",
+                "myśleć",
+                "pomysł"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "ręka",
+                "salut",
+                "pozdrowienie"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "okulary",
+                "mądry",
+                "uśmieszek"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "okulary",
+                "blondynka",
+                "nauka"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "peleryna",
+                "bohater",
+                "okulary"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "korona",
+                "okulary przeciwsłoneczne",
+                "król"
+            ]
+        },
+        "chill": {
+            "name": "Chill",
+            "keywords": [
+                "okulary przeciwsłoneczne",
+                "zrelaksowany",
+                "fajny"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Okulary chill",
+            "keywords": [
+                "okrągłe okulary",
+                "zrelaksowany",
+                "fajny"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "okulary imprezowe",
+                "język",
+                "przesada"
+            ]
+        },
+        "feisty": {
+            "name": "Zadziorny",
+            "keywords": [
+                "boks",
+                "rękawica",
+                "walka"
+            ]
+        },
+        "gutsy": {
+            "name": "Odważny",
+            "keywords": [
+                "okulary przeciwsłoneczne",
+                "twardziel",
+                "odważny"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "dobre wibracje"
+            ]
+        },
+        "rad": {
+            "name": "Super",
+            "keywords": [
+                "okulary przeciwsłoneczne",
+                "fajny",
+                "szeroki uśmiech"
+            ]
+        },
+        "savvy": {
+            "name": "Cwany",
+            "keywords": [
+                "okulary przeciwsłoneczne",
+                "czapka mikołaja",
+                "mądry"
+            ]
+        },
+        "serene": {
+            "name": "Pogodny",
+            "keywords": [
+                "okrągłe okulary",
+                "spokój",
+                "uśmiech"
+            ]
+        },
+        "shady": {
+            "name": "Podejrzany",
+            "keywords": [
+                "fedora",
+                "okulary przeciwsłoneczne",
+                "tajemniczy"
+            ]
+        },
+        "snappy": {
+            "name": "Błyskotliwy",
+            "keywords": [
+                "mucha",
+                "ciasteczko",
+                "uśmieszek"
+            ]
+        },
+        "strong": {
+            "name": "Silny",
+            "keywords": [
+                "x",
+                "okulary przeciwsłoneczne",
+                "twardziel"
+            ]
+        },
+        "wild": {
+            "name": "Dziki",
+            "keywords": [
+                "hełm",
+                "błyskawica",
+                "okulary przeciwsłoneczne"
+            ]
+        },
+        "pumped": {
+            "name": "Nakręcony!",
+            "keywords": [
+                "boombox",
+                "muzyka",
+                "impreza"
+            ]
+        },
+        "groovy": {
+            "name": "Wyluzowany",
+            "keywords": [
+                "lampa lava",
+                "retro",
+                "lata 70."
+            ]
+        },
+        "quirky": {
+            "name": "Ekscentryczny",
+            "keywords": [
+                "kapelusz",
+                "kolorowy",
+                "zabawny"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolumbia",
+                "kapelusz",
+                "fajny"
+            ]
+        },
+        "leopard": {
+            "name": "Lampart",
+            "keywords": [
+                "lampart",
+                "okulary przeciwsłoneczne",
+                "dziki"
+            ]
+        },
+        "sidekick": {
+            "name": "Pomocnik",
+            "keywords": [
+                "partner",
+                "broda",
+                "kumpel"
+            ]
+        },
+        "geeky": {
+            "name": "Kujonowaty",
+            "keywords": [
+                "okulary",
+                "kujon",
+                "gapienie się"
+            ]
+        },
+        "smart": {
+            "name": "Mądry",
+            "keywords": [
+                "żarówka",
+                "język",
+                "pomysł"
+            ]
+        },
+        "light": {
+            "name": "Jasny",
+            "keywords": [
+                "kolczasty",
+                "blondyn",
+                "naburmuszenie"
+            ]
+        }
+    }
+}

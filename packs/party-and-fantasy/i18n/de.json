@@ -1,0 +1,382 @@
+{
+    "name": "Party, Sternzeichen & Fantasy",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "Schneemann",
+                "Winter",
+                "Schal"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "Partyhut",
+                "Geburtstag",
+                "feiern"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "Wikinger",
+                "Helm",
+                "Kartennadel"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "Hofnarr",
+                "Hut",
+                "lachen"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "Weihnachten",
+                "Weihnachtsmann",
+                "Sonnenbrille"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "Zauberer",
+                "Hut",
+                "Magie"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "Hexe",
+                "Hut",
+                "Halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "Karneval",
+                "Kopfschmuck",
+                "Federn"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "Schal",
+                "Wollmütze",
+                "Winter"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "Karneval",
+                "Maske",
+                "Party"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "Neujahr",
+                "2026",
+                "Party"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "Wikinger",
+                "Hammer",
+                "Schild"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "Winter",
+                "Wollmütze",
+                "kalt"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "Wächter",
+                "London",
+                "Hut"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "Zylinder",
+                "Tee",
+                "Wunderland"
+            ]
+        },
+        "aries": {
+            "name": "Widder",
+            "keywords": [
+                "Sternzeichen",
+                "Widder",
+                "Horoskop"
+            ]
+        },
+        "taurus": {
+            "name": "Stier",
+            "keywords": [
+                "Sternzeichen",
+                "Stier",
+                "Horoskop"
+            ]
+        },
+        "gemini": {
+            "name": "Zwillinge",
+            "keywords": [
+                "Sternzeichen",
+                "Zwillinge",
+                "Horoskop"
+            ]
+        },
+        "cancer": {
+            "name": "Krebs",
+            "keywords": [
+                "Sternzeichen",
+                "Krabbe",
+                "Horoskop"
+            ]
+        },
+        "leo": {
+            "name": "Löwe",
+            "keywords": [
+                "Sternzeichen",
+                "Löwe",
+                "Horoskop"
+            ]
+        },
+        "virgo": {
+            "name": "Jungfrau",
+            "keywords": [
+                "Sternzeichen",
+                "Jungfrau",
+                "Horoskop"
+            ]
+        },
+        "libra": {
+            "name": "Waage",
+            "keywords": [
+                "Sternzeichen",
+                "Waage",
+                "Horoskop"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpion",
+            "keywords": [
+                "Sternzeichen",
+                "Skorpion",
+                "Horoskop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Schütze",
+            "keywords": [
+                "Sternzeichen",
+                "Bogenschütze",
+                "Horoskop"
+            ]
+        },
+        "capricorn": {
+            "name": "Steinbock",
+            "keywords": [
+                "Sternzeichen",
+                "Ziege",
+                "Horoskop"
+            ]
+        },
+        "aquarius": {
+            "name": "Wassermann",
+            "keywords": [
+                "Sternzeichen",
+                "Wasser",
+                "Horoskop"
+            ]
+        },
+        "pisces": {
+            "name": "Fische",
+            "keywords": [
+                "Sternzeichen",
+                "Fisch",
+                "Horoskop"
+            ]
+        },
+        "santa": {
+            "name": "Weihnachtsmann",
+            "keywords": [
+                "Weihnachten",
+                "Weihnachtsmann",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Festlich",
+            "keywords": [
+                "Weihnachten",
+                "Weihnachtsmütze",
+                "Bart"
+            ]
+        },
+        "frazzled": {
+            "name": "Erschöpft",
+            "keywords": [
+                "Weihnachten",
+                "müde",
+                "Weihnachtsmann"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Narr",
+            "keywords": [
+                "Karneval",
+                "Matrose",
+                "Samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Fröhliche Party",
+            "keywords": [
+                "Partyhut",
+                "Stern",
+                "feiern"
+            ]
+        },
+        "blossom": {
+            "name": "Blüte",
+            "keywords": [
+                "Blume",
+                "rosa",
+                "Frühling"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "Valentinstag",
+                "Pfeil",
+                "Liebe"
+            ]
+        },
+        "happy-clown": {
+            "name": "Fröhlicher Clown",
+            "keywords": [
+                "Clown",
+                "Zirkus",
+                "Spaß"
+            ]
+        },
+        "scary-clown": {
+            "name": "Gruseliger Clown",
+            "keywords": [
+                "Clown",
+                "Halloween",
+                "gruselig"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "Halloween",
+                "Zombie",
+                "untot"
+            ]
+        },
+        "zombified": {
+            "name": "Zombifiziert",
+            "keywords": [
+                "Zombie",
+                "müde",
+                "Nähte"
+            ]
+        },
+        "monster": {
+            "name": "Monster",
+            "keywords": [
+                "ein Auge",
+                "Zyklop",
+                "Monster"
+            ]
+        },
+        "mystical": {
+            "name": "Mystisch",
+            "keywords": [
+                "Kapuze",
+                "Elf",
+                "Magie"
+            ]
+        },
+        "mighty": {
+            "name": "Mächtig",
+            "keywords": [
+                "Wikinger",
+                "Schnurrbart",
+                "Hörner"
+            ]
+        },
+        "angelic": {
+            "name": "Engelhaft",
+            "keywords": [
+                "Engel",
+                "Heiligenschein",
+                "Flügel"
+            ]
+        },
+        "devious": {
+            "name": "Hinterlistig",
+            "keywords": [
+                "Teufel",
+                "Hörner",
+                "grinsen"
+            ]
+        },
+        "diabolical": {
+            "name": "Teuflisch",
+            "keywords": [
+                "Bösewicht",
+                "Monokel",
+                "böse"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "Genie",
+                "Wissenschaftler",
+                "Zunge"
+            ]
+        },
+        "belgie": {
+            "name": "Belgien",
+            "keywords": [
+                "Belgien",
+                "Horn",
+                "Fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "Astronaut",
+                "Weltraum",
+                "Helm"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (Blau)",
+            "keywords": [
+                "Astronaut",
+                "Weltraum",
+                "Mond"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "Held",
+                "Diadem",
+                "Kraft"
+            ]
+        }
+    }
+}

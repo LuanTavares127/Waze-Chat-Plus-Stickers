@@ -1,0 +1,342 @@
+{
+    "name": "Nálada",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "beraní rohy",
+                "sluneční brýle",
+                "odvážný"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "šátek",
+                "sluneční brýle",
+                "skála"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "hudba",
+                "noty",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "vysoký podpatek",
+                "móda",
+                "díva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "vleže",
+                "oslavný klobouček",
+                "uvolněný"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "headset",
+                "poslech",
+                "hudba"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "žárovka",
+                "brýle",
+                "nápad"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bubliny",
+                "lektvar",
+                "šťastný"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "jiskra",
+                "sluneční brýle",
+                "elegantní"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "sluchátka",
+                "leopard",
+                "hudba"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "zpívat"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "mimozemšťan",
+                "helma",
+                "vesmír"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "sluchátka",
+                "hudba",
+                "cool"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "kšiltovka",
+                "pozpátku",
+                "úkosem"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "čepice s vrtulkou",
+                "praštěný",
+                "dítě"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "zesilovač",
+                "kytara",
+                "hudba"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "buben",
+                "tamburína",
+                "mrknutí"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "žárovka",
+                "přemýšlet",
+                "nápad"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "ruka",
+                "pozdrav",
+                "pozdrav"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "brýle",
+                "chytrý",
+                "úšklebek"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "brýle",
+                "blondýnka",
+                "učení"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "plášť",
+                "hrdina",
+                "brýle"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "koruna",
+                "sluneční brýle",
+                "král"
+            ]
+        },
+        "chill": {
+            "name": "Pohoda",
+            "keywords": [
+                "sluneční brýle",
+                "uvolněný",
+                "cool"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Pohoda v brýlích",
+            "keywords": [
+                "kulaté brýle",
+                "uvolněný",
+                "cool"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "párty brýle",
+                "jazyk",
+                "přehnaně"
+            ]
+        },
+        "feisty": {
+            "name": "Bojovný",
+            "keywords": [
+                "box",
+                "rukavice",
+                "rvačka"
+            ]
+        },
+        "gutsy": {
+            "name": "Odvážlivec",
+            "keywords": [
+                "sluneční brýle",
+                "tvrďák",
+                "statečný"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "dobrá nálada"
+            ]
+        },
+        "rad": {
+            "name": "Bomba",
+            "keywords": [
+                "sluneční brýle",
+                "cool",
+                "šklebit se"
+            ]
+        },
+        "savvy": {
+            "name": "Zkušený",
+            "keywords": [
+                "sluneční brýle",
+                "čepice santy",
+                "chytrý"
+            ]
+        },
+        "serene": {
+            "name": "Poklidný",
+            "keywords": [
+                "kulaté brýle",
+                "klidný",
+                "úsměv"
+            ]
+        },
+        "shady": {
+            "name": "Podezřelý",
+            "keywords": [
+                "fedora",
+                "sluneční brýle",
+                "tajemný"
+            ]
+        },
+        "snappy": {
+            "name": "Vyfešákovaný",
+            "keywords": [
+                "motýlek",
+                "sušenka",
+                "úšklebek"
+            ]
+        },
+        "strong": {
+            "name": "Silný",
+            "keywords": [
+                "x",
+                "sluneční brýle",
+                "tvrďák"
+            ]
+        },
+        "wild": {
+            "name": "Divoký",
+            "keywords": [
+                "helma",
+                "blesk",
+                "sluneční brýle"
+            ]
+        },
+        "pumped": {
+            "name": "Nabuzený!",
+            "keywords": [
+                "boombox",
+                "hudba",
+                "oslava"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lávová lampa",
+                "retro",
+                "sedmdesátky"
+            ]
+        },
+        "quirky": {
+            "name": "Podivín",
+            "keywords": [
+                "klobouk",
+                "barevný",
+                "zábavný"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolumbie",
+                "klobouk",
+                "cool"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "sluneční brýle",
+                "divoký"
+            ]
+        },
+        "sidekick": {
+            "name": "Parťák",
+            "keywords": [
+                "partner",
+                "vousy",
+                "kámoš"
+            ]
+        },
+        "geeky": {
+            "name": "Šprt",
+            "keywords": [
+                "brýle",
+                "nerd",
+                "zírání"
+            ]
+        },
+        "smart": {
+            "name": "Chytrý",
+            "keywords": [
+                "žárovka",
+                "jazyk",
+                "nápad"
+            ]
+        },
+        "light": {
+            "name": "Světlý",
+            "keywords": [
+                "bodlavý",
+                "blond",
+                "našpulené rty"
+            ]
+        }
+    }
+}

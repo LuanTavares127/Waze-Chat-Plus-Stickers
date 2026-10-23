@@ -1,0 +1,382 @@
+{
+    "name": "Feest, Sterrenbeeld & Fantasie",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "sneeuwpop",
+                "winter",
+                "sjaal"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "feestmuts",
+                "verjaardag",
+                "vieren"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "helm",
+                "kaartspeld"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "nar",
+                "hoed",
+                "lachen"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "kerst",
+                "kerstman",
+                "zonnebril"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "tovenaar",
+                "hoed",
+                "magie"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "heks",
+                "hoed",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "carnaval",
+                "hoofdtooi",
+                "veren"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "sjaal",
+                "muts",
+                "winter"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "carnaval",
+                "masker",
+                "feest"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nieuwjaar",
+                "2026",
+                "feest"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "hamer",
+                "schild"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "winter",
+                "muts",
+                "koud"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "wacht",
+                "londen",
+                "hoed"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "hoge hoed",
+                "thee",
+                "wonderland"
+            ]
+        },
+        "aries": {
+            "name": "Ram",
+            "keywords": [
+                "sterrenbeeld",
+                "ram",
+                "horoscoop"
+            ]
+        },
+        "taurus": {
+            "name": "Stier",
+            "keywords": [
+                "sterrenbeeld",
+                "stier",
+                "horoscoop"
+            ]
+        },
+        "gemini": {
+            "name": "Tweelingen",
+            "keywords": [
+                "sterrenbeeld",
+                "tweeling",
+                "horoscoop"
+            ]
+        },
+        "cancer": {
+            "name": "Kreeft",
+            "keywords": [
+                "sterrenbeeld",
+                "krab",
+                "horoscoop"
+            ]
+        },
+        "leo": {
+            "name": "Leeuw",
+            "keywords": [
+                "sterrenbeeld",
+                "leeuw",
+                "horoscoop"
+            ]
+        },
+        "virgo": {
+            "name": "Maagd",
+            "keywords": [
+                "sterrenbeeld",
+                "maagd",
+                "horoscoop"
+            ]
+        },
+        "libra": {
+            "name": "Weegschaal",
+            "keywords": [
+                "sterrenbeeld",
+                "weegschaal",
+                "horoscoop"
+            ]
+        },
+        "scorpio": {
+            "name": "Schorpioen",
+            "keywords": [
+                "sterrenbeeld",
+                "schorpioen",
+                "horoscoop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Boogschutter",
+            "keywords": [
+                "sterrenbeeld",
+                "boogschutter",
+                "horoscoop"
+            ]
+        },
+        "capricorn": {
+            "name": "Steenbok",
+            "keywords": [
+                "sterrenbeeld",
+                "geit",
+                "horoscoop"
+            ]
+        },
+        "aquarius": {
+            "name": "Waterman",
+            "keywords": [
+                "sterrenbeeld",
+                "water",
+                "horoscoop"
+            ]
+        },
+        "pisces": {
+            "name": "Vissen",
+            "keywords": [
+                "sterrenbeeld",
+                "vis",
+                "horoscoop"
+            ]
+        },
+        "santa": {
+            "name": "Kerstman",
+            "keywords": [
+                "kerst",
+                "kerstman",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Feestelijk",
+            "keywords": [
+                "kerst",
+                "kerstmuts",
+                "baard"
+            ]
+        },
+        "frazzled": {
+            "name": "Afgemat",
+            "keywords": [
+                "kerst",
+                "moe",
+                "kerstman"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Carnavalsvierder",
+            "keywords": [
+                "carnaval",
+                "matroos",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Vrolijk feest",
+            "keywords": [
+                "feestmuts",
+                "ster",
+                "vieren"
+            ]
+        },
+        "blossom": {
+            "name": "Bloesem",
+            "keywords": [
+                "bloem",
+                "roze",
+                "lente"
+            ]
+        },
+        "cupid": {
+            "name": "Cupido",
+            "keywords": [
+                "valentijn",
+                "pijl",
+                "liefde"
+            ]
+        },
+        "happy-clown": {
+            "name": "Vrolijke clown",
+            "keywords": [
+                "clown",
+                "circus",
+                "plezier"
+            ]
+        },
+        "scary-clown": {
+            "name": "Enge clown",
+            "keywords": [
+                "clown",
+                "halloween",
+                "eng"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "ondood"
+            ]
+        },
+        "zombified": {
+            "name": "Verzombied",
+            "keywords": [
+                "zombie",
+                "moe",
+                "hechtingen"
+            ]
+        },
+        "monster": {
+            "name": "Monster",
+            "keywords": [
+                "één oog",
+                "cycloop",
+                "monster"
+            ]
+        },
+        "mystical": {
+            "name": "Mystiek",
+            "keywords": [
+                "capuchon",
+                "elf",
+                "magie"
+            ]
+        },
+        "mighty": {
+            "name": "Machtig",
+            "keywords": [
+                "viking",
+                "snor",
+                "hoorns"
+            ]
+        },
+        "angelic": {
+            "name": "Engelachtig",
+            "keywords": [
+                "engel",
+                "aureool",
+                "vleugels"
+            ]
+        },
+        "devious": {
+            "name": "Sluw",
+            "keywords": [
+                "duivel",
+                "hoorns",
+                "grijns"
+            ]
+        },
+        "diabolical": {
+            "name": "Duivels",
+            "keywords": [
+                "schurk",
+                "monocle",
+                "kwaadaardig"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "genie",
+                "wetenschapper",
+                "tong"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgië",
+                "hoorn",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "ruimte",
+                "helm"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (Blauw)",
+            "keywords": [
+                "astronaut",
+                "ruimte",
+                "maan"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "held",
+                "tiara",
+                "kracht"
+            ]
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "name": "Duygular",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasik",
+                "merhaba",
+                "mutlu"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "gözyaşı",
+                "üzgün",
+                "gece takkesi"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "boş",
+                "nötr",
+                "sade"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "aşk",
+                "kalp",
+                "tatlı"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "ebeveyn",
+                "bebek",
+                "aile"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "ağlamak",
+                "üzgün",
+                "umutsuzluk"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "hasta",
+                "mide bulantısı",
+                "rahatsız"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "garip",
+                "rahatsız",
+                "off"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "heyecanlı",
+                "yaşasın",
+                "kanat"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "mutlu",
+                "kahkaha",
+                "şapka"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "kızgın",
+                "sinirli",
+                "kaş çatma"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "soru",
+                "ne",
+                "şüphe"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "nilüfer",
+                "meditasyon",
+                "sakin"
+            ]
+        },
+        "amazing": {
+            "name": "Muhteşem",
+            "keywords": [
+                "vay",
+                "yıldızlı göz",
+                "harika"
+            ]
+        },
+        "amused": {
+            "name": "Eğlenmiş",
+            "keywords": [
+                "göz devirme",
+                "her neyse",
+                "sırıtma"
+            ]
+        },
+        "antsy": {
+            "name": "Huzursuz",
+            "keywords": [
+                "sabırsız",
+                "stresli",
+                "off"
+            ]
+        },
+        "bored": {
+            "name": "Sıkılmış",
+            "keywords": [
+                "ıh",
+                "sıkıcı",
+                "bla bla"
+            ]
+        },
+        "carsick": {
+            "name": "Araba Tutmuş",
+            "keywords": [
+                "hasta",
+                "mide bulantısı",
+                "araba tutması"
+            ]
+        },
+        "cheeky": {
+            "name": "Arsız",
+            "keywords": [
+                "göz kırpma",
+                "dil",
+                "şaka"
+            ]
+        },
+        "depressed": {
+            "name": "Depresif",
+            "keywords": [
+                "üzgün",
+                "moralsiz",
+                "mavi"
+            ]
+        },
+        "exasperated": {
+            "name": "Bıkkın",
+            "keywords": [
+                "bıkmış",
+                "iç çekme",
+                "sinirli"
+            ]
+        },
+        "flustered": {
+            "name": "Şaşkın",
+            "keywords": [
+                "şok",
+                "bağırmak",
+                "olamaz"
+            ]
+        },
+        "funny": {
+            "name": "Komik",
+            "keywords": [
+                "kahkaha",
+                "lol",
+                "sevinç gözyaşı"
+            ]
+        },
+        "furious": {
+            "name": "Öfkeli",
+            "keywords": [
+                "öfke",
+                "küfür",
+                "kızgın"
+            ]
+        },
+        "grumpy": {
+            "name": "Huysuz",
+            "keywords": [
+                "aksi",
+                "sinirli",
+                "kulaklık"
+            ]
+        },
+        "happy": {
+            "name": "Mutlu",
+            "keywords": [
+                "sevinç",
+                "kahkaha",
+                "gülümseme"
+            ]
+        },
+        "hilarious": {
+            "name": "Çok Komik",
+            "keywords": [
+                "lol",
+                "kahkaha",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Alçakgönüllü",
+            "keywords": [
+                "minnettar",
+                "sakin",
+                "kanat"
+            ]
+        },
+        "joyful": {
+            "name": "Neşeli",
+            "keywords": [
+                "kahkaha",
+                "mutlu",
+                "oh be"
+            ]
+        },
+        "judgmental": {
+            "name": "Yargılayıcı",
+            "keywords": [
+                "onaylamamak",
+                "kaş çatma",
+                "yargılamak"
+            ]
+        },
+        "loved-up": {
+            "name": "Aşık",
+            "keywords": [
+                "aşık",
+                "kalp gözler",
+                "hoşlanma"
+            ]
+        },
+        "mind-blown": {
+            "name": "Aklı Uçmuş",
+            "keywords": [
+                "şok",
+                "vay",
+                "patlama"
+            ]
+        },
+        "moody": {
+            "name": "Havasız",
+            "keywords": [
+                "ıh",
+                "dalgalı çizgi",
+                "kutu"
+            ]
+        },
+        "nervous": {
+            "name": "Gergin",
+            "keywords": [
+                "endişeli",
+                "ter",
+                "kaygılı"
+            ]
+        },
+        "obsessed": {
+            "name": "Takıntılı",
+            "keywords": [
+                "yıldızlı göz",
+                "çığlık",
+                "hayran"
+            ]
+        },
+        "sad": {
+            "name": "Üzgün",
+            "keywords": [
+                "gözyaşı",
+                "ağlamak",
+                "moralsiz"
+            ]
+        },
+        "shy": {
+            "name": "Utangaç",
+            "keywords": [
+                "kızarmak",
+                "sevimli",
+                "utanmış"
+            ]
+        },
+        "skeptical": {
+            "name": "Şüpheci",
+            "keywords": [
+                "şüphe",
+                "etkilenmemiş",
+                "gerçekten mi"
+            ]
+        },
+        "spacey": {
+            "name": "Dalgın",
+            "keywords": [
+                "dalgın",
+                "hayal kurmak",
+                "dalgın"
+            ]
+        },
+        "tired": {
+            "name": "Yorgun",
+            "keywords": [
+                "göz küresi",
+                "kan çanağı",
+                "uykulu"
+            ]
+        },
+        "unproductive": {
+            "name": "Verimsiz",
+            "keywords": [
+                "yapışkan not",
+                "tembel",
+                "bitti"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "sakin",
+                "rahat",
+                "barış"
+            ]
+        },
+        "mischievous": {
+            "name": "Yaramaz",
+            "keywords": [
+                "ah",
+                "şaşırmış",
+                "kutu"
+            ]
+        },
+        "wicked": {
+            "name": "Kötücül",
+            "keywords": [
+                "kötü sırıtış",
+                "yaramazlık",
+                "kutu"
+            ]
+        },
+        "motivated": {
+            "name": "Motive",
+            "keywords": [
+                "heyecanlı",
+                "hadi",
+                "saç"
+            ]
+        },
+        "proud": {
+            "name": "Gururlu",
+            "keywords": [
+                "gurur",
+                "gökkuşağı",
+                "kalp"
+            ]
+        }
+    }
+}

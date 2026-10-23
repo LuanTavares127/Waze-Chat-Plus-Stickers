@@ -1,0 +1,351 @@
+{
+    "name": "Uz ceļa un darbā",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "čemodāniņš",
+                "ceļojums",
+                "piedzīvojums"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "dzēriens",
+                "brilles",
+                "laboratorija"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "pētnieks",
+                "cepure",
+                "piedzīvojums"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "karogs",
+                "apskates vietas"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "jūrnieks",
+                "cepure",
+                "laiva"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "koferis",
+                "cepure",
+                "ceļojums"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilots",
+                "aizsargbrilles",
+                "ķivere"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "pūce",
+                "izlaidums",
+                "gudrs"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "ugunsdzēšamais aparāts",
+                "drošība",
+                "nervozs"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "būvnieka ķivere",
+                "būvniecība",
+                "veste"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "salmu cepure",
+                "lauku sēta",
+                "jūnija svētki"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "ķivere",
+                "zvaigznes",
+                "sacīkšu braucējs"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "sejas maska",
+                "veselība",
+                "drošs"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "hronometrs",
+                "galvas saite",
+                "treniņš"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "balsojums",
+                "vēlēšanas",
+                "biļetens"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signāls",
+                "robots",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "balsojums",
+                "zīme",
+                "vēlēšanas"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medaļa",
+                "lente",
+                "piemiegt"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "piegāde",
+                "ķivere",
+                "kaste"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robots",
+                "antena",
+                "pētnieks"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "teksta burbulis",
+                "čats",
+                "runāt"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "svilpe",
+                "tiesnesis",
+                "pārkāpums"
+            ]
+        },
+        "road-warrior": {
+            "name": "Ceļu karotājs",
+            "keywords": [
+                "ķivere",
+                "aizsargbrilles",
+                "spārns"
+            ]
+        },
+        "limitless": {
+            "name": "Bez robežām",
+            "keywords": [
+                "šoseja",
+                "vairogs",
+                "ceļa zīme"
+            ]
+        },
+        "map-master": {
+            "name": "Karšu meistars",
+            "keywords": [
+                "redaktors",
+                "karte",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega vilcējs",
+            "keywords": [
+                "kravas auto",
+                "aizsargbrilles",
+                "pārvadātājs"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapteinis Paldies",
+            "keywords": [
+                "paldies",
+                "kapteinis",
+                "ūsas"
+            ]
+        },
+        "all-business": {
+            "name": "Tikai darbs",
+            "keywords": [
+                "uzvalks",
+                "kaklasaite",
+                "darbs"
+            ]
+        },
+        "business-casual": {
+            "name": "Biznesa brīvais stils",
+            "keywords": [
+                "kaklasaite",
+                "galvas saite",
+                "mēle"
+            ]
+        },
+        "businessy": {
+            "name": "Biznesa stilā",
+            "keywords": [
+                "uzvalks",
+                "brilles",
+                "birojs"
+            ]
+        },
+        "bawse-y": {
+            "name": "Kā bosam",
+            "keywords": [
+                "boss",
+                "saulesbrilles",
+                "uzvalks"
+            ]
+        },
+        "productive": {
+            "name": "Produktīvs",
+            "keywords": [
+                "austiņas ar mikrofonu",
+                "darbs",
+                "piemiegt"
+            ]
+        },
+        "dialed-up": {
+            "name": "Savienojumā",
+            "keywords": [
+                "dators",
+                "retro",
+                "internets"
+            ]
+        },
+        "undercover": {
+            "name": "Slepenībā",
+            "keywords": [
+                "maskēšanās",
+                "brilles",
+                "deguns"
+            ]
+        },
+        "sneaky": {
+            "name": "Zagšus",
+            "keywords": [
+                "nindzja",
+                "slepenība",
+                "maska"
+            ]
+        },
+        "survivalist": {
+            "name": "Izdzīvotājs",
+            "keywords": [
+                "bandana",
+                "rēta",
+                "izturīgs"
+            ]
+        },
+        "speedy": {
+            "name": "Ātrs",
+            "keywords": [
+                "ātrs",
+                "ātrums",
+                "ņirdzīgs smaids"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteris",
+            "keywords": [
+                "riteņbraukšana",
+                "cepure",
+                "ātrs"
+            ]
+        },
+        "unstoppable": {
+            "name": "Nepārvarams",
+            "keywords": [
+                "ātrs",
+                "dzirkstele",
+                "skriet"
+            ]
+        },
+        "comfortable": {
+            "name": "Ērts",
+            "keywords": [
+                "kedas",
+                "kurpe",
+                "omulīgs"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Videi draudzīgs",
+            "keywords": [
+                "zeme",
+                "planēta",
+                "zaļš"
+            ]
+        },
+        "global": {
+            "name": "Globāls",
+            "keywords": [
+                "zeme",
+                "megafons",
+                "pasaule"
+            ]
+        },
+        "victorious": {
+            "name": "Uzvarētājs",
+            "keywords": [
+                "trofeja",
+                "uzvarētājs",
+                "čempions"
+            ]
+        },
+        "beautiful": {
+            "name": "Skaists",
+            "keywords": [
+                "futbols",
+                "futbols",
+                "bumba"
+            ]
+        },
+        "masterful": {
+            "name": "Meistarīgs",
+            "keywords": [
+                "golfs",
+                "bumba",
+                "sports"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "ķivere",
+                "motocikls",
+                "steigties"
+            ]
+        }
+    }
+}

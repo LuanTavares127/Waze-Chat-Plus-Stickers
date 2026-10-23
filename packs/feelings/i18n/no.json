@@ -1,0 +1,360 @@
+{
+    "name": "Følelser",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassisk",
+                "hei",
+                "glad"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "tåre",
+                "trist",
+                "nattlue"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "blank",
+                "nøytral",
+                "enkel"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "kjærlighet",
+                "hjerte",
+                "søtt"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "forelder",
+                "baby",
+                "familie"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "gråtende",
+                "opprørt",
+                "fortvilelse"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "syk",
+                "kvalme",
+                "uvel"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "pinlig",
+                "ukomfortabel",
+                "uff"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "spent",
+                "hurra",
+                "vinger"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "glad",
+                "le",
+                "hatt"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "sint",
+                "irritert",
+                "rynke pannen"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "spørsmål",
+                "hva",
+                "tvil"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "meditasjon",
+                "rolig"
+            ]
+        },
+        "amazing": {
+            "name": "Fantastisk",
+            "keywords": [
+                "wow",
+                "stjerneøyne",
+                "fantastisk"
+            ]
+        },
+        "amused": {
+            "name": "Moret",
+            "keywords": [
+                "himle med øynene",
+                "samme det",
+                "smørsmil"
+            ]
+        },
+        "antsy": {
+            "name": "Rastløs",
+            "keywords": [
+                "utålmodig",
+                "stresset",
+                "uff"
+            ]
+        },
+        "bored": {
+            "name": "Kjedet",
+            "keywords": [
+                "meh",
+                "kjedelig",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Bilsyk",
+            "keywords": [
+                "syk",
+                "kvalme",
+                "bilsyke"
+            ]
+        },
+        "cheeky": {
+            "name": "Frekk",
+            "keywords": [
+                "blunk",
+                "tunge",
+                "spøk"
+            ]
+        },
+        "depressed": {
+            "name": "Deprimert",
+            "keywords": [
+                "trist",
+                "nedfor",
+                "blå"
+            ]
+        },
+        "exasperated": {
+            "name": "Oppgitt",
+            "keywords": [
+                "lei",
+                "sukk",
+                "irritert"
+            ]
+        },
+        "flustered": {
+            "name": "Paff",
+            "keywords": [
+                "sjokkert",
+                "rope",
+                "å nei"
+            ]
+        },
+        "funny": {
+            "name": "Morsom",
+            "keywords": [
+                "le",
+                "lol",
+                "gledestårer"
+            ]
+        },
+        "furious": {
+            "name": "Rasende",
+            "keywords": [
+                "raseri",
+                "banning",
+                "sint"
+            ]
+        },
+        "grumpy": {
+            "name": "Gretten",
+            "keywords": [
+                "sur",
+                "irritert",
+                "hodetelefoner"
+            ]
+        },
+        "happy": {
+            "name": "Glad",
+            "keywords": [
+                "glede",
+                "le",
+                "smil"
+            ]
+        },
+        "hilarious": {
+            "name": "Hysterisk morsom",
+            "keywords": [
+                "lol",
+                "le",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Ydmyk",
+            "keywords": [
+                "takknemlig",
+                "rolig",
+                "vinger"
+            ]
+        },
+        "joyful": {
+            "name": "Gledesfylt",
+            "keywords": [
+                "le",
+                "glad",
+                "puh"
+            ]
+        },
+        "judgmental": {
+            "name": "Fordømmende",
+            "keywords": [
+                "misbillige",
+                "rynke pannen",
+                "dømme"
+            ]
+        },
+        "loved-up": {
+            "name": "Forelsket",
+            "keywords": [
+                "forelsket",
+                "hjerteøyne",
+                "forelskelse"
+            ]
+        },
+        "mind-blown": {
+            "name": "Mind-blown",
+            "keywords": [
+                "sjokkert",
+                "wow",
+                "eksplosjon"
+            ]
+        },
+        "moody": {
+            "name": "Lunefull",
+            "keywords": [
+                "meh",
+                "krusedull",
+                "boks"
+            ]
+        },
+        "nervous": {
+            "name": "Nervøs",
+            "keywords": [
+                "engstelig",
+                "svette",
+                "bekymret"
+            ]
+        },
+        "obsessed": {
+            "name": "Besatt",
+            "keywords": [
+                "stjerneøyne",
+                "skrik",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Trist",
+            "keywords": [
+                "tåre",
+                "gråte",
+                "nedfor"
+            ]
+        },
+        "shy": {
+            "name": "Sjenert",
+            "keywords": [
+                "rødme",
+                "søt",
+                "flau"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptisk",
+            "keywords": [
+                "tvil",
+                "uimponert",
+                "virkelig"
+            ]
+        },
+        "spacey": {
+            "name": "Åndsfraværende",
+            "keywords": [
+                "distrahert",
+                "dagdrøm",
+                "fraværende"
+            ]
+        },
+        "tired": {
+            "name": "Trøtt",
+            "keywords": [
+                "øyeeple",
+                "blodskutt",
+                "søvnig"
+            ]
+        },
+        "unproductive": {
+            "name": "Uproduktiv",
+            "keywords": [
+                "gul lapp",
+                "lat",
+                "ferdig"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "rolig",
+                "avslappet",
+                "fred"
+            ]
+        },
+        "mischievous": {
+            "name": "Rampete",
+            "keywords": [
+                "å",
+                "overrasket",
+                "boks"
+            ]
+        },
+        "wicked": {
+            "name": "Slem",
+            "keywords": [
+                "ondt glis",
+                "rampestrek",
+                "boks"
+            ]
+        },
+        "motivated": {
+            "name": "Motivert",
+            "keywords": [
+                "spent",
+                "kjør på",
+                "hår"
+            ]
+        },
+        "proud": {
+            "name": "Stolt",
+            "keywords": [
+                "stolthet",
+                "regnbue",
+                "hjerte"
+            ]
+        }
+    }
+}

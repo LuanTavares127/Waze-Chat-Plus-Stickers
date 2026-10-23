@@ -1,0 +1,358 @@
+{
+    "name": "Piztiak eta gauzak",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "harkaitza",
+                "harria",
+                "azkar"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "hartza",
+                "arrantzale-kapela",
+                "irribarrea"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "txoria",
+                "lasai"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "garuna",
+                "argia",
+                "pentsatu"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosauroa",
+                "hortzak",
+                "ziztada"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "letaginak",
+                "hortzak",
+                "irribarre maltzurra"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "behia",
+                "muuu",
+                "baserria"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "koroa"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "begi-keinua"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "koroa"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "herensugea",
+                "gorria",
+                "munstroa"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "eskua",
+                "begia",
+                "babesa"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "begia",
+                "seinalea",
+                "misterioa"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "tea-pota",
+                "tea",
+                "sagarra"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "txoria",
+                "txapela",
+                "hitz egin"
+            ]
+        },
+        "8-bit": {
+            "name": "8 bit",
+            "keywords": [
+                "pixela",
+                "retro",
+                "jokoa"
+            ]
+        },
+        "aware": {
+            "name": "Jakitun",
+            "keywords": [
+                "ostadarra",
+                "lasaitasuna",
+                "koloreak"
+            ]
+        },
+        "baby": {
+            "name": "Haurra",
+            "keywords": [
+                "txupete",
+                "haurra",
+                "polita"
+            ]
+        },
+        "blobby": {
+            "name": "Orbana",
+            "keywords": [
+                "orbana",
+                "burbuilak",
+                "izarrak"
+            ]
+        },
+        "bright": {
+            "name": "Distiratsua",
+            "keywords": [
+                "izarra",
+                "distira",
+                "ostadarra"
+            ]
+        },
+        "calm": {
+            "name": "Lasaia",
+            "keywords": [
+                "hodeia",
+                "txapela",
+                "zerua"
+            ]
+        },
+        "captivated": {
+            "name": "Liluratua",
+            "keywords": [
+                "kamera",
+                "argazkia",
+                "irudia"
+            ]
+        },
+        "cat": {
+            "name": "Katua",
+            "keywords": [
+                "katua",
+                "katutxoa",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Zelula",
+            "keywords": [
+                "zelula",
+                "biologia",
+                "orbana"
+            ]
+        },
+        "centered": {
+            "name": "Orekatua",
+            "keywords": [
+                "harriak",
+                "oreka",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmikoa",
+            "keywords": [
+                "antenak",
+                "estralurtarra",
+                "pozik"
+            ]
+        },
+        "destemido": {
+            "name": "Beldurrik gabea",
+            "keywords": [
+                "kaktusa",
+                "landarea",
+                "gogorra"
+            ]
+        },
+        "dog": {
+            "name": "Txakurra",
+            "keywords": [
+                "txakurra",
+                "txakurkumea",
+                "mihia"
+            ]
+        },
+        "fancy": {
+            "name": "Dotorea",
+            "keywords": [
+                "tarta",
+                "xerra",
+                "gerezia"
+            ]
+        },
+        "flowing": {
+            "name": "Jariakorra",
+            "keywords": [
+                "ura",
+                "tanta",
+                "euria"
+            ]
+        },
+        "hopeful": {
+            "name": "Itxaropentsua",
+            "keywords": [
+                "hodeia",
+                "eguzkia",
+                "lasaitasuna"
+            ]
+        },
+        "hungry": {
+            "name": "Gosea",
+            "keywords": [
+                "hanburgesa",
+                "janaria",
+                "bazkaria"
+            ]
+        },
+        "magical": {
+            "name": "Magikoa",
+            "keywords": [
+                "unikornioa",
+                "ostadarra",
+                "magia"
+            ]
+        },
+        "magical-2": {
+            "name": "Magikoa (2)",
+            "keywords": [
+                "magia",
+                "arrosa",
+                "famatua"
+            ]
+        },
+        "open": {
+            "name": "Irekia",
+            "keywords": [
+                "mendia",
+                "bandera",
+                "gailurra"
+            ]
+        },
+        "playful": {
+            "name": "Jostalaria",
+            "keywords": [
+                "izurdea",
+                "itsasoa",
+                "dibertsioa"
+            ]
+        },
+        "prickly": {
+            "name": "Ziztrinkorra",
+            "keywords": [
+                "kaktusa",
+                "haserrekorra",
+                "ziztrinkorra"
+            ]
+        },
+        "quantom": {
+            "name": "Kuantikoa",
+            "keywords": [
+                "planeta",
+                "orbita",
+                "espazioa"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robota",
+                "makina",
+                "teknologia"
+            ]
+        },
+        "rocket": {
+            "name": "Suziria",
+            "keywords": [
+                "suziria",
+                "azkar",
+                "sua"
+            ]
+        },
+        "spiritual": {
+            "name": "Espirituala",
+            "keywords": [
+                "panda",
+                "eguzkitako betaurrekoak",
+                "lasai"
+            ]
+        },
+        "starry": {
+            "name": "Izarrez betea",
+            "keywords": [
+                "begi bakarra",
+                "munstroa",
+                "harrituta"
+            ]
+        },
+        "sunny": {
+            "name": "Eguzkitsua",
+            "keywords": [
+                "ekilorea",
+                "eguzkia",
+                "lorea"
+            ]
+        },
+        "sweet": {
+            "name": "Goxoa",
+            "keywords": [
+                "goxokia",
+                "menda",
+                "goxoa"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosauroa",
+                "hortzak",
+                "orroa"
+            ]
+        },
+        "wolfie": {
+            "name": "Otsotxoa",
+            "keywords": [
+                "otsoa",
+                "uluka",
+                "maltzurra"
+            ]
+        }
+    }
+}

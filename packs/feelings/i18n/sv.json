@@ -1,0 +1,360 @@
+{
+    "name": "Känslor",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassisk",
+                "hej",
+                "glad"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "tår",
+                "ledsen",
+                "nattmössa"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "tom",
+                "neutral",
+                "vanlig"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "kärlek",
+                "hjärta",
+                "söt"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "förälder",
+                "bebis",
+                "familj"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "gråta",
+                "upprörd",
+                "förtvivlan"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "sjuk",
+                "illamående",
+                "krasslig"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "pinsam",
+                "obekväm",
+                "usch"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "pepp",
+                "hurra",
+                "vingar"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "glad",
+                "skratta",
+                "hatt"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "arg",
+                "irriterad",
+                "sur min"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "fråga",
+                "va",
+                "tvivel"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotus",
+                "meditation",
+                "lugn"
+            ]
+        },
+        "amazing": {
+            "name": "Fantastisk",
+            "keywords": [
+                "wow",
+                "stjärnögon",
+                "grymt"
+            ]
+        },
+        "amused": {
+            "name": "Road",
+            "keywords": [
+                "himla med ögonen",
+                "skit samma",
+                "smirk"
+            ]
+        },
+        "antsy": {
+            "name": "Rastlös",
+            "keywords": [
+                "otålig",
+                "stressad",
+                "usch"
+            ]
+        },
+        "bored": {
+            "name": "Uttråkad",
+            "keywords": [
+                "mja",
+                "tråkigt",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Bilsjuk",
+            "keywords": [
+                "sjuk",
+                "illamående",
+                "åksjuka"
+            ]
+        },
+        "cheeky": {
+            "name": "Fräck",
+            "keywords": [
+                "blinka",
+                "tunga",
+                "skoj"
+            ]
+        },
+        "depressed": {
+            "name": "Deprimerad",
+            "keywords": [
+                "ledsen",
+                "nedstämd",
+                "blå"
+            ]
+        },
+        "exasperated": {
+            "name": "Uppgiven",
+            "keywords": [
+                "less",
+                "suck",
+                "irriterad"
+            ]
+        },
+        "flustered": {
+            "name": "Skärrad",
+            "keywords": [
+                "chockad",
+                "skrika",
+                "oj då"
+            ]
+        },
+        "funny": {
+            "name": "Rolig",
+            "keywords": [
+                "skratta",
+                "lol",
+                "glädjetårar"
+            ]
+        },
+        "furious": {
+            "name": "Rasande",
+            "keywords": [
+                "raseri",
+                "svärande",
+                "arg"
+            ]
+        },
+        "grumpy": {
+            "name": "Sur",
+            "keywords": [
+                "butter",
+                "irriterad",
+                "hörlurar"
+            ]
+        },
+        "happy": {
+            "name": "Glad",
+            "keywords": [
+                "glädje",
+                "skratta",
+                "leende"
+            ]
+        },
+        "hilarious": {
+            "name": "Hysterisk",
+            "keywords": [
+                "lol",
+                "skratta",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Ödmjuk",
+            "keywords": [
+                "tacksam",
+                "lugn",
+                "vingar"
+            ]
+        },
+        "joyful": {
+            "name": "Glädjefylld",
+            "keywords": [
+                "skratta",
+                "glad",
+                "puh"
+            ]
+        },
+        "judgmental": {
+            "name": "Dömande",
+            "keywords": [
+                "ogilla",
+                "sur min",
+                "dömande"
+            ]
+        },
+        "loved-up": {
+            "name": "Förälskad",
+            "keywords": [
+                "kär",
+                "hjärtögon",
+                "förälskelse"
+            ]
+        },
+        "mind-blown": {
+            "name": "Chockad",
+            "keywords": [
+                "chockad",
+                "wow",
+                "explosion"
+            ]
+        },
+        "moody": {
+            "name": "Lynnig",
+            "keywords": [
+                "mja",
+                "snirkel",
+                "låda"
+            ]
+        },
+        "nervous": {
+            "name": "Nervös",
+            "keywords": [
+                "orolig",
+                "svett",
+                "bekymrad"
+            ]
+        },
+        "obsessed": {
+            "name": "Besatt",
+            "keywords": [
+                "stjärnögon",
+                "skrika",
+                "fan"
+            ]
+        },
+        "sad": {
+            "name": "Ledsen",
+            "keywords": [
+                "tår",
+                "gråta",
+                "nedstämd"
+            ]
+        },
+        "shy": {
+            "name": "Blyg",
+            "keywords": [
+                "rodna",
+                "gullig",
+                "generad"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptisk",
+            "keywords": [
+                "tvivel",
+                "oimponerad",
+                "verkligen"
+            ]
+        },
+        "spacey": {
+            "name": "Disträ",
+            "keywords": [
+                "ouppmärksam",
+                "dagdröm",
+                "frånvarande"
+            ]
+        },
+        "tired": {
+            "name": "Trött",
+            "keywords": [
+                "ögonglob",
+                "blodsprängd",
+                "sömnig"
+            ]
+        },
+        "unproductive": {
+            "name": "Improduktiv",
+            "keywords": [
+                "post-it",
+                "lat",
+                "klar"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "lugn",
+                "avslappnad",
+                "frid"
+            ]
+        },
+        "mischievous": {
+            "name": "Bus",
+            "keywords": [
+                "åh",
+                "förvånad",
+                "låda"
+            ]
+        },
+        "wicked": {
+            "name": "Ond",
+            "keywords": [
+                "elak min",
+                "bus",
+                "låda"
+            ]
+        },
+        "motivated": {
+            "name": "Motiverad",
+            "keywords": [
+                "pepp",
+                "kör",
+                "hår"
+            ]
+        },
+        "proud": {
+            "name": "Stolt",
+            "keywords": [
+                "pride",
+                "regnbåge",
+                "hjärta"
+            ]
+        }
+    }
+}

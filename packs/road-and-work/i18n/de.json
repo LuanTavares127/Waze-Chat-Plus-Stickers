@@ -1,0 +1,351 @@
+{
+    "name": "Unterwegs & bei der Arbeit",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "Bündel",
+                "Reise",
+                "Abenteuer"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "Zaubertrank",
+                "Brille",
+                "Labor"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "Entdecker",
+                "Hut",
+                "Abenteuer"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "Kamera",
+                "Flagge",
+                "Sightseeing"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "Matrose",
+                "Mütze",
+                "Boot"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "Koffer",
+                "Hut",
+                "Reise"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "Pilot",
+                "Schutzbrille",
+                "Helm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "Eule",
+                "Abschluss",
+                "schlau"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "Feuerlöscher",
+                "Sicherheit",
+                "nervös"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "Schutzhelm",
+                "Baustelle",
+                "Weste"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "Strohhut",
+                "Bauernhof",
+                "Juni-Fest"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "Helm",
+                "Sterne",
+                "Rennfahrer"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "Gesichtsmaske",
+                "Gesundheit",
+                "sicher"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "Stoppuhr",
+                "Stirnband",
+                "Training"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "Stimme",
+                "Wahl",
+                "Stimmzettel"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "Signal",
+                "Roboter",
+                "WLAN"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "Stimme",
+                "Zeichen",
+                "Wahl"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "Medaille",
+                "Band",
+                "zwinkern"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "Lieferung",
+                "Helm",
+                "Kasten"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "Roboter",
+                "Antenne",
+                "Entdecker"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "Sprechblase",
+                "Chat",
+                "reden"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "Pfeife",
+                "Schiedsrichter",
+                "Foul"
+            ]
+        },
+        "road-warrior": {
+            "name": "Straßenkrieger",
+            "keywords": [
+                "Helm",
+                "Schutzbrille",
+                "Flügel"
+            ]
+        },
+        "limitless": {
+            "name": "Grenzenlos",
+            "keywords": [
+                "Autobahn",
+                "Schild",
+                "Verkehrsschild"
+            ]
+        },
+        "map-master": {
+            "name": "Kartenmeister",
+            "keywords": [
+                "Editor",
+                "Karte",
+                "Wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-Trucker",
+            "keywords": [
+                "Lkw",
+                "Schutzbrille",
+                "Spediteur"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Käpt'n Danke",
+            "keywords": [
+                "danke",
+                "Kapitän",
+                "Schnurrbart"
+            ]
+        },
+        "all-business": {
+            "name": "Ganz geschäftlich",
+            "keywords": [
+                "Anzug",
+                "Krawatte",
+                "Arbeit"
+            ]
+        },
+        "business-casual": {
+            "name": "Business Casual",
+            "keywords": [
+                "Krawatte",
+                "Stirnband",
+                "Zunge"
+            ]
+        },
+        "businessy": {
+            "name": "Geschäftsmäßig",
+            "keywords": [
+                "Anzug",
+                "Brille",
+                "Büro"
+            ]
+        },
+        "bawse-y": {
+            "name": "Chefmäßig",
+            "keywords": [
+                "Chef",
+                "Sonnenbrille",
+                "Anzug"
+            ]
+        },
+        "productive": {
+            "name": "Produktiv",
+            "keywords": [
+                "Headset",
+                "Arbeit",
+                "zwinkern"
+            ]
+        },
+        "dialed-up": {
+            "name": "Einwahlverbindung",
+            "keywords": [
+                "Computer",
+                "Retro",
+                "Internet"
+            ]
+        },
+        "undercover": {
+            "name": "Undercover",
+            "keywords": [
+                "Verkleidung",
+                "Brille",
+                "Nase"
+            ]
+        },
+        "sneaky": {
+            "name": "Schleichend",
+            "keywords": [
+                "Ninja",
+                "Tarnung",
+                "Maske"
+            ]
+        },
+        "survivalist": {
+            "name": "Überlebenskünstler",
+            "keywords": [
+                "Bandana",
+                "Narbe",
+                "hart"
+            ]
+        },
+        "speedy": {
+            "name": "Flott",
+            "keywords": [
+                "schnell",
+                "Tempo",
+                "Schmunzeln"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "Radfahren",
+                "Mütze",
+                "schnell"
+            ]
+        },
+        "unstoppable": {
+            "name": "Unaufhaltsam",
+            "keywords": [
+                "schnell",
+                "funkeln",
+                "rennen"
+            ]
+        },
+        "comfortable": {
+            "name": "Bequem",
+            "keywords": [
+                "Turnschuh",
+                "Schuh",
+                "gemütlich"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Umweltfreundlich",
+            "keywords": [
+                "Erde",
+                "Planet",
+                "grün"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "Erde",
+                "Megafon",
+                "Welt"
+            ]
+        },
+        "victorious": {
+            "name": "Siegreich",
+            "keywords": [
+                "Pokal",
+                "Sieger",
+                "Meister"
+            ]
+        },
+        "beautiful": {
+            "name": "Wunderschön",
+            "keywords": [
+                "Fußball",
+                "Fußball",
+                "Ball"
+            ]
+        },
+        "masterful": {
+            "name": "Meisterhaft",
+            "keywords": [
+                "Golf",
+                "Ball",
+                "Sport"
+            ]
+        },
+        "no-corre": {
+            "name": "Nicht rasen",
+            "keywords": [
+                "Helm",
+                "Motorrad",
+                "Eile"
+            ]
+        }
+    }
+}

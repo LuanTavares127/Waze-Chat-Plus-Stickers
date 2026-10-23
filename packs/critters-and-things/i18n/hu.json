@@ -1,0 +1,358 @@
+{
+    "name": "Lények és dolgok",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "szikla",
+                "kő",
+                "gyors"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "medve",
+                "bucket kalap",
+                "mosoly"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "madár",
+                "lazítás"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "agy",
+                "okos",
+                "gondolkodik"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinoszaurusz",
+                "fogak",
+                "harapás"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "agyarak",
+                "fogak",
+                "vigyor"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "tehén",
+                "bú",
+                "farm"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "kutya",
+                "corgi",
+                "korona"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "kutya",
+                "corgi",
+                "kacsintás"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "kutya",
+                "corgi",
+                "korona"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "sárkány",
+                "piros",
+                "szörny"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "kéz",
+                "szem",
+                "védelem"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "szem",
+                "jel",
+                "rejtély"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "teáskanna",
+                "tea",
+                "alma"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "madár",
+                "sapka",
+                "beszél"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "játék"
+            ]
+        },
+        "aware": {
+            "name": "Tudatos",
+            "keywords": [
+                "szivárvány",
+                "nyugodt",
+                "színek"
+            ]
+        },
+        "baby": {
+            "name": "Baba",
+            "keywords": [
+                "cumi",
+                "baba",
+                "aranyos"
+            ]
+        },
+        "blobby": {
+            "name": "Blobby",
+            "keywords": [
+                "paca",
+                "buborékok",
+                "csillagok"
+            ]
+        },
+        "bright": {
+            "name": "Fényes",
+            "keywords": [
+                "csillag",
+                "ragyogás",
+                "szivárvány"
+            ]
+        },
+        "calm": {
+            "name": "Nyugodt",
+            "keywords": [
+                "felhő",
+                "sapka",
+                "ég"
+            ]
+        },
+        "captivated": {
+            "name": "Elbűvölt",
+            "keywords": [
+                "fényképezőgép",
+                "fotó",
+                "kép"
+            ]
+        },
+        "cat": {
+            "name": "Macska",
+            "keywords": [
+                "macska",
+                "cica",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Sejt",
+            "keywords": [
+                "sejt",
+                "biológia",
+                "paca"
+            ]
+        },
+        "centered": {
+            "name": "Kiegyensúlyozott",
+            "keywords": [
+                "kövek",
+                "egyensúly",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kozmikus",
+            "keywords": [
+                "csápok",
+                "földönkívüli",
+                "boldog"
+            ]
+        },
+        "destemido": {
+            "name": "Rettenthetetlen",
+            "keywords": [
+                "cactus",
+                "növény",
+                "kemény"
+            ]
+        },
+        "dog": {
+            "name": "Kutya",
+            "keywords": [
+                "kutya",
+                "kiskutya",
+                "nyelv"
+            ]
+        },
+        "fancy": {
+            "name": "Elegáns",
+            "keywords": [
+                "torta",
+                "szelet",
+                "cseresznye"
+            ]
+        },
+        "flowing": {
+            "name": "Áramló",
+            "keywords": [
+                "víz",
+                "csepp",
+                "eső"
+            ]
+        },
+        "hopeful": {
+            "name": "Reménykedő",
+            "keywords": [
+                "felhő",
+                "nap",
+                "nyugodt"
+            ]
+        },
+        "hungry": {
+            "name": "Éhes",
+            "keywords": [
+                "burger",
+                "étel",
+                "ebéd"
+            ]
+        },
+        "magical": {
+            "name": "Varázslatos",
+            "keywords": [
+                "egyszarvú",
+                "szivárvány",
+                "varázslat"
+            ]
+        },
+        "magical-2": {
+            "name": "Varázslatos (2)",
+            "keywords": [
+                "varázslat",
+                "rózsaszín",
+                "híres"
+            ]
+        },
+        "open": {
+            "name": "Nyitott",
+            "keywords": [
+                "hegy",
+                "zászló",
+                "csúcs"
+            ]
+        },
+        "playful": {
+            "name": "Játékos",
+            "keywords": [
+                "delfin",
+                "tenger",
+                "szórakozás"
+            ]
+        },
+        "prickly": {
+            "name": "Szúrós",
+            "keywords": [
+                "cactus",
+                "mogorva",
+                "tüskés"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "bolygó",
+                "pálya",
+                "űr"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "gép",
+                "technika"
+            ]
+        },
+        "rocket": {
+            "name": "Rocket",
+            "keywords": [
+                "rakéta",
+                "gyors",
+                "tűz"
+            ]
+        },
+        "spiritual": {
+            "name": "Spirituális",
+            "keywords": [
+                "panda",
+                "napszemüveg",
+                "lazítás"
+            ]
+        },
+        "starry": {
+            "name": "Csillagos",
+            "keywords": [
+                "egy szem",
+                "szörny",
+                "meglepett"
+            ]
+        },
+        "sunny": {
+            "name": "Napsütötte",
+            "keywords": [
+                "napraforgó",
+                "nap",
+                "virág"
+            ]
+        },
+        "sweet": {
+            "name": "Édes",
+            "keywords": [
+                "cukorka",
+                "borsmenta",
+                "édes"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinoszaurusz",
+                "fogak",
+                "ordítás"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "farkas",
+                "vonyítás",
+                "ravasz"
+            ]
+        }
+    }
+}

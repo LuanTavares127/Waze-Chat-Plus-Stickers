@@ -1,0 +1,382 @@
+{
+    "name": "Pidu, sodiaak ja fantaasia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "lumememm",
+                "talv",
+                "sall"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "peomüts",
+                "sünnipäev",
+                "tähistama"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viiking",
+                "kiiver",
+                "kaardinõel"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "narr",
+                "kübar",
+                "naer"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "jõulud",
+                "jõuluvana",
+                "päikeseprillid"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "võlur",
+                "kübar",
+                "maagia"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "nõid",
+                "kübar",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karneval",
+                "peakate",
+                "suled"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "sall",
+                "pusamüts",
+                "talv"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karneval",
+                "mask",
+                "pidu"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "uus aasta",
+                "2026",
+                "pidu"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viiking",
+                "haamer",
+                "kilp"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "talv",
+                "pusamüts",
+                "külm"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "vahimees",
+                "london",
+                "kübar"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "torukübar",
+                "tee",
+                "imedemaa"
+            ]
+        },
+        "aries": {
+            "name": "Jääär",
+            "keywords": [
+                "sodiaak",
+                "jääär",
+                "horoskoop"
+            ]
+        },
+        "taurus": {
+            "name": "Sõnn",
+            "keywords": [
+                "sodiaak",
+                "pull",
+                "horoskoop"
+            ]
+        },
+        "gemini": {
+            "name": "Kaksikud",
+            "keywords": [
+                "sodiaak",
+                "kaksikud",
+                "horoskoop"
+            ]
+        },
+        "cancer": {
+            "name": "Vähk",
+            "keywords": [
+                "sodiaak",
+                "krabi",
+                "horoskoop"
+            ]
+        },
+        "leo": {
+            "name": "Lõvi",
+            "keywords": [
+                "sodiaak",
+                "lõvi",
+                "horoskoop"
+            ]
+        },
+        "virgo": {
+            "name": "Neitsi",
+            "keywords": [
+                "sodiaak",
+                "neitsi",
+                "horoskoop"
+            ]
+        },
+        "libra": {
+            "name": "Kaalud",
+            "keywords": [
+                "sodiaak",
+                "kaalud",
+                "horoskoop"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpion",
+            "keywords": [
+                "sodiaak",
+                "skorpion",
+                "horoskoop"
+            ]
+        },
+        "sagittarius": {
+            "name": "Ambur",
+            "keywords": [
+                "sodiaak",
+                "vibulaskja",
+                "horoskoop"
+            ]
+        },
+        "capricorn": {
+            "name": "Kitsesarv",
+            "keywords": [
+                "sodiaak",
+                "kits",
+                "horoskoop"
+            ]
+        },
+        "aquarius": {
+            "name": "Veevalaja",
+            "keywords": [
+                "sodiaak",
+                "vesi",
+                "horoskoop"
+            ]
+        },
+        "pisces": {
+            "name": "Kalad",
+            "keywords": [
+                "sodiaak",
+                "kala",
+                "horoskoop"
+            ]
+        },
+        "santa": {
+            "name": "Jõuluvana",
+            "keywords": [
+                "jõulud",
+                "jõuluvana",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Pidulik",
+            "keywords": [
+                "jõulud",
+                "jõuluvanamüts",
+                "habe"
+            ]
+        },
+        "frazzled": {
+            "name": "Kurnatud",
+            "keywords": [
+                "jõulud",
+                "väsinud",
+                "jõuluvana"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnevalikaaslane",
+            "keywords": [
+                "karneval",
+                "meremees",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Rõõmus pidu",
+            "keywords": [
+                "peomüts",
+                "täht",
+                "tähistama"
+            ]
+        },
+        "blossom": {
+            "name": "Õis",
+            "keywords": [
+                "lill",
+                "roosa",
+                "kevad"
+            ]
+        },
+        "cupid": {
+            "name": "Amor",
+            "keywords": [
+                "sõbrapäev",
+                "nool",
+                "armastus"
+            ]
+        },
+        "happy-clown": {
+            "name": "Rõõmus klounn",
+            "keywords": [
+                "klounn",
+                "tsirkus",
+                "lõbu"
+            ]
+        },
+        "scary-clown": {
+            "name": "Hirmus klounn",
+            "keywords": [
+                "klounn",
+                "halloween",
+                "hirmuäratav"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "halloween",
+                "zombi",
+                "elavsurnu"
+            ]
+        },
+        "zombified": {
+            "name": "Zombistunud",
+            "keywords": [
+                "zombi",
+                "väsinud",
+                "õmblused"
+            ]
+        },
+        "monster": {
+            "name": "Koletis",
+            "keywords": [
+                "üks silm",
+                "küklop",
+                "koletis"
+            ]
+        },
+        "mystical": {
+            "name": "Müstiline",
+            "keywords": [
+                "kapuuts",
+                "haldjas",
+                "maagia"
+            ]
+        },
+        "mighty": {
+            "name": "Vägev",
+            "keywords": [
+                "viiking",
+                "vuntsid",
+                "sarved"
+            ]
+        },
+        "angelic": {
+            "name": "Ingellik",
+            "keywords": [
+                "ingel",
+                "sädelusring",
+                "tiivad"
+            ]
+        },
+        "devious": {
+            "name": "Kaval",
+            "keywords": [
+                "kurat",
+                "sarved",
+                "muie"
+            ]
+        },
+        "diabolical": {
+            "name": "Kuradlik",
+            "keywords": [
+                "kurjam",
+                "monokkel",
+                "kurjus"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "geenius",
+                "teadlane",
+                "keel"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgia",
+                "sarv",
+                "fänn"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaut",
+                "kosmos",
+                "kiiver"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (sinine)",
+            "keywords": [
+                "astronaut",
+                "kosmos",
+                "kuu"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "kangelane",
+                "tiaara",
+                "jõud"
+            ]
+        }
+    }
+}

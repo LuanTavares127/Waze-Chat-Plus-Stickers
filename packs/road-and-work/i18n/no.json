@@ -1,0 +1,351 @@
+{
+    "name": "På veien og på jobb",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "reisebunt",
+                "tur",
+                "eventyr"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "trylledrikk",
+                "briller",
+                "laboratorium"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "oppdagelsesreisende",
+                "hatt",
+                "eventyr"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "kamera",
+                "flagg",
+                "sightseeing"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "sjømann",
+                "caps",
+                "båt"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "koffert",
+                "hatt",
+                "tur"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilot",
+                "vernebriller",
+                "hjelm"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "ugle",
+                "eksamen",
+                "smart"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "brannslokker",
+                "sikkerhet",
+                "nervøs"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "vernehjelm",
+                "bygg",
+                "vest"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "stråhatt",
+                "gård",
+                "junifest"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "hjelm",
+                "stjerner",
+                "racerkjører"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "munnbind",
+                "helse",
+                "trygg"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "stoppeklokke",
+                "pannebånd",
+                "trening"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "stemme",
+                "valg",
+                "stemmeseddel"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "stemme",
+                "skilt",
+                "valg"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalje",
+                "bånd",
+                "blunk"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "levering",
+                "hjelm",
+                "boks"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antenne",
+                "oppdagelsesreisende"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "snakkeboble",
+                "chat",
+                "snakke"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "fløyte",
+                "dommer",
+                "regelbrudd"
+            ]
+        },
+        "road-warrior": {
+            "name": "Veikriger",
+            "keywords": [
+                "hjelm",
+                "vernebriller",
+                "vinge"
+            ]
+        },
+        "limitless": {
+            "name": "Grenseløs",
+            "keywords": [
+                "motorvei",
+                "skjold",
+                "veiskilt"
+            ]
+        },
+        "map-master": {
+            "name": "Kartmester",
+            "keywords": [
+                "redaktør",
+                "kart",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega-transportør",
+            "keywords": [
+                "lastebil",
+                "vernebriller",
+                "transportør"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kaptein Takk",
+            "keywords": [
+                "takk",
+                "kaptein",
+                "bart"
+            ]
+        },
+        "all-business": {
+            "name": "Alvor og business",
+            "keywords": [
+                "dress",
+                "slips",
+                "jobb"
+            ]
+        },
+        "business-casual": {
+            "name": "Business casual",
+            "keywords": [
+                "slips",
+                "pannebånd",
+                "tunge"
+            ]
+        },
+        "businessy": {
+            "name": "Forretningsaktig",
+            "keywords": [
+                "dress",
+                "briller",
+                "kontor"
+            ]
+        },
+        "bawse-y": {
+            "name": "Sjefete",
+            "keywords": [
+                "sjef",
+                "solbriller",
+                "dress"
+            ]
+        },
+        "productive": {
+            "name": "Produktiv",
+            "keywords": [
+                "headset",
+                "jobb",
+                "blunk"
+            ]
+        },
+        "dialed-up": {
+            "name": "Oppringt",
+            "keywords": [
+                "datamaskin",
+                "retro",
+                "internett"
+            ]
+        },
+        "undercover": {
+            "name": "Undercover",
+            "keywords": [
+                "forkledning",
+                "briller",
+                "nese"
+            ]
+        },
+        "sneaky": {
+            "name": "Luskete",
+            "keywords": [
+                "ninja",
+                "snik",
+                "maske"
+            ]
+        },
+        "survivalist": {
+            "name": "Survivalist",
+            "keywords": [
+                "bandana",
+                "arr",
+                "tøff"
+            ]
+        },
+        "speedy": {
+            "name": "Rask",
+            "keywords": [
+                "fort",
+                "fart",
+                "smørsmil"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinter",
+            "keywords": [
+                "sykling",
+                "caps",
+                "fort"
+            ]
+        },
+        "unstoppable": {
+            "name": "Ustoppelig",
+            "keywords": [
+                "fort",
+                "glitter",
+                "løpe"
+            ]
+        },
+        "comfortable": {
+            "name": "Komfortabel",
+            "keywords": [
+                "joggesko",
+                "sko",
+                "koselig"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Miljøvennlig",
+            "keywords": [
+                "jorden",
+                "planet",
+                "grønn"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "jorden",
+                "megafon",
+                "verden"
+            ]
+        },
+        "victorious": {
+            "name": "Seirende",
+            "keywords": [
+                "pokal",
+                "vinner",
+                "mester"
+            ]
+        },
+        "beautiful": {
+            "name": "Nydelig",
+            "keywords": [
+                "fotball",
+                "fotball",
+                "ball"
+            ]
+        },
+        "masterful": {
+            "name": "Mesterlig",
+            "keywords": [
+                "golf",
+                "ball",
+                "sport"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "hjelm",
+                "motorsykkel",
+                "hast"
+            ]
+        }
+    }
+}

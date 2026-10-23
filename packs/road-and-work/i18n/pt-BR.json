@@ -1,0 +1,373 @@
+{
+    "name": "Na estrada e no trabalho",
+    "stickers": {
+        "18": {
+            "name": "18",
+            "keywords": [
+                "trouxinha",
+                "viagem",
+                "aventura"
+            ]
+        },
+        "20": {
+            "name": "20",
+            "keywords": [
+                "poção",
+                "óculos",
+                "laboratório"
+            ]
+        },
+        "51": {
+            "name": "51",
+            "keywords": [
+                "explorador",
+                "chapéu",
+                "aventura"
+            ]
+        },
+        "52": {
+            "name": "52",
+            "keywords": [
+                "câmera",
+                "bandeira",
+                "passeio"
+            ]
+        },
+        "74": {
+            "name": "74",
+            "keywords": [
+                "marinheiro",
+                "quepe",
+                "barco"
+            ]
+        },
+        "116": {
+            "name": "116",
+            "keywords": [
+                "mala",
+                "chapéu",
+                "viagem"
+            ]
+        },
+        "124": {
+            "name": "124",
+            "keywords": [
+                "piloto",
+                "óculos",
+                "capacete"
+            ]
+        },
+        "131": {
+            "name": "131",
+            "keywords": [
+                "coruja",
+                "formatura",
+                "inteligente"
+            ]
+        },
+        "147": {
+            "name": "147",
+            "keywords": [
+                "extintor",
+                "segurança",
+                "nervoso"
+            ]
+        },
+        "148": {
+            "name": "148",
+            "keywords": [
+                "capacete",
+                "obra",
+                "colete"
+            ]
+        },
+        "150": {
+            "name": "150",
+            "keywords": [
+                "chapéu de palha",
+                "roça",
+                "festa junina"
+            ]
+        },
+        "161": {
+            "name": "161",
+            "keywords": [
+                "capacete",
+                "estrelas",
+                "piloto"
+            ]
+        },
+        "171": {
+            "name": "171",
+            "keywords": [
+                "máscara",
+                "saúde",
+                "proteção"
+            ]
+        },
+        "173": {
+            "name": "173",
+            "keywords": [
+                "cronômetro",
+                "faixa",
+                "treino"
+            ]
+        },
+        "207": {
+            "name": "207",
+            "keywords": [
+                "voto",
+                "eleição",
+                "urna"
+            ]
+        },
+        "208": {
+            "name": "208",
+            "keywords": [
+                "sinal",
+                "robô",
+                "wifi"
+            ]
+        },
+        "212": {
+            "name": "212",
+            "keywords": [
+                "voto",
+                "placa",
+                "eleição"
+            ]
+        },
+        "217": {
+            "name": "217",
+            "keywords": [
+                "medalha",
+                "fita",
+                "piscadinha"
+            ]
+        },
+        "244": {
+            "name": "244",
+            "keywords": [
+                "entrega",
+                "capacete",
+                "caixa"
+            ]
+        },
+        "245": {
+            "name": "245",
+            "keywords": [
+                "robô",
+                "antena",
+                "explorador"
+            ]
+        },
+        "247": {
+            "name": "247",
+            "keywords": [
+                "balão de fala",
+                "conversa",
+                "papo"
+            ]
+        },
+        "248": {
+            "name": "248",
+            "keywords": [
+                "apito",
+                "árbitro",
+                "falta"
+            ]
+        },
+        "road-warrior": {
+            "name": "Guerreiro da estrada",
+            "keywords": [
+                "capacete",
+                "óculos",
+                "asa"
+            ]
+        },
+        "limitless": {
+            "name": "Sem limites",
+            "keywords": [
+                "rodovia",
+                "escudo",
+                "placa"
+            ]
+        },
+        "map-master": {
+            "name": "Mestre do mapa",
+            "keywords": [
+                "editor",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Supercaminhoneiro",
+            "keywords": [
+                "caminhão",
+                "óculos",
+                "carga"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Capitão Obrigado",
+            "keywords": [
+                "obrigado",
+                "capitão",
+                "bigode"
+            ]
+        },
+        "all-business": {
+            "name": "Só negócios",
+            "keywords": [
+                "terno",
+                "gravata",
+                "trabalho"
+            ]
+        },
+        "business-casual": {
+            "name": "Esporte fino",
+            "keywords": [
+                "gravata",
+                "faixa",
+                "língua"
+            ]
+        },
+        "businessy": {
+            "name": "Executivo",
+            "keywords": [
+                "terno",
+                "óculos",
+                "escritório"
+            ]
+        },
+        "bawse-y": {
+            "name": "Chefão",
+            "keywords": [
+                "chefe",
+                "óculos escuros",
+                "terno"
+            ]
+        },
+        "productive": {
+            "name": "Produtivo",
+            "keywords": [
+                "headset",
+                "trabalho",
+                "piscadinha"
+            ]
+        },
+        "dialed-up": {
+            "name": "Internet discada",
+            "keywords": [
+                "computador",
+                "retrô",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Disfarçado",
+            "keywords": [
+                "disfarce",
+                "óculos",
+                "nariz"
+            ]
+        },
+        "sneaky": {
+            "name": "Ninja",
+            "keywords": [
+                "ninja",
+                "furtivo",
+                "máscara"
+            ]
+        },
+        "survivalist": {
+            "name": "Sobrevivente",
+            "keywords": [
+                "bandana",
+                "cicatriz",
+                "durão"
+            ]
+        },
+        "speedy": {
+            "name": "Veloz",
+            "keywords": [
+                "rápido",
+                "velocidade",
+                "sorrisinho"
+            ]
+        },
+        "sprinteur": {
+            "name": "Ciclista",
+            "keywords": [
+                "ciclismo",
+                "boné",
+                "rápido"
+            ]
+        },
+        "unstoppable": {
+            "name": "Imparável",
+            "keywords": [
+                "rápido",
+                "brilho",
+                "corrida"
+            ]
+        },
+        "comfortable": {
+            "name": "Confortável",
+            "keywords": [
+                "tênis",
+                "sapato",
+                "confortável"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ecológico",
+            "keywords": [
+                "terra",
+                "planeta",
+                "verde"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "terra",
+                "megafone",
+                "mundo"
+            ]
+        },
+        "victorious": {
+            "name": "Vitorioso",
+            "keywords": [
+                "troféu",
+                "vencedor",
+                "campeão"
+            ]
+        },
+        "beautiful": {
+            "name": "Jogo bonito",
+            "keywords": [
+                "futebol",
+                "bola",
+                "jogo bonito"
+            ]
+        },
+        "masterful": {
+            "name": "Mestre do golfe",
+            "keywords": [
+                "golfe",
+                "bola",
+                "esporte"
+            ]
+        },
+        "no-corre": {
+            "name": "Na correria",
+            "keywords": [
+                "capacete",
+                "moto",
+                "pressa"
+            ]
+        }
+    }
+}

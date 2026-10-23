@@ -1,0 +1,358 @@
+{
+    "name": "Bichos e cousas",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "rocha",
+                "pedra",
+                "rápido"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "oso",
+                "sombreiro de pescador",
+                "sorriso"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capybara",
+                "paxaro",
+                "relax"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "cerebro",
+                "listo",
+                "pensar"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosauro",
+                "dentes",
+                "morder"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "colmillos",
+                "dentes",
+                "sorriso amplo"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "vaca",
+                "muu",
+                "granxa"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "can",
+                "corgi",
+                "coroa"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "can",
+                "corgi",
+                "guiño"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "can",
+                "corgi",
+                "coroa"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "dragon",
+                "vermello",
+                "monstro"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "man",
+                "ollo",
+                "protección"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "ollo",
+                "sinal",
+                "misterio"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "tetera",
+                "té",
+                "mazá"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "paxaro",
+                "gorra",
+                "falar"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "xogo"
+            ]
+        },
+        "aware": {
+            "name": "Consciente",
+            "keywords": [
+                "arco da vella",
+                "calma",
+                "cores"
+            ]
+        },
+        "baby": {
+            "name": "Bebé",
+            "keywords": [
+                "chupete",
+                "bebé",
+                "bonito"
+            ]
+        },
+        "blobby": {
+            "name": "Blobby",
+            "keywords": [
+                "blob",
+                "burbullas",
+                "estrelas"
+            ]
+        },
+        "bright": {
+            "name": "Brillante",
+            "keywords": [
+                "estrela",
+                "brillar",
+                "arco da vella"
+            ]
+        },
+        "calm": {
+            "name": "Calmo",
+            "keywords": [
+                "nube",
+                "gorra",
+                "ceo"
+            ]
+        },
+        "captivated": {
+            "name": "Cativado",
+            "keywords": [
+                "cámara",
+                "foto",
+                "imaxe"
+            ]
+        },
+        "cat": {
+            "name": "Gato",
+            "keywords": [
+                "gato",
+                "gatiño",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Célula",
+            "keywords": [
+                "célula",
+                "bioloxía",
+                "blob"
+            ]
+        },
+        "centered": {
+            "name": "Centrado",
+            "keywords": [
+                "pedras",
+                "equilibrio",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Cósmico",
+            "keywords": [
+                "antenas",
+                "alieníxena",
+                "feliz"
+            ]
+        },
+        "destemido": {
+            "name": "Destemido",
+            "keywords": [
+                "cactus",
+                "planta",
+                "duro"
+            ]
+        },
+        "dog": {
+            "name": "Can",
+            "keywords": [
+                "can",
+                "cachorro",
+                "lingua"
+            ]
+        },
+        "fancy": {
+            "name": "Elegante",
+            "keywords": [
+                "bolo",
+                "anaco",
+                "cereixa"
+            ]
+        },
+        "flowing": {
+            "name": "Fluído",
+            "keywords": [
+                "auga",
+                "gota",
+                "chuvia"
+            ]
+        },
+        "hopeful": {
+            "name": "Esperanzado",
+            "keywords": [
+                "nube",
+                "sol",
+                "calma"
+            ]
+        },
+        "hungry": {
+            "name": "Famento",
+            "keywords": [
+                "burger",
+                "comida",
+                "xantar"
+            ]
+        },
+        "magical": {
+            "name": "Máxico",
+            "keywords": [
+                "unicornio",
+                "arco da vella",
+                "maxia"
+            ]
+        },
+        "magical-2": {
+            "name": "Máxico (2)",
+            "keywords": [
+                "maxia",
+                "rosa",
+                "famoso"
+            ]
+        },
+        "open": {
+            "name": "Aberto",
+            "keywords": [
+                "montaña",
+                "bandeira",
+                "cume"
+            ]
+        },
+        "playful": {
+            "name": "Xogón",
+            "keywords": [
+                "golfiño",
+                "mar",
+                "diversión"
+            ]
+        },
+        "prickly": {
+            "name": "Espiñento",
+            "keywords": [
+                "cactus",
+                "rabudo",
+                "espiñento"
+            ]
+        },
+        "quantom": {
+            "name": "Quantom",
+            "keywords": [
+                "planeta",
+                "órbita",
+                "espazo"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "máquina",
+                "tecnoloxía"
+            ]
+        },
+        "rocket": {
+            "name": "Rocket",
+            "keywords": [
+                "foguete",
+                "rápido",
+                "lume"
+            ]
+        },
+        "spiritual": {
+            "name": "Espiritual",
+            "keywords": [
+                "panda",
+                "lentes de sol",
+                "relax"
+            ]
+        },
+        "starry": {
+            "name": "Estrelado",
+            "keywords": [
+                "un ollo",
+                "monstro",
+                "sorprendido"
+            ]
+        },
+        "sunny": {
+            "name": "Soleado",
+            "keywords": [
+                "xirasol",
+                "sol",
+                "flor"
+            ]
+        },
+        "sweet": {
+            "name": "Doce",
+            "keywords": [
+                "caramelo",
+                "menta",
+                "doce"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosauro",
+                "dentes",
+                "rugir"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "lobo",
+                "ouvear",
+                "astuto"
+            ]
+        }
+    }
+}

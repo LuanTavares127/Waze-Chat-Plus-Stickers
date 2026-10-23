@@ -1,0 +1,214 @@
+{
+    "name": "Giao thoa",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "minion",
+                "một mắt",
+                "chuối"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "minion",
+                "một mắt",
+                "tổ ong"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiote",
+                "răng",
+                "phản diện"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "con rối",
+                "vui"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "kính",
+                "tóc"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "con rối",
+                "lo lắng"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "mũ",
+                "cười"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Trung thành",
+            "keywords": [
+                "minion",
+                "kính bảo hộ",
+                "trung thành"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Can đảm",
+            "keywords": [
+                "minion",
+                "kính bảo hộ",
+                "dũng cảm"
+            ]
+        },
+        "james": {
+            "name": "James - Nghệ sĩ",
+            "keywords": [
+                "minion",
+                "nghệ thuật",
+                "sơn"
+            ]
+        },
+        "alliance": {
+            "name": "Liên minh",
+            "keywords": [
+                "mũ bảo hiểm",
+                "áo giáp",
+                "chiến binh"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "dơi",
+                "anh hùng",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Kẻ Đánh Đố",
+            "keywords": [
+                "dấu hỏi",
+                "phản diện",
+                "mặt nạ"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "mặt nạ",
+                "phản anh hùng",
+                "đỏ"
+            ]
+        },
+        "brave": {
+            "name": "Dũng cảm",
+            "keywords": [
+                "bọt biển",
+                "cướp biển",
+                "bịt mắt"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "cảnh sát",
+                "chó",
+                "cún"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "lính cứu hỏa",
+                "chó",
+                "cún"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "phi công",
+                "chó",
+                "cún"
+            ]
+        },
+        "energetic": {
+            "name": "Năng động",
+            "keywords": [
+                "nhím",
+                "nhanh",
+                "xanh dương"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "thợ xây",
+                "mũ bảo hiểm",
+                "xây dựng"
+            ]
+        },
+        "red": {
+            "name": "Đỏ",
+            "keywords": [
+                "fraggle",
+                "tóc đỏ",
+                "cười"
+            ]
+        },
+        "horde": {
+            "name": "Horde",
+            "keywords": [
+                "orc",
+                "ngà",
+                "chiến binh"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "mũ bảo hiểm",
+                "lính"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "thô bạo",
+                "áo giáp",
+                "phản diện"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "tinh nhuệ",
+                "áo giáp",
+                "sừng"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "mũ bảo hiểm",
+                "kính che mặt"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "yêu tinh",
+                "ngọc",
+                "phản diện"
+            ]
+        }
+    }
+}

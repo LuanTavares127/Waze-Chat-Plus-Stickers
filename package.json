@@ -1,0 +1,13 @@
+{
+    "name": "waze-chat-plus-stickers",
+    "private": true,
+    "description": "Official sticker packs and tools for Waze Chat Plus",
+    "type": "module",
+    "scripts": {
+        "build": "node tools/build.mjs",
+        "validate": "node tools/validate.mjs packs"
+    },
+    "devDependencies": {
+        "sharp": "^0.35.5"
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "name": "Parti, Burçlar ve Fantezi",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "kardan adam",
+                "kış",
+                "atkı"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "parti şapkası",
+                "doğum günü",
+                "kutlamak"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "kask",
+                "harita iğnesi"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "soytarı",
+                "şapka",
+                "kahkaha"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "noel",
+                "noel baba",
+                "güneş gözlüğü"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "büyücü",
+                "şapka",
+                "sihir"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "cadı",
+                "şapka",
+                "cadılar bayramı"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnaval",
+                "başlık",
+                "tüy"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "atkı",
+                "bere",
+                "kış"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnaval",
+                "maske",
+                "parti"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "yeni yıl",
+                "2026",
+                "parti"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "çekiç",
+                "kalkan"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "kış",
+                "bere",
+                "soğuk"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "muhafız",
+                "londra",
+                "şapka"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "silindir şapka",
+                "çay",
+                "harikalar diyarı"
+            ]
+        },
+        "aries": {
+            "name": "Koç",
+            "keywords": [
+                "burç",
+                "koç",
+                "astroloji"
+            ]
+        },
+        "taurus": {
+            "name": "Boğa",
+            "keywords": [
+                "burç",
+                "boğa",
+                "astroloji"
+            ]
+        },
+        "gemini": {
+            "name": "İkizler",
+            "keywords": [
+                "burç",
+                "ikizler",
+                "astroloji"
+            ]
+        },
+        "cancer": {
+            "name": "Yengeç",
+            "keywords": [
+                "burç",
+                "yengeç",
+                "astroloji"
+            ]
+        },
+        "leo": {
+            "name": "Aslan",
+            "keywords": [
+                "burç",
+                "aslan",
+                "astroloji"
+            ]
+        },
+        "virgo": {
+            "name": "Başak",
+            "keywords": [
+                "burç",
+                "bakire",
+                "astroloji"
+            ]
+        },
+        "libra": {
+            "name": "Terazi",
+            "keywords": [
+                "burç",
+                "terazi",
+                "astroloji"
+            ]
+        },
+        "scorpio": {
+            "name": "Akrep",
+            "keywords": [
+                "burç",
+                "akrep",
+                "astroloji"
+            ]
+        },
+        "sagittarius": {
+            "name": "Yay",
+            "keywords": [
+                "burç",
+                "okçu",
+                "astroloji"
+            ]
+        },
+        "capricorn": {
+            "name": "Oğlak",
+            "keywords": [
+                "burç",
+                "keçi",
+                "astroloji"
+            ]
+        },
+        "aquarius": {
+            "name": "Kova",
+            "keywords": [
+                "burç",
+                "su",
+                "astroloji"
+            ]
+        },
+        "pisces": {
+            "name": "Balık",
+            "keywords": [
+                "burç",
+                "balık",
+                "astroloji"
+            ]
+        },
+        "santa": {
+            "name": "Noel Baba",
+            "keywords": [
+                "noel",
+                "noel baba",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Şenlikli",
+            "keywords": [
+                "noel",
+                "noel baba şapkası",
+                "sakal"
+            ]
+        },
+        "frazzled": {
+            "name": "Bitkin",
+            "keywords": [
+                "noel",
+                "yorgun",
+                "noel baba"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Karnavalcı",
+            "keywords": [
+                "karnaval",
+                "denizci",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Neşeli Parti",
+            "keywords": [
+                "parti şapkası",
+                "yıldız",
+                "kutlamak"
+            ]
+        },
+        "blossom": {
+            "name": "Çiçek Açan",
+            "keywords": [
+                "çiçek",
+                "pembe",
+                "ilkbahar"
+            ]
+        },
+        "cupid": {
+            "name": "Aşk Tanrısı",
+            "keywords": [
+                "sevgililer günü",
+                "ok",
+                "aşk"
+            ]
+        },
+        "happy-clown": {
+            "name": "Mutlu Palyaço",
+            "keywords": [
+                "palyaço",
+                "sirk",
+                "eğlence"
+            ]
+        },
+        "scary-clown": {
+            "name": "Korkunç Palyaço",
+            "keywords": [
+                "palyaço",
+                "cadılar bayramı",
+                "ürkütücü"
+            ]
+        },
+        "zombie": {
+            "name": "Zombi",
+            "keywords": [
+                "cadılar bayramı",
+                "zombi",
+                "ölümsüz"
+            ]
+        },
+        "zombified": {
+            "name": "Zombileşmiş",
+            "keywords": [
+                "zombi",
+                "yorgun",
+                "dikiş"
+            ]
+        },
+        "monster": {
+            "name": "Canavar",
+            "keywords": [
+                "tek göz",
+                "tek gözlü dev",
+                "canavar"
+            ]
+        },
+        "mystical": {
+            "name": "Gizemli",
+            "keywords": [
+                "kapüşon",
+                "elf",
+                "sihir"
+            ]
+        },
+        "mighty": {
+            "name": "Güçlü",
+            "keywords": [
+                "viking",
+                "bıyık",
+                "boynuz"
+            ]
+        },
+        "angelic": {
+            "name": "Melek Gibi",
+            "keywords": [
+                "melek",
+                "hale",
+                "kanat"
+            ]
+        },
+        "devious": {
+            "name": "Sinsi",
+            "keywords": [
+                "şeytan",
+                "boynuz",
+                "sırıtış"
+            ]
+        },
+        "diabolical": {
+            "name": "Şeytani",
+            "keywords": [
+                "kötü adam",
+                "tek gözlük",
+                "kötü"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "dahi",
+                "bilim insanı",
+                "dil"
+            ]
+        },
+        "belgie": {
+            "name": "Belçika",
+            "keywords": [
+                "belçika",
+                "boru",
+                "hayran"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronot",
+                "uzay",
+                "kask"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (Mavi)",
+            "keywords": [
+                "astronot",
+                "uzay",
+                "ay"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "kahraman",
+                "tiyara",
+                "güç"
+            ]
+        }
+    }
+}

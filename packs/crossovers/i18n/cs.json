@@ -1,0 +1,214 @@
+{
+    "name": "Crossovery",
+    "stickers": {
+        "63": {
+            "keywords": [
+                "mimoň",
+                "jedno oko",
+                "banán"
+            ]
+        },
+        "64": {
+            "keywords": [
+                "mimoň",
+                "jedno oko",
+                "plástev"
+            ]
+        },
+        "210": {
+            "keywords": [
+                "symbiont",
+                "zuby",
+                "padouch"
+            ]
+        },
+        "224": {
+            "keywords": [
+                "fraggle",
+                "loutka",
+                "šťastný"
+            ]
+        },
+        "233": {
+            "keywords": [
+                "fraggle",
+                "brýle",
+                "vlasy"
+            ]
+        },
+        "243": {
+            "keywords": [
+                "fraggle",
+                "loutka",
+                "nervózní"
+            ]
+        },
+        "253": {
+            "keywords": [
+                "fraggle",
+                "klobouk",
+                "smích"
+            ]
+        },
+        "ed": {
+            "name": "Ed - Věrný",
+            "keywords": [
+                "mimoň",
+                "ochranné brýle",
+                "věrný"
+            ]
+        },
+        "henry": {
+            "name": "Henry - Statečný",
+            "keywords": [
+                "mimoň",
+                "ochranné brýle",
+                "statečný"
+            ]
+        },
+        "james": {
+            "name": "James - Umělecký",
+            "keywords": [
+                "mimoň",
+                "umění",
+                "malovat"
+            ]
+        },
+        "alliance": {
+            "name": "Aliance",
+            "keywords": [
+                "helma",
+                "zbroj",
+                "bojovník"
+            ]
+        },
+        "batman": {
+            "name": "Batman",
+            "keywords": [
+                "netopýr",
+                "hrdina",
+                "gotham"
+            ]
+        },
+        "riddler": {
+            "name": "Riddler",
+            "keywords": [
+                "otazník",
+                "padouch",
+                "maska"
+            ]
+        },
+        "deadpool": {
+            "name": "Deadpool",
+            "keywords": [
+                "maska",
+                "antihrdina",
+                "červený"
+            ]
+        },
+        "brave": {
+            "name": "Statečný",
+            "keywords": [
+                "houba",
+                "pirát",
+                "páska na oko"
+            ]
+        },
+        "chase": {
+            "name": "Chase",
+            "keywords": [
+                "policie",
+                "pes",
+                "štěně"
+            ]
+        },
+        "marshall": {
+            "name": "Marshall",
+            "keywords": [
+                "hasič",
+                "pes",
+                "štěně"
+            ]
+        },
+        "skye": {
+            "name": "Skye",
+            "keywords": [
+                "pilot",
+                "pes",
+                "štěně"
+            ]
+        },
+        "energetic": {
+            "name": "Energický",
+            "keywords": [
+                "ježek",
+                "rychlý",
+                "modrý"
+            ]
+        },
+        "doozer": {
+            "name": "Doozer",
+            "keywords": [
+                "stavitel",
+                "helma",
+                "stavba"
+            ]
+        },
+        "red": {
+            "name": "Red",
+            "keywords": [
+                "fraggle",
+                "rudé vlasy",
+                "smích"
+            ]
+        },
+        "horde": {
+            "name": "Horda",
+            "keywords": [
+                "ork",
+                "kly",
+                "bojovník"
+            ]
+        },
+        "master-chief": {
+            "name": "Master Chief",
+            "keywords": [
+                "spartan",
+                "helma",
+                "voják"
+            ]
+        },
+        "escharum": {
+            "name": "Escharum",
+            "keywords": [
+                "surovec",
+                "zbroj",
+                "padouch"
+            ]
+        },
+        "jega": {
+            "name": "Jega",
+            "keywords": [
+                "elita",
+                "zbroj",
+                "rohy"
+            ]
+        },
+        "laurette": {
+            "name": "Laurette",
+            "keywords": [
+                "spartan",
+                "helma",
+                "hledí"
+            ]
+        },
+        "void": {
+            "name": "Void",
+            "keywords": [
+                "elf",
+                "drahokam",
+                "padouch"
+            ]
+        }
+    }
+}

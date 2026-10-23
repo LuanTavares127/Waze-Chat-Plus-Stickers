@@ -1,0 +1,351 @@
+{
+    "name": "En la carretera y en el trabajo",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "hatillo",
+                "viaje",
+                "aventura"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "poción",
+                "lentes",
+                "laboratorio"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "explorador",
+                "sombrero",
+                "aventura"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "cámara",
+                "bandera",
+                "turismo"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "marinero",
+                "gorra",
+                "barco"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "maleta",
+                "sombrero",
+                "viaje"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "piloto",
+                "gafas protectoras",
+                "casco"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "búho",
+                "graduación",
+                "listo"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "extintor",
+                "seguridad",
+                "nervioso"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "casco de obra",
+                "construcción",
+                "chaleco"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "sombrero de paja",
+                "granja",
+                "fiesta junina"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "casco",
+                "estrellas",
+                "piloto de carreras"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "cubrebocas",
+                "salud",
+                "seguro"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "cronómetro",
+                "cinta",
+                "entrenamiento"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "voto",
+                "elecciones",
+                "urna"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "señal",
+                "robot",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "voto",
+                "señal",
+                "elecciones"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalla",
+                "cinta",
+                "guiño"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "reparto",
+                "casco",
+                "caja"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robot",
+                "antena",
+                "explorador"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "globo de diálogo",
+                "chat",
+                "hablar"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "silbato",
+                "árbitro",
+                "falta"
+            ]
+        },
+        "road-warrior": {
+            "name": "Guerrero de la carretera",
+            "keywords": [
+                "casco",
+                "gafas protectoras",
+                "ala"
+            ]
+        },
+        "limitless": {
+            "name": "Sin límites",
+            "keywords": [
+                "autopista",
+                "escudo",
+                "señal de tráfico"
+            ]
+        },
+        "map-master": {
+            "name": "Maestro del mapa",
+            "keywords": [
+                "editor",
+                "mapa",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega transportista",
+            "keywords": [
+                "camión",
+                "gafas protectoras",
+                "transportista"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Capitán Gracias",
+            "keywords": [
+                "gracias",
+                "capitán",
+                "bigote"
+            ]
+        },
+        "all-business": {
+            "name": "Todo negocios",
+            "keywords": [
+                "traje",
+                "corbata",
+                "trabajo"
+            ]
+        },
+        "business-casual": {
+            "name": "Casual de oficina",
+            "keywords": [
+                "corbata",
+                "cinta",
+                "lengua"
+            ]
+        },
+        "businessy": {
+            "name": "Formal",
+            "keywords": [
+                "traje",
+                "lentes",
+                "oficina"
+            ]
+        },
+        "bawse-y": {
+            "name": "Jefazo",
+            "keywords": [
+                "jefe",
+                "lentes de sol",
+                "traje"
+            ]
+        },
+        "productive": {
+            "name": "Productivo",
+            "keywords": [
+                "audífonos con micrófono",
+                "trabajo",
+                "guiño"
+            ]
+        },
+        "dialed-up": {
+            "name": "Conexión lenta",
+            "keywords": [
+                "computadora",
+                "retro",
+                "internet"
+            ]
+        },
+        "undercover": {
+            "name": "Encubierto",
+            "keywords": [
+                "disfraz",
+                "lentes",
+                "nariz"
+            ]
+        },
+        "sneaky": {
+            "name": "Sigiloso",
+            "keywords": [
+                "ninja",
+                "sigilo",
+                "máscara"
+            ]
+        },
+        "survivalist": {
+            "name": "Sobreviviente",
+            "keywords": [
+                "pañuelo",
+                "cicatriz",
+                "duro"
+            ]
+        },
+        "speedy": {
+            "name": "Veloz",
+            "keywords": [
+                "rápido",
+                "velocidad",
+                "sonrisa burlona"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteur",
+            "keywords": [
+                "ciclismo",
+                "gorra",
+                "rápido"
+            ]
+        },
+        "unstoppable": {
+            "name": "Imparable",
+            "keywords": [
+                "rápido",
+                "destello",
+                "correr"
+            ]
+        },
+        "comfortable": {
+            "name": "Cómodo",
+            "keywords": [
+                "tenis",
+                "zapato",
+                "acogedor"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ecológico",
+            "keywords": [
+                "tierra",
+                "planeta",
+                "verde"
+            ]
+        },
+        "global": {
+            "name": "Global",
+            "keywords": [
+                "tierra",
+                "megáfono",
+                "mundo"
+            ]
+        },
+        "victorious": {
+            "name": "Victorioso",
+            "keywords": [
+                "trofeo",
+                "ganador",
+                "campeón"
+            ]
+        },
+        "beautiful": {
+            "name": "Hermoso",
+            "keywords": [
+                "fútbol",
+                "fútbol",
+                "balón"
+            ]
+        },
+        "masterful": {
+            "name": "Magistral",
+            "keywords": [
+                "golf",
+                "balón",
+                "deporte"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "casco",
+                "moto",
+                "prisa"
+            ]
+        }
+    }
+}

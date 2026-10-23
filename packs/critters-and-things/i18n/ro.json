@@ -1,0 +1,358 @@
+{
+    "name": "Animăluțe și lucruri",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "stâncă",
+                "piatră",
+                "rapid"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "urs",
+                "pălărie de pescar",
+                "zâmbet"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capibara",
+                "pasăre",
+                "relaxat"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "creier",
+                "deștept",
+                "a gândi"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozaur",
+                "dinți",
+                "mușcătură"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "colți",
+                "dinți",
+                "rânjet"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "vacă",
+                "muu",
+                "fermă"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "câine",
+                "corgi",
+                "coroană"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "câine",
+                "corgi",
+                "clipit"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "câine",
+                "corgi",
+                "coroană"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "dragon",
+                "roșu",
+                "monstru"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "mână",
+                "ochi",
+                "protecție"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "ochi",
+                "semn",
+                "mister"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "ceainic",
+                "ceai",
+                "măr"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "pasăre",
+                "șapcă",
+                "a vorbi"
+            ]
+        },
+        "8-bit": {
+            "name": "8-Bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "joc"
+            ]
+        },
+        "aware": {
+            "name": "Atent",
+            "keywords": [
+                "curcubeu",
+                "calm",
+                "culori"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "suzetă",
+                "bebeluș",
+                "drăguț"
+            ]
+        },
+        "blobby": {
+            "name": "Pătăcel",
+            "keywords": [
+                "pată",
+                "bule",
+                "stele"
+            ]
+        },
+        "bright": {
+            "name": "Strălucitor",
+            "keywords": [
+                "stea",
+                "strălucire",
+                "curcubeu"
+            ]
+        },
+        "calm": {
+            "name": "Calm",
+            "keywords": [
+                "nor",
+                "șapcă",
+                "cer"
+            ]
+        },
+        "captivated": {
+            "name": "Captivat",
+            "keywords": [
+                "aparat foto",
+                "fotografie",
+                "poză"
+            ]
+        },
+        "cat": {
+            "name": "Pisică",
+            "keywords": [
+                "pisică",
+                "pisicuță",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Celulă",
+            "keywords": [
+                "celulă",
+                "biologie",
+                "pată"
+            ]
+        },
+        "centered": {
+            "name": "Echilibrat",
+            "keywords": [
+                "pietre",
+                "echilibru",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Cosmic",
+            "keywords": [
+                "antene",
+                "extraterestru",
+                "fericit"
+            ]
+        },
+        "destemido": {
+            "name": "Neînfricat",
+            "keywords": [
+                "cactus",
+                "plantă",
+                "dur"
+            ]
+        },
+        "dog": {
+            "name": "Câine",
+            "keywords": [
+                "câine",
+                "cățeluș",
+                "limbă"
+            ]
+        },
+        "fancy": {
+            "name": "Elegant",
+            "keywords": [
+                "tort",
+                "felie",
+                "cireașă"
+            ]
+        },
+        "flowing": {
+            "name": "Curgător",
+            "keywords": [
+                "apă",
+                "picătură",
+                "ploaie"
+            ]
+        },
+        "hopeful": {
+            "name": "Plin de speranță",
+            "keywords": [
+                "nor",
+                "soare",
+                "calm"
+            ]
+        },
+        "hungry": {
+            "name": "Flămând",
+            "keywords": [
+                "burger",
+                "mâncare",
+                "prânz"
+            ]
+        },
+        "magical": {
+            "name": "Magic",
+            "keywords": [
+                "unicorn",
+                "curcubeu",
+                "magie"
+            ]
+        },
+        "magical-2": {
+            "name": "Magic (2)",
+            "keywords": [
+                "magie",
+                "roz",
+                "faimos"
+            ]
+        },
+        "open": {
+            "name": "Deschis",
+            "keywords": [
+                "munte",
+                "steag",
+                "vârf"
+            ]
+        },
+        "playful": {
+            "name": "Jucăuș",
+            "keywords": [
+                "delfin",
+                "mare",
+                "distracție"
+            ]
+        },
+        "prickly": {
+            "name": "Țepos",
+            "keywords": [
+                "cactus",
+                "morocănos",
+                "țepos"
+            ]
+        },
+        "quantom": {
+            "name": "Cuantic",
+            "keywords": [
+                "planetă",
+                "orbită",
+                "spațiu"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "mașină",
+                "tehnologie"
+            ]
+        },
+        "rocket": {
+            "name": "Rachetă",
+            "keywords": [
+                "rachetă",
+                "rapid",
+                "foc"
+            ]
+        },
+        "spiritual": {
+            "name": "Spiritual",
+            "keywords": [
+                "panda",
+                "ochelari de soare",
+                "relaxat"
+            ]
+        },
+        "starry": {
+            "name": "Înstelat",
+            "keywords": [
+                "un ochi",
+                "monstru",
+                "surprins"
+            ]
+        },
+        "sunny": {
+            "name": "Însorit",
+            "keywords": [
+                "floarea-soarelui",
+                "soare",
+                "floare"
+            ]
+        },
+        "sweet": {
+            "name": "Dulce",
+            "keywords": [
+                "bomboană",
+                "mentă",
+                "dulce"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinozaur",
+                "dinți",
+                "răget"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "lup",
+                "urlet",
+                "șiret"
+            ]
+        }
+    }
+}

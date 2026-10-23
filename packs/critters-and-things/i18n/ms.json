@@ -1,0 +1,358 @@
+{
+    "name": "Haiwan & Benda",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "batu karang",
+                "batu",
+                "laju"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "beruang",
+                "topi baldi",
+                "senyum"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "burung",
+                "santai"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "otak",
+                "pandai",
+                "fikir"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaur",
+                "gigi",
+                "gigit"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "taring",
+                "gigi",
+                "sengih"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "lembu",
+                "moo",
+                "ladang"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "anjing",
+                "corgi",
+                "mahkota"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "anjing",
+                "corgi",
+                "kenyit mata"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "anjing",
+                "corgi",
+                "mahkota"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "naga",
+                "merah",
+                "raksasa"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "tangan",
+                "mata",
+                "perlindungan"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "mata",
+                "tanda",
+                "misteri"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "teko",
+                "teh",
+                "epal"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "burung",
+                "topi",
+                "cakap"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bit",
+            "keywords": [
+                "piksel",
+                "retro",
+                "permainan"
+            ]
+        },
+        "aware": {
+            "name": "Peka",
+            "keywords": [
+                "pelangi",
+                "tenang",
+                "warna"
+            ]
+        },
+        "baby": {
+            "name": "Bayi",
+            "keywords": [
+                "puting",
+                "bayi",
+                "comel"
+            ]
+        },
+        "blobby": {
+            "name": "Gebu",
+            "keywords": [
+                "gumpalan",
+                "gelembung",
+                "bintang-bintang"
+            ]
+        },
+        "bright": {
+            "name": "Cerah",
+            "keywords": [
+                "bintang",
+                "bersinar",
+                "pelangi"
+            ]
+        },
+        "calm": {
+            "name": "Tenang",
+            "keywords": [
+                "awan",
+                "topi",
+                "langit"
+            ]
+        },
+        "captivated": {
+            "name": "Terpikat",
+            "keywords": [
+                "kamera",
+                "foto",
+                "gambar"
+            ]
+        },
+        "cat": {
+            "name": "Kucing",
+            "keywords": [
+                "kucing",
+                "anak kucing",
+                "meow"
+            ]
+        },
+        "cell": {
+            "name": "Sel",
+            "keywords": [
+                "sel",
+                "biologi",
+                "gumpalan"
+            ]
+        },
+        "centered": {
+            "name": "Seimbang",
+            "keywords": [
+                "batu-batan",
+                "keseimbangan",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmik",
+            "keywords": [
+                "sesungut",
+                "makhluk asing",
+                "gembira"
+            ]
+        },
+        "destemido": {
+            "name": "Berani",
+            "keywords": [
+                "kaktus",
+                "tumbuhan",
+                "kuat"
+            ]
+        },
+        "dog": {
+            "name": "Anjing",
+            "keywords": [
+                "anjing",
+                "anak anjing",
+                "lidah"
+            ]
+        },
+        "fancy": {
+            "name": "Bergaya",
+            "keywords": [
+                "kek",
+                "hirisan",
+                "ceri"
+            ]
+        },
+        "flowing": {
+            "name": "Mengalir",
+            "keywords": [
+                "air",
+                "titisan",
+                "hujan"
+            ]
+        },
+        "hopeful": {
+            "name": "Penuh harapan",
+            "keywords": [
+                "awan",
+                "matahari",
+                "tenang"
+            ]
+        },
+        "hungry": {
+            "name": "Lapar",
+            "keywords": [
+                "burger",
+                "makanan",
+                "makan tengah hari"
+            ]
+        },
+        "magical": {
+            "name": "Ajaib",
+            "keywords": [
+                "unikorn",
+                "pelangi",
+                "sihir"
+            ]
+        },
+        "magical-2": {
+            "name": "Ajaib (2)",
+            "keywords": [
+                "sihir",
+                "merah jambu",
+                "terkenal"
+            ]
+        },
+        "open": {
+            "name": "Terbuka",
+            "keywords": [
+                "gunung",
+                "bendera",
+                "puncak"
+            ]
+        },
+        "playful": {
+            "name": "Suka bermain",
+            "keywords": [
+                "ikan lumba-lumba",
+                "laut",
+                "seronok"
+            ]
+        },
+        "prickly": {
+            "name": "Berduri",
+            "keywords": [
+                "kaktus",
+                "masam",
+                "tajam"
+            ]
+        },
+        "quantom": {
+            "name": "Kuantom",
+            "keywords": [
+                "planet",
+                "orbit",
+                "angkasa"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "mesin",
+                "teknologi"
+            ]
+        },
+        "rocket": {
+            "name": "Roket",
+            "keywords": [
+                "roket",
+                "laju",
+                "api"
+            ]
+        },
+        "spiritual": {
+            "name": "Rohani",
+            "keywords": [
+                "panda",
+                "cermin mata hitam",
+                "santai"
+            ]
+        },
+        "starry": {
+            "name": "Berbintang",
+            "keywords": [
+                "satu mata",
+                "raksasa",
+                "terkejut"
+            ]
+        },
+        "sunny": {
+            "name": "Cerah",
+            "keywords": [
+                "bunga matahari",
+                "matahari",
+                "bunga"
+            ]
+        },
+        "sweet": {
+            "name": "Manis",
+            "keywords": [
+                "gula-gula",
+                "pudina",
+                "manis"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaur",
+                "gigi",
+                "raungan"
+            ]
+        },
+        "wolfie": {
+            "name": "Serigala kecil",
+            "keywords": [
+                "serigala",
+                "melolong",
+                "licik"
+            ]
+        }
+    }
+}

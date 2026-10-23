@@ -1,0 +1,358 @@
+{
+    "name": "Kryb og ting",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "klippe",
+                "sten",
+                "hurtig"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "bjørn",
+                "bøttehat",
+                "smil"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "capybara",
+                "fugl",
+                "slap af"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "hjerne",
+                "klog",
+                "tænke"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaur",
+                "tænder",
+                "bid"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "hugtænder",
+                "tænder",
+                "grin"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "ko",
+                "muh",
+                "gård"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "hund",
+                "corgi",
+                "blink"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "drage",
+                "rød",
+                "monster"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "hånd",
+                "øje",
+                "beskyttelse"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "øje",
+                "tegn",
+                "mysterium"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "tekande",
+                "te",
+                "æble"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "fugl",
+                "kasket",
+                "snak"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bit",
+            "keywords": [
+                "pixel",
+                "retro",
+                "spil"
+            ]
+        },
+        "aware": {
+            "name": "Opmærksom",
+            "keywords": [
+                "regnbue",
+                "rolig",
+                "farver"
+            ]
+        },
+        "baby": {
+            "name": "Baby",
+            "keywords": [
+                "sut",
+                "baby",
+                "nuttet"
+            ]
+        },
+        "blobby": {
+            "name": "Klat",
+            "keywords": [
+                "klat",
+                "bobler",
+                "stjerner"
+            ]
+        },
+        "bright": {
+            "name": "Strålende",
+            "keywords": [
+                "stjerne",
+                "skin",
+                "regnbue"
+            ]
+        },
+        "calm": {
+            "name": "Rolig",
+            "keywords": [
+                "sky",
+                "kasket",
+                "himmel"
+            ]
+        },
+        "captivated": {
+            "name": "Betaget",
+            "keywords": [
+                "kamera",
+                "foto",
+                "billede"
+            ]
+        },
+        "cat": {
+            "name": "Kat",
+            "keywords": [
+                "kat",
+                "killing",
+                "mjav"
+            ]
+        },
+        "cell": {
+            "name": "Celle",
+            "keywords": [
+                "celle",
+                "biologi",
+                "klat"
+            ]
+        },
+        "centered": {
+            "name": "Centreret",
+            "keywords": [
+                "sten",
+                "balance",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosmisk",
+            "keywords": [
+                "følehorn",
+                "rumvæsen",
+                "glad"
+            ]
+        },
+        "destemido": {
+            "name": "Frygtløs",
+            "keywords": [
+                "kaktus",
+                "plante",
+                "sej"
+            ]
+        },
+        "dog": {
+            "name": "Hund",
+            "keywords": [
+                "hund",
+                "hvalp",
+                "tunge"
+            ]
+        },
+        "fancy": {
+            "name": "Fin",
+            "keywords": [
+                "kage",
+                "stykke",
+                "kirsebær"
+            ]
+        },
+        "flowing": {
+            "name": "Flydende",
+            "keywords": [
+                "vand",
+                "dråbe",
+                "regn"
+            ]
+        },
+        "hopeful": {
+            "name": "Håbefuld",
+            "keywords": [
+                "sky",
+                "sol",
+                "rolig"
+            ]
+        },
+        "hungry": {
+            "name": "Sulten",
+            "keywords": [
+                "burger",
+                "mad",
+                "frokost"
+            ]
+        },
+        "magical": {
+            "name": "Magisk",
+            "keywords": [
+                "enhjørning",
+                "regnbue",
+                "magi"
+            ]
+        },
+        "magical-2": {
+            "name": "Magisk (2)",
+            "keywords": [
+                "magi",
+                "lyserød",
+                "berømt"
+            ]
+        },
+        "open": {
+            "name": "Åben",
+            "keywords": [
+                "bjerg",
+                "flag",
+                "tinde"
+            ]
+        },
+        "playful": {
+            "name": "Legesyg",
+            "keywords": [
+                "delfin",
+                "hav",
+                "sjov"
+            ]
+        },
+        "prickly": {
+            "name": "Pigget",
+            "keywords": [
+                "kaktus",
+                "gnaven",
+                "spids"
+            ]
+        },
+        "quantom": {
+            "name": "Kvante",
+            "keywords": [
+                "planet",
+                "kredsløb",
+                "rummet"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "maskine",
+                "teknologi"
+            ]
+        },
+        "rocket": {
+            "name": "Raket",
+            "keywords": [
+                "raket",
+                "hurtig",
+                "ild"
+            ]
+        },
+        "spiritual": {
+            "name": "Åndelig",
+            "keywords": [
+                "panda",
+                "solbriller",
+                "slap af"
+            ]
+        },
+        "starry": {
+            "name": "Stjerneklar",
+            "keywords": [
+                "ét øje",
+                "monster",
+                "overrasket"
+            ]
+        },
+        "sunny": {
+            "name": "Solrig",
+            "keywords": [
+                "solsikke",
+                "sol",
+                "blomst"
+            ]
+        },
+        "sweet": {
+            "name": "Sød",
+            "keywords": [
+                "slik",
+                "pebermynte",
+                "sød"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaur",
+                "tænder",
+                "brøl"
+            ]
+        },
+        "wolfie": {
+            "name": "Ulfie",
+            "keywords": [
+                "ulv",
+                "hyl",
+                "snu"
+            ]
+        }
+    }
+}

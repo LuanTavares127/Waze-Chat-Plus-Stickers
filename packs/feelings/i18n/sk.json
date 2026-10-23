@@ -1,0 +1,360 @@
+{
+    "name": "Pocity",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klasika",
+                "ahoj",
+                "šťastný"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "slza",
+                "smutný",
+                "nočná čiapka"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "prázdny",
+                "neutrálny",
+                "obyčajný"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "láska",
+                "srdce",
+                "sladký"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "rodič",
+                "bábätko",
+                "rodina"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "plače",
+                "rozrušený",
+                "zúfalstvo"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "chorý",
+                "nevoľnosť",
+                "nevoľno"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "trápne",
+                "nepríjemne",
+                "fuj"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "nadšený",
+                "hurá",
+                "krídla"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "šťastný",
+                "smiech",
+                "klobúk"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "nahnevaný",
+                "otrávený",
+                "mračenie"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "otázka",
+                "čo",
+                "pochybnosť"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lotos",
+                "meditácia",
+                "pokoj"
+            ]
+        },
+        "amazing": {
+            "name": "Úžasný",
+            "keywords": [
+                "wow",
+                "hviezdičkové oči",
+                "úžasné"
+            ]
+        },
+        "amused": {
+            "name": "Pobavený",
+            "keywords": [
+                "prevrátenie očí",
+                "je mi to jedno",
+                "úškrn"
+            ]
+        },
+        "antsy": {
+            "name": "Nepokojný",
+            "keywords": [
+                "netrpezlivý",
+                "vystresovaný",
+                "fuj"
+            ]
+        },
+        "bored": {
+            "name": "Znudený",
+            "keywords": [
+                "no jo",
+                "nudný",
+                "blabla"
+            ]
+        },
+        "carsick": {
+            "name": "Zle v aute",
+            "keywords": [
+                "chorý",
+                "nevoľnosť",
+                "cestovná nevoľnosť"
+            ]
+        },
+        "cheeky": {
+            "name": "Drzý",
+            "keywords": [
+                "žmurknutie",
+                "jazyk",
+                "žart"
+            ]
+        },
+        "depressed": {
+            "name": "Depresívny",
+            "keywords": [
+                "smutný",
+                "skleslý",
+                "modrý"
+            ]
+        },
+        "exasperated": {
+            "name": "Vytočený",
+            "keywords": [
+                "mám dosť",
+                "vzdych",
+                "otrávený"
+            ]
+        },
+        "flustered": {
+            "name": "Zmätený",
+            "keywords": [
+                "šokovaný",
+                "krik",
+                "ach nie"
+            ]
+        },
+        "funny": {
+            "name": "Vtipný",
+            "keywords": [
+                "smiech",
+                "lol",
+                "slzy smiechu"
+            ]
+        },
+        "furious": {
+            "name": "Zúrivý",
+            "keywords": [
+                "zúrivosť",
+                "nadávky",
+                "nahnevaný"
+            ]
+        },
+        "grumpy": {
+            "name": "Mrzutý",
+            "keywords": [
+                "nevrlý",
+                "otrávený",
+                "slúchadlá"
+            ]
+        },
+        "happy": {
+            "name": "Šťastný",
+            "keywords": [
+                "radosť",
+                "smiech",
+                "úsmev"
+            ]
+        },
+        "hilarious": {
+            "name": "Na popukanie",
+            "keywords": [
+                "lol",
+                "smiech",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Skromný",
+            "keywords": [
+                "vďačný",
+                "pokoj",
+                "krídla"
+            ]
+        },
+        "joyful": {
+            "name": "Radostný",
+            "keywords": [
+                "smiech",
+                "šťastný",
+                "uf"
+            ]
+        },
+        "judgmental": {
+            "name": "Odsudzujúci",
+            "keywords": [
+                "nesúhlas",
+                "mračenie",
+                "odsudzovanie"
+            ]
+        },
+        "loved-up": {
+            "name": "Zaľúbený",
+            "keywords": [
+                "zaľúbený",
+                "srdiečkové oči",
+                "zaľúbenie"
+            ]
+        },
+        "mind-blown": {
+            "name": "Šokovaný",
+            "keywords": [
+                "šokovaný",
+                "wow",
+                "výbuch"
+            ]
+        },
+        "moody": {
+            "name": "Rozmarný",
+            "keywords": [
+                "no jo",
+                "čmáranica",
+                "škatuľa"
+            ]
+        },
+        "nervous": {
+            "name": "Nervózny",
+            "keywords": [
+                "úzkostný",
+                "pot",
+                "znepokojený"
+            ]
+        },
+        "obsessed": {
+            "name": "Posadnutý",
+            "keywords": [
+                "hviezdičkové oči",
+                "výkrik",
+                "fanúšik"
+            ]
+        },
+        "sad": {
+            "name": "Smutný",
+            "keywords": [
+                "slza",
+                "plač",
+                "skleslý"
+            ]
+        },
+        "shy": {
+            "name": "Hanblivý",
+            "keywords": [
+                "červenanie",
+                "roztomilý",
+                "zahanbený"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptický",
+            "keywords": [
+                "pochybnosť",
+                "neohromený",
+                "naozaj"
+            ]
+        },
+        "spacey": {
+            "name": "Duchom neprítomný",
+            "keywords": [
+                "roztržitý",
+                "zasnenie",
+                "duchom neprítomný"
+            ]
+        },
+        "tired": {
+            "name": "Unavený",
+            "keywords": [
+                "očná guľa",
+                "podliate krvou",
+                "ospalý"
+            ]
+        },
+        "unproductive": {
+            "name": "Neproduktívny",
+            "keywords": [
+                "lepiaci lístok",
+                "lenivý",
+                "hotovo"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "pokoj",
+                "uvoľnený",
+                "mier"
+            ]
+        },
+        "mischievous": {
+            "name": "Šibalský",
+            "keywords": [
+                "ach",
+                "prekvapený",
+                "škatuľa"
+            ]
+        },
+        "wicked": {
+            "name": "Zlomyseľný",
+            "keywords": [
+                "zlý úškrn",
+                "šibalstvo",
+                "škatuľa"
+            ]
+        },
+        "motivated": {
+            "name": "Motivovaný",
+            "keywords": [
+                "nadšený",
+                "poďme",
+                "vlasy"
+            ]
+        },
+        "proud": {
+            "name": "Hrdý",
+            "keywords": [
+                "hrdosť",
+                "dúha",
+                "srdce"
+            ]
+        }
+    }
+}

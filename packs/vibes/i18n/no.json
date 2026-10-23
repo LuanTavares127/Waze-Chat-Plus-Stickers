@@ -1,0 +1,342 @@
+{
+    "name": "Vibes",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "værhorn",
+                "solbriller",
+                "freidig"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "solbriller",
+                "stein"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musikk",
+                "noter",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "høy hæl",
+                "mote",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "liggende",
+                "festhatt",
+                "avslappet"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "headset",
+                "lytte",
+                "musikk"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "lyspære",
+                "briller",
+                "idé"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bobler",
+                "trylledrikk",
+                "glad"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "glitter",
+                "solbriller",
+                "fin"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "hodetelefoner",
+                "leopard",
+                "musikk"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "synge"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "romvesen",
+                "hjelm",
+                "verdensrommet"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "hodetelefoner",
+                "musikk",
+                "kul"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "caps",
+                "baklengs",
+                "skjevt blikk"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "propellhette",
+                "tullete",
+                "unge"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "forsterker",
+                "gitar",
+                "musikk"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "tromme",
+                "tamburin",
+                "blunk"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "lyspære",
+                "tenke",
+                "idé"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "hånd",
+                "honnør",
+                "hilsen"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "briller",
+                "smart",
+                "smørsmil"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "briller",
+                "blond",
+                "studere"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "kappe",
+                "helt",
+                "briller"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "krone",
+                "solbriller",
+                "konge"
+            ]
+        },
+        "chill": {
+            "name": "Chill",
+            "keywords": [
+                "solbriller",
+                "avslappet",
+                "kul"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Chill-briller",
+            "keywords": [
+                "runde briller",
+                "avslappet",
+                "kul"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "festbriller",
+                "tunge",
+                "overdrevet"
+            ]
+        },
+        "feisty": {
+            "name": "Frekk og freidig",
+            "keywords": [
+                "boksing",
+                "hanske",
+                "slåss"
+            ]
+        },
+        "gutsy": {
+            "name": "Dristig",
+            "keywords": [
+                "solbriller",
+                "tøff",
+                "modig"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ]
+        },
+        "rad": {
+            "name": "Rå",
+            "keywords": [
+                "solbriller",
+                "kul",
+                "glis"
+            ]
+        },
+        "savvy": {
+            "name": "Slu",
+            "keywords": [
+                "solbriller",
+                "nisselue",
+                "smart"
+            ]
+        },
+        "serene": {
+            "name": "Fredfull",
+            "keywords": [
+                "runde briller",
+                "rolig",
+                "smil"
+            ]
+        },
+        "shady": {
+            "name": "Skummel",
+            "keywords": [
+                "fedora",
+                "solbriller",
+                "mystisk"
+            ]
+        },
+        "snappy": {
+            "name": "Kvikk",
+            "keywords": [
+                "sløyfe",
+                "kjeks",
+                "smørsmil"
+            ]
+        },
+        "strong": {
+            "name": "Sterk",
+            "keywords": [
+                "x",
+                "solbriller",
+                "tøff"
+            ]
+        },
+        "wild": {
+            "name": "Wild",
+            "keywords": [
+                "hjelm",
+                "lyn",
+                "solbriller"
+            ]
+        },
+        "pumped": {
+            "name": "Pumpet!",
+            "keywords": [
+                "boombox",
+                "musikk",
+                "fest"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lavalampe",
+                "retro",
+                "70-tallet"
+            ]
+        },
+        "quirky": {
+            "name": "Sær",
+            "keywords": [
+                "hatt",
+                "fargerik",
+                "morsom"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "hatt",
+                "kul"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "solbriller",
+                "vill"
+            ]
+        },
+        "sidekick": {
+            "name": "Medhjelper",
+            "keywords": [
+                "partner",
+                "skjegg",
+                "kompis"
+            ]
+        },
+        "geeky": {
+            "name": "Nerdete",
+            "keywords": [
+                "briller",
+                "nerd",
+                "stirrer"
+            ]
+        },
+        "smart": {
+            "name": "Smart",
+            "keywords": [
+                "lyspære",
+                "tunge",
+                "idé"
+            ]
+        },
+        "light": {
+            "name": "Lys",
+            "keywords": [
+                "piggete",
+                "blond",
+                "surmule"
+            ]
+        }
+    }
+}

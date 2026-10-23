@@ -1,0 +1,641 @@
+{
+    "format": 1,
+    "id": "feelings",
+    "name": "Feelings",
+    "author": "luan_tavares_127",
+    "license": "All rights reserved",
+    "icon": "happy",
+    "locales": [
+        "af",
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "es-419",
+        "et",
+        "eu",
+        "fa-IR",
+        "fi",
+        "fr",
+        "gl",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+    ],
+    "stickers": [
+        {
+            "id": "114",
+            "name": "114",
+            "keywords": [
+                "love",
+                "heart",
+                "sweet"
+            ],
+            "emojis": [
+                "🥰",
+                "❤️"
+            ]
+        },
+        {
+            "id": "133",
+            "name": "133",
+            "keywords": [
+                "parent",
+                "baby",
+                "family"
+            ],
+            "emojis": [
+                "🤗",
+                "👶",
+                "💙"
+            ]
+        },
+        {
+            "id": "146",
+            "name": "146",
+            "keywords": [
+                "crying",
+                "upset",
+                "despair"
+            ],
+            "emojis": [
+                "😫",
+                "😭"
+            ]
+        },
+        {
+            "id": "165",
+            "name": "165",
+            "keywords": [
+                "sick",
+                "nausea",
+                "ill"
+            ],
+            "emojis": [
+                "🤢"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "168",
+            "keywords": [
+                "awkward",
+                "uncomfortable",
+                "ugh"
+            ],
+            "emojis": [
+                "😣",
+                "😖"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "172",
+            "keywords": [
+                "excited",
+                "yay",
+                "wings"
+            ],
+            "emojis": [
+                "🤩",
+                "😆"
+            ]
+        },
+        {
+            "id": "181",
+            "name": "181",
+            "keywords": [
+                "happy",
+                "laugh",
+                "hat"
+            ],
+            "emojis": [
+                "😄"
+            ]
+        },
+        {
+            "id": "235",
+            "name": "235",
+            "keywords": [
+                "mad",
+                "annoyed",
+                "frown"
+            ],
+            "emojis": [
+                "😠"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "239",
+            "keywords": [
+                "question",
+                "what",
+                "doubt"
+            ],
+            "emojis": [
+                "🤔",
+                "❓"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "7",
+            "keywords": [
+                "classic",
+                "hello",
+                "happy"
+            ],
+            "emojis": [
+                "🙂",
+                "😊"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "15",
+            "keywords": [
+                "blank",
+                "neutral",
+                "plain"
+            ],
+            "emojis": [
+                "😶"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "9",
+            "keywords": [
+                "tear",
+                "sad",
+                "nightcap"
+            ],
+            "emojis": [
+                "🥲",
+                "😢"
+            ]
+        },
+        {
+            "id": "amazing",
+            "name": "Amazing",
+            "keywords": [
+                "wow",
+                "star eyes",
+                "awesome"
+            ],
+            "emojis": [
+                "🤩",
+                "⭐"
+            ]
+        },
+        {
+            "id": "amused",
+            "name": "Amused",
+            "keywords": [
+                "eye roll",
+                "whatever",
+                "smirk"
+            ],
+            "emojis": [
+                "🙄"
+            ]
+        },
+        {
+            "id": "antsy",
+            "name": "Antsy",
+            "keywords": [
+                "impatient",
+                "stressed",
+                "ugh"
+            ],
+            "emojis": [
+                "😫"
+            ]
+        },
+        {
+            "id": "bored",
+            "name": "Bored",
+            "keywords": [
+                "meh",
+                "boring",
+                "blah"
+            ],
+            "emojis": [
+                "😑"
+            ]
+        },
+        {
+            "id": "carsick",
+            "name": "Carsick",
+            "keywords": [
+                "sick",
+                "nausea",
+                "motion sickness"
+            ],
+            "emojis": [
+                "🤢",
+                "🚗"
+            ]
+        },
+        {
+            "id": "cheeky",
+            "name": "Cheeky",
+            "keywords": [
+                "wink",
+                "tongue",
+                "joking"
+            ],
+            "emojis": [
+                "😜"
+            ]
+        },
+        {
+            "id": "depressed",
+            "name": "Depressed",
+            "keywords": [
+                "sad",
+                "down",
+                "blue"
+            ],
+            "emojis": [
+                "😞",
+                "😔"
+            ]
+        },
+        {
+            "id": "exasperated",
+            "name": "Exasperated",
+            "keywords": [
+                "fed up",
+                "sigh",
+                "annoyed"
+            ],
+            "emojis": [
+                "😤",
+                "😩"
+            ]
+        },
+        {
+            "id": "flustered",
+            "name": "Flustered",
+            "keywords": [
+                "shocked",
+                "yell",
+                "oh no"
+            ],
+            "emojis": [
+                "😧",
+                "😱"
+            ]
+        },
+        {
+            "id": "funny",
+            "name": "Funny",
+            "keywords": [
+                "laugh",
+                "lol",
+                "tears of joy"
+            ],
+            "emojis": [
+                "😂"
+            ]
+        },
+        {
+            "id": "furious",
+            "name": "Furious",
+            "keywords": [
+                "rage",
+                "swearing",
+                "angry"
+            ],
+            "emojis": [
+                "🤬",
+                "😡"
+            ]
+        },
+        {
+            "id": "grumpy",
+            "name": "Grumpy",
+            "keywords": [
+                "grouchy",
+                "annoyed",
+                "headphones"
+            ],
+            "emojis": [
+                "😖",
+                "😠"
+            ]
+        },
+        {
+            "id": "happy",
+            "name": "Happy",
+            "keywords": [
+                "joy",
+                "laugh",
+                "smile"
+            ],
+            "emojis": [
+                "😃",
+                "😁"
+            ]
+        },
+        {
+            "id": "hilarious",
+            "name": "Hilarious",
+            "keywords": [
+                "lol",
+                "laugh",
+                "haha"
+            ],
+            "emojis": [
+                "🤣",
+                "😆"
+            ]
+        },
+        {
+            "id": "humble",
+            "name": "Humble",
+            "keywords": [
+                "grateful",
+                "calm",
+                "wings"
+            ],
+            "emojis": [
+                "😌"
+            ]
+        },
+        {
+            "id": "joyful",
+            "name": "Joyful",
+            "keywords": [
+                "laugh",
+                "happy",
+                "phew"
+            ],
+            "emojis": [
+                "😅",
+                "😄"
+            ]
+        },
+        {
+            "id": "judgmental",
+            "name": "Judgmental",
+            "keywords": [
+                "disapprove",
+                "frown",
+                "judging"
+            ],
+            "emojis": [
+                "😒",
+                "😤"
+            ]
+        },
+        {
+            "id": "loved-up",
+            "name": "Loved-up",
+            "keywords": [
+                "in love",
+                "heart eyes",
+                "crush"
+            ],
+            "emojis": [
+                "😍",
+                "❤️"
+            ]
+        },
+        {
+            "id": "mind-blown",
+            "name": "Mind-Blown",
+            "keywords": [
+                "shocked",
+                "wow",
+                "explosion"
+            ],
+            "emojis": [
+                "🤯"
+            ]
+        },
+        {
+            "id": "moody",
+            "name": "Moody",
+            "keywords": [
+                "meh",
+                "squiggle",
+                "box"
+            ],
+            "emojis": [
+                "😖"
+            ]
+        },
+        {
+            "id": "nervous",
+            "name": "Nervous",
+            "keywords": [
+                "anxious",
+                "sweat",
+                "worried"
+            ],
+            "emojis": [
+                "😰",
+                "😬"
+            ]
+        },
+        {
+            "id": "obsessed",
+            "name": "Obsessed",
+            "keywords": [
+                "star eyes",
+                "scream",
+                "fan"
+            ],
+            "emojis": [
+                "🤩",
+                "😱"
+            ]
+        },
+        {
+            "id": "sad",
+            "name": "Sad",
+            "keywords": [
+                "tear",
+                "cry",
+                "down"
+            ],
+            "emojis": [
+                "😢"
+            ]
+        },
+        {
+            "id": "shy",
+            "name": "Shy",
+            "keywords": [
+                "blush",
+                "cute",
+                "embarrassed"
+            ],
+            "emojis": [
+                "☺️",
+                "😊"
+            ]
+        },
+        {
+            "id": "skeptical",
+            "name": "Skeptical",
+            "keywords": [
+                "doubt",
+                "unimpressed",
+                "really"
+            ],
+            "emojis": [
+                "🤨",
+                "😑"
+            ]
+        },
+        {
+            "id": "spacey",
+            "name": "Spacey",
+            "keywords": [
+                "distracted",
+                "daydream",
+                "absent"
+            ],
+            "emojis": [
+                "😶‍🌫️",
+                "👀"
+            ]
+        },
+        {
+            "id": "tired",
+            "name": "Tired",
+            "keywords": [
+                "eyeball",
+                "bloodshot",
+                "sleepy"
+            ],
+            "emojis": [
+                "😵",
+                "👁️"
+            ]
+        },
+        {
+            "id": "unproductive",
+            "name": "Unproductive",
+            "keywords": [
+                "sticky note",
+                "lazy",
+                "done"
+            ],
+            "emojis": [
+                "😵",
+                "📝"
+            ]
+        },
+        {
+            "id": "zen",
+            "name": "Zen",
+            "keywords": [
+                "calm",
+                "relaxed",
+                "peace"
+            ],
+            "emojis": [
+                "😌",
+                "🧘"
+            ]
+        },
+        {
+            "id": "mischievous",
+            "name": "Mischievous",
+            "keywords": [
+                "oh",
+                "surprised",
+                "box"
+            ],
+            "emojis": [
+                "😮"
+            ]
+        },
+        {
+            "id": "wicked",
+            "name": "Wicked",
+            "keywords": [
+                "evil grin",
+                "mischief",
+                "box"
+            ],
+            "emojis": [
+                "😈",
+                "😏"
+            ]
+        },
+        {
+            "id": "258",
+            "name": "258",
+            "keywords": [
+                "lotus",
+                "meditation",
+                "calm"
+            ],
+            "emojis": [
+                "🧘",
+                "🪷"
+            ]
+        },
+        {
+            "id": "motivated",
+            "name": "Motivated",
+            "keywords": [
+                "excited",
+                "lets go",
+                "hair"
+            ],
+            "emojis": [
+                "😆",
+                "💪"
+            ]
+        },
+        {
+            "id": "proud",
+            "name": "Proud",
+            "keywords": [
+                "pride",
+                "rainbow",
+                "heart"
+            ],
+            "emojis": [
+                "🏳️‍🌈",
+                "❤️"
+            ]
+        }
+    ]
+}

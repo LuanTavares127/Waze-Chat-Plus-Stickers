@@ -1,0 +1,382 @@
+{
+    "name": "Tiệc, cung hoàng đạo & kỳ ảo",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "người tuyết",
+                "mùa đông",
+                "khăn quàng"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "mũ tiệc",
+                "sinh nhật",
+                "ăn mừng"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "mũ bảo hiểm",
+                "ghim bản đồ"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "chú hề cung đình",
+                "mũ",
+                "cười"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "giáng sinh",
+                "ông già noel",
+                "kính râm"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "phù thủy",
+                "mũ",
+                "phép thuật"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "phù thủy nữ",
+                "mũ",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "lễ hội carnival",
+                "mũ lông",
+                "lông vũ"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "khăn quàng",
+                "mũ len",
+                "mùa đông"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "lễ hội carnival",
+                "mặt nạ",
+                "tiệc"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "năm mới",
+                "2026",
+                "tiệc"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "búa",
+                "khiên"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "mùa đông",
+                "mũ len",
+                "lạnh"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "lính gác",
+                "luân đôn",
+                "mũ"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "mũ chóp cao",
+                "trà",
+                "xứ sở thần tiên"
+            ]
+        },
+        "aries": {
+            "name": "Bạch Dương",
+            "keywords": [
+                "cung hoàng đạo",
+                "cừu đực",
+                "tử vi"
+            ]
+        },
+        "taurus": {
+            "name": "Kim Ngưu",
+            "keywords": [
+                "cung hoàng đạo",
+                "bò đực",
+                "tử vi"
+            ]
+        },
+        "gemini": {
+            "name": "Song Tử",
+            "keywords": [
+                "cung hoàng đạo",
+                "cặp song sinh",
+                "tử vi"
+            ]
+        },
+        "cancer": {
+            "name": "Cự Giải",
+            "keywords": [
+                "cung hoàng đạo",
+                "cua",
+                "tử vi"
+            ]
+        },
+        "leo": {
+            "name": "Sư Tử",
+            "keywords": [
+                "cung hoàng đạo",
+                "sư tử",
+                "tử vi"
+            ]
+        },
+        "virgo": {
+            "name": "Xử Nữ",
+            "keywords": [
+                "cung hoàng đạo",
+                "thiếu nữ",
+                "tử vi"
+            ]
+        },
+        "libra": {
+            "name": "Thiên Bình",
+            "keywords": [
+                "cung hoàng đạo",
+                "cái cân",
+                "tử vi"
+            ]
+        },
+        "scorpio": {
+            "name": "Bọ Cạp",
+            "keywords": [
+                "cung hoàng đạo",
+                "bọ cạp",
+                "tử vi"
+            ]
+        },
+        "sagittarius": {
+            "name": "Nhân Mã",
+            "keywords": [
+                "cung hoàng đạo",
+                "cung thủ",
+                "tử vi"
+            ]
+        },
+        "capricorn": {
+            "name": "Ma Kết",
+            "keywords": [
+                "cung hoàng đạo",
+                "dê",
+                "tử vi"
+            ]
+        },
+        "aquarius": {
+            "name": "Bảo Bình",
+            "keywords": [
+                "cung hoàng đạo",
+                "nước",
+                "tử vi"
+            ]
+        },
+        "pisces": {
+            "name": "Song Ngư",
+            "keywords": [
+                "cung hoàng đạo",
+                "cá",
+                "tử vi"
+            ]
+        },
+        "santa": {
+            "name": "Ông già Noel",
+            "keywords": [
+                "giáng sinh",
+                "ông già noel",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Lễ hội",
+            "keywords": [
+                "giáng sinh",
+                "mũ ông già noel",
+                "râu"
+            ]
+        },
+        "frazzled": {
+            "name": "Kiệt sức",
+            "keywords": [
+                "giáng sinh",
+                "mệt",
+                "ông già noel"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Người dự hội",
+            "keywords": [
+                "lễ hội carnival",
+                "thủy thủ",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Tiệc vui",
+            "keywords": [
+                "mũ tiệc",
+                "ngôi sao",
+                "ăn mừng"
+            ]
+        },
+        "blossom": {
+            "name": "Nở hoa",
+            "keywords": [
+                "hoa",
+                "hồng",
+                "mùa xuân"
+            ]
+        },
+        "cupid": {
+            "name": "Thần tình yêu",
+            "keywords": [
+                "valentine",
+                "mũi tên",
+                "yêu"
+            ]
+        },
+        "happy-clown": {
+            "name": "Chú hề vui",
+            "keywords": [
+                "chú hề",
+                "rạp xiếc",
+                "vui"
+            ]
+        },
+        "scary-clown": {
+            "name": "Chú hề đáng sợ",
+            "keywords": [
+                "chú hề",
+                "halloween",
+                "rùng rợn"
+            ]
+        },
+        "zombie": {
+            "name": "Thây ma",
+            "keywords": [
+                "halloween",
+                "thây ma",
+                "xác sống"
+            ]
+        },
+        "zombified": {
+            "name": "Hóa thây ma",
+            "keywords": [
+                "thây ma",
+                "mệt",
+                "đường khâu"
+            ]
+        },
+        "monster": {
+            "name": "Quái vật",
+            "keywords": [
+                "một mắt",
+                "người một mắt",
+                "quái vật"
+            ]
+        },
+        "mystical": {
+            "name": "Huyền bí",
+            "keywords": [
+                "mũ trùm",
+                "yêu tinh",
+                "phép thuật"
+            ]
+        },
+        "mighty": {
+            "name": "Hùng mạnh",
+            "keywords": [
+                "viking",
+                "ria mép",
+                "sừng"
+            ]
+        },
+        "angelic": {
+            "name": "Thiên thần",
+            "keywords": [
+                "thiên thần",
+                "vầng hào quang",
+                "cánh"
+            ]
+        },
+        "devious": {
+            "name": "Gian xảo",
+            "keywords": [
+                "ác quỷ",
+                "sừng",
+                "cười toe"
+            ]
+        },
+        "diabolical": {
+            "name": "Quỷ quyệt",
+            "keywords": [
+                "phản diện",
+                "kính một tròng",
+                "ác"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "thiên tài",
+                "nhà khoa học",
+                "lè lưỡi"
+            ]
+        },
+        "belgie": {
+            "name": "Bỉ",
+            "keywords": [
+                "bỉ",
+                "kèn",
+                "người hâm mộ"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "phi hành gia",
+                "không gian",
+                "mũ bảo hiểm"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (Xanh)",
+            "keywords": [
+                "phi hành gia",
+                "không gian",
+                "mặt trăng"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "anh hùng",
+                "vương miện nhỏ",
+                "sức mạnh"
+            ]
+        }
+    }
+}

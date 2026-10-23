@@ -1,0 +1,358 @@
+{
+    "name": "Živalce in stvari",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "skala",
+                "kamen",
+                "hitro"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "medved",
+                "ribiški klobuk",
+                "nasmeh"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapibara",
+                "ptica",
+                "sproščeno"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "možgani",
+                "pametno",
+                "razmišljati"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinozaver",
+                "zobje",
+                "ugriz"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "podočnjaki",
+                "zobje",
+                "muzanje"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "krava",
+                "muu",
+                "kmetija"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "krona"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "pomežik"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "pes",
+                "korgi",
+                "krona"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "zmaj",
+                "rdeče",
+                "pošast"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "roka",
+                "oko",
+                "zaščita"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "oko",
+                "znak",
+                "skrivnost"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "čajnik",
+                "čaj",
+                "jabolko"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "ptica",
+                "kapa",
+                "govoriti"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bitni",
+            "keywords": [
+                "piksel",
+                "retro",
+                "igra"
+            ]
+        },
+        "aware": {
+            "name": "Zavedni",
+            "keywords": [
+                "mavrica",
+                "mirno",
+                "barve"
+            ]
+        },
+        "baby": {
+            "name": "Dojenček",
+            "keywords": [
+                "dudka",
+                "dojenček",
+                "luštno"
+            ]
+        },
+        "blobby": {
+            "name": "Packasti",
+            "keywords": [
+                "packa",
+                "mehurčki",
+                "zvezde"
+            ]
+        },
+        "bright": {
+            "name": "Svetli",
+            "keywords": [
+                "zvezda",
+                "sijati",
+                "mavrica"
+            ]
+        },
+        "calm": {
+            "name": "Miren",
+            "keywords": [
+                "oblak",
+                "kapa",
+                "nebo"
+            ]
+        },
+        "captivated": {
+            "name": "Očarani",
+            "keywords": [
+                "kamera",
+                "fotografija",
+                "slika"
+            ]
+        },
+        "cat": {
+            "name": "Mačka",
+            "keywords": [
+                "mačka",
+                "muca",
+                "mijav"
+            ]
+        },
+        "cell": {
+            "name": "Celica",
+            "keywords": [
+                "celica",
+                "biologija",
+                "packa"
+            ]
+        },
+        "centered": {
+            "name": "Uravnovešeni",
+            "keywords": [
+                "kamni",
+                "ravnovesje",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Vesoljski",
+            "keywords": [
+                "tipalke",
+                "vesoljec",
+                "srečno"
+            ]
+        },
+        "destemido": {
+            "name": "Neustrašni",
+            "keywords": [
+                "kaktus",
+                "rastlina",
+                "trdo"
+            ]
+        },
+        "dog": {
+            "name": "Pes",
+            "keywords": [
+                "pes",
+                "kuža",
+                "jezik"
+            ]
+        },
+        "fancy": {
+            "name": "Elegantni",
+            "keywords": [
+                "torta",
+                "rezina",
+                "češnja"
+            ]
+        },
+        "flowing": {
+            "name": "Tekoči",
+            "keywords": [
+                "voda",
+                "kapljica",
+                "dež"
+            ]
+        },
+        "hopeful": {
+            "name": "Upajoči",
+            "keywords": [
+                "oblak",
+                "sonce",
+                "mirno"
+            ]
+        },
+        "hungry": {
+            "name": "Lačni",
+            "keywords": [
+                "burger",
+                "hrana",
+                "kosilo"
+            ]
+        },
+        "magical": {
+            "name": "Čarobni",
+            "keywords": [
+                "samorog",
+                "mavrica",
+                "čarovnija"
+            ]
+        },
+        "magical-2": {
+            "name": "Čarobni (2)",
+            "keywords": [
+                "čarovnija",
+                "roza",
+                "slavno"
+            ]
+        },
+        "open": {
+            "name": "Odprti",
+            "keywords": [
+                "gora",
+                "zastava",
+                "vrh"
+            ]
+        },
+        "playful": {
+            "name": "Igrivi",
+            "keywords": [
+                "delfin",
+                "morje",
+                "zabava"
+            ]
+        },
+        "prickly": {
+            "name": "Bodičasti",
+            "keywords": [
+                "kaktus",
+                "godrnjavo",
+                "bodičasto"
+            ]
+        },
+        "quantom": {
+            "name": "Kvantni",
+            "keywords": [
+                "planet",
+                "orbita",
+                "vesolje"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robot",
+                "stroj",
+                "tehnologija"
+            ]
+        },
+        "rocket": {
+            "name": "Raketa",
+            "keywords": [
+                "raketa",
+                "hitro",
+                "ogenj"
+            ]
+        },
+        "spiritual": {
+            "name": "Duhovni",
+            "keywords": [
+                "panda",
+                "sončna očala",
+                "sproščeno"
+            ]
+        },
+        "starry": {
+            "name": "Zvezdnati",
+            "keywords": [
+                "eno oko",
+                "pošast",
+                "presenečeno"
+            ]
+        },
+        "sunny": {
+            "name": "Sončni",
+            "keywords": [
+                "sončnica",
+                "sonce",
+                "cvet"
+            ]
+        },
+        "sweet": {
+            "name": "Sladki",
+            "keywords": [
+                "bonbon",
+                "poprova meta",
+                "sladko"
+            ]
+        },
+        "t-rex": {
+            "name": "T-rex",
+            "keywords": [
+                "dinozaver",
+                "zobje",
+                "rjovenje"
+            ]
+        },
+        "wolfie": {
+            "name": "Wolfie",
+            "keywords": [
+                "volk",
+                "tuljenje",
+                "zvito"
+            ]
+        }
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "name": "Sentimentos",
+    "stickers": {
+        "7": {
+            "name": "7",
+            "keywords": [
+                "clássico",
+                "oi",
+                "feliz"
+            ]
+        },
+        "9": {
+            "name": "9",
+            "keywords": [
+                "lágrima",
+                "triste",
+                "touca"
+            ]
+        },
+        "15": {
+            "name": "15",
+            "keywords": [
+                "neutro",
+                "simples",
+                "sem expressão"
+            ]
+        },
+        "114": {
+            "name": "114",
+            "keywords": [
+                "amor",
+                "coração",
+                "carinho"
+            ]
+        },
+        "133": {
+            "name": "133",
+            "keywords": [
+                "pai",
+                "mãe",
+                "bebê",
+                "família"
+            ]
+        },
+        "146": {
+            "name": "146",
+            "keywords": [
+                "chorando",
+                "triste",
+                "desespero"
+            ]
+        },
+        "165": {
+            "name": "165",
+            "keywords": [
+                "passando mal",
+                "náusea",
+                "doente"
+            ]
+        },
+        "168": {
+            "name": "168",
+            "keywords": [
+                "sem graça",
+                "desconfortável",
+                "aff"
+            ]
+        },
+        "172": {
+            "name": "172",
+            "keywords": [
+                "animado",
+                "oba",
+                "asas"
+            ]
+        },
+        "181": {
+            "name": "181",
+            "keywords": [
+                "feliz",
+                "risada",
+                "chapéu"
+            ]
+        },
+        "235": {
+            "name": "235",
+            "keywords": [
+                "raiva",
+                "irritado",
+                "cara feia"
+            ]
+        },
+        "239": {
+            "name": "239",
+            "keywords": [
+                "dúvida",
+                "quê",
+                "pergunta"
+            ]
+        },
+        "258": {
+            "name": "258",
+            "keywords": [
+                "lótus",
+                "meditação",
+                "calma"
+            ]
+        },
+        "amazing": {
+            "name": "Incrível",
+            "keywords": [
+                "uau",
+                "olhos de estrela",
+                "demais"
+            ]
+        },
+        "amused": {
+            "name": "Achando graça",
+            "keywords": [
+                "revirar os olhos",
+                "tanto faz",
+                "sorrisinho"
+            ]
+        },
+        "antsy": {
+            "name": "Inquieto",
+            "keywords": [
+                "impaciente",
+                "estressado",
+                "aff"
+            ]
+        },
+        "bored": {
+            "name": "Entediado",
+            "keywords": [
+                "tédio",
+                "chato",
+                "tanto faz"
+            ]
+        },
+        "carsick": {
+            "name": "Enjoado no carro",
+            "keywords": [
+                "enjoo",
+                "náusea",
+                "passando mal"
+            ]
+        },
+        "cheeky": {
+            "name": "Atrevido",
+            "keywords": [
+                "piscadinha",
+                "língua",
+                "brincadeira"
+            ]
+        },
+        "depressed": {
+            "name": "Deprimido",
+            "keywords": [
+                "triste",
+                "pra baixo",
+                "desanimado"
+            ]
+        },
+        "exasperated": {
+            "name": "Exasperado",
+            "keywords": [
+                "de saco cheio",
+                "suspiro",
+                "irritado"
+            ]
+        },
+        "flustered": {
+            "name": "Atrapalhado",
+            "keywords": [
+                "assustado",
+                "grito",
+                "ai não"
+            ]
+        },
+        "funny": {
+            "name": "Engraçado",
+            "keywords": [
+                "risada",
+                "kkk",
+                "chorando de rir"
+            ]
+        },
+        "furious": {
+            "name": "Furioso",
+            "keywords": [
+                "fúria",
+                "xingando",
+                "bravo"
+            ]
+        },
+        "grumpy": {
+            "name": "Ranzinza",
+            "keywords": [
+                "mal-humorado",
+                "irritado",
+                "fone"
+            ]
+        },
+        "happy": {
+            "name": "Feliz",
+            "keywords": [
+                "alegria",
+                "risada",
+                "sorriso"
+            ]
+        },
+        "hilarious": {
+            "name": "Hilário",
+            "keywords": [
+                "kkk",
+                "risada",
+                "rachando"
+            ]
+        },
+        "humble": {
+            "name": "Humilde",
+            "keywords": [
+                "grato",
+                "tranquilo",
+                "asas"
+            ]
+        },
+        "joyful": {
+            "name": "Contente",
+            "keywords": [
+                "risada",
+                "feliz",
+                "ufa"
+            ]
+        },
+        "judgmental": {
+            "name": "Julgador",
+            "keywords": [
+                "desaprovando",
+                "julgando",
+                "cara feia"
+            ]
+        },
+        "loved-up": {
+            "name": "Apaixonado",
+            "keywords": [
+                "apaixonado",
+                "olhos de coração",
+                "paixão"
+            ]
+        },
+        "mind-blown": {
+            "name": "Cabeça explodindo",
+            "keywords": [
+                "chocado",
+                "uau",
+                "explosão"
+            ]
+        },
+        "moody": {
+            "name": "De mau humor",
+            "keywords": [
+                "mal-humorado",
+                "aff",
+                "caixa"
+            ]
+        },
+        "nervous": {
+            "name": "Nervoso",
+            "keywords": [
+                "ansioso",
+                "suando",
+                "preocupado"
+            ]
+        },
+        "obsessed": {
+            "name": "Obcecado",
+            "keywords": [
+                "olhos de estrela",
+                "grito",
+                "fã"
+            ]
+        },
+        "sad": {
+            "name": "Triste",
+            "keywords": [
+                "lágrima",
+                "choro",
+                "pra baixo"
+            ]
+        },
+        "shy": {
+            "name": "Tímido",
+            "keywords": [
+                "vergonha",
+                "fofo",
+                "corado"
+            ]
+        },
+        "skeptical": {
+            "name": "Cético",
+            "keywords": [
+                "desconfiado",
+                "sério",
+                "aham"
+            ]
+        },
+        "spacey": {
+            "name": "Avoado",
+            "keywords": [
+                "distraído",
+                "no mundo da lua",
+                "aéreo"
+            ]
+        },
+        "tired": {
+            "name": "Cansado",
+            "keywords": [
+                "olho",
+                "olho vermelho",
+                "sono"
+            ]
+        },
+        "unproductive": {
+            "name": "Improdutivo",
+            "keywords": [
+                "post-it",
+                "preguiça",
+                "sem vontade"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "calma",
+                "relaxado",
+                "paz"
+            ]
+        },
+        "mischievous": {
+            "name": "Travesso",
+            "keywords": [
+                "surpreso",
+                "ops",
+                "caixa"
+            ]
+        },
+        "wicked": {
+            "name": "Malvado",
+            "keywords": [
+                "sorriso maligno",
+                "maldade",
+                "caixa"
+            ]
+        },
+        "motivated": {
+            "name": "Motivado",
+            "keywords": [
+                "animado",
+                "bora",
+                "cabelo"
+            ]
+        },
+        "proud": {
+            "name": "Orgulhoso",
+            "keywords": [
+                "orgulho",
+                "arco-íris",
+                "coração"
+            ]
+        }
+    }
+}

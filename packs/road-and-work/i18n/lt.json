@@ -1,0 +1,351 @@
+{
+    "name": "Kelyje ir darbe",
+    "stickers": {
+        "18": {
+            "keywords": [
+                "ryšulėlis",
+                "kelionė",
+                "nuotykis"
+            ]
+        },
+        "20": {
+            "keywords": [
+                "eliksyras",
+                "akiniai",
+                "laboratorija"
+            ]
+        },
+        "51": {
+            "keywords": [
+                "tyrinėtojas",
+                "skrybėlė",
+                "nuotykis"
+            ]
+        },
+        "52": {
+            "keywords": [
+                "fotoaparatas",
+                "vėliava",
+                "ekskursija"
+            ]
+        },
+        "74": {
+            "keywords": [
+                "jūreivis",
+                "kepurė",
+                "valtis"
+            ]
+        },
+        "116": {
+            "keywords": [
+                "lagaminas",
+                "skrybėlė",
+                "kelionė"
+            ]
+        },
+        "124": {
+            "keywords": [
+                "pilotas",
+                "apsauginiai akiniai",
+                "šalmas"
+            ]
+        },
+        "131": {
+            "keywords": [
+                "pelėda",
+                "išleistuvės",
+                "protingas"
+            ]
+        },
+        "147": {
+            "keywords": [
+                "gesintuvas",
+                "sauga",
+                "nervingas"
+            ]
+        },
+        "148": {
+            "keywords": [
+                "statybininko šalmas",
+                "statyba",
+                "liemenė"
+            ]
+        },
+        "150": {
+            "keywords": [
+                "šiaudinė skrybėlė",
+                "ūkis",
+                "birželio šventė"
+            ]
+        },
+        "161": {
+            "keywords": [
+                "šalmas",
+                "žvaigždės",
+                "lenktynininkas"
+            ]
+        },
+        "171": {
+            "keywords": [
+                "veido kaukė",
+                "sveikata",
+                "saugu"
+            ]
+        },
+        "173": {
+            "keywords": [
+                "chronometras",
+                "galvos juosta",
+                "treniruotė"
+            ]
+        },
+        "207": {
+            "keywords": [
+                "balsas",
+                "rinkimai",
+                "biuletenis"
+            ]
+        },
+        "208": {
+            "keywords": [
+                "signalas",
+                "robotas",
+                "wifi"
+            ]
+        },
+        "212": {
+            "keywords": [
+                "balsas",
+                "ženklas",
+                "rinkimai"
+            ]
+        },
+        "217": {
+            "keywords": [
+                "medalis",
+                "kaspinas",
+                "mirktelėjimas"
+            ]
+        },
+        "244": {
+            "keywords": [
+                "pristatymas",
+                "šalmas",
+                "dėžė"
+            ]
+        },
+        "245": {
+            "keywords": [
+                "robotas",
+                "antena",
+                "tyrinėtojas"
+            ]
+        },
+        "247": {
+            "keywords": [
+                "kalbos debesėlis",
+                "pokalbis",
+                "kalbėti"
+            ]
+        },
+        "248": {
+            "keywords": [
+                "švilpukas",
+                "teisėjas",
+                "pražanga"
+            ]
+        },
+        "road-warrior": {
+            "name": "Kelių karys",
+            "keywords": [
+                "šalmas",
+                "apsauginiai akiniai",
+                "sparnas"
+            ]
+        },
+        "limitless": {
+            "name": "Be ribų",
+            "keywords": [
+                "greitkelis",
+                "skydas",
+                "kelio ženklas"
+            ]
+        },
+        "map-master": {
+            "name": "Žemėlapių meistras",
+            "keywords": [
+                "redaktorius",
+                "žemėlapis",
+                "wazer"
+            ]
+        },
+        "mega-hauler": {
+            "name": "Mega vilkikas",
+            "keywords": [
+                "sunkvežimis",
+                "apsauginiai akiniai",
+                "vilkikas"
+            ]
+        },
+        "captain-thank-you": {
+            "name": "Kapitonas Ačiū",
+            "keywords": [
+                "ačiū",
+                "kapitonas",
+                "ūsai"
+            ]
+        },
+        "all-business": {
+            "name": "Tik darbas",
+            "keywords": [
+                "kostiumas",
+                "kaklaraištis",
+                "darbas"
+            ]
+        },
+        "business-casual": {
+            "name": "Verslo kasdienė",
+            "keywords": [
+                "kaklaraištis",
+                "galvos juosta",
+                "liežuvis"
+            ]
+        },
+        "businessy": {
+            "name": "Verslus",
+            "keywords": [
+                "kostiumas",
+                "akiniai",
+                "biuras"
+            ]
+        },
+        "bawse-y": {
+            "name": "Kaip bosas",
+            "keywords": [
+                "bosas",
+                "akiniai nuo saulės",
+                "kostiumas"
+            ]
+        },
+        "productive": {
+            "name": "Produktyvus",
+            "keywords": [
+                "ausinės su mikrofonu",
+                "darbas",
+                "mirktelėjimas"
+            ]
+        },
+        "dialed-up": {
+            "name": "Prisijungęs",
+            "keywords": [
+                "kompiuteris",
+                "retro",
+                "internetas"
+            ]
+        },
+        "undercover": {
+            "name": "Slaptas",
+            "keywords": [
+                "maskuotė",
+                "akiniai",
+                "nosis"
+            ]
+        },
+        "sneaky": {
+            "name": "Vogčiomis",
+            "keywords": [
+                "nindzė",
+                "slaptumas",
+                "kaukė"
+            ]
+        },
+        "survivalist": {
+            "name": "Išgyvenimo meistras",
+            "keywords": [
+                "bandana",
+                "randas",
+                "tvirtas"
+            ]
+        },
+        "speedy": {
+            "name": "Greitas",
+            "keywords": [
+                "greitas",
+                "greitis",
+                "šypsnis"
+            ]
+        },
+        "sprinteur": {
+            "name": "Sprinteris",
+            "keywords": [
+                "dviračių sportas",
+                "kepurė",
+                "greitas"
+            ]
+        },
+        "unstoppable": {
+            "name": "Nesustabdomas",
+            "keywords": [
+                "greitas",
+                "žvilgesys",
+                "bėgti"
+            ]
+        },
+        "comfortable": {
+            "name": "Patogus",
+            "keywords": [
+                "sportbatis",
+                "batas",
+                "jaukus"
+            ]
+        },
+        "eco-friendly": {
+            "name": "Ekologiškas",
+            "keywords": [
+                "žemė",
+                "planeta",
+                "žalia"
+            ]
+        },
+        "global": {
+            "name": "Globalus",
+            "keywords": [
+                "žemė",
+                "megafonas",
+                "pasaulis"
+            ]
+        },
+        "victorious": {
+            "name": "Nugalėtojas",
+            "keywords": [
+                "taurė",
+                "laimėtojas",
+                "čempionas"
+            ]
+        },
+        "beautiful": {
+            "name": "Gražus",
+            "keywords": [
+                "futbolas",
+                "futbolas",
+                "kamuolys"
+            ]
+        },
+        "masterful": {
+            "name": "Meistriškas",
+            "keywords": [
+                "golfas",
+                "kamuolys",
+                "sportas"
+            ]
+        },
+        "no-corre": {
+            "name": "No corre",
+            "keywords": [
+                "šalmas",
+                "motociklas",
+                "skubėti"
+            ]
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "name": "Havalar",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "koç boynuzu",
+                "güneş gözlüğü",
+                "cesur"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "güneş gözlüğü",
+                "kaya"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "müzik",
+                "nota",
+                "hippi"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "topuklu",
+                "moda",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "uzanmak",
+                "parti şapkası",
+                "rahat"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "mikrofonlu kulaklık",
+                "dinlemek",
+                "müzik"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "ampul",
+                "gözlük",
+                "fikir"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "baloncuk",
+                "iksir",
+                "mutlu"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "ışıltı",
+                "güneş gözlüğü",
+                "şık"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "kulaklık",
+                "leopar",
+                "müzik"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "şarkı söylemek"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "uzaylı",
+                "kask",
+                "uzay"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "kulaklık",
+                "müzik",
+                "havalı"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "kasket",
+                "ters",
+                "yan bakış"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "pervaneli şapka",
+                "salak",
+                "çocuk"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "amfi",
+                "gitar",
+                "müzik"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "davul",
+                "tef",
+                "göz kırpma"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "ampul",
+                "düşünmek",
+                "fikir"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "el",
+                "selam",
+                "selamlama"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "gözlük",
+                "akıllı",
+                "sırıtma"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "gözlük",
+                "sarışın",
+                "ders çalışmak"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "pelerin",
+                "kahraman",
+                "gözlük"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "taç",
+                "güneş gözlüğü",
+                "kral"
+            ]
+        },
+        "chill": {
+            "name": "Rahat",
+            "keywords": [
+                "güneş gözlüğü",
+                "rahat",
+                "havalı"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Rahat Gözlüklü",
+            "keywords": [
+                "yuvarlak gözlük",
+                "rahat",
+                "havalı"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "parti gözlüğü",
+                "dil",
+                "aşırı"
+            ]
+        },
+        "feisty": {
+            "name": "Kavgacı",
+            "keywords": [
+                "boks",
+                "eldiven",
+                "kavga"
+            ]
+        },
+        "gutsy": {
+            "name": "Cesaretli",
+            "keywords": [
+                "güneş gözlüğü",
+                "sert",
+                "cesur"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "iyi enerji"
+            ]
+        },
+        "rad": {
+            "name": "Süper",
+            "keywords": [
+                "güneş gözlüğü",
+                "havalı",
+                "sırıtış"
+            ]
+        },
+        "savvy": {
+            "name": "Bilgili",
+            "keywords": [
+                "güneş gözlüğü",
+                "noel baba şapkası",
+                "akıllı"
+            ]
+        },
+        "serene": {
+            "name": "Dingin",
+            "keywords": [
+                "yuvarlak gözlük",
+                "sakin",
+                "gülümseme"
+            ]
+        },
+        "shady": {
+            "name": "Şüpheli",
+            "keywords": [
+                "fötr şapka",
+                "güneş gözlüğü",
+                "gizemli"
+            ]
+        },
+        "snappy": {
+            "name": "Çevik",
+            "keywords": [
+                "papyon",
+                "kurabiye",
+                "sırıtma"
+            ]
+        },
+        "strong": {
+            "name": "Güçlü",
+            "keywords": [
+                "x",
+                "güneş gözlüğü",
+                "sert"
+            ]
+        },
+        "wild": {
+            "name": "Vahşi",
+            "keywords": [
+                "kask",
+                "şimşek",
+                "güneş gözlüğü"
+            ]
+        },
+        "pumped": {
+            "name": "Hazır!",
+            "keywords": [
+                "teyp",
+                "müzik",
+                "parti"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lav lambası",
+                "retro",
+                "70'ler"
+            ]
+        },
+        "quirky": {
+            "name": "Tuhaf",
+            "keywords": [
+                "şapka",
+                "rengarenk",
+                "komik"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "kolombiya",
+                "şapka",
+                "havalı"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopar",
+                "güneş gözlüğü",
+                "vahşi"
+            ]
+        },
+        "sidekick": {
+            "name": "Yardımcı",
+            "keywords": [
+                "ortak",
+                "sakal",
+                "arkadaş"
+            ]
+        },
+        "geeky": {
+            "name": "İnek",
+            "keywords": [
+                "gözlük",
+                "inek",
+                "dik bakış"
+            ]
+        },
+        "smart": {
+            "name": "Akıllı",
+            "keywords": [
+                "ampul",
+                "dil",
+                "fikir"
+            ]
+        },
+        "light": {
+            "name": "Hafif",
+            "keywords": [
+                "dikenli",
+                "sarı saçlı",
+                "somurtma"
+            ]
+        }
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "name": "Otukset ja tavarat",
+    "stickers": {
+        "30": {
+            "keywords": [
+                "kallio",
+                "kivi",
+                "nopea"
+            ]
+        },
+        "84": {
+            "keywords": [
+                "karhu",
+                "kalastajanhattu",
+                "hymy"
+            ]
+        },
+        "85": {
+            "keywords": [
+                "kapybara",
+                "lintu",
+                "rento"
+            ]
+        },
+        "102": {
+            "keywords": [
+                "aivot",
+                "älykäs",
+                "ajatella"
+            ]
+        },
+        "177": {
+            "keywords": [
+                "dinosaurus",
+                "hampaat",
+                "purra"
+            ]
+        },
+        "219": {
+            "keywords": [
+                "torahampaat",
+                "hampaat",
+                "virnistys"
+            ]
+        },
+        "227": {
+            "keywords": [
+                "lehmä",
+                "ammuu",
+                "maatila"
+            ]
+        },
+        "229": {
+            "keywords": [
+                "koira",
+                "corgi",
+                "kruunu"
+            ]
+        },
+        "230": {
+            "keywords": [
+                "koira",
+                "corgi",
+                "silmänisku"
+            ]
+        },
+        "231": {
+            "keywords": [
+                "koira",
+                "corgi",
+                "kruunu"
+            ]
+        },
+        "236": {
+            "keywords": [
+                "lohikäärme",
+                "punainen",
+                "hirviö"
+            ]
+        },
+        "241": {
+            "keywords": [
+                "käsi",
+                "silmä",
+                "suojelu"
+            ]
+        },
+        "249": {
+            "keywords": [
+                "silmä",
+                "merkki",
+                "mysteeri"
+            ]
+        },
+        "251": {
+            "keywords": [
+                "teekannu",
+                "tee",
+                "omena"
+            ]
+        },
+        "259": {
+            "keywords": [
+                "lintu",
+                "lippalakki",
+                "puhua"
+            ]
+        },
+        "8-bit": {
+            "name": "8-bittinen",
+            "keywords": [
+                "pikseli",
+                "retro",
+                "peli"
+            ]
+        },
+        "aware": {
+            "name": "Tietoinen",
+            "keywords": [
+                "sateenkaari",
+                "rauha",
+                "värit"
+            ]
+        },
+        "baby": {
+            "name": "Vauva",
+            "keywords": [
+                "tutti",
+                "vauva",
+                "söpö"
+            ]
+        },
+        "blobby": {
+            "name": "Mönjä",
+            "keywords": [
+                "möykky",
+                "kuplat",
+                "tähdet"
+            ]
+        },
+        "bright": {
+            "name": "Kirkas",
+            "keywords": [
+                "tähti",
+                "loiste",
+                "sateenkaari"
+            ]
+        },
+        "calm": {
+            "name": "Rauhallinen",
+            "keywords": [
+                "pilvi",
+                "lippalakki",
+                "taivas"
+            ]
+        },
+        "captivated": {
+            "name": "Lumoutunut",
+            "keywords": [
+                "kamera",
+                "valokuva",
+                "kuva"
+            ]
+        },
+        "cat": {
+            "name": "Kissa",
+            "keywords": [
+                "kissa",
+                "kisu",
+                "miau"
+            ]
+        },
+        "cell": {
+            "name": "Solu",
+            "keywords": [
+                "solu",
+                "biologia",
+                "möykky"
+            ]
+        },
+        "centered": {
+            "name": "Tasapainoinen",
+            "keywords": [
+                "kivet",
+                "tasapaino",
+                "zen"
+            ]
+        },
+        "cosmic": {
+            "name": "Kosminen",
+            "keywords": [
+                "tuntosarvet",
+                "avaruusolio",
+                "iloinen"
+            ]
+        },
+        "destemido": {
+            "name": "Pelkäämätön",
+            "keywords": [
+                "kaktus",
+                "kasvi",
+                "kova"
+            ]
+        },
+        "dog": {
+            "name": "Koira",
+            "keywords": [
+                "koira",
+                "pentu",
+                "kieli"
+            ]
+        },
+        "fancy": {
+            "name": "Hieno",
+            "keywords": [
+                "kakku",
+                "pala",
+                "kirsikka"
+            ]
+        },
+        "flowing": {
+            "name": "Virtaava",
+            "keywords": [
+                "vesi",
+                "pisara",
+                "sade"
+            ]
+        },
+        "hopeful": {
+            "name": "Toiveikas",
+            "keywords": [
+                "pilvi",
+                "aurinko",
+                "rauha"
+            ]
+        },
+        "hungry": {
+            "name": "Nälkäinen",
+            "keywords": [
+                "hampurilainen",
+                "ruoka",
+                "lounas"
+            ]
+        },
+        "magical": {
+            "name": "Maaginen",
+            "keywords": [
+                "yksisarvinen",
+                "sateenkaari",
+                "taikuus"
+            ]
+        },
+        "magical-2": {
+            "name": "Maaginen (2)",
+            "keywords": [
+                "taikuus",
+                "vaaleanpunainen",
+                "kuuluisa"
+            ]
+        },
+        "open": {
+            "name": "Avoin",
+            "keywords": [
+                "vuori",
+                "lippu",
+                "huippu"
+            ]
+        },
+        "playful": {
+            "name": "Leikkisä",
+            "keywords": [
+                "delfiini",
+                "meri",
+                "hauskaa"
+            ]
+        },
+        "prickly": {
+            "name": "Piikikäs",
+            "keywords": [
+                "kaktus",
+                "ärtyisä",
+                "piikikäs"
+            ]
+        },
+        "quantom": {
+            "name": "Kvantti",
+            "keywords": [
+                "planeetta",
+                "kiertorata",
+                "avaruus"
+            ]
+        },
+        "robot": {
+            "name": "Robot",
+            "keywords": [
+                "robotti",
+                "kone",
+                "teknologia"
+            ]
+        },
+        "rocket": {
+            "name": "Raketti",
+            "keywords": [
+                "raketti",
+                "nopea",
+                "tuli"
+            ]
+        },
+        "spiritual": {
+            "name": "Hengellinen",
+            "keywords": [
+                "panda",
+                "aurinkolasit",
+                "rento"
+            ]
+        },
+        "starry": {
+            "name": "Tähtikirkas",
+            "keywords": [
+                "yksi silmä",
+                "hirviö",
+                "yllättynyt"
+            ]
+        },
+        "sunny": {
+            "name": "Aurinkoinen",
+            "keywords": [
+                "auringonkukka",
+                "aurinko",
+                "kukka"
+            ]
+        },
+        "sweet": {
+            "name": "Suloinen",
+            "keywords": [
+                "karkki",
+                "piparminttu",
+                "makea"
+            ]
+        },
+        "t-rex": {
+            "name": "T-Rex",
+            "keywords": [
+                "dinosaurus",
+                "hampaat",
+                "karjaisu"
+            ]
+        },
+        "wolfie": {
+            "name": "Susi",
+            "keywords": [
+                "susi",
+                "ulvonta",
+                "ovela"
+            ]
+        }
+    }
+}

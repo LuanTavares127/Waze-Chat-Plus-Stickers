@@ -1,0 +1,382 @@
+{
+    "name": "Buli, állatöv és fantázia",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "hóember",
+                "tél",
+                "sál"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "partikalap",
+                "születésnap",
+                "ünnepel"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "sisak",
+                "térképtű"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "udvari bolond",
+                "kalap",
+                "nevetés"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "karácsony",
+                "mikulás",
+                "napszemüveg"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "varázsló",
+                "kalap",
+                "varázslat"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "boszorkány",
+                "kalap",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "karnevál",
+                "fejdísz",
+                "tollak"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "sál",
+                "kötött sapka",
+                "tél"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "karnevál",
+                "maszk",
+                "buli"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "újév",
+                "2026",
+                "buli"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "kalapács",
+                "pajzs"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "tél",
+                "kötött sapka",
+                "hideg"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "őr",
+                "london",
+                "kalap"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "cilinder",
+                "tea",
+                "csodaország"
+            ]
+        },
+        "aries": {
+            "name": "Kos",
+            "keywords": [
+                "állatöv",
+                "kos",
+                "horoszkóp"
+            ]
+        },
+        "taurus": {
+            "name": "Bika",
+            "keywords": [
+                "állatöv",
+                "bika",
+                "horoszkóp"
+            ]
+        },
+        "gemini": {
+            "name": "Ikrek",
+            "keywords": [
+                "állatöv",
+                "ikrek",
+                "horoszkóp"
+            ]
+        },
+        "cancer": {
+            "name": "Rák",
+            "keywords": [
+                "állatöv",
+                "rák",
+                "horoszkóp"
+            ]
+        },
+        "leo": {
+            "name": "Oroszlán",
+            "keywords": [
+                "állatöv",
+                "oroszlán",
+                "horoszkóp"
+            ]
+        },
+        "virgo": {
+            "name": "Szűz",
+            "keywords": [
+                "állatöv",
+                "szűz",
+                "horoszkóp"
+            ]
+        },
+        "libra": {
+            "name": "Mérleg",
+            "keywords": [
+                "állatöv",
+                "mérleg",
+                "horoszkóp"
+            ]
+        },
+        "scorpio": {
+            "name": "Skorpió",
+            "keywords": [
+                "állatöv",
+                "skorpió",
+                "horoszkóp"
+            ]
+        },
+        "sagittarius": {
+            "name": "Nyilas",
+            "keywords": [
+                "állatöv",
+                "íjász",
+                "horoszkóp"
+            ]
+        },
+        "capricorn": {
+            "name": "Bak",
+            "keywords": [
+                "állatöv",
+                "kecske",
+                "horoszkóp"
+            ]
+        },
+        "aquarius": {
+            "name": "Vízöntő",
+            "keywords": [
+                "állatöv",
+                "víz",
+                "horoszkóp"
+            ]
+        },
+        "pisces": {
+            "name": "Halak",
+            "keywords": [
+                "állatöv",
+                "hal",
+                "horoszkóp"
+            ]
+        },
+        "santa": {
+            "name": "Mikulás",
+            "keywords": [
+                "karácsony",
+                "mikulás",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Ünnepi",
+            "keywords": [
+                "karácsony",
+                "mikulássapka",
+                "szakáll"
+            ]
+        },
+        "frazzled": {
+            "name": "Kimerült",
+            "keywords": [
+                "karácsony",
+                "fáradt",
+                "mikulás"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Mulatozó",
+            "keywords": [
+                "karnevál",
+                "tengerész",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Vidám buli",
+            "keywords": [
+                "partikalap",
+                "csillag",
+                "ünnepel"
+            ]
+        },
+        "blossom": {
+            "name": "Virágzás",
+            "keywords": [
+                "virág",
+                "rózsaszín",
+                "tavasz"
+            ]
+        },
+        "cupid": {
+            "name": "Ámor",
+            "keywords": [
+                "valentin",
+                "nyíl",
+                "szerelem"
+            ]
+        },
+        "happy-clown": {
+            "name": "Vidám bohóc",
+            "keywords": [
+                "bohóc",
+                "cirkusz",
+                "szórakozás"
+            ]
+        },
+        "scary-clown": {
+            "name": "Ijesztő bohóc",
+            "keywords": [
+                "bohóc",
+                "halloween",
+                "hátborzongató"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "élőhalott"
+            ]
+        },
+        "zombified": {
+            "name": "Zombiként",
+            "keywords": [
+                "zombie",
+                "fáradt",
+                "öltések"
+            ]
+        },
+        "monster": {
+            "name": "Szörny",
+            "keywords": [
+                "egy szem",
+                "küklopsz",
+                "szörny"
+            ]
+        },
+        "mystical": {
+            "name": "Misztikus",
+            "keywords": [
+                "kapucni",
+                "tünde",
+                "varázslat"
+            ]
+        },
+        "mighty": {
+            "name": "Hatalmas",
+            "keywords": [
+                "viking",
+                "bajusz",
+                "szarvak"
+            ]
+        },
+        "angelic": {
+            "name": "Angyali",
+            "keywords": [
+                "angyal",
+                "glória",
+                "szárnyak"
+            ]
+        },
+        "devious": {
+            "name": "Ravasz",
+            "keywords": [
+                "ördög",
+                "szarvak",
+                "vigyor"
+            ]
+        },
+        "diabolical": {
+            "name": "Ördögi",
+            "keywords": [
+                "gonosztevő",
+                "monokli",
+                "gonosz"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "zseni",
+                "tudós",
+                "nyelv"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgium",
+                "kürt",
+                "rajongó"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "űrhajós",
+                "űr",
+                "sisak"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (kék)",
+            "keywords": [
+                "űrhajós",
+                "űr",
+                "hold"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "hős",
+                "diadém",
+                "erő"
+            ]
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "name": "Fête, zodiaque et fantaisie",
+    "stickers": {
+        "31": {
+            "keywords": [
+                "bonhomme de neige",
+                "hiver",
+                "écharpe"
+            ]
+        },
+        "49": {
+            "keywords": [
+                "chapeau de fête",
+                "anniversaire",
+                "célébrer"
+            ]
+        },
+        "61": {
+            "keywords": [
+                "viking",
+                "casque",
+                "épingle de carte"
+            ]
+        },
+        "80": {
+            "keywords": [
+                "bouffon",
+                "chapeau",
+                "rire"
+            ]
+        },
+        "92": {
+            "keywords": [
+                "noël",
+                "père noël",
+                "lunettes de soleil"
+            ]
+        },
+        "120": {
+            "keywords": [
+                "magicien",
+                "chapeau",
+                "magie"
+            ]
+        },
+        "126": {
+            "keywords": [
+                "sorcière",
+                "chapeau",
+                "halloween"
+            ]
+        },
+        "127": {
+            "keywords": [
+                "carnaval",
+                "coiffe",
+                "plumes"
+            ]
+        },
+        "151": {
+            "keywords": [
+                "écharpe",
+                "bonnet",
+                "hiver"
+            ]
+        },
+        "156": {
+            "keywords": [
+                "carnaval",
+                "masque",
+                "fête"
+            ]
+        },
+        "157": {
+            "keywords": [
+                "nouvel an",
+                "2026",
+                "fête"
+            ]
+        },
+        "160": {
+            "keywords": [
+                "viking",
+                "marteau",
+                "bouclier"
+            ]
+        },
+        "183": {
+            "keywords": [
+                "hiver",
+                "bonnet",
+                "froid"
+            ]
+        },
+        "234": {
+            "keywords": [
+                "garde",
+                "londres",
+                "chapeau"
+            ]
+        },
+        "254": {
+            "keywords": [
+                "haut-de-forme",
+                "thé",
+                "pays des merveilles"
+            ]
+        },
+        "aries": {
+            "name": "Bélier",
+            "keywords": [
+                "zodiaque",
+                "bélier",
+                "horoscope"
+            ]
+        },
+        "taurus": {
+            "name": "Taureau",
+            "keywords": [
+                "zodiaque",
+                "taureau",
+                "horoscope"
+            ]
+        },
+        "gemini": {
+            "name": "Gémeaux",
+            "keywords": [
+                "zodiaque",
+                "jumeaux",
+                "horoscope"
+            ]
+        },
+        "cancer": {
+            "name": "Cancer",
+            "keywords": [
+                "zodiaque",
+                "crabe",
+                "horoscope"
+            ]
+        },
+        "leo": {
+            "name": "Lion",
+            "keywords": [
+                "zodiaque",
+                "lion",
+                "horoscope"
+            ]
+        },
+        "virgo": {
+            "name": "Vierge",
+            "keywords": [
+                "zodiaque",
+                "vierge",
+                "horoscope"
+            ]
+        },
+        "libra": {
+            "name": "Balance",
+            "keywords": [
+                "zodiaque",
+                "balance",
+                "horoscope"
+            ]
+        },
+        "scorpio": {
+            "name": "Scorpion",
+            "keywords": [
+                "zodiaque",
+                "scorpion",
+                "horoscope"
+            ]
+        },
+        "sagittarius": {
+            "name": "Sagittaire",
+            "keywords": [
+                "zodiaque",
+                "archer",
+                "horoscope"
+            ]
+        },
+        "capricorn": {
+            "name": "Capricorne",
+            "keywords": [
+                "zodiaque",
+                "chèvre",
+                "horoscope"
+            ]
+        },
+        "aquarius": {
+            "name": "Verseau",
+            "keywords": [
+                "zodiaque",
+                "eau",
+                "horoscope"
+            ]
+        },
+        "pisces": {
+            "name": "Poissons",
+            "keywords": [
+                "zodiaque",
+                "poisson",
+                "horoscope"
+            ]
+        },
+        "santa": {
+            "name": "Père Noël",
+            "keywords": [
+                "noël",
+                "père noël",
+                "ho ho ho"
+            ]
+        },
+        "festive": {
+            "name": "Festif",
+            "keywords": [
+                "noël",
+                "bonnet de Noël",
+                "barbe"
+            ]
+        },
+        "frazzled": {
+            "name": "Éreinté",
+            "keywords": [
+                "noël",
+                "fatigué",
+                "père noël"
+            ]
+        },
+        "carnavalesco": {
+            "name": "Fêtard",
+            "keywords": [
+                "carnaval",
+                "marin",
+                "samba"
+            ]
+        },
+        "joyful-party": {
+            "name": "Fête joyeuse",
+            "keywords": [
+                "chapeau de fête",
+                "étoile",
+                "célébrer"
+            ]
+        },
+        "blossom": {
+            "name": "Floraison",
+            "keywords": [
+                "fleur",
+                "rose",
+                "printemps"
+            ]
+        },
+        "cupid": {
+            "name": "Cupidon",
+            "keywords": [
+                "saint-valentin",
+                "flèche",
+                "amour"
+            ]
+        },
+        "happy-clown": {
+            "name": "Clown joyeux",
+            "keywords": [
+                "clown",
+                "cirque",
+                "amusant"
+            ]
+        },
+        "scary-clown": {
+            "name": "Clown effrayant",
+            "keywords": [
+                "clown",
+                "halloween",
+                "flippant"
+            ]
+        },
+        "zombie": {
+            "name": "Zombie",
+            "keywords": [
+                "halloween",
+                "zombie",
+                "mort-vivant"
+            ]
+        },
+        "zombified": {
+            "name": "Zombifié",
+            "keywords": [
+                "zombie",
+                "fatigué",
+                "coutures"
+            ]
+        },
+        "monster": {
+            "name": "Monstre",
+            "keywords": [
+                "un œil",
+                "cyclope",
+                "monstre"
+            ]
+        },
+        "mystical": {
+            "name": "Mystique",
+            "keywords": [
+                "capuche",
+                "elfe",
+                "magie"
+            ]
+        },
+        "mighty": {
+            "name": "Puissant",
+            "keywords": [
+                "viking",
+                "moustache",
+                "cornes"
+            ]
+        },
+        "angelic": {
+            "name": "Angélique",
+            "keywords": [
+                "ange",
+                "auréole",
+                "ailes"
+            ]
+        },
+        "devious": {
+            "name": "Sournois",
+            "keywords": [
+                "diable",
+                "cornes",
+                "grand sourire"
+            ]
+        },
+        "diabolical": {
+            "name": "Diabolique",
+            "keywords": [
+                "méchant",
+                "monocle",
+                "maléfique"
+            ]
+        },
+        "albert": {
+            "name": "Albert",
+            "keywords": [
+                "génie",
+                "scientifique",
+                "langue"
+            ]
+        },
+        "belgie": {
+            "name": "België",
+            "keywords": [
+                "belgique",
+                "corne",
+                "fan"
+            ]
+        },
+        "neil": {
+            "name": "Neil",
+            "keywords": [
+                "astronaute",
+                "espace",
+                "casque"
+            ]
+        },
+        "neil-blue": {
+            "name": "Neil (bleu)",
+            "keywords": [
+                "astronaute",
+                "espace",
+                "lune"
+            ]
+        },
+        "wonder-wazer": {
+            "name": "Wonder Wazer",
+            "keywords": [
+                "héros",
+                "diadème",
+                "pouvoir"
+            ]
+        }
+    }
+}

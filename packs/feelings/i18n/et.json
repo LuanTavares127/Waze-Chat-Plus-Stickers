@@ -1,0 +1,360 @@
+{
+    "name": "Tunded",
+    "stickers": {
+        "7": {
+            "keywords": [
+                "klassika",
+                "tere",
+                "rõõmus"
+            ]
+        },
+        "9": {
+            "keywords": [
+                "pisar",
+                "kurb",
+                "ööpusa"
+            ]
+        },
+        "15": {
+            "keywords": [
+                "tühi",
+                "neutraalne",
+                "lihtne"
+            ]
+        },
+        "114": {
+            "keywords": [
+                "armastus",
+                "süda",
+                "magus"
+            ]
+        },
+        "133": {
+            "keywords": [
+                "vanem",
+                "beebi",
+                "pere"
+            ]
+        },
+        "146": {
+            "keywords": [
+                "nutt",
+                "ärritunud",
+                "meeleheide"
+            ]
+        },
+        "165": {
+            "keywords": [
+                "haige",
+                "iiveldus",
+                "halb enesetunne"
+            ]
+        },
+        "168": {
+            "keywords": [
+                "piinlik",
+                "ebamugav",
+                "uhh"
+            ]
+        },
+        "172": {
+            "keywords": [
+                "elevil",
+                "jee",
+                "tiivad"
+            ]
+        },
+        "181": {
+            "keywords": [
+                "rõõmus",
+                "naer",
+                "kübar"
+            ]
+        },
+        "235": {
+            "keywords": [
+                "vihane",
+                "tüdinud",
+                "kulmukortsutus"
+            ]
+        },
+        "239": {
+            "keywords": [
+                "küsimus",
+                "mis",
+                "kahtlus"
+            ]
+        },
+        "258": {
+            "keywords": [
+                "lootos",
+                "meditatsioon",
+                "rahu"
+            ]
+        },
+        "amazing": {
+            "name": "Hämmastav",
+            "keywords": [
+                "vau",
+                "tähesilmad",
+                "vinge"
+            ]
+        },
+        "amused": {
+            "name": "Lõbustatud",
+            "keywords": [
+                "silmade pööritamine",
+                "vahet pole",
+                "irve"
+            ]
+        },
+        "antsy": {
+            "name": "Rahutu",
+            "keywords": [
+                "kannatamatu",
+                "stressis",
+                "uhh"
+            ]
+        },
+        "bored": {
+            "name": "Tüdinud",
+            "keywords": [
+                "ei vea",
+                "igav",
+                "bla"
+            ]
+        },
+        "carsick": {
+            "name": "Autohaige",
+            "keywords": [
+                "haige",
+                "iiveldus",
+                "merehaigus"
+            ]
+        },
+        "cheeky": {
+            "name": "Jultunud",
+            "keywords": [
+                "silmapilgutus",
+                "keel",
+                "nalja tegema"
+            ]
+        },
+        "depressed": {
+            "name": "Masenduses",
+            "keywords": [
+                "kurb",
+                "longus",
+                "kurb"
+            ]
+        },
+        "exasperated": {
+            "name": "Meeleheitel",
+            "keywords": [
+                "villand",
+                "ohe",
+                "tüdinud"
+            ]
+        },
+        "flustered": {
+            "name": "Segaduses",
+            "keywords": [
+                "šokeeritud",
+                "karjuma",
+                "oi ei"
+            ]
+        },
+        "funny": {
+            "name": "Naljakas",
+            "keywords": [
+                "naer",
+                "haha",
+                "rõõmupisarad"
+            ]
+        },
+        "furious": {
+            "name": "Raevukas",
+            "keywords": [
+                "raev",
+                "vandumine",
+                "vihane"
+            ]
+        },
+        "grumpy": {
+            "name": "Tusane",
+            "keywords": [
+                "tige",
+                "tüdinud",
+                "kõrvaklapid"
+            ]
+        },
+        "happy": {
+            "name": "Rõõmus",
+            "keywords": [
+                "rõõm",
+                "naer",
+                "naeratus"
+            ]
+        },
+        "hilarious": {
+            "name": "Naerutav",
+            "keywords": [
+                "haha",
+                "naer",
+                "haha"
+            ]
+        },
+        "humble": {
+            "name": "Tagasihoidlik",
+            "keywords": [
+                "tänulik",
+                "rahu",
+                "tiivad"
+            ]
+        },
+        "joyful": {
+            "name": "Rõõmsameelne",
+            "keywords": [
+                "naer",
+                "rõõmus",
+                "oh kergendus"
+            ]
+        },
+        "judgmental": {
+            "name": "Hukkamõistev",
+            "keywords": [
+                "taunima",
+                "kulmukortsutus",
+                "hindamine"
+            ]
+        },
+        "loved-up": {
+            "name": "Armunud",
+            "keywords": [
+                "armunud",
+                "südamesilmad",
+                "kiindumus"
+            ]
+        },
+        "mind-blown": {
+            "name": "Šokeeritud",
+            "keywords": [
+                "šokeeritud",
+                "vau",
+                "plahvatus"
+            ]
+        },
+        "moody": {
+            "name": "Tujukas",
+            "keywords": [
+                "ei vea",
+                "looklev joon",
+                "kast"
+            ]
+        },
+        "nervous": {
+            "name": "Närvis",
+            "keywords": [
+                "ärevil",
+                "higi",
+                "mures"
+            ]
+        },
+        "obsessed": {
+            "name": "Kinnisideega",
+            "keywords": [
+                "tähesilmad",
+                "karje",
+                "fänn"
+            ]
+        },
+        "sad": {
+            "name": "Kurb",
+            "keywords": [
+                "pisar",
+                "nutma",
+                "longus"
+            ]
+        },
+        "shy": {
+            "name": "Ujuv",
+            "keywords": [
+                "punastus",
+                "armas",
+                "piinlikkus"
+            ]
+        },
+        "skeptical": {
+            "name": "Skeptiline",
+            "keywords": [
+                "kahtlus",
+                "ükskõikne",
+                "tõesti"
+            ]
+        },
+        "spacey": {
+            "name": "Hajameelne",
+            "keywords": [
+                "hajevil",
+                "päevaunenägu",
+                "eemal"
+            ]
+        },
+        "tired": {
+            "name": "Väsinud",
+            "keywords": [
+                "silmamuna",
+                "veresoonilised silmad",
+                "unine"
+            ]
+        },
+        "unproductive": {
+            "name": "Tulemusetu",
+            "keywords": [
+                "märkmepaber",
+                "laisk",
+                "valmis"
+            ]
+        },
+        "zen": {
+            "name": "Zen",
+            "keywords": [
+                "rahu",
+                "lõdvestunud",
+                "rahu"
+            ]
+        },
+        "mischievous": {
+            "name": "Vallatu",
+            "keywords": [
+                "oh",
+                "üllatunud",
+                "kast"
+            ]
+        },
+        "wicked": {
+            "name": "Kuri",
+            "keywords": [
+                "kuri muie",
+                "vallatus",
+                "kast"
+            ]
+        },
+        "motivated": {
+            "name": "Motiveeritud",
+            "keywords": [
+                "elevil",
+                "lähme",
+                "juuksed"
+            ]
+        },
+        "proud": {
+            "name": "Uhke",
+            "keywords": [
+                "uhkus",
+                "vikerkaar",
+                "süda"
+            ]
+        }
+    }
+}

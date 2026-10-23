@@ -1,0 +1,342 @@
+{
+    "name": "Vibbar",
+    "stickers": {
+        "44": {
+            "keywords": [
+                "bagghorn",
+                "solglasögon",
+                "djärv"
+            ]
+        },
+        "55": {
+            "keywords": [
+                "bandana",
+                "solglasögon",
+                "sten"
+            ]
+        },
+        "62": {
+            "keywords": [
+                "musik",
+                "noter",
+                "hippie"
+            ]
+        },
+        "95": {
+            "keywords": [
+                "högklackad",
+                "mode",
+                "diva"
+            ]
+        },
+        "106": {
+            "keywords": [
+                "ligga ner",
+                "partyhatt",
+                "avslappnad"
+            ]
+        },
+        "118": {
+            "keywords": [
+                "headset",
+                "lyssna",
+                "musik"
+            ]
+        },
+        "122": {
+            "keywords": [
+                "glödlampa",
+                "glasögon",
+                "idé"
+            ]
+        },
+        "123": {
+            "keywords": [
+                "bubblor",
+                "trolldryck",
+                "glad"
+            ]
+        },
+        "129": {
+            "keywords": [
+                "gnista",
+                "solglasögon",
+                "fin"
+            ]
+        },
+        "130": {
+            "keywords": [
+                "hörlurar",
+                "leopard",
+                "musik"
+            ]
+        },
+        "143": {
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "sjunga"
+            ]
+        },
+        "162": {
+            "keywords": [
+                "utomjording",
+                "hjälm",
+                "rymden"
+            ]
+        },
+        "170": {
+            "keywords": [
+                "hörlurar",
+                "musik",
+                "cool"
+            ]
+        },
+        "182": {
+            "keywords": [
+                "keps",
+                "bakvänd",
+                "sneglande blick"
+            ]
+        },
+        "184": {
+            "keywords": [
+                "propellerkeps",
+                "fånig",
+                "barn"
+            ]
+        },
+        "206": {
+            "keywords": [
+                "förstärkare",
+                "gitarr",
+                "musik"
+            ]
+        },
+        "220": {
+            "keywords": [
+                "trumma",
+                "tamburin",
+                "blinka"
+            ]
+        },
+        "222": {
+            "keywords": [
+                "glödlampa",
+                "tänka",
+                "idé"
+            ]
+        },
+        "223": {
+            "keywords": [
+                "hand",
+                "hälsning",
+                "hälsa"
+            ]
+        },
+        "240": {
+            "keywords": [
+                "glasögon",
+                "smart",
+                "smirk"
+            ]
+        },
+        "255": {
+            "keywords": [
+                "glasögon",
+                "blondin",
+                "plugga"
+            ]
+        },
+        "256": {
+            "keywords": [
+                "mantel",
+                "hjälte",
+                "glasögon"
+            ]
+        },
+        "257": {
+            "keywords": [
+                "krona",
+                "solglasögon",
+                "kung"
+            ]
+        },
+        "chill": {
+            "name": "Chill",
+            "keywords": [
+                "solglasögon",
+                "avslappnad",
+                "cool"
+            ]
+        },
+        "chill-glasses": {
+            "name": "Chill med glasögon",
+            "keywords": [
+                "runda glasögon",
+                "avslappnad",
+                "cool"
+            ]
+        },
+        "extra": {
+            "name": "Extra",
+            "keywords": [
+                "partyglasögon",
+                "tunga",
+                "överdrivet"
+            ]
+        },
+        "feisty": {
+            "name": "Käck",
+            "keywords": [
+                "boxning",
+                "handske",
+                "slåss"
+            ]
+        },
+        "gutsy": {
+            "name": "Modig",
+            "keywords": [
+                "solglasögon",
+                "tuff",
+                "modig"
+            ]
+        },
+        "irie": {
+            "name": "Irie",
+            "keywords": [
+                "reggae",
+                "rasta",
+                "good vibes"
+            ]
+        },
+        "rad": {
+            "name": "Grym",
+            "keywords": [
+                "solglasögon",
+                "cool",
+                "flin"
+            ]
+        },
+        "savvy": {
+            "name": "Slug",
+            "keywords": [
+                "solglasögon",
+                "tomteluva",
+                "smart"
+            ]
+        },
+        "serene": {
+            "name": "Stillsam",
+            "keywords": [
+                "runda glasögon",
+                "lugn",
+                "leende"
+            ]
+        },
+        "shady": {
+            "name": "Skum",
+            "keywords": [
+                "fedora",
+                "solglasögon",
+                "mystisk"
+            ]
+        },
+        "snappy": {
+            "name": "Rask",
+            "keywords": [
+                "fluga",
+                "kaka",
+                "smirk"
+            ]
+        },
+        "strong": {
+            "name": "Stark",
+            "keywords": [
+                "x",
+                "solglasögon",
+                "tuff"
+            ]
+        },
+        "wild": {
+            "name": "Vild",
+            "keywords": [
+                "hjälm",
+                "blixt",
+                "solglasögon"
+            ]
+        },
+        "pumped": {
+            "name": "Peppad!",
+            "keywords": [
+                "ghettoblaster",
+                "musik",
+                "fest"
+            ]
+        },
+        "groovy": {
+            "name": "Groovy",
+            "keywords": [
+                "lavalampa",
+                "retro",
+                "70-tal"
+            ]
+        },
+        "quirky": {
+            "name": "Egen",
+            "keywords": [
+                "hatt",
+                "färgglad",
+                "rolig"
+            ]
+        },
+        "bacano": {
+            "name": "Bacano",
+            "keywords": [
+                "colombia",
+                "hatt",
+                "cool"
+            ]
+        },
+        "leopard": {
+            "name": "Leopard",
+            "keywords": [
+                "leopard",
+                "solglasögon",
+                "vild"
+            ]
+        },
+        "sidekick": {
+            "name": "Parhäst",
+            "keywords": [
+                "partner",
+                "skägg",
+                "kompis"
+            ]
+        },
+        "geeky": {
+            "name": "Nördig",
+            "keywords": [
+                "glasögon",
+                "nörd",
+                "stirra"
+            ]
+        },
+        "smart": {
+            "name": "Smart",
+            "keywords": [
+                "glödlampa",
+                "tunga",
+                "idé"
+            ]
+        },
+        "light": {
+            "name": "Ljus",
+            "keywords": [
+                "taggig",
+                "blond",
+                "truta"
+            ]
+        }
+    }
+}
