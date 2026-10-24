@@ -1,111 +1,6 @@
 {
     "name": "Pesta, Zodiak & Fantasi",
     "stickers": {
-        "31": {
-            "keywords": [
-                "manusia salju",
-                "musim dingin",
-                "syal"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "topi pesta",
-                "ulang tahun",
-                "merayakan"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "helm",
-                "pin peta"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "badut istana",
-                "topi",
-                "tertawa"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "natal",
-                "sinterklas",
-                "kacamata hitam"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "penyihir",
-                "topi",
-                "sihir"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "penyihir wanita",
-                "topi",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnaval",
-                "hiasan kepala",
-                "bulu"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "syal",
-                "kupluk",
-                "musim dingin"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnaval",
-                "topeng",
-                "pesta"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "tahun baru",
-                "2026",
-                "pesta"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "palu",
-                "perisai"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "musim dingin",
-                "kupluk",
-                "dingin"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "penjaga",
-                "london",
-                "topi"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "topi tinggi",
-                "teh",
-                "negeri ajaib"
-            ]
-        },
         "aries": {
             "name": "Aries",
             "keywords": [
@@ -376,6 +271,126 @@
                 "pahlawan",
                 "tiara",
                 "kekuatan"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Suasana ultah",
+            "keywords": [
+                "topi pesta",
+                "ulang tahun",
+                "merayakan"
+            ]
+        },
+        "witchy": {
+            "name": "Penyihir",
+            "keywords": [
+                "penyihir wanita",
+                "topi",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Pemberani",
+            "keywords": [
+                "viking",
+                "palu",
+                "perisai"
+            ]
+        },
+        "stern-guard": {
+            "name": "Penjaga serius",
+            "keywords": [
+                "penjaga",
+                "london",
+                "topi"
+            ]
+        },
+        "snowman": {
+            "name": "Manusia salju",
+            "keywords": [
+                "manusia salju",
+                "musim dingin",
+                "syal"
+            ]
+        },
+        "map-raider": {
+            "name": "Penjarah peta",
+            "keywords": [
+                "viking",
+                "helm",
+                "pin peta"
+            ]
+        },
+        "hello-2026": {
+            "name": "Halo 2026",
+            "keywords": [
+                "tahun baru",
+                "2026",
+                "pesta"
+            ]
+        },
+        "cool-santa": {
+            "name": "Sinterklas keren",
+            "keywords": [
+                "natal",
+                "sinterklas",
+                "kacamata hitam"
+            ]
+        },
+        "spicy": {
+            "name": "Pedas",
+            "keywords": [
+                "topi tinggi",
+                "teh",
+                "negeri ajaib"
+            ]
+        },
+        "jester": {
+            "name": "Badut istana",
+            "keywords": [
+                "badut istana",
+                "topi",
+                "tertawa"
+            ]
+        },
+        "wizard": {
+            "name": "Ahli sihir",
+            "keywords": [
+                "penyihir",
+                "topi",
+                "sihir"
+            ]
+        },
+        "samba-star": {
+            "name": "Bintang samba",
+            "keywords": [
+                "karnaval",
+                "hiasan kepala",
+                "bulu"
+            ]
+        },
+        "cozy": {
+            "name": "Hangat nyaman",
+            "keywords": [
+                "syal",
+                "kupluk",
+                "musim dingin"
+            ]
+        },
+        "masquerade": {
+            "name": "Pesta topeng",
+            "keywords": [
+                "karnaval",
+                "topeng",
+                "pesta"
+            ]
+        },
+        "bundled-up": {
+            "name": "Pakai baju tebal",
+            "keywords": [
+                "musim dingin",
+                "kupluk",
+                "dingin"
             ]
         }
     }

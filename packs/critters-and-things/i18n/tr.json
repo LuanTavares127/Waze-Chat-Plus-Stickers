@@ -1,111 +1,6 @@
 {
     "name": "Hayvanlar ve Eşyalar",
     "stickers": {
-        "30": {
-            "keywords": [
-                "kaya",
-                "taş",
-                "hızlı"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "ayı",
-                "kova şapka",
-                "gülümseme"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "kuş",
-                "rahat"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "beyin",
-                "akıllı",
-                "düşünmek"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozor",
-                "diş",
-                "ısırık"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "köpek diş",
-                "diş",
-                "sırıtış"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "inek",
-                "möö",
-                "çiftlik"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "köpek",
-                "korgi",
-                "taç"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "köpek",
-                "korgi",
-                "göz kırpma"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "köpek",
-                "korgi",
-                "taç"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "ejderha",
-                "kırmızı",
-                "canavar"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "el",
-                "göz",
-                "koruma"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "göz",
-                "işaret",
-                "gizem"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "çaydanlık",
-                "çay",
-                "elma"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "kuş",
-                "kasket",
-                "konuşmak"
-            ]
-        },
         "8-bit": {
             "name": "8 Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "öğle yemeği"
             ]
         },
-        "magical": {
-            "name": "Büyülü",
-            "keywords": [
-                "tek boynuzlu at",
-                "gökkuşağı",
-                "sihir"
-            ]
-        },
-        "magical-2": {
-            "name": "Büyülü (2)",
-            "keywords": [
-                "sihir",
-                "pembe",
-                "ünlü"
-            ]
-        },
         "open": {
             "name": "Açık",
             "keywords": [
@@ -352,6 +231,142 @@
                 "kurt",
                 "uluma",
                 "kurnaz"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "kuş",
+                "rahat"
+            ]
+        },
+        "parrot": {
+            "name": "Papağan",
+            "keywords": [
+                "kuş",
+                "kasket",
+                "konuşmak"
+            ]
+        },
+        "blissful": {
+            "name": "Huzurlu",
+            "keywords": [
+                "inek",
+                "möö",
+                "çiftlik"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Hızlı taş",
+            "keywords": [
+                "kaya",
+                "taş",
+                "hızlı"
+            ]
+        },
+        "big-brain": {
+            "name": "Koca beyin",
+            "keywords": [
+                "beyin",
+                "akıllı",
+                "düşünmek"
+            ]
+        },
+        "yellow": {
+            "name": "Sarı",
+            "keywords": [
+                "köpek diş",
+                "diş",
+                "sırıtış"
+            ]
+        },
+        "pampered": {
+            "name": "Şımarık",
+            "keywords": [
+                "köpek",
+                "korgi",
+                "taç"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Sadık",
+            "keywords": [
+                "köpek",
+                "korgi",
+                "göz kırpma"
+            ]
+        },
+        "playful-pup": {
+            "name": "Oyuncu yavru",
+            "keywords": [
+                "köpek",
+                "korgi",
+                "taç"
+            ]
+        },
+        "red": {
+            "name": "Kırmızı",
+            "keywords": [
+                "ejderha",
+                "kırmızı",
+                "canavar"
+            ]
+        },
+        "unicorn": {
+            "name": "Tek boynuzlu at",
+            "keywords": [
+                "tek boynuzlu at",
+                "gökkuşağı",
+                "sihir"
+            ]
+        },
+        "magical": {
+            "name": "Büyülü",
+            "keywords": [
+                "sihir",
+                "pembe",
+                "ünlü"
+            ]
+        },
+        "visionary": {
+            "name": "Vizyoner",
+            "keywords": [
+                "göz",
+                "işaret",
+                "gizem"
+            ]
+        },
+        "focused": {
+            "name": "Odaklanmış",
+            "keywords": [
+                "el",
+                "göz",
+                "koruma"
+            ]
+        },
+        "kind": {
+            "name": "İyi kalpli",
+            "keywords": [
+                "ayı",
+                "kova şapka",
+                "gülümseme"
+            ]
+        },
+        "zesty": {
+            "name": "Canlı",
+            "keywords": [
+                "çaydanlık",
+                "çay",
+                "elma"
+            ]
+        },
+        "chomper": {
+            "name": "Ham ham",
+            "keywords": [
+                "dinozor",
+                "diş",
+                "ısırık"
             ]
         }
     }

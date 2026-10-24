@@ -1,97 +1,6 @@
 {
     "name": "Émotions",
     "stickers": {
-        "7": {
-            "keywords": [
-                "classique",
-                "bonjour",
-                "heureux"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "larme",
-                "triste",
-                "bonnet de nuit"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "vide",
-                "neutre",
-                "simple"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "amour",
-                "cœur",
-                "doux"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "parent",
-                "bébé",
-                "famille"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "pleurs",
-                "contrarié",
-                "désespoir"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "malade",
-                "nausée",
-                "souffrant"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "gêné",
-                "mal à l'aise",
-                "beurk"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "excité",
-                "youpi",
-                "ailes"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "heureux",
-                "rire",
-                "chapeau"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "fâché",
-                "agacé",
-                "moue"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "question",
-                "quoi",
-                "doute"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "méditation",
-                "calme"
-            ]
-        },
         "amazing": {
             "name": "Incroyable",
             "keywords": [
@@ -354,6 +263,110 @@
                 "fierté",
                 "arc-en-ciel",
                 "cœur"
+            ]
+        },
+        "puzzled": {
+            "name": "Perplexe",
+            "keywords": [
+                "question",
+                "quoi",
+                "doute"
+            ]
+        },
+        "grounded": {
+            "name": "Zen",
+            "keywords": [
+                "lotus",
+                "méditation",
+                "calme"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "classique",
+                "bonjour",
+                "heureux"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "larme",
+                "triste",
+                "bonnet de nuit"
+            ]
+        },
+        "poker-face": {
+            "name": "Impassible",
+            "keywords": [
+                "vide",
+                "neutre",
+                "simple"
+            ]
+        },
+        "sweetheart": {
+            "name": "Mon cœur",
+            "keywords": [
+                "amour",
+                "cœur",
+                "doux"
+            ]
+        },
+        "family": {
+            "name": "Famille",
+            "keywords": [
+                "parent",
+                "bébé",
+                "famille"
+            ]
+        },
+        "fuming": {
+            "name": "Furax",
+            "keywords": [
+                "fâché",
+                "agacé",
+                "moue"
+            ]
+        },
+        "distraught": {
+            "name": "Effondré",
+            "keywords": [
+                "pleurs",
+                "contrarié",
+                "désespoir"
+            ]
+        },
+        "queasy": {
+            "name": "Nauséeux",
+            "keywords": [
+                "malade",
+                "nausée",
+                "souffrant"
+            ]
+        },
+        "uneasy": {
+            "name": "Mal à l'aise",
+            "keywords": [
+                "gêné",
+                "mal à l'aise",
+                "beurk"
+            ]
+        },
+        "ecstatic": {
+            "name": "Euphorique",
+            "keywords": [
+                "excité",
+                "youpi",
+                "ailes"
+            ]
+        },
+        "cheerful": {
+            "name": "Joyeux",
+            "keywords": [
+                "heureux",
+                "rire",
+                "chapeau"
             ]
         }
     }

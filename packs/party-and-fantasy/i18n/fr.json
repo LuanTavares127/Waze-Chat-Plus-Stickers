@@ -1,111 +1,6 @@
 {
     "name": "Fête, zodiaque et fantaisie",
     "stickers": {
-        "31": {
-            "keywords": [
-                "bonhomme de neige",
-                "hiver",
-                "écharpe"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "chapeau de fête",
-                "anniversaire",
-                "célébrer"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "casque",
-                "épingle de carte"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bouffon",
-                "chapeau",
-                "rire"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "noël",
-                "père noël",
-                "lunettes de soleil"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "magicien",
-                "chapeau",
-                "magie"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "sorcière",
-                "chapeau",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnaval",
-                "coiffe",
-                "plumes"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "écharpe",
-                "bonnet",
-                "hiver"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnaval",
-                "masque",
-                "fête"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nouvel an",
-                "2026",
-                "fête"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "marteau",
-                "bouclier"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "hiver",
-                "bonnet",
-                "froid"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "garde",
-                "londres",
-                "chapeau"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "haut-de-forme",
-                "thé",
-                "pays des merveilles"
-            ]
-        },
         "aries": {
             "name": "Bélier",
             "keywords": [
@@ -376,6 +271,126 @@
                 "héros",
                 "diadème",
                 "pouvoir"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Ambiance anniv",
+            "keywords": [
+                "chapeau de fête",
+                "anniversaire",
+                "célébrer"
+            ]
+        },
+        "witchy": {
+            "name": "Sorcière",
+            "keywords": [
+                "sorcière",
+                "chapeau",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Vaillant",
+            "keywords": [
+                "viking",
+                "marteau",
+                "bouclier"
+            ]
+        },
+        "stern-guard": {
+            "name": "Garde sévère",
+            "keywords": [
+                "garde",
+                "londres",
+                "chapeau"
+            ]
+        },
+        "snowman": {
+            "name": "Bonhomme de neige",
+            "keywords": [
+                "bonhomme de neige",
+                "hiver",
+                "écharpe"
+            ]
+        },
+        "map-raider": {
+            "name": "Envahisseur de carte",
+            "keywords": [
+                "viking",
+                "casque",
+                "épingle de carte"
+            ]
+        },
+        "hello-2026": {
+            "name": "Bonjour 2026",
+            "keywords": [
+                "nouvel an",
+                "2026",
+                "fête"
+            ]
+        },
+        "cool-santa": {
+            "name": "Père Noël cool",
+            "keywords": [
+                "noël",
+                "père noël",
+                "lunettes de soleil"
+            ]
+        },
+        "spicy": {
+            "name": "Épicé",
+            "keywords": [
+                "haut-de-forme",
+                "thé",
+                "pays des merveilles"
+            ]
+        },
+        "jester": {
+            "name": "Bouffon",
+            "keywords": [
+                "bouffon",
+                "chapeau",
+                "rire"
+            ]
+        },
+        "wizard": {
+            "name": "Magicien",
+            "keywords": [
+                "magicien",
+                "chapeau",
+                "magie"
+            ]
+        },
+        "samba-star": {
+            "name": "Star de la samba",
+            "keywords": [
+                "carnaval",
+                "coiffe",
+                "plumes"
+            ]
+        },
+        "cozy": {
+            "name": "Bien au chaud",
+            "keywords": [
+                "écharpe",
+                "bonnet",
+                "hiver"
+            ]
+        },
+        "masquerade": {
+            "name": "Bal masqué",
+            "keywords": [
+                "carnaval",
+                "masque",
+                "fête"
+            ]
+        },
+        "bundled-up": {
+            "name": "Emmitouflé",
+            "keywords": [
+                "hiver",
+                "bonnet",
+                "froid"
             ]
         }
     }

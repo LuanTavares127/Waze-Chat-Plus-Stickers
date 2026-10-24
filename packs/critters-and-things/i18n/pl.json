@@ -1,111 +1,6 @@
 {
     "name": "Stworki i różności",
     "stickers": {
-        "30": {
-            "keywords": [
-                "skała",
-                "kamień",
-                "szybki"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "niedźwiedź",
-                "kapelusz wędkarski",
-                "uśmiech"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "ptak",
-                "chill"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "mózg",
-                "mądry",
-                "myśleć"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozaur",
-                "zęby",
-                "ugryzienie"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "kły",
-                "zęby",
-                "szeroki uśmiech"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "krowa",
-                "muu",
-                "farma"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "pies",
-                "corgi",
-                "korona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "pies",
-                "corgi",
-                "mrugnięcie"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "pies",
-                "corgi",
-                "korona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "smok",
-                "czerwony",
-                "potwór"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "ręka",
-                "oko",
-                "ochrona"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "oko",
-                "znak",
-                "tajemnica"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "czajniczek",
-                "herbata",
-                "jabłko"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "ptak",
-                "czapka",
-                "rozmowa"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "obiad"
             ]
         },
-        "magical": {
-            "name": "Magiczny",
-            "keywords": [
-                "jednorożec",
-                "tęcza",
-                "magia"
-            ]
-        },
-        "magical-2": {
-            "name": "Magiczny (2)",
-            "keywords": [
-                "magia",
-                "różowy",
-                "sławny"
-            ]
-        },
         "open": {
             "name": "Otwarty",
             "keywords": [
@@ -352,6 +231,142 @@
                 "wilk",
                 "wycie",
                 "przebiegły"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "ptak",
+                "chill"
+            ]
+        },
+        "parrot": {
+            "name": "Papuga",
+            "keywords": [
+                "ptak",
+                "czapka",
+                "rozmowa"
+            ]
+        },
+        "blissful": {
+            "name": "Błoga",
+            "keywords": [
+                "krowa",
+                "muu",
+                "farma"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Szybki kamień",
+            "keywords": [
+                "skała",
+                "kamień",
+                "szybki"
+            ]
+        },
+        "big-brain": {
+            "name": "Wielki mózg",
+            "keywords": [
+                "mózg",
+                "mądry",
+                "myśleć"
+            ]
+        },
+        "yellow": {
+            "name": "Żółty",
+            "keywords": [
+                "kły",
+                "zęby",
+                "szeroki uśmiech"
+            ]
+        },
+        "pampered": {
+            "name": "Rozpieszczony",
+            "keywords": [
+                "pies",
+                "corgi",
+                "korona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Wierny",
+            "keywords": [
+                "pies",
+                "corgi",
+                "mrugnięcie"
+            ]
+        },
+        "playful-pup": {
+            "name": "Psotny szczeniak",
+            "keywords": [
+                "pies",
+                "corgi",
+                "korona"
+            ]
+        },
+        "red": {
+            "name": "Czerwony",
+            "keywords": [
+                "smok",
+                "czerwony",
+                "potwór"
+            ]
+        },
+        "unicorn": {
+            "name": "Jednorożec",
+            "keywords": [
+                "jednorożec",
+                "tęcza",
+                "magia"
+            ]
+        },
+        "magical": {
+            "name": "Magiczny",
+            "keywords": [
+                "magia",
+                "różowy",
+                "sławny"
+            ]
+        },
+        "visionary": {
+            "name": "Wizjoner",
+            "keywords": [
+                "oko",
+                "znak",
+                "tajemnica"
+            ]
+        },
+        "focused": {
+            "name": "Skupiony",
+            "keywords": [
+                "ręka",
+                "oko",
+                "ochrona"
+            ]
+        },
+        "kind": {
+            "name": "Życzliwy",
+            "keywords": [
+                "niedźwiedź",
+                "kapelusz wędkarski",
+                "uśmiech"
+            ]
+        },
+        "zesty": {
+            "name": "Pełen energii",
+            "keywords": [
+                "czajniczek",
+                "herbata",
+                "jabłko"
+            ]
+        },
+        "chomper": {
+            "name": "Kłapacz",
+            "keywords": [
+                "dinozaur",
+                "zęby",
+                "ugryzienie"
             ]
         }
     }

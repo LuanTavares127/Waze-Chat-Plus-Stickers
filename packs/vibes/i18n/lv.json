@@ -1,167 +1,6 @@
 {
     "name": "Noskaņa",
     "stickers": {
-        "44": {
-            "keywords": [
-                "auna ragi",
-                "saulesbrilles",
-                "drosmīgs"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "saulesbrilles",
-                "klints"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "mūzika",
-                "notis",
-                "hipijs"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "augstpapēži",
-                "mode",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "guļ",
-                "svētku cepure",
-                "atslābis"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "austiņas ar mikrofonu",
-                "klausās",
-                "mūzika"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "spuldze",
-                "brilles",
-                "ideja"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "burbuļi",
-                "dzēriens",
-                "laimīgs"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "dzirkstele",
-                "saulesbrilles",
-                "elegants"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "austiņas",
-                "leopards",
-                "mūzika"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofons",
-                "karaoke",
-                "dziedāt"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "citplanētietis",
-                "ķivere",
-                "kosmoss"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "austiņas",
-                "mūzika",
-                "foršs"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "cepure",
-                "otrādi",
-                "skatiens sāņus"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "cepure ar propelleru",
-                "muļķīgs",
-                "bērns"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "pastiprinātājs",
-                "ģitāra",
-                "mūzika"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "bungas",
-                "tamburīns",
-                "piemiegt"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "spuldze",
-                "domāt",
-                "ideja"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "roka",
-                "sveiciens",
-                "sveiciens"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "brilles",
-                "gudrs",
-                "ņirdzīgs smaids"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "brilles",
-                "blondīne",
-                "mācīties"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "apmetnis",
-                "varonis",
-                "brilles"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "kronis",
-                "saulesbrilles",
-                "karalis"
-            ]
-        },
         "chill": {
             "name": "Atpūta",
             "keywords": [
@@ -336,6 +175,182 @@
                 "ērkšķains",
                 "gaišmatis",
                 "sakniebtas lūpas"
+            ]
+        },
+        "homie": {
+            "name": "Čoms",
+            "keywords": [
+                "bandana",
+                "saulesbrilles",
+                "klints"
+            ]
+        },
+        "afterparty": {
+            "name": "Pēc ballītes",
+            "keywords": [
+                "guļ",
+                "svētku cepure",
+                "atslābis"
+            ]
+        },
+        "boss": {
+            "name": "Varenā",
+            "keywords": [
+                "austiņas",
+                "leopards",
+                "mūzika"
+            ]
+        },
+        "sly": {
+            "name": "Viltnieks",
+            "keywords": [
+                "cepure",
+                "otrādi",
+                "skatiens sāņus"
+            ]
+        },
+        "smug": {
+            "name": "Pašapmierināts",
+            "keywords": [
+                "brilles",
+                "gudrs",
+                "ņirdzīgs smaids"
+            ]
+        },
+        "bookish": {
+            "name": "Grāmatu tārps",
+            "keywords": [
+                "brilles",
+                "blondīne",
+                "mācīties"
+            ]
+        },
+        "royalty": {
+            "name": "Karaliski",
+            "keywords": [
+                "kronis",
+                "saulesbrilles",
+                "karalis"
+            ]
+        },
+        "dazzling": {
+            "name": "Žilbinošs",
+            "keywords": [
+                "dzirkstele",
+                "saulesbrilles",
+                "elegants"
+            ]
+        },
+        "brainiac": {
+            "name": "Ģēnijs",
+            "keywords": [
+                "spuldze",
+                "brilles",
+                "ideja"
+            ]
+        },
+        "spaced-out": {
+            "name": "Mākoņos",
+            "keywords": [
+                "citplanētietis",
+                "ķivere",
+                "kosmoss"
+            ]
+        },
+        "cool": {
+            "name": "Foršs",
+            "keywords": [
+                "austiņas",
+                "mūzika",
+                "foršs"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "spuldze",
+                "domāt",
+                "ideja"
+            ]
+        },
+        "bug-buster": {
+            "name": "Kļūdu ķērājs",
+            "keywords": [
+                "burbuļi",
+                "dzēriens",
+                "laimīgs"
+            ]
+        },
+        "far-out": {
+            "name": "Hipijs",
+            "keywords": [
+                "mūzika",
+                "notis",
+                "hipijs"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaoke zvaigzne",
+            "keywords": [
+                "mikrofons",
+                "karaoke",
+                "dziedāt"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernerds",
+            "keywords": [
+                "apmetnis",
+                "varonis",
+                "brilles"
+            ]
+        },
+        "wonderful": {
+            "name": "Brīnišķīgā",
+            "keywords": [
+                "augstpapēži",
+                "mode",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Uzlādēts",
+            "keywords": [
+                "pastiprinātājs",
+                "ģitāra",
+                "mūzika"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Ritmā",
+            "keywords": [
+                "bungas",
+                "tamburīns",
+                "piemiegt"
+            ]
+        },
+        "rambunctious": {
+            "name": "Trakulis",
+            "keywords": [
+                "auna ragi",
+                "saulesbrilles",
+                "drosmīgs"
+            ]
+        },
+        "tuned-in": {
+            "name": "Uz viļņa",
+            "keywords": [
+                "austiņas ar mikrofonu",
+                "klausās",
+                "mūzika"
+            ]
+        },
+        "kiddo": {
+            "name": "Knēvelis",
+            "keywords": [
+                "cepure ar propelleru",
+                "muļķīgs",
+                "bērns"
             ]
         }
     }

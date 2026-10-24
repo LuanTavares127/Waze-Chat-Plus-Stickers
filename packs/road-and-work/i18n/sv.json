@@ -1,160 +1,6 @@
 {
     "name": "På vägen och på jobbet",
     "stickers": {
-        "18": {
-            "keywords": [
-                "knyte",
-                "resa",
-                "äventyr"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "trolldryck",
-                "glasögon",
-                "labb"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "upptäckare",
-                "hatt",
-                "äventyr"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "flagga",
-                "sightseeing"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "sjöman",
-                "keps",
-                "båt"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "resväska",
-                "hatt",
-                "resa"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "skyddsglasögon",
-                "hjälm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "uggla",
-                "examen",
-                "smart"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "brandsläckare",
-                "säkerhet",
-                "nervös"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "skyddshjälm",
-                "bygge",
-                "väst"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "halmhatt",
-                "bondgård",
-                "junifest"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "hjälm",
-                "stjärnor",
-                "racerförare"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "munskydd",
-                "hälsa",
-                "säker"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stoppur",
-                "pannband",
-                "träning"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "rösta",
-                "val",
-                "valsedel"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "rösta",
-                "skylt",
-                "val"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalj",
-                "band",
-                "blinka"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "leverans",
-                "hjälm",
-                "låda"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenn",
-                "upptäckare"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "pratbubbla",
-                "chatt",
-                "prata"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "visselpipa",
-                "domare",
-                "foul"
-            ]
-        },
         "road-warrior": {
             "name": "Vägkrigare",
             "keywords": [
@@ -345,6 +191,182 @@
                 "hjälm",
                 "motorcykel",
                 "brådska"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Galen forskare",
+            "keywords": [
+                "trolldryck",
+                "glasögon",
+                "labb"
+            ]
+        },
+        "explorer": {
+            "name": "Upptäckare",
+            "keywords": [
+                "upptäckare",
+                "hatt",
+                "äventyr"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kamera",
+                "flagga",
+                "sightseeing"
+            ]
+        },
+        "jet-setter": {
+            "name": "Jetsettare",
+            "keywords": [
+                "resväska",
+                "hatt",
+                "resa"
+            ]
+        },
+        "know-it-all": {
+            "name": "Besserwisser",
+            "keywords": [
+                "uggla",
+                "examen",
+                "smart"
+            ]
+        },
+        "close-call": {
+            "name": "Nära ögat",
+            "keywords": [
+                "brandsläckare",
+                "säkerhet",
+                "nervös"
+            ]
+        },
+        "on-the-job": {
+            "name": "På jobbet",
+            "keywords": [
+                "skyddshjälm",
+                "bygge",
+                "väst"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Valkampanj",
+            "keywords": [
+                "rösta",
+                "skylt",
+                "val"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Expressleverans",
+            "keywords": [
+                "leverans",
+                "hjälm",
+                "låda"
+            ]
+        },
+        "referee": {
+            "name": "Domare",
+            "keywords": [
+                "visselpipa",
+                "domare",
+                "foul"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "skyddsglasögon",
+                "hjälm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "hjälm",
+                "stjärnor",
+                "racerförare"
+            ]
+        },
+        "blue": {
+            "name": "Blå",
+            "keywords": [
+                "robot",
+                "antenn",
+                "upptäckare"
+            ]
+        },
+        "voter": {
+            "name": "Väljare",
+            "keywords": [
+                "rösta",
+                "val",
+                "valsedel"
+            ]
+        },
+        "winner": {
+            "name": "Vinnare",
+            "keywords": [
+                "medalj",
+                "band",
+                "blinka"
+            ]
+        },
+        "chatty": {
+            "name": "Pratglad",
+            "keywords": [
+                "pratbubbla",
+                "chatt",
+                "prata"
+            ]
+        },
+        "wanderer": {
+            "name": "Vandrare",
+            "keywords": [
+                "knyte",
+                "resa",
+                "äventyr"
+            ]
+        },
+        "skipper": {
+            "name": "Skeppare",
+            "keywords": [
+                "sjöman",
+                "keps",
+                "båt"
+            ]
+        },
+        "country-folk": {
+            "name": "Lantis",
+            "keywords": [
+                "halmhatt",
+                "bondgård",
+                "junifest"
+            ]
+        },
+        "masked-up": {
+            "name": "Med munskydd",
+            "keywords": [
+                "munskydd",
+                "hälsa",
+                "säker"
+            ]
+        },
+        "workout-mode": {
+            "name": "Träningsläge",
+            "keywords": [
+                "stoppur",
+                "pannband",
+                "träning"
+            ]
+        },
+        "connected": {
+            "name": "Uppkopplad",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

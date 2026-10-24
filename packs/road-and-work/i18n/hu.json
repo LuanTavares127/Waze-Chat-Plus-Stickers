@@ -1,160 +1,6 @@
 {
     "name": "Úton és munkában",
     "stickers": {
-        "18": {
-            "keywords": [
-                "batyu",
-                "kirándulás",
-                "kaland"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "bájital",
-                "szemüveg",
-                "labor"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "felfedező",
-                "kalap",
-                "kaland"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "fényképezőgép",
-                "zászló",
-                "városnézés"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "tengerész",
-                "sapka",
-                "hajó"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "bőrönd",
-                "kalap",
-                "kirándulás"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilóta",
-                "védőszemüveg",
-                "sisak"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "bagoly",
-                "ballagás",
-                "okos"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "tűzoltó készülék",
-                "biztonság",
-                "ideges"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "védősisak",
-                "építkezés",
-                "mellény"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "szalmakalap",
-                "farm",
-                "júniusi ünnep"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "sisak",
-                "csillagok",
-                "versenyző"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "arcmaszk",
-                "egészség",
-                "biztonságos"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopper",
-                "fejpánt",
-                "edzés"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "szavazás",
-                "választás",
-                "szavazólap"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "szavazás",
-                "jel",
-                "választás"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "érem",
-                "szalag",
-                "kacsintás"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "kiszállítás",
-                "sisak",
-                "doboz"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenna",
-                "felfedező"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "szövegbuborék",
-                "csevegés",
-                "beszél"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "síp",
-                "játékvezető",
-                "szabálytalanság"
-            ]
-        },
         "road-warrior": {
             "name": "Országúti harcos",
             "keywords": [
@@ -345,6 +191,182 @@
                 "sisak",
                 "motor",
                 "rohanás"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Őrült tudós",
+            "keywords": [
+                "bájital",
+                "szemüveg",
+                "labor"
+            ]
+        },
+        "explorer": {
+            "name": "Felfedező",
+            "keywords": [
+                "felfedező",
+                "kalap",
+                "kaland"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "fényképezőgép",
+                "zászló",
+                "városnézés"
+            ]
+        },
+        "jet-setter": {
+            "name": "Világutazó",
+            "keywords": [
+                "bőrönd",
+                "kalap",
+                "kirándulás"
+            ]
+        },
+        "know-it-all": {
+            "name": "Okostojás",
+            "keywords": [
+                "bagoly",
+                "ballagás",
+                "okos"
+            ]
+        },
+        "close-call": {
+            "name": "Hajszálon múlt",
+            "keywords": [
+                "tűzoltó készülék",
+                "biztonság",
+                "ideges"
+            ]
+        },
+        "on-the-job": {
+            "name": "Munkában",
+            "keywords": [
+                "védősisak",
+                "építkezés",
+                "mellény"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Kampány mód",
+            "keywords": [
+                "szavazás",
+                "jel",
+                "választás"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Expressz szállítás",
+            "keywords": [
+                "kiszállítás",
+                "sisak",
+                "doboz"
+            ]
+        },
+        "referee": {
+            "name": "Bíró",
+            "keywords": [
+                "síp",
+                "játékvezető",
+                "szabálytalanság"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilóta",
+                "védőszemüveg",
+                "sisak"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "sisak",
+                "csillagok",
+                "versenyző"
+            ]
+        },
+        "blue": {
+            "name": "Kék",
+            "keywords": [
+                "robot",
+                "antenna",
+                "felfedező"
+            ]
+        },
+        "voter": {
+            "name": "Szavazó",
+            "keywords": [
+                "szavazás",
+                "választás",
+                "szavazólap"
+            ]
+        },
+        "winner": {
+            "name": "Győztes",
+            "keywords": [
+                "érem",
+                "szalag",
+                "kacsintás"
+            ]
+        },
+        "chatty": {
+            "name": "Csacsogó",
+            "keywords": [
+                "szövegbuborék",
+                "csevegés",
+                "beszél"
+            ]
+        },
+        "wanderer": {
+            "name": "Vándor",
+            "keywords": [
+                "batyu",
+                "kirándulás",
+                "kaland"
+            ]
+        },
+        "skipper": {
+            "name": "Kapitány",
+            "keywords": [
+                "tengerész",
+                "sapka",
+                "hajó"
+            ]
+        },
+        "country-folk": {
+            "name": "Vidéki",
+            "keywords": [
+                "szalmakalap",
+                "farm",
+                "júniusi ünnep"
+            ]
+        },
+        "masked-up": {
+            "name": "Maszkban",
+            "keywords": [
+                "arcmaszk",
+                "egészség",
+                "biztonságos"
+            ]
+        },
+        "workout-mode": {
+            "name": "Edzés mód",
+            "keywords": [
+                "stopper",
+                "fejpánt",
+                "edzés"
+            ]
+        },
+        "connected": {
+            "name": "Csatlakozva",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

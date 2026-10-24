@@ -1,97 +1,6 @@
 {
     "name": "Jūtas",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasika",
-                "sveiki",
-                "laimīgs"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "asara",
-                "skumjš",
-                "naktscepure"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "tukšs",
-                "neitrāls",
-                "vienkāršs"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "mīlestība",
-                "sirds",
-                "salds"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "vecāks",
-                "mazulis",
-                "ģimene"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "raudāšana",
-                "sarūgtināts",
-                "izmisums"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "slims",
-                "nelabums",
-                "nevesels"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "neveikli",
-                "neērti",
-                "fui"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "sajūsmā",
-                "urā",
-                "spārni"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "laimīgs",
-                "smiekli",
-                "cepure"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "dusmīgs",
-                "aizkaitināts",
-                "saraukt pieri"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "jautājums",
-                "ko",
-                "šaubas"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotoss",
-                "meditācija",
-                "mierīgs"
-            ]
-        },
         "amazing": {
             "name": "Apbrīnojami",
             "keywords": [
@@ -354,6 +263,110 @@
                 "lepnums",
                 "varavīksne",
                 "sirds"
+            ]
+        },
+        "puzzled": {
+            "name": "Apjucis",
+            "keywords": [
+                "jautājums",
+                "ko",
+                "šaubas"
+            ]
+        },
+        "grounded": {
+            "name": "Līdzsvarā",
+            "keywords": [
+                "lotoss",
+                "meditācija",
+                "mierīgs"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasika",
+                "sveiki",
+                "laimīgs"
+            ]
+        },
+        "pierrot": {
+            "name": "Pjēro",
+            "keywords": [
+                "asara",
+                "skumjš",
+                "naktscepure"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokera seja",
+            "keywords": [
+                "tukšs",
+                "neitrāls",
+                "vienkāršs"
+            ]
+        },
+        "sweetheart": {
+            "name": "Mīlulis",
+            "keywords": [
+                "mīlestība",
+                "sirds",
+                "salds"
+            ]
+        },
+        "family": {
+            "name": "Ģimene",
+            "keywords": [
+                "vecāks",
+                "mazulis",
+                "ģimene"
+            ]
+        },
+        "fuming": {
+            "name": "Nikns",
+            "keywords": [
+                "dusmīgs",
+                "aizkaitināts",
+                "saraukt pieri"
+            ]
+        },
+        "distraught": {
+            "name": "Izmisis",
+            "keywords": [
+                "raudāšana",
+                "sarūgtināts",
+                "izmisums"
+            ]
+        },
+        "queasy": {
+            "name": "Slikta dūša",
+            "keywords": [
+                "slims",
+                "nelabums",
+                "nevesels"
+            ]
+        },
+        "uneasy": {
+            "name": "Neērti",
+            "keywords": [
+                "neveikli",
+                "neērti",
+                "fui"
+            ]
+        },
+        "ecstatic": {
+            "name": "Sajūsmā",
+            "keywords": [
+                "sajūsmā",
+                "urā",
+                "spārni"
+            ]
+        },
+        "cheerful": {
+            "name": "Jautrs",
+            "keywords": [
+                "laimīgs",
+                "smiekli",
+                "cepure"
             ]
         }
     }

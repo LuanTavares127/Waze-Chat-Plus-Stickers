@@ -1,111 +1,6 @@
 {
     "name": "Fest, stjernetegn og fantasi",
     "stickers": {
-        "31": {
-            "keywords": [
-                "snemand",
-                "vinter",
-                "halstørklæde"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "festhat",
-                "fødselsdag",
-                "fejre"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "hjelm",
-                "kortnål"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "nar",
-                "hat",
-                "latter"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "jul",
-                "julemand",
-                "solbriller"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "troldmand",
-                "hat",
-                "magi"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "heks",
-                "hat",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karneval",
-                "hovedpynt",
-                "fjer"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "halstørklæde",
-                "hue",
-                "vinter"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karneval",
-                "maske",
-                "fest"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nytår",
-                "2026",
-                "fest"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "hammer",
-                "skjold"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "vinter",
-                "hue",
-                "kold"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "vagt",
-                "london",
-                "hat"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "høj hat",
-                "te",
-                "eventyrland"
-            ]
-        },
         "aries": {
             "name": "Vædderen",
             "keywords": [
@@ -376,6 +271,126 @@
                 "helt",
                 "tiara",
                 "kraft"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Fødselsdagsstemning",
+            "keywords": [
+                "festhat",
+                "fødselsdag",
+                "fejre"
+            ]
+        },
+        "witchy": {
+            "name": "Heksagtig",
+            "keywords": [
+                "heks",
+                "hat",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Tapper",
+            "keywords": [
+                "viking",
+                "hammer",
+                "skjold"
+            ]
+        },
+        "stern-guard": {
+            "name": "Streng vagt",
+            "keywords": [
+                "vagt",
+                "london",
+                "hat"
+            ]
+        },
+        "snowman": {
+            "name": "Snemand",
+            "keywords": [
+                "snemand",
+                "vinter",
+                "halstørklæde"
+            ]
+        },
+        "map-raider": {
+            "name": "Kortplyndrer",
+            "keywords": [
+                "viking",
+                "hjelm",
+                "kortnål"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hej 2026",
+            "keywords": [
+                "nytår",
+                "2026",
+                "fest"
+            ]
+        },
+        "cool-santa": {
+            "name": "Sej julemand",
+            "keywords": [
+                "jul",
+                "julemand",
+                "solbriller"
+            ]
+        },
+        "spicy": {
+            "name": "Krydret",
+            "keywords": [
+                "høj hat",
+                "te",
+                "eventyrland"
+            ]
+        },
+        "jester": {
+            "name": "Hofnar",
+            "keywords": [
+                "nar",
+                "hat",
+                "latter"
+            ]
+        },
+        "wizard": {
+            "name": "Troldmand",
+            "keywords": [
+                "troldmand",
+                "hat",
+                "magi"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambastjerne",
+            "keywords": [
+                "karneval",
+                "hovedpynt",
+                "fjer"
+            ]
+        },
+        "cozy": {
+            "name": "Hyggelig",
+            "keywords": [
+                "halstørklæde",
+                "hue",
+                "vinter"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskeret",
+            "keywords": [
+                "karneval",
+                "maske",
+                "fest"
+            ]
+        },
+        "bundled-up": {
+            "name": "Pakket ind",
+            "keywords": [
+                "vinter",
+                "hue",
+                "kold"
             ]
         }
     }

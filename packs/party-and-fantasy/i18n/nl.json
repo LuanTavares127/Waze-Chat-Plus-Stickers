@@ -1,111 +1,6 @@
 {
     "name": "Feest, Sterrenbeeld & Fantasie",
     "stickers": {
-        "31": {
-            "keywords": [
-                "sneeuwpop",
-                "winter",
-                "sjaal"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "feestmuts",
-                "verjaardag",
-                "vieren"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "helm",
-                "kaartspeld"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "nar",
-                "hoed",
-                "lachen"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "kerst",
-                "kerstman",
-                "zonnebril"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "tovenaar",
-                "hoed",
-                "magie"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "heks",
-                "hoed",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnaval",
-                "hoofdtooi",
-                "veren"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "sjaal",
-                "muts",
-                "winter"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnaval",
-                "masker",
-                "feest"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nieuwjaar",
-                "2026",
-                "feest"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "hamer",
-                "schild"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "winter",
-                "muts",
-                "koud"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "wacht",
-                "londen",
-                "hoed"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "hoge hoed",
-                "thee",
-                "wonderland"
-            ]
-        },
         "aries": {
             "name": "Ram",
             "keywords": [
@@ -376,6 +271,126 @@
                 "held",
                 "tiara",
                 "kracht"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Verjaardagsgevoel",
+            "keywords": [
+                "feestmuts",
+                "verjaardag",
+                "vieren"
+            ]
+        },
+        "witchy": {
+            "name": "Heks",
+            "keywords": [
+                "heks",
+                "hoed",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Dapper",
+            "keywords": [
+                "viking",
+                "hamer",
+                "schild"
+            ]
+        },
+        "stern-guard": {
+            "name": "Strenge wacht",
+            "keywords": [
+                "wacht",
+                "londen",
+                "hoed"
+            ]
+        },
+        "snowman": {
+            "name": "Sneeuwpop",
+            "keywords": [
+                "sneeuwpop",
+                "winter",
+                "sjaal"
+            ]
+        },
+        "map-raider": {
+            "name": "Kaartplunderaar",
+            "keywords": [
+                "viking",
+                "helm",
+                "kaartspeld"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hallo 2026",
+            "keywords": [
+                "nieuwjaar",
+                "2026",
+                "feest"
+            ]
+        },
+        "cool-santa": {
+            "name": "Coole kerstman",
+            "keywords": [
+                "kerst",
+                "kerstman",
+                "zonnebril"
+            ]
+        },
+        "spicy": {
+            "name": "Pittig",
+            "keywords": [
+                "hoge hoed",
+                "thee",
+                "wonderland"
+            ]
+        },
+        "jester": {
+            "name": "Hofnar",
+            "keywords": [
+                "nar",
+                "hoed",
+                "lachen"
+            ]
+        },
+        "wizard": {
+            "name": "Tovenaar",
+            "keywords": [
+                "tovenaar",
+                "hoed",
+                "magie"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambaster",
+            "keywords": [
+                "carnaval",
+                "hoofdtooi",
+                "veren"
+            ]
+        },
+        "cozy": {
+            "name": "Knus",
+            "keywords": [
+                "sjaal",
+                "muts",
+                "winter"
+            ]
+        },
+        "masquerade": {
+            "name": "Gemaskerd bal",
+            "keywords": [
+                "carnaval",
+                "masker",
+                "feest"
+            ]
+        },
+        "bundled-up": {
+            "name": "Warm ingepakt",
+            "keywords": [
+                "winter",
+                "muts",
+                "koud"
             ]
         }
     }

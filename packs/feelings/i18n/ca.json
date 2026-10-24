@@ -1,97 +1,6 @@
 {
     "name": "Sentiments",
     "stickers": {
-        "7": {
-            "keywords": [
-                "clàssic",
-                "hola",
-                "content"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "llàgrima",
-                "trist",
-                "gorro de dormir"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "en blanc",
-                "neutre",
-                "normal"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "amor",
-                "cor",
-                "dolç"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "pare o mare",
-                "nadó",
-                "família"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "plorar",
-                "disgustat",
-                "desesperació"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "malalt",
-                "nàusees",
-                "malaltís"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "incòmode",
-                "incòmode",
-                "ugh"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "emocionat",
-                "visca",
-                "ales"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "content",
-                "riure",
-                "barret"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "enfadat",
-                "molest",
-                "cara llarga"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "pregunta",
-                "què",
-                "dubte"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditació",
-                "calma"
-            ]
-        },
         "amazing": {
             "name": "Increïble",
             "keywords": [
@@ -354,6 +263,110 @@
                 "orgull",
                 "arc de Sant Martí",
                 "cor"
+            ]
+        },
+        "puzzled": {
+            "name": "Intrigat",
+            "keywords": [
+                "pregunta",
+                "què",
+                "dubte"
+            ]
+        },
+        "grounded": {
+            "name": "Equilibrat",
+            "keywords": [
+                "lotus",
+                "meditació",
+                "calma"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "clàssic",
+                "hola",
+                "content"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "llàgrima",
+                "trist",
+                "gorro de dormir"
+            ]
+        },
+        "poker-face": {
+            "name": "Cara de pòquer",
+            "keywords": [
+                "en blanc",
+                "neutre",
+                "normal"
+            ]
+        },
+        "sweetheart": {
+            "name": "Amoret",
+            "keywords": [
+                "amor",
+                "cor",
+                "dolç"
+            ]
+        },
+        "family": {
+            "name": "Família",
+            "keywords": [
+                "pare o mare",
+                "nadó",
+                "família"
+            ]
+        },
+        "fuming": {
+            "name": "Treient fum",
+            "keywords": [
+                "enfadat",
+                "molest",
+                "cara llarga"
+            ]
+        },
+        "distraught": {
+            "name": "Desconsolat",
+            "keywords": [
+                "plorar",
+                "disgustat",
+                "desesperació"
+            ]
+        },
+        "queasy": {
+            "name": "Marejat",
+            "keywords": [
+                "malalt",
+                "nàusees",
+                "malaltís"
+            ]
+        },
+        "uneasy": {
+            "name": "Incòmode",
+            "keywords": [
+                "incòmode",
+                "incòmode",
+                "ugh"
+            ]
+        },
+        "ecstatic": {
+            "name": "Eufòric",
+            "keywords": [
+                "emocionat",
+                "visca",
+                "ales"
+            ]
+        },
+        "cheerful": {
+            "name": "Alegre",
+            "keywords": [
+                "content",
+                "riure",
+                "barret"
             ]
         }
     }

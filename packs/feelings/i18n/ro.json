@@ -1,97 +1,6 @@
 {
     "name": "Sentimente",
     "stickers": {
-        "7": {
-            "keywords": [
-                "clasic",
-                "salut",
-                "fericit"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "lacrimă",
-                "trist",
-                "scufie de noapte"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "gol",
-                "neutru",
-                "simplu"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "dragoste",
-                "inimă",
-                "dulce"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "părinte",
-                "bebeluș",
-                "familie"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "plânge",
-                "supărat",
-                "disperare"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "bolnav",
-                "greață",
-                "rău"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "stânjenitor",
-                "neplăcut",
-                "bleah"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "entuziasmat",
-                "ura",
-                "aripi"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "fericit",
-                "râs",
-                "pălărie"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "furios",
-                "iritat",
-                "încruntat"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "întrebare",
-                "ce",
-                "îndoială"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditație",
-                "calm"
-            ]
-        },
         "amazing": {
             "name": "Uimitor",
             "keywords": [
@@ -354,6 +263,110 @@
                 "mândrie",
                 "curcubeu",
                 "inimă"
+            ]
+        },
+        "puzzled": {
+            "name": "Nedumerit",
+            "keywords": [
+                "întrebare",
+                "ce",
+                "îndoială"
+            ]
+        },
+        "grounded": {
+            "name": "Echilibrat",
+            "keywords": [
+                "lotus",
+                "meditație",
+                "calm"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "clasic",
+                "salut",
+                "fericit"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "lacrimă",
+                "trist",
+                "scufie de noapte"
+            ]
+        },
+        "poker-face": {
+            "name": "Față de poker",
+            "keywords": [
+                "gol",
+                "neutru",
+                "simplu"
+            ]
+        },
+        "sweetheart": {
+            "name": "Dragoste",
+            "keywords": [
+                "dragoste",
+                "inimă",
+                "dulce"
+            ]
+        },
+        "family": {
+            "name": "Familie",
+            "keywords": [
+                "părinte",
+                "bebeluș",
+                "familie"
+            ]
+        },
+        "fuming": {
+            "name": "Furios",
+            "keywords": [
+                "furios",
+                "iritat",
+                "încruntat"
+            ]
+        },
+        "distraught": {
+            "name": "Disperat",
+            "keywords": [
+                "plânge",
+                "supărat",
+                "disperare"
+            ]
+        },
+        "queasy": {
+            "name": "Greață",
+            "keywords": [
+                "bolnav",
+                "greață",
+                "rău"
+            ]
+        },
+        "uneasy": {
+            "name": "Stânjenit",
+            "keywords": [
+                "stânjenitor",
+                "neplăcut",
+                "bleah"
+            ]
+        },
+        "ecstatic": {
+            "name": "Extaziat",
+            "keywords": [
+                "entuziasmat",
+                "ura",
+                "aripi"
+            ]
+        },
+        "cheerful": {
+            "name": "Vesel",
+            "keywords": [
+                "fericit",
+                "râs",
+                "pălărie"
             ]
         }
     }

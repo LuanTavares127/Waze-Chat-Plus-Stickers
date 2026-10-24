@@ -1,111 +1,6 @@
 {
     "name": "Hewan & Benda",
     "stickers": {
-        "30": {
-            "keywords": [
-                "batu karang",
-                "batu",
-                "cepat"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "beruang",
-                "topi bucket",
-                "senyum"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capybara",
-                "burung",
-                "santai"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "otak",
-                "pintar",
-                "berpikir"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "gigi",
-                "gigit"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "taring",
-                "gigi",
-                "nyengir"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "sapi",
-                "moo",
-                "peternakan"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "anjing",
-                "corgi",
-                "mahkota"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "anjing",
-                "corgi",
-                "kedip"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "anjing",
-                "corgi",
-                "mahkota"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "dragon",
-                "merah",
-                "monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "tangan",
-                "mata",
-                "perlindungan"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "mata",
-                "tanda",
-                "misteri"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "teko",
-                "teh",
-                "apel"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "burung",
-                "topi",
-                "bicara"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "makan siang"
             ]
         },
-        "magical": {
-            "name": "Ajaib",
-            "keywords": [
-                "unicorn",
-                "pelangi",
-                "sihir"
-            ]
-        },
-        "magical-2": {
-            "name": "Ajaib (2)",
-            "keywords": [
-                "sihir",
-                "merah muda",
-                "terkenal"
-            ]
-        },
         "open": {
             "name": "Terbuka",
             "keywords": [
@@ -352,6 +231,142 @@
                 "serigala",
                 "melolong",
                 "licik"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "capybara",
+                "burung",
+                "santai"
+            ]
+        },
+        "parrot": {
+            "name": "Burung beo",
+            "keywords": [
+                "burung",
+                "topi",
+                "bicara"
+            ]
+        },
+        "blissful": {
+            "name": "Bahagia",
+            "keywords": [
+                "sapi",
+                "moo",
+                "peternakan"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Batu ngebut",
+            "keywords": [
+                "batu karang",
+                "batu",
+                "cepat"
+            ]
+        },
+        "big-brain": {
+            "name": "Otak encer",
+            "keywords": [
+                "otak",
+                "pintar",
+                "berpikir"
+            ]
+        },
+        "yellow": {
+            "name": "Kuning",
+            "keywords": [
+                "taring",
+                "gigi",
+                "nyengir"
+            ]
+        },
+        "pampered": {
+            "name": "Dimanja",
+            "keywords": [
+                "anjing",
+                "corgi",
+                "mahkota"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Setia",
+            "keywords": [
+                "anjing",
+                "corgi",
+                "kedip"
+            ]
+        },
+        "playful-pup": {
+            "name": "Anjing jahil",
+            "keywords": [
+                "anjing",
+                "corgi",
+                "mahkota"
+            ]
+        },
+        "red": {
+            "name": "Merah",
+            "keywords": [
+                "dragon",
+                "merah",
+                "monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Unicorn",
+            "keywords": [
+                "unicorn",
+                "pelangi",
+                "sihir"
+            ]
+        },
+        "magical": {
+            "name": "Ajaib",
+            "keywords": [
+                "sihir",
+                "merah muda",
+                "terkenal"
+            ]
+        },
+        "visionary": {
+            "name": "Visioner",
+            "keywords": [
+                "mata",
+                "tanda",
+                "misteri"
+            ]
+        },
+        "focused": {
+            "name": "Fokus",
+            "keywords": [
+                "tangan",
+                "mata",
+                "perlindungan"
+            ]
+        },
+        "kind": {
+            "name": "Baik hati",
+            "keywords": [
+                "beruang",
+                "topi bucket",
+                "senyum"
+            ]
+        },
+        "zesty": {
+            "name": "Segar",
+            "keywords": [
+                "teko",
+                "teh",
+                "apel"
+            ]
+        },
+        "chomper": {
+            "name": "Tukang gigit",
+            "keywords": [
+                "dinosaurus",
+                "gigi",
+                "gigit"
             ]
         }
     }

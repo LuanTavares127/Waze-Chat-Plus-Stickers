@@ -1,111 +1,6 @@
 {
     "name": "Feste, zodiaco e fantasy",
     "stickers": {
-        "31": {
-            "keywords": [
-                "pupazzo di neve",
-                "inverno",
-                "sciarpa"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "cappellino da festa",
-                "compleanno",
-                "festeggiare"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "vichingo",
-                "elmo",
-                "segnaposto"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "giullare",
-                "cappello",
-                "risata"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "natale",
-                "babbo natale",
-                "occhiali da sole"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "mago",
-                "cappello",
-                "magia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "strega",
-                "cappello",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnevale",
-                "copricapo",
-                "piume"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "sciarpa",
-                "berretto di lana",
-                "inverno"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnevale",
-                "maschera",
-                "festa"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "capodanno",
-                "2026",
-                "festa"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "vichingo",
-                "martello",
-                "scudo"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "inverno",
-                "berretto di lana",
-                "freddo"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "guardia",
-                "londra",
-                "cappello"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilindro",
-                "tè",
-                "paese delle meraviglie"
-            ]
-        },
         "aries": {
             "name": "Ariete",
             "keywords": [
@@ -376,6 +271,126 @@
                 "eroe",
                 "tiara",
                 "potere"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Aria di compleanno",
+            "keywords": [
+                "cappellino da festa",
+                "compleanno",
+                "festeggiare"
+            ]
+        },
+        "witchy": {
+            "name": "Streghetta",
+            "keywords": [
+                "strega",
+                "cappello",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Valoroso",
+            "keywords": [
+                "vichingo",
+                "martello",
+                "scudo"
+            ]
+        },
+        "stern-guard": {
+            "name": "Guardia seria",
+            "keywords": [
+                "guardia",
+                "londra",
+                "cappello"
+            ]
+        },
+        "snowman": {
+            "name": "Pupazzo di neve",
+            "keywords": [
+                "pupazzo di neve",
+                "inverno",
+                "sciarpa"
+            ]
+        },
+        "map-raider": {
+            "name": "Predone della mappa",
+            "keywords": [
+                "vichingo",
+                "elmo",
+                "segnaposto"
+            ]
+        },
+        "hello-2026": {
+            "name": "Ciao 2026",
+            "keywords": [
+                "capodanno",
+                "2026",
+                "festa"
+            ]
+        },
+        "cool-santa": {
+            "name": "Babbo Natale figo",
+            "keywords": [
+                "natale",
+                "babbo natale",
+                "occhiali da sole"
+            ]
+        },
+        "spicy": {
+            "name": "Piccante",
+            "keywords": [
+                "cilindro",
+                "tè",
+                "paese delle meraviglie"
+            ]
+        },
+        "jester": {
+            "name": "Giullare",
+            "keywords": [
+                "giullare",
+                "cappello",
+                "risata"
+            ]
+        },
+        "wizard": {
+            "name": "Mago",
+            "keywords": [
+                "mago",
+                "cappello",
+                "magia"
+            ]
+        },
+        "samba-star": {
+            "name": "Stella della samba",
+            "keywords": [
+                "carnevale",
+                "copricapo",
+                "piume"
+            ]
+        },
+        "cozy": {
+            "name": "Al calduccio",
+            "keywords": [
+                "sciarpa",
+                "berretto di lana",
+                "inverno"
+            ]
+        },
+        "masquerade": {
+            "name": "In maschera",
+            "keywords": [
+                "carnevale",
+                "maschera",
+                "festa"
+            ]
+        },
+        "bundled-up": {
+            "name": "Imbacuccato",
+            "keywords": [
+                "inverno",
+                "berretto di lana",
+                "freddo"
             ]
         }
     }

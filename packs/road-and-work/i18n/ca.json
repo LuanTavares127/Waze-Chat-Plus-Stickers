@@ -1,160 +1,6 @@
 {
     "name": "A la carretera i a la feina",
     "stickers": {
-        "18": {
-            "keywords": [
-                "farcell",
-                "viatge",
-                "aventura"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "poció",
-                "ulleres",
-                "laboratori"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "explorador",
-                "barret",
-                "aventura"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "càmera",
-                "bandera",
-                "turisme"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "mariner",
-                "gorra",
-                "barca"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "maleta",
-                "barret",
-                "viatge"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "ulleres de protecció",
-                "casc"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "mussol",
-                "graduació",
-                "llest"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "extintor",
-                "seguretat",
-                "nerviós"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "casc d'obra",
-                "construcció",
-                "armilla"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "barret de palla",
-                "granja",
-                "festa de juny"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "casc",
-                "estrelles",
-                "corredor"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "mascareta",
-                "salut",
-                "segur"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "cronòmetre",
-                "diadema",
-                "entrenament"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "vot",
-                "eleccions",
-                "papereta"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "senyal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "vot",
-                "senyal",
-                "eleccions"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalla",
-                "llaç",
-                "picada d'ullet"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "repartiment",
-                "casc",
-                "caixa"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antena",
-                "explorador"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "globus de text",
-                "xat",
-                "parlar"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "xiulet",
-                "àrbitre",
-                "falta"
-            ]
-        },
         "road-warrior": {
             "name": "Guerrer de la carretera",
             "keywords": [
@@ -345,6 +191,182 @@
                 "casc",
                 "moto",
                 "pressa"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Científic boig",
+            "keywords": [
+                "poció",
+                "ulleres",
+                "laboratori"
+            ]
+        },
+        "explorer": {
+            "name": "Explorador",
+            "keywords": [
+                "explorador",
+                "barret",
+                "aventura"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "càmera",
+                "bandera",
+                "turisme"
+            ]
+        },
+        "jet-setter": {
+            "name": "Rodamón",
+            "keywords": [
+                "maleta",
+                "barret",
+                "viatge"
+            ]
+        },
+        "know-it-all": {
+            "name": "Saberut",
+            "keywords": [
+                "mussol",
+                "graduació",
+                "llest"
+            ]
+        },
+        "close-call": {
+            "name": "Per un pèl",
+            "keywords": [
+                "extintor",
+                "seguretat",
+                "nerviós"
+            ]
+        },
+        "on-the-job": {
+            "name": "A l'obra",
+            "keywords": [
+                "casc d'obra",
+                "construcció",
+                "armilla"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Mode campanya",
+            "keywords": [
+                "vot",
+                "senyal",
+                "eleccions"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Lliurament exprés",
+            "keywords": [
+                "repartiment",
+                "casc",
+                "caixa"
+            ]
+        },
+        "referee": {
+            "name": "Àrbitre",
+            "keywords": [
+                "xiulet",
+                "àrbitre",
+                "falta"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "ulleres de protecció",
+                "casc"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "casc",
+                "estrelles",
+                "corredor"
+            ]
+        },
+        "blue": {
+            "name": "Blau",
+            "keywords": [
+                "robot",
+                "antena",
+                "explorador"
+            ]
+        },
+        "voter": {
+            "name": "Votant",
+            "keywords": [
+                "vot",
+                "eleccions",
+                "papereta"
+            ]
+        },
+        "winner": {
+            "name": "Guanyador",
+            "keywords": [
+                "medalla",
+                "llaç",
+                "picada d'ullet"
+            ]
+        },
+        "chatty": {
+            "name": "Xerraire",
+            "keywords": [
+                "globus de text",
+                "xat",
+                "parlar"
+            ]
+        },
+        "wanderer": {
+            "name": "Caminant",
+            "keywords": [
+                "farcell",
+                "viatge",
+                "aventura"
+            ]
+        },
+        "skipper": {
+            "name": "Capità",
+            "keywords": [
+                "mariner",
+                "gorra",
+                "barca"
+            ]
+        },
+        "country-folk": {
+            "name": "Pagès",
+            "keywords": [
+                "barret de palla",
+                "granja",
+                "festa de juny"
+            ]
+        },
+        "masked-up": {
+            "name": "Amb mascareta",
+            "keywords": [
+                "mascareta",
+                "salut",
+                "segur"
+            ]
+        },
+        "workout-mode": {
+            "name": "Mode entrenament",
+            "keywords": [
+                "cronòmetre",
+                "diadema",
+                "entrenament"
+            ]
+        },
+        "connected": {
+            "name": "Connectat",
+            "keywords": [
+                "senyal",
+                "robot",
+                "wifi"
             ]
         }
     }

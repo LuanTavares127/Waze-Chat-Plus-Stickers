@@ -1,160 +1,6 @@
 {
     "name": "Na cestě a v práci",
     "stickers": {
-        "18": {
-            "keywords": [
-                "uzlík",
-                "výlet",
-                "dobrodružství"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "lektvar",
-                "brýle",
-                "laboratoř"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "objevitel",
-                "klobouk",
-                "dobrodružství"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "fotoaparát",
-                "vlajka",
-                "prohlídka"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "námořník",
-                "kšiltovka",
-                "loď"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "kufr",
-                "klobouk",
-                "výlet"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "ochranné brýle",
-                "helma"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "sova",
-                "promoce",
-                "chytrý"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "hasicí přístroj",
-                "bezpečnost",
-                "nervózní"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "ochranná přilba",
-                "stavba",
-                "vesta"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "slamák",
-                "farma",
-                "červnový festival"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "helma",
-                "hvězdy",
-                "závodník"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "rouška",
-                "zdraví",
-                "bezpečný"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopky",
-                "čelenka",
-                "trénink"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "hlas",
-                "volby",
-                "hlasovací lístek"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signál",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "hlas",
-                "znamení",
-                "volby"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medaile",
-                "stuha",
-                "mrknutí"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "doručení",
-                "helma",
-                "krabice"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "anténa",
-                "objevitel"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "bublina",
-                "chat",
-                "mluvit"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "píšťalka",
-                "rozhodčí",
-                "faul"
-            ]
-        },
         "road-warrior": {
             "name": "Bojovník silnic",
             "keywords": [
@@ -345,6 +191,182 @@
                 "helma",
                 "motorka",
                 "spěch"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Šílený vědec",
+            "keywords": [
+                "lektvar",
+                "brýle",
+                "laboratoř"
+            ]
+        },
+        "explorer": {
+            "name": "Průzkumník",
+            "keywords": [
+                "objevitel",
+                "klobouk",
+                "dobrodružství"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "fotoaparát",
+                "vlajka",
+                "prohlídka"
+            ]
+        },
+        "jet-setter": {
+            "name": "Světoběžník",
+            "keywords": [
+                "kufr",
+                "klobouk",
+                "výlet"
+            ]
+        },
+        "know-it-all": {
+            "name": "Chytrolín",
+            "keywords": [
+                "sova",
+                "promoce",
+                "chytrý"
+            ]
+        },
+        "close-call": {
+            "name": "Tak tak",
+            "keywords": [
+                "hasicí přístroj",
+                "bezpečnost",
+                "nervózní"
+            ]
+        },
+        "on-the-job": {
+            "name": "V práci",
+            "keywords": [
+                "ochranná přilba",
+                "stavba",
+                "vesta"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Volební kampaň",
+            "keywords": [
+                "hlas",
+                "znamení",
+                "volby"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Expresní doručení",
+            "keywords": [
+                "doručení",
+                "helma",
+                "krabice"
+            ]
+        },
+        "referee": {
+            "name": "Rozhodčí",
+            "keywords": [
+                "píšťalka",
+                "rozhodčí",
+                "faul"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "ochranné brýle",
+                "helma"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "helma",
+                "hvězdy",
+                "závodník"
+            ]
+        },
+        "blue": {
+            "name": "Modrý",
+            "keywords": [
+                "robot",
+                "anténa",
+                "objevitel"
+            ]
+        },
+        "voter": {
+            "name": "Volič",
+            "keywords": [
+                "hlas",
+                "volby",
+                "hlasovací lístek"
+            ]
+        },
+        "winner": {
+            "name": "Vítěz",
+            "keywords": [
+                "medaile",
+                "stuha",
+                "mrknutí"
+            ]
+        },
+        "chatty": {
+            "name": "Ukecaný",
+            "keywords": [
+                "bublina",
+                "chat",
+                "mluvit"
+            ]
+        },
+        "wanderer": {
+            "name": "Poutník",
+            "keywords": [
+                "uzlík",
+                "výlet",
+                "dobrodružství"
+            ]
+        },
+        "skipper": {
+            "name": "Kapitán",
+            "keywords": [
+                "námořník",
+                "kšiltovka",
+                "loď"
+            ]
+        },
+        "country-folk": {
+            "name": "Venkovan",
+            "keywords": [
+                "slamák",
+                "farma",
+                "červnový festival"
+            ]
+        },
+        "masked-up": {
+            "name": "V roušce",
+            "keywords": [
+                "rouška",
+                "zdraví",
+                "bezpečný"
+            ]
+        },
+        "workout-mode": {
+            "name": "Tréninkový režim",
+            "keywords": [
+                "stopky",
+                "čelenka",
+                "trénink"
+            ]
+        },
+        "connected": {
+            "name": "Připojený",
+            "keywords": [
+                "signál",
+                "robot",
+                "wifi"
             ]
         }
     }

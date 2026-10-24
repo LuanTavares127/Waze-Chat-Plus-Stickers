@@ -1,111 +1,6 @@
 {
     "name": "Festa, zodíac i fantasia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "ninot de neu",
-                "hivern",
-                "bufanda"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "barret de festa",
-                "aniversari",
-                "celebrar"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "víking",
-                "casc",
-                "xinxeta de mapa"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bufó",
-                "barret",
-                "riure"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "nadal",
-                "pare Noel",
-                "ulleres de sol"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "mag",
-                "barret",
-                "màgia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "bruixa",
-                "barret",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnestoltes",
-                "tocat",
-                "plomes"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "bufanda",
-                "gorra de llana",
-                "hivern"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnestoltes",
-                "màscara",
-                "festa"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "any nou",
-                "2026",
-                "festa"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "víking",
-                "martell",
-                "escut"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "hivern",
-                "gorra de llana",
-                "fred"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "guàrdia",
-                "londres",
-                "barret"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "barret de copa",
-                "te",
-                "país de les meravelles"
-            ]
-        },
         "aries": {
             "name": "Àries",
             "keywords": [
@@ -376,6 +271,126 @@
                 "heroi",
                 "tiara",
                 "poder"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Mode aniversari",
+            "keywords": [
+                "barret de festa",
+                "aniversari",
+                "celebrar"
+            ]
+        },
+        "witchy": {
+            "name": "Bruixota",
+            "keywords": [
+                "bruixa",
+                "barret",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Valerós",
+            "keywords": [
+                "víking",
+                "martell",
+                "escut"
+            ]
+        },
+        "stern-guard": {
+            "name": "Guàrdia seriós",
+            "keywords": [
+                "guàrdia",
+                "londres",
+                "barret"
+            ]
+        },
+        "snowman": {
+            "name": "Ninot de neu",
+            "keywords": [
+                "ninot de neu",
+                "hivern",
+                "bufanda"
+            ]
+        },
+        "map-raider": {
+            "name": "Saquejador de mapes",
+            "keywords": [
+                "víking",
+                "casc",
+                "xinxeta de mapa"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hola 2026",
+            "keywords": [
+                "any nou",
+                "2026",
+                "festa"
+            ]
+        },
+        "cool-santa": {
+            "name": "Pare Noel guai",
+            "keywords": [
+                "nadal",
+                "pare Noel",
+                "ulleres de sol"
+            ]
+        },
+        "spicy": {
+            "name": "Picant",
+            "keywords": [
+                "barret de copa",
+                "te",
+                "país de les meravelles"
+            ]
+        },
+        "jester": {
+            "name": "Bufó",
+            "keywords": [
+                "bufó",
+                "barret",
+                "riure"
+            ]
+        },
+        "wizard": {
+            "name": "Mag",
+            "keywords": [
+                "mag",
+                "barret",
+                "màgia"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambista",
+            "keywords": [
+                "carnestoltes",
+                "tocat",
+                "plomes"
+            ]
+        },
+        "cozy": {
+            "name": "Arraulit",
+            "keywords": [
+                "bufanda",
+                "gorra de llana",
+                "hivern"
+            ]
+        },
+        "masquerade": {
+            "name": "Emmascarat",
+            "keywords": [
+                "carnestoltes",
+                "màscara",
+                "festa"
+            ]
+        },
+        "bundled-up": {
+            "name": "Ben abrigat",
+            "keywords": [
+                "hivern",
+                "gorra de llana",
+                "fred"
             ]
         }
     }

@@ -1,55 +1,6 @@
 {
     "name": "Krosoveri",
     "stickers": {
-        "63": {
-            "keywords": [
-                "pakalpiņš",
-                "viena acs",
-                "banāns"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "pakalpiņš",
-                "viena acs",
-                "šūnas"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbionts",
-                "zobi",
-                "ļaundaris"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraglis",
-                "lelle",
-                "laimīgs"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraglis",
-                "brilles",
-                "mati"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraglis",
-                "lelle",
-                "nervozs"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraglis",
-                "cepure",
-                "smiekli"
-            ]
-        },
         "ed": {
             "name": "Eds - uzticīgs",
             "keywords": [
@@ -154,14 +105,6 @@
                 "būvniecība"
             ]
         },
-        "red": {
-            "name": "Sarkans",
-            "keywords": [
-                "fraglis",
-                "sarkani mati",
-                "smiekli"
-            ]
-        },
         "horde": {
             "name": "Orda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfs",
                 "dārgakmens",
                 "ļaundaris"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbionts",
+                "zobi",
+                "ļaundaris"
+            ]
+        },
+        "despicable": {
+            "name": "Nelietis",
+            "keywords": [
+                "pakalpiņš",
+                "viena acs",
+                "banāns"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega nelietis",
+            "keywords": [
+                "pakalpiņš",
+                "viena acs",
+                "šūnas"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraglis",
+                "lelle",
+                "laimīgs"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraglis",
+                "brilles",
+                "mati"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraglis",
+                "lelle",
+                "nervozs"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraglis",
+                "cepure",
+                "smiekli"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraglis",
+                "sarkani mati",
+                "smiekli"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkāniešu sveiciens",
+            "keywords": [
+                "roka",
+                "sveiciens",
+                "sveiciens"
             ]
         }
     }

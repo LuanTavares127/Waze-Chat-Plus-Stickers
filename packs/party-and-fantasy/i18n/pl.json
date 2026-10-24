@@ -1,111 +1,6 @@
 {
     "name": "Impreza, zodiak i fantazja",
     "stickers": {
-        "31": {
-            "keywords": [
-                "bałwan",
-                "zima",
-                "szalik"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "czapeczka imprezowa",
-                "urodziny",
-                "świętować"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "wiking",
-                "hełm",
-                "pinezka"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "błazen",
-                "kapelusz",
-                "śmiech"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "święta",
-                "mikołaj",
-                "okulary przeciwsłoneczne"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "czarodziej",
-                "kapelusz",
-                "magia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "wiedźma",
-                "kapelusz",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnawał",
-                "pióropusz",
-                "pióra"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "szalik",
-                "czapka zimowa",
-                "zima"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnawał",
-                "maska",
-                "impreza"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nowy rok",
-                "2026",
-                "impreza"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "wiking",
-                "młot",
-                "tarcza"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "zima",
-                "czapka zimowa",
-                "zimno"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "gwardzista",
-                "londyn",
-                "kapelusz"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cylinder",
-                "herbata",
-                "kraina czarów"
-            ]
-        },
         "aries": {
             "name": "Baran",
             "keywords": [
@@ -376,6 +271,126 @@
                 "bohater",
                 "tiara",
                 "moc"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Urodzinowy klimat",
+            "keywords": [
+                "czapeczka imprezowa",
+                "urodziny",
+                "świętować"
+            ]
+        },
+        "witchy": {
+            "name": "Czarownica",
+            "keywords": [
+                "wiedźma",
+                "kapelusz",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Waleczny",
+            "keywords": [
+                "wiking",
+                "młot",
+                "tarcza"
+            ]
+        },
+        "stern-guard": {
+            "name": "Surowy strażnik",
+            "keywords": [
+                "gwardzista",
+                "londyn",
+                "kapelusz"
+            ]
+        },
+        "snowman": {
+            "name": "Bałwan",
+            "keywords": [
+                "bałwan",
+                "zima",
+                "szalik"
+            ]
+        },
+        "map-raider": {
+            "name": "Najeźdźca map",
+            "keywords": [
+                "wiking",
+                "hełm",
+                "pinezka"
+            ]
+        },
+        "hello-2026": {
+            "name": "Witaj, 2026",
+            "keywords": [
+                "nowy rok",
+                "2026",
+                "impreza"
+            ]
+        },
+        "cool-santa": {
+            "name": "Wyluzowany Mikołaj",
+            "keywords": [
+                "święta",
+                "mikołaj",
+                "okulary przeciwsłoneczne"
+            ]
+        },
+        "spicy": {
+            "name": "Pikantny",
+            "keywords": [
+                "cylinder",
+                "herbata",
+                "kraina czarów"
+            ]
+        },
+        "jester": {
+            "name": "Błazen",
+            "keywords": [
+                "błazen",
+                "kapelusz",
+                "śmiech"
+            ]
+        },
+        "wizard": {
+            "name": "Czarodziej",
+            "keywords": [
+                "czarodziej",
+                "kapelusz",
+                "magia"
+            ]
+        },
+        "samba-star": {
+            "name": "Gwiazda samby",
+            "keywords": [
+                "karnawał",
+                "pióropusz",
+                "pióra"
+            ]
+        },
+        "cozy": {
+            "name": "Przytulnie",
+            "keywords": [
+                "szalik",
+                "czapka zimowa",
+                "zima"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskarada",
+            "keywords": [
+                "karnawał",
+                "maska",
+                "impreza"
+            ]
+        },
+        "bundled-up": {
+            "name": "Opatulony",
+            "keywords": [
+                "zima",
+                "czapka zimowa",
+                "zimno"
             ]
         }
     }

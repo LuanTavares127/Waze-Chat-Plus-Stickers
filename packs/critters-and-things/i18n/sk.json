@@ -1,111 +1,6 @@
 {
     "name": "Zvieratká a veci",
     "stickers": {
-        "30": {
-            "keywords": [
-                "skala",
-                "kameň",
-                "rýchly"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "medveď",
-                "rybársky klobúk",
-                "úsmev"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapybara",
-                "vták",
-                "pohoda"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "mozog",
-                "múdry",
-                "premýšľať"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "zuby",
-                "uhryznutie"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "tesáky",
-                "zuby",
-                "škerenie"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "krava",
-                "bú",
-                "farma"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "koruna"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "žmurknutie"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "koruna"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drak",
-                "červený",
-                "príšera"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "ruka",
-                "oko",
-                "ochrana"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "oko",
-                "znak",
-                "záhada"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "čajník",
-                "čaj",
-                "jablko"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "vták",
-                "šiltovka",
-                "rozprávať"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "obed"
             ]
         },
-        "magical": {
-            "name": "Čarovný",
-            "keywords": [
-                "jednorožec",
-                "dúha",
-                "mágia"
-            ]
-        },
-        "magical-2": {
-            "name": "Čarovný (2)",
-            "keywords": [
-                "mágia",
-                "ružový",
-                "slávny"
-            ]
-        },
         "open": {
             "name": "Otvorený",
             "keywords": [
@@ -352,6 +231,142 @@
                 "vlk",
                 "vytie",
                 "prefíkaný"
+            ]
+        },
+        "capybara": {
+            "name": "Kapybara",
+            "keywords": [
+                "kapybara",
+                "vták",
+                "pohoda"
+            ]
+        },
+        "parrot": {
+            "name": "Papagáj",
+            "keywords": [
+                "vták",
+                "šiltovka",
+                "rozprávať"
+            ]
+        },
+        "blissful": {
+            "name": "Blažená",
+            "keywords": [
+                "krava",
+                "bú",
+                "farma"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Svižný kameň",
+            "keywords": [
+                "skala",
+                "kameň",
+                "rýchly"
+            ]
+        },
+        "big-brain": {
+            "name": "Hlavička",
+            "keywords": [
+                "mozog",
+                "múdry",
+                "premýšľať"
+            ]
+        },
+        "yellow": {
+            "name": "Žltý",
+            "keywords": [
+                "tesáky",
+                "zuby",
+                "škerenie"
+            ]
+        },
+        "pampered": {
+            "name": "Rozmaznaný",
+            "keywords": [
+                "pes",
+                "korgi",
+                "koruna"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Verný",
+            "keywords": [
+                "pes",
+                "korgi",
+                "žmurknutie"
+            ]
+        },
+        "playful-pup": {
+            "name": "Hravé šteniatko",
+            "keywords": [
+                "pes",
+                "korgi",
+                "koruna"
+            ]
+        },
+        "red": {
+            "name": "Červený",
+            "keywords": [
+                "drak",
+                "červený",
+                "príšera"
+            ]
+        },
+        "unicorn": {
+            "name": "Jednorožec",
+            "keywords": [
+                "jednorožec",
+                "dúha",
+                "mágia"
+            ]
+        },
+        "magical": {
+            "name": "Čarovný",
+            "keywords": [
+                "mágia",
+                "ružový",
+                "slávny"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionár",
+            "keywords": [
+                "oko",
+                "znak",
+                "záhada"
+            ]
+        },
+        "focused": {
+            "name": "Sústredený",
+            "keywords": [
+                "ruka",
+                "oko",
+                "ochrana"
+            ]
+        },
+        "kind": {
+            "name": "Dobrák",
+            "keywords": [
+                "medveď",
+                "rybársky klobúk",
+                "úsmev"
+            ]
+        },
+        "zesty": {
+            "name": "Iskrivý",
+            "keywords": [
+                "čajník",
+                "čaj",
+                "jablko"
+            ]
+        },
+        "chomper": {
+            "name": "Hryzko",
+            "keywords": [
+                "dinosaurus",
+                "zuby",
+                "uhryznutie"
             ]
         }
     }

@@ -1,167 +1,6 @@
 {
     "name": "Vibrações",
     "stickers": {
-        "44": {
-            "keywords": [
-                "cornos de carneiro",
-                "óculos de sol",
-                "ousado"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "óculos de sol",
-                "pedra"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "música",
-                "notas",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "salto alto",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "deitado",
-                "chapéu de festa",
-                "relaxado"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "auricular com microfone",
-                "a ouvir",
-                "música"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "lâmpada",
-                "óculos",
-                "ideia"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bolhas",
-                "poção",
-                "feliz"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "brilho",
-                "óculos de sol",
-                "chique"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "auscultadores",
-                "leopardo",
-                "música"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "microfone",
-                "karaoke",
-                "cantar"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "extraterrestre",
-                "capacete",
-                "espaço"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "auscultadores",
-                "música",
-                "fixe"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "boné",
-                "ao contrário",
-                "olhar de lado"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "boné com hélice",
-                "patareco",
-                "miúdo"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificador",
-                "guitarra",
-                "música"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tambor",
-                "pandeireta",
-                "piscar de olho"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "lâmpada",
-                "pensar",
-                "ideia"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "mão",
-                "continência",
-                "cumprimento"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "óculos",
-                "inteligente",
-                "sorriso trocista"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "óculos",
-                "loira",
-                "estudo"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "capa",
-                "herói",
-                "óculos"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "coroa",
-                "óculos de sol",
-                "rei"
-            ]
-        },
         "chill": {
             "name": "Descontraído",
             "keywords": [
@@ -336,6 +175,182 @@
                 "espinhoso",
                 "loiro",
                 "amuo"
+            ]
+        },
+        "homie": {
+            "name": "Compincha",
+            "keywords": [
+                "bandana",
+                "óculos de sol",
+                "pedra"
+            ]
+        },
+        "afterparty": {
+            "name": "Depois da Festa",
+            "keywords": [
+                "deitado",
+                "chapéu de festa",
+                "relaxado"
+            ]
+        },
+        "boss": {
+            "name": "Poderosa",
+            "keywords": [
+                "auscultadores",
+                "leopardo",
+                "música"
+            ]
+        },
+        "sly": {
+            "name": "Matreiro",
+            "keywords": [
+                "boné",
+                "ao contrário",
+                "olhar de lado"
+            ]
+        },
+        "smug": {
+            "name": "Convencido",
+            "keywords": [
+                "óculos",
+                "inteligente",
+                "sorriso trocista"
+            ]
+        },
+        "bookish": {
+            "name": "Marrão",
+            "keywords": [
+                "óculos",
+                "loira",
+                "estudo"
+            ]
+        },
+        "royalty": {
+            "name": "Realeza",
+            "keywords": [
+                "coroa",
+                "óculos de sol",
+                "rei"
+            ]
+        },
+        "dazzling": {
+            "name": "Deslumbrante",
+            "keywords": [
+                "brilho",
+                "óculos de sol",
+                "chique"
+            ]
+        },
+        "brainiac": {
+            "name": "Cérebro",
+            "keywords": [
+                "lâmpada",
+                "óculos",
+                "ideia"
+            ]
+        },
+        "spaced-out": {
+            "name": "Na Lua",
+            "keywords": [
+                "extraterrestre",
+                "capacete",
+                "espaço"
+            ]
+        },
+        "cool": {
+            "name": "Fixe",
+            "keywords": [
+                "auscultadores",
+                "música",
+                "fixe"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "lâmpada",
+                "pensar",
+                "ideia"
+            ]
+        },
+        "bug-buster": {
+            "name": "Caça-Bugs",
+            "keywords": [
+                "bolhas",
+                "poção",
+                "feliz"
+            ]
+        },
+        "far-out": {
+            "name": "Hippie",
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Estrela do Karaoke",
+            "keywords": [
+                "microfone",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernerd",
+            "keywords": [
+                "capa",
+                "herói",
+                "óculos"
+            ]
+        },
+        "wonderful": {
+            "name": "Maravilhosa",
+            "keywords": [
+                "salto alto",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "A Bombar",
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "on-the-beat": {
+            "name": "No Ritmo",
+            "keywords": [
+                "tambor",
+                "pandeireta",
+                "piscar de olho"
+            ]
+        },
+        "rambunctious": {
+            "name": "Endiabrado",
+            "keywords": [
+                "cornos de carneiro",
+                "óculos de sol",
+                "ousado"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizado",
+            "keywords": [
+                "auricular com microfone",
+                "a ouvir",
+                "música"
+            ]
+        },
+        "kiddo": {
+            "name": "Miúdo",
+            "keywords": [
+                "boné com hélice",
+                "patareco",
+                "miúdo"
             ]
         }
     }

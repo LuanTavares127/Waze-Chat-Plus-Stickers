@@ -1,167 +1,6 @@
 {
     "name": "Vibrazioni",
     "stickers": {
-        "44": {
-            "keywords": [
-                "corna di montone",
-                "occhiali da sole",
-                "audace"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "occhiali da sole",
-                "roccia"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musica",
-                "note",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "tacco alto",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "sdraiato",
-                "cappellino da festa",
-                "rilassato"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "cuffia con microfono",
-                "ascolto",
-                "musica"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "lampadina",
-                "occhiali",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bolle",
-                "pozione",
-                "felice"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "scintilla",
-                "occhiali da sole",
-                "elegante"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "cuffie",
-                "leopardo",
-                "musica"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "microfono",
-                "karaoke",
-                "cantare"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "alieno",
-                "elmo",
-                "spazio"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "cuffie",
-                "musica",
-                "figo"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "berretto",
-                "al contrario",
-                "sguardo di traverso"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "cappello con elica",
-                "sciocco",
-                "bambino"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificatore",
-                "chitarra",
-                "musica"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tamburo",
-                "tamburello",
-                "occhiolino"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "lampadina",
-                "pensare",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "mano",
-                "saluto militare",
-                "saluto"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "occhiali",
-                "intelligente",
-                "sorrisetto"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "occhiali",
-                "biondo",
-                "studio"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "mantello",
-                "eroe",
-                "occhiali"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "corona",
-                "occhiali da sole",
-                "re"
-            ]
-        },
         "chill": {
             "name": "Relax",
             "keywords": [
@@ -336,6 +175,182 @@
                 "appuntito",
                 "biondo",
                 "broncio"
+            ]
+        },
+        "homie": {
+            "name": "Compare",
+            "keywords": [
+                "bandana",
+                "occhiali da sole",
+                "roccia"
+            ]
+        },
+        "afterparty": {
+            "name": "Dopofesta",
+            "keywords": [
+                "sdraiato",
+                "cappellino da festa",
+                "rilassato"
+            ]
+        },
+        "boss": {
+            "name": "La boss",
+            "keywords": [
+                "cuffie",
+                "leopardo",
+                "musica"
+            ]
+        },
+        "sly": {
+            "name": "Furbetto",
+            "keywords": [
+                "berretto",
+                "al contrario",
+                "sguardo di traverso"
+            ]
+        },
+        "smug": {
+            "name": "Compiaciuto",
+            "keywords": [
+                "occhiali",
+                "intelligente",
+                "sorrisetto"
+            ]
+        },
+        "bookish": {
+            "name": "Secchione",
+            "keywords": [
+                "occhiali",
+                "biondo",
+                "studio"
+            ]
+        },
+        "royalty": {
+            "name": "Maestà",
+            "keywords": [
+                "corona",
+                "occhiali da sole",
+                "re"
+            ]
+        },
+        "dazzling": {
+            "name": "Abbagliante",
+            "keywords": [
+                "scintilla",
+                "occhiali da sole",
+                "elegante"
+            ]
+        },
+        "brainiac": {
+            "name": "Cervellone",
+            "keywords": [
+                "lampadina",
+                "occhiali",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "Tra le nuvole",
+            "keywords": [
+                "alieno",
+                "elmo",
+                "spazio"
+            ]
+        },
+        "cool": {
+            "name": "Figo",
+            "keywords": [
+                "cuffie",
+                "musica",
+                "figo"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "lampadina",
+                "pensare",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Acchiappa-bug",
+            "keywords": [
+                "bolle",
+                "pozione",
+                "felice"
+            ]
+        },
+        "far-out": {
+            "name": "Figlio dei fiori",
+            "keywords": [
+                "musica",
+                "note",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Star del karaoke",
+            "keywords": [
+                "microfono",
+                "karaoke",
+                "cantare"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super nerd",
+            "keywords": [
+                "mantello",
+                "eroe",
+                "occhiali"
+            ]
+        },
+        "wonderful": {
+            "name": "Meravigliosa",
+            "keywords": [
+                "tacco alto",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Carichissimo",
+            "keywords": [
+                "amplificatore",
+                "chitarra",
+                "musica"
+            ]
+        },
+        "on-the-beat": {
+            "name": "A ritmo",
+            "keywords": [
+                "tamburo",
+                "tamburello",
+                "occhiolino"
+            ]
+        },
+        "rambunctious": {
+            "name": "Scatenato",
+            "keywords": [
+                "corna di montone",
+                "occhiali da sole",
+                "audace"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizzato",
+            "keywords": [
+                "cuffia con microfono",
+                "ascolto",
+                "musica"
+            ]
+        },
+        "kiddo": {
+            "name": "Ragazzino",
+            "keywords": [
+                "cappello con elica",
+                "sciocco",
+                "bambino"
             ]
         }
     }

@@ -1,97 +1,6 @@
 {
     "name": "Følelser",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassisk",
-                "hei",
-                "glad"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "tåre",
-                "trist",
-                "nattlue"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "blank",
-                "nøytral",
-                "enkel"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "kjærlighet",
-                "hjerte",
-                "søtt"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "forelder",
-                "baby",
-                "familie"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "gråtende",
-                "opprørt",
-                "fortvilelse"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "syk",
-                "kvalme",
-                "uvel"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "pinlig",
-                "ukomfortabel",
-                "uff"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "spent",
-                "hurra",
-                "vinger"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "glad",
-                "le",
-                "hatt"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "sint",
-                "irritert",
-                "rynke pannen"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "spørsmål",
-                "hva",
-                "tvil"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditasjon",
-                "rolig"
-            ]
-        },
         "amazing": {
             "name": "Fantastisk",
             "keywords": [
@@ -354,6 +263,110 @@
                 "stolthet",
                 "regnbue",
                 "hjerte"
+            ]
+        },
+        "puzzled": {
+            "name": "Forvirret",
+            "keywords": [
+                "spørsmål",
+                "hva",
+                "tvil"
+            ]
+        },
+        "grounded": {
+            "name": "I balanse",
+            "keywords": [
+                "lotus",
+                "meditasjon",
+                "rolig"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassisk",
+                "hei",
+                "glad"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "tåre",
+                "trist",
+                "nattlue"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerfjes",
+            "keywords": [
+                "blank",
+                "nøytral",
+                "enkel"
+            ]
+        },
+        "sweetheart": {
+            "name": "Søtnos",
+            "keywords": [
+                "kjærlighet",
+                "hjerte",
+                "søtt"
+            ]
+        },
+        "family": {
+            "name": "Familie",
+            "keywords": [
+                "forelder",
+                "baby",
+                "familie"
+            ]
+        },
+        "fuming": {
+            "name": "Rasende",
+            "keywords": [
+                "sint",
+                "irritert",
+                "rynke pannen"
+            ]
+        },
+        "distraught": {
+            "name": "Fortvilet",
+            "keywords": [
+                "gråtende",
+                "opprørt",
+                "fortvilelse"
+            ]
+        },
+        "queasy": {
+            "name": "Kvalm",
+            "keywords": [
+                "syk",
+                "kvalme",
+                "uvel"
+            ]
+        },
+        "uneasy": {
+            "name": "Ukomfortabel",
+            "keywords": [
+                "pinlig",
+                "ukomfortabel",
+                "uff"
+            ]
+        },
+        "ecstatic": {
+            "name": "Ellevill",
+            "keywords": [
+                "spent",
+                "hurra",
+                "vinger"
+            ]
+        },
+        "cheerful": {
+            "name": "Blid",
+            "keywords": [
+                "glad",
+                "le",
+                "hatt"
             ]
         }
     }

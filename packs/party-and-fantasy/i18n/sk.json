@@ -1,111 +1,6 @@
 {
     "name": "Párty, zverokruh a fantázia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "snehuliak",
-                "zima",
-                "šál"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "párty čiapka",
-                "narodeniny",
-                "oslava"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "vikink",
-                "helma",
-                "špendlík na mape"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "šašo",
-                "klobúk",
-                "smiech"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "vianoce",
-                "mikuláš",
-                "slnečné okuliare"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "čarodejník",
-                "klobúk",
-                "mágia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "čarodejnica",
-                "klobúk",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karneval",
-                "pokrývka hlavy",
-                "perá"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "šál",
-                "čiapka",
-                "zima"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karneval",
-                "maska",
-                "párty"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nový rok",
-                "2026",
-                "párty"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "vikink",
-                "kladivo",
-                "štít"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "zima",
-                "čiapka",
-                "zima"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "strážca",
-                "londýn",
-                "klobúk"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cylinder",
-                "čaj",
-                "krajina zázrakov"
-            ]
-        },
         "aries": {
             "name": "Baran",
             "keywords": [
@@ -376,6 +271,126 @@
                 "hrdina",
                 "tiara",
                 "sila"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Narodeninová nálada",
+            "keywords": [
+                "párty čiapka",
+                "narodeniny",
+                "oslava"
+            ]
+        },
+        "witchy": {
+            "name": "Bosorka",
+            "keywords": [
+                "čarodejnica",
+                "klobúk",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Statočný",
+            "keywords": [
+                "vikink",
+                "kladivo",
+                "štít"
+            ]
+        },
+        "stern-guard": {
+            "name": "Prísny strážca",
+            "keywords": [
+                "strážca",
+                "londýn",
+                "klobúk"
+            ]
+        },
+        "snowman": {
+            "name": "Snehuliak",
+            "keywords": [
+                "snehuliak",
+                "zima",
+                "šál"
+            ]
+        },
+        "map-raider": {
+            "name": "Dobyvateľ mapy",
+            "keywords": [
+                "vikink",
+                "helma",
+                "špendlík na mape"
+            ]
+        },
+        "hello-2026": {
+            "name": "Ahoj, 2026",
+            "keywords": [
+                "nový rok",
+                "2026",
+                "párty"
+            ]
+        },
+        "cool-santa": {
+            "name": "Frajerský Santa",
+            "keywords": [
+                "vianoce",
+                "mikuláš",
+                "slnečné okuliare"
+            ]
+        },
+        "spicy": {
+            "name": "Pikantný",
+            "keywords": [
+                "cylinder",
+                "čaj",
+                "krajina zázrakov"
+            ]
+        },
+        "jester": {
+            "name": "Šašo",
+            "keywords": [
+                "šašo",
+                "klobúk",
+                "smiech"
+            ]
+        },
+        "wizard": {
+            "name": "Čarodej",
+            "keywords": [
+                "čarodejník",
+                "klobúk",
+                "mágia"
+            ]
+        },
+        "samba-star": {
+            "name": "Hviezda samby",
+            "keywords": [
+                "karneval",
+                "pokrývka hlavy",
+                "perá"
+            ]
+        },
+        "cozy": {
+            "name": "Útulne",
+            "keywords": [
+                "šál",
+                "čiapka",
+                "zima"
+            ]
+        },
+        "masquerade": {
+            "name": "Maškara",
+            "keywords": [
+                "karneval",
+                "maska",
+                "párty"
+            ]
+        },
+        "bundled-up": {
+            "name": "Zababušený",
+            "keywords": [
+                "zima",
+                "čiapka",
+                "zima"
             ]
         }
     }

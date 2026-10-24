@@ -1,188 +1,60 @@
 {
     "name": "Estilo",
     "stickers": {
-        "44": {
-            "name": "44",
-            "keywords": [
-                "chifres de carneiro",
-                "óculos escuros",
-                "ousado"
-            ]
-        },
-        "55": {
-            "name": "55",
-            "keywords": [
-                "bandana",
-                "óculos escuros",
-                "rock"
-            ]
-        },
-        "62": {
-            "name": "62",
-            "keywords": [
-                "música",
-                "notas",
-                "hippie"
-            ]
-        },
-        "95": {
-            "name": "95",
-            "keywords": [
-                "salto alto",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "name": "106",
-            "keywords": [
-                "deitado",
-                "chapéu de festa",
-                "relaxado"
-            ]
-        },
-        "118": {
-            "name": "118",
-            "keywords": [
-                "headset",
-                "ouvindo",
-                "música"
-            ]
-        },
-        "122": {
-            "name": "122",
-            "keywords": [
-                "lâmpada",
-                "óculos",
-                "ideia"
-            ]
-        },
-        "123": {
-            "name": "123",
-            "keywords": [
-                "bolhas",
-                "poção",
-                "feliz"
-            ]
-        },
-        "129": {
-            "name": "129",
+        "dazzling": {
+            "name": "Deslumbrante",
             "keywords": [
                 "brilho",
                 "óculos escuros",
                 "chique"
             ]
         },
-        "130": {
-            "name": "130",
+        "boss": {
+            "name": "Poderosa",
             "keywords": [
                 "fone",
                 "oncinha",
                 "música"
             ]
         },
-        "143": {
-            "name": "143",
-            "keywords": [
-                "microfone",
-                "karaokê",
-                "cantar"
-            ]
-        },
-        "162": {
-            "name": "162",
-            "keywords": [
-                "alienígena",
-                "capacete",
-                "espaço"
-            ]
-        },
-        "170": {
-            "name": "170",
+        "cool": {
+            "name": "Maneiro",
             "keywords": [
                 "fone",
                 "música",
                 "curtindo"
             ]
         },
-        "182": {
-            "name": "182",
+        "sly": {
+            "name": "Sagaz",
             "keywords": [
                 "boné",
                 "de lado",
                 "olhar de canto"
             ]
         },
-        "184": {
-            "name": "184",
+        "homie": {
+            "name": "Parça",
             "keywords": [
-                "boné de hélice",
-                "bobo",
-                "criança"
-            ]
-        },
-        "206": {
-            "name": "206",
-            "keywords": [
-                "amplificador",
-                "guitarra",
-                "música"
-            ]
-        },
-        "220": {
-            "name": "220",
-            "keywords": [
-                "tambor",
-                "pandeiro",
-                "piscadinha"
-            ]
-        },
-        "222": {
-            "name": "222",
-            "keywords": [
-                "lâmpada",
-                "pensar",
-                "ideia"
-            ]
-        },
-        "223": {
-            "name": "223",
-            "keywords": [
-                "mão",
-                "saudação",
-                "cumprimento"
-            ]
-        },
-        "240": {
-            "name": "240",
-            "keywords": [
-                "óculos",
-                "inteligente",
-                "sorrisinho"
-            ]
-        },
-        "255": {
-            "name": "255",
-            "keywords": [
-                "óculos",
-                "loiro",
-                "estudo"
-            ]
-        },
-        "256": {
-            "name": "256",
-            "keywords": [
-                "capa",
-                "herói",
-                "óculos"
-            ]
-        },
-        "257": {
-            "name": "257",
-            "keywords": [
-                "coroa",
+                "bandana",
                 "óculos escuros",
-                "rei"
+                "rock"
+            ]
+        },
+        "far-out": {
+            "name": "Bicho-Grilo",
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "wonderful": {
+            "name": "Maravilhosa",
+            "keywords": [
+                "salto alto",
+                "moda",
+                "diva"
             ]
         },
         "chill": {
@@ -289,6 +161,14 @@
                 "óculos escuros"
             ]
         },
+        "amped": {
+            "name": "Ligadão",
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
         "pumped": {
             "name": "Empolgado",
             "keywords": [
@@ -305,12 +185,44 @@
                 "anos 70"
             ]
         },
+        "karaoke-star": {
+            "name": "Estrela do Karaokê",
+            "keywords": [
+                "microfone",
+                "karaokê",
+                "cantar"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizado",
+            "keywords": [
+                "headset",
+                "ouvindo",
+                "música"
+            ]
+        },
         "quirky": {
             "name": "Excêntrico",
             "keywords": [
                 "chapéu",
                 "colorido",
                 "engraçado"
+            ]
+        },
+        "kiddo": {
+            "name": "Moleque",
+            "keywords": [
+                "boné de hélice",
+                "bobo",
+                "criança"
+            ]
+        },
+        "on-the-beat": {
+            "name": "No Ritmo",
+            "keywords": [
+                "tambor",
+                "pandeiro",
+                "piscadinha"
             ]
         },
         "bacano": {
@@ -345,6 +257,30 @@
                 "olhando"
             ]
         },
+        "smug": {
+            "name": "Convencido",
+            "keywords": [
+                "óculos",
+                "inteligente",
+                "sorrisinho"
+            ]
+        },
+        "brainiac": {
+            "name": "Cérebro",
+            "keywords": [
+                "lâmpada",
+                "óculos",
+                "ideia"
+            ]
+        },
+        "eureka": {
+            "name": "Eureca",
+            "keywords": [
+                "lâmpada",
+                "pensar",
+                "ideia"
+            ]
+        },
         "smart": {
             "name": "Inteligente",
             "keywords": [
@@ -353,12 +289,68 @@
                 "ideia"
             ]
         },
+        "bookish": {
+            "name": "Estudioso",
+            "keywords": [
+                "óculos",
+                "loiro",
+                "estudo"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernerd",
+            "keywords": [
+                "capa",
+                "herói",
+                "óculos"
+            ]
+        },
+        "royalty": {
+            "name": "Realeza",
+            "keywords": [
+                "coroa",
+                "óculos escuros",
+                "rei"
+            ]
+        },
         "light": {
             "name": "Leve",
             "keywords": [
                 "espetado",
                 "loiro",
                 "biquinho"
+            ]
+        },
+        "bug-buster": {
+            "name": "Caça-Bugs",
+            "keywords": [
+                "bolhas",
+                "poção",
+                "feliz"
+            ]
+        },
+        "afterparty": {
+            "name": "Pós-Festa",
+            "keywords": [
+                "deitado",
+                "chapéu de festa",
+                "relaxado"
+            ]
+        },
+        "spaced-out": {
+            "name": "Na Lua",
+            "keywords": [
+                "alienígena",
+                "capacete",
+                "espaço"
+            ]
+        },
+        "rambunctious": {
+            "name": "Agitado",
+            "keywords": [
+                "chifres de carneiro",
+                "óculos escuros",
+                "ousado"
             ]
         }
     }

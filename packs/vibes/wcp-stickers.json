@@ -53,8 +53,8 @@
     ],
     "stickers": [
         {
-            "id": "129",
-            "name": "129",
+            "id": "dazzling",
+            "name": "Dazzling",
             "keywords": [
                 "sparkle",
                 "sunglasses",
@@ -66,8 +66,8 @@
             ]
         },
         {
-            "id": "130",
-            "name": "130",
+            "id": "boss",
+            "name": "Boss",
             "keywords": [
                 "headphones",
                 "leopard",
@@ -79,8 +79,8 @@
             ]
         },
         {
-            "id": "170",
-            "name": "170",
+            "id": "cool",
+            "name": "Cool",
             "keywords": [
                 "headphones",
                 "music",
@@ -92,8 +92,8 @@
             ]
         },
         {
-            "id": "182",
-            "name": "182",
+            "id": "sly",
+            "name": "Sly",
             "keywords": [
                 "cap",
                 "backwards",
@@ -105,8 +105,8 @@
             ]
         },
         {
-            "id": "55",
-            "name": "55",
+            "id": "homie",
+            "name": "Homie",
             "keywords": [
                 "bandana",
                 "sunglasses",
@@ -118,8 +118,8 @@
             ]
         },
         {
-            "id": "62",
-            "name": "62",
+            "id": "far-out",
+            "name": "Far Out",
             "keywords": [
                 "music",
                 "notes",
@@ -131,8 +131,8 @@
             ]
         },
         {
-            "id": "95",
-            "name": "95",
+            "id": "wonderful",
+            "name": "Wonderful",
             "keywords": [
                 "high heel",
                 "fashion",
@@ -312,8 +312,8 @@
             ]
         },
         {
-            "id": "206",
-            "name": "206",
+            "id": "amped",
+            "name": "Amped",
             "keywords": [
                 "amplifier",
                 "guitar",
@@ -351,8 +351,8 @@
             ]
         },
         {
-            "id": "143",
-            "name": "143",
+            "id": "karaoke-star",
+            "name": "Karaoke Star",
             "keywords": [
                 "microphone",
                 "karaoke",
@@ -364,8 +364,8 @@
             ]
         },
         {
-            "id": "118",
-            "name": "118",
+            "id": "tuned-in",
+            "name": "Tuned In",
             "keywords": [
                 "headset",
                 "listening",
@@ -390,8 +390,8 @@
             ]
         },
         {
-            "id": "184",
-            "name": "184",
+            "id": "kiddo",
+            "name": "Kiddo",
             "keywords": [
                 "propeller cap",
                 "goofy",
@@ -403,8 +403,8 @@
             ]
         },
         {
-            "id": "220",
-            "name": "220",
+            "id": "on-the-beat",
+            "name": "On the Beat",
             "keywords": [
                 "drum",
                 "tambourine",
@@ -467,8 +467,8 @@
             ]
         },
         {
-            "id": "240",
-            "name": "240",
+            "id": "smug",
+            "name": "Smug",
             "keywords": [
                 "glasses",
                 "smart",
@@ -480,8 +480,8 @@
             ]
         },
         {
-            "id": "122",
-            "name": "122",
+            "id": "brainiac",
+            "name": "Brainiac",
             "keywords": [
                 "lightbulb",
                 "glasses",
@@ -493,8 +493,8 @@
             ]
         },
         {
-            "id": "222",
-            "name": "222",
+            "id": "eureka",
+            "name": "Eureka",
             "keywords": [
                 "lightbulb",
                 "think",
@@ -519,8 +519,8 @@
             ]
         },
         {
-            "id": "255",
-            "name": "255",
+            "id": "bookish",
+            "name": "Bookish",
             "keywords": [
                 "glasses",
                 "blonde",
@@ -532,8 +532,8 @@
             ]
         },
         {
-            "id": "256",
-            "name": "256",
+            "id": "super-nerd",
+            "name": "Super Nerd",
             "keywords": [
                 "cape",
                 "hero",
@@ -545,8 +545,8 @@
             ]
         },
         {
-            "id": "257",
-            "name": "257",
+            "id": "royalty",
+            "name": "Royalty",
             "keywords": [
                 "crown",
                 "sunglasses",
@@ -571,8 +571,8 @@
             ]
         },
         {
-            "id": "123",
-            "name": "123",
+            "id": "bug-buster",
+            "name": "Bug Buster",
             "keywords": [
                 "bubbles",
                 "potion",
@@ -584,8 +584,8 @@
             ]
         },
         {
-            "id": "106",
-            "name": "106",
+            "id": "afterparty",
+            "name": "Afterparty",
             "keywords": [
                 "lying down",
                 "party hat",
@@ -597,8 +597,8 @@
             ]
         },
         {
-            "id": "162",
-            "name": "162",
+            "id": "spaced-out",
+            "name": "Spaced Out",
             "keywords": [
                 "alien",
                 "helmet",
@@ -610,20 +610,8 @@
             ]
         },
         {
-            "id": "223",
-            "name": "223",
-            "keywords": [
-                "hand",
-                "salute",
-                "greeting"
-            ],
-            "emojis": [
-                "🖖"
-            ]
-        },
-        {
-            "id": "44",
-            "name": "44",
+            "id": "rambunctious",
+            "name": "Rambunctious",
             "keywords": [
                 "ram horns",
                 "sunglasses",

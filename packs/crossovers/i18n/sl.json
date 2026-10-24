@@ -1,55 +1,6 @@
 {
     "name": "Navzkrižja",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "eno oko",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "eno oko",
-                "satovje"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiot",
-                "zobje",
-                "zlobnež"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "lutka",
-                "srečno"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "očala",
-                "lasje"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "lutka",
-                "nervozno"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "klobuk",
-                "smeh"
-            ]
-        },
         "ed": {
             "name": "Ed - zvest",
             "keywords": [
@@ -154,14 +105,6 @@
                 "gradnja"
             ]
         },
-        "red": {
-            "name": "Rdeči",
-            "keywords": [
-                "fraggle",
-                "rdeči lasje",
-                "smeh"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "vilinec",
                 "dragulj",
                 "zlobnež"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiot",
+                "zobje",
+                "zlobnež"
+            ]
+        },
+        "despicable": {
+            "name": "Baraba",
+            "keywords": [
+                "minion",
+                "eno oko",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megabaraba",
+            "keywords": [
+                "minion",
+                "eno oko",
+                "satovje"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "srečno"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "očala",
+                "lasje"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "nervozno"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "klobuk",
+                "smeh"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rdeči lasje",
+                "smeh"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkanski pozdrav",
+            "keywords": [
+                "roka",
+                "pozdrav",
+                "pozdravljanje"
             ]
         }
     }

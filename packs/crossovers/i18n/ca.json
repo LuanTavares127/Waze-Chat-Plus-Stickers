@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un ull",
-                "plàtan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un ull",
-                "bresca"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiont",
-                "dents",
-                "dolent"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "titella",
-                "content"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "ulleres",
-                "cabell"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "titella",
-                "nerviós"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "barret",
-                "riure"
-            ]
-        },
         "ed": {
             "name": "Ed - Lleial",
             "keywords": [
@@ -154,14 +105,6 @@
                 "construcció"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "cabell vermell",
-                "riure"
-            ]
-        },
         "horde": {
             "name": "Horda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "gemma",
                 "dolent"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiont",
+                "dents",
+                "dolent"
+            ]
+        },
+        "despicable": {
+            "name": "Dolent",
+            "keywords": [
+                "minion",
+                "un ull",
+                "plàtan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megadolent",
+            "keywords": [
+                "minion",
+                "un ull",
+                "bresca"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "titella",
+                "content"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "ulleres",
+                "cabell"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "titella",
+                "nerviós"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "barret",
+                "riure"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "cabell vermell",
+                "riure"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salutació vulcaniana",
+            "keywords": [
+                "mà",
+                "salutació",
+                "salutació"
             ]
         }
     }

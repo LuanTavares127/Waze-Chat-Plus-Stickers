@@ -1,160 +1,6 @@
 {
     "name": "Tiellä ja töissä",
     "stickers": {
-        "18": {
-            "keywords": [
-                "myttyyli",
-                "matka",
-                "seikkailu"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "taikajuoma",
-                "silmälasit",
-                "laboratorio"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "tutkimusmatkailija",
-                "hattu",
-                "seikkailu"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "lippu",
-                "nähtävyydet"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "merimies",
-                "lippalakki",
-                "vene"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "matkalaukku",
-                "hattu",
-                "matka"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "lentäjä",
-                "suojalasit",
-                "kypärä"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "pöllö",
-                "valmistujaiset",
-                "älykäs"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "sammutin",
-                "turvallisuus",
-                "hermostunut"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "kypärä",
-                "rakennus",
-                "liivi"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "olkihattu",
-                "maatila",
-                "kesäkuun juhla"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "kypärä",
-                "tähdet",
-                "kisakuski"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "kasvomaski",
-                "terveys",
-                "turvallinen"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "sekuntikello",
-                "otsanauha",
-                "harjoittelu"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "äänestys",
-                "vaalit",
-                "äänestysliuska"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signaali",
-                "robotti",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "äänestys",
-                "merkki",
-                "vaalit"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "mitali",
-                "nauha",
-                "silmänisku"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "toimitus",
-                "kypärä",
-                "laatikko"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robotti",
-                "antenni",
-                "tutkimusmatkailija"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "puhekupla",
-                "keskustelu",
-                "puhua"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "pilli",
-                "tuomari",
-                "rike"
-            ]
-        },
         "road-warrior": {
             "name": "Tien soturi",
             "keywords": [
@@ -345,6 +191,182 @@
                 "kypärä",
                 "moottoripyörä",
                 "kiire"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Hullu tiedemies",
+            "keywords": [
+                "taikajuoma",
+                "silmälasit",
+                "laboratorio"
+            ]
+        },
+        "explorer": {
+            "name": "Tutkimusmatkailija",
+            "keywords": [
+                "tutkimusmatkailija",
+                "hattu",
+                "seikkailu"
+            ]
+        },
+        "sightseer": {
+            "name": "Turisti",
+            "keywords": [
+                "kamera",
+                "lippu",
+                "nähtävyydet"
+            ]
+        },
+        "jet-setter": {
+            "name": "Maailmanmatkaaja",
+            "keywords": [
+                "matkalaukku",
+                "hattu",
+                "matka"
+            ]
+        },
+        "know-it-all": {
+            "name": "Besserwisser",
+            "keywords": [
+                "pöllö",
+                "valmistujaiset",
+                "älykäs"
+            ]
+        },
+        "close-call": {
+            "name": "Läheltä piti",
+            "keywords": [
+                "sammutin",
+                "turvallisuus",
+                "hermostunut"
+            ]
+        },
+        "on-the-job": {
+            "name": "Töissä",
+            "keywords": [
+                "kypärä",
+                "rakennus",
+                "liivi"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Kampanjamoodi",
+            "keywords": [
+                "äänestys",
+                "merkki",
+                "vaalit"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Pikatoimitus",
+            "keywords": [
+                "toimitus",
+                "kypärä",
+                "laatikko"
+            ]
+        },
+        "referee": {
+            "name": "Erotuomari",
+            "keywords": [
+                "pilli",
+                "tuomari",
+                "rike"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "lentäjä",
+                "suojalasit",
+                "kypärä"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "kypärä",
+                "tähdet",
+                "kisakuski"
+            ]
+        },
+        "blue": {
+            "name": "Sininen",
+            "keywords": [
+                "robotti",
+                "antenni",
+                "tutkimusmatkailija"
+            ]
+        },
+        "voter": {
+            "name": "Äänestäjä",
+            "keywords": [
+                "äänestys",
+                "vaalit",
+                "äänestysliuska"
+            ]
+        },
+        "winner": {
+            "name": "Voittaja",
+            "keywords": [
+                "mitali",
+                "nauha",
+                "silmänisku"
+            ]
+        },
+        "chatty": {
+            "name": "Puhelias",
+            "keywords": [
+                "puhekupla",
+                "keskustelu",
+                "puhua"
+            ]
+        },
+        "wanderer": {
+            "name": "Kulkuri",
+            "keywords": [
+                "myttyyli",
+                "matka",
+                "seikkailu"
+            ]
+        },
+        "skipper": {
+            "name": "Kippari",
+            "keywords": [
+                "merimies",
+                "lippalakki",
+                "vene"
+            ]
+        },
+        "country-folk": {
+            "name": "Maalainen",
+            "keywords": [
+                "olkihattu",
+                "maatila",
+                "kesäkuun juhla"
+            ]
+        },
+        "masked-up": {
+            "name": "Maskissa",
+            "keywords": [
+                "kasvomaski",
+                "terveys",
+                "turvallinen"
+            ]
+        },
+        "workout-mode": {
+            "name": "Treenimoodi",
+            "keywords": [
+                "sekuntikello",
+                "otsanauha",
+                "harjoittelu"
+            ]
+        },
+        "connected": {
+            "name": "Yhteydessä",
+            "keywords": [
+                "signaali",
+                "robotti",
+                "wifi"
             ]
         }
     }

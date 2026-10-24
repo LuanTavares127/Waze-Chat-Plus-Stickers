@@ -1,124 +1,92 @@
 {
     "name": "Bichos e coisas",
     "stickers": {
-        "30": {
-            "name": "30",
-            "keywords": [
-                "pedra",
-                "rocha",
-                "rápido"
-            ]
-        },
-        "84": {
-            "name": "84",
-            "keywords": [
-                "urso",
-                "chapéu",
-                "sorriso"
-            ]
-        },
-        "85": {
-            "name": "85",
-            "keywords": [
-                "capivara",
-                "passarinho",
-                "tranquilo"
-            ]
-        },
-        "102": {
-            "name": "102",
+        "big-brain": {
+            "name": "Cabeção",
             "keywords": [
                 "cérebro",
                 "inteligente",
                 "pensar"
             ]
         },
-        "177": {
-            "name": "177",
-            "keywords": [
-                "dinossauro",
-                "dentes",
-                "morder"
-            ]
-        },
-        "219": {
-            "name": "219",
-            "keywords": [
-                "presas",
-                "dentes",
-                "sorriso"
-            ]
-        },
-        "227": {
-            "name": "227",
+        "blissful": {
+            "name": "Plena",
             "keywords": [
                 "vaca",
                 "muu",
                 "fazenda"
             ]
         },
-        "229": {
-            "name": "229",
+        "pampered": {
+            "name": "Mimado",
             "keywords": [
                 "cachorro",
                 "corgi",
                 "coroa"
             ]
         },
-        "230": {
-            "name": "230",
+        "loyal-corgi": {
+            "name": "Leal",
             "keywords": [
                 "cachorro",
                 "corgi",
                 "piscadinha"
             ]
         },
-        "231": {
-            "name": "231",
+        "playful-pup": {
+            "name": "Cachorrinho Brincalhão",
             "keywords": [
                 "cachorro",
                 "corgi",
                 "coroa"
             ]
         },
-        "236": {
-            "name": "236",
+        "red": {
+            "name": "Vermelho",
             "keywords": [
                 "dragão",
                 "vermelho",
                 "monstro"
             ]
         },
-        "241": {
-            "name": "241",
+        "parrot": {
+            "name": "Papagaio",
             "keywords": [
-                "mão",
-                "olho",
-                "proteção"
+                "pássaro",
+                "boné",
+                "falar"
             ]
         },
-        "249": {
-            "name": "249",
-            "keywords": [
-                "olho",
-                "placa",
-                "mistério"
-            ]
-        },
-        "251": {
-            "name": "251",
+        "zesty": {
+            "name": "Vibrante",
             "keywords": [
                 "bule",
                 "chá",
                 "maçã"
             ]
         },
-        "259": {
-            "name": "259",
+        "speedy-rock": {
+            "name": "Pedra Veloz",
             "keywords": [
-                "pássaro",
-                "boné",
-                "falar"
+                "pedra",
+                "rocha",
+                "rápido"
+            ]
+        },
+        "capybara": {
+            "name": "Capivara",
+            "keywords": [
+                "capivara",
+                "passarinho",
+                "tranquilo"
+            ]
+        },
+        "kind": {
+            "name": "Gentil",
+            "keywords": [
+                "urso",
+                "chapéu",
+                "sorriso"
             ]
         },
         "8-bit": {
@@ -257,16 +225,16 @@
                 "almoço"
             ]
         },
-        "magical": {
-            "name": "Mágico",
+        "unicorn": {
+            "name": "Unicórnio",
             "keywords": [
                 "unicórnio",
                 "arco-íris",
                 "magia"
             ]
         },
-        "magical-2": {
-            "name": "Mágico (2)",
+        "magical": {
+            "name": "Mágico",
             "keywords": [
                 "magia",
                 "rosa",
@@ -367,6 +335,38 @@
                 "lobo",
                 "uivo",
                 "esperto"
+            ]
+        },
+        "chomper": {
+            "name": "Mordedor",
+            "keywords": [
+                "dinossauro",
+                "dentes",
+                "morder"
+            ]
+        },
+        "visionary": {
+            "name": "Visionário",
+            "keywords": [
+                "olho",
+                "placa",
+                "mistério"
+            ]
+        },
+        "focused": {
+            "name": "Focado",
+            "keywords": [
+                "mão",
+                "olho",
+                "proteção"
+            ]
+        },
+        "yellow": {
+            "name": "Amarelo",
+            "keywords": [
+                "presas",
+                "dentes",
+                "sorriso"
             ]
         }
     }

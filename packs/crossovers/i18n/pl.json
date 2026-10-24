@@ -1,55 +1,6 @@
 {
     "name": "Crossovery",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minionek",
-                "jedno oko",
-                "banan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minionek",
-                "jedno oko",
-                "plaster miodu"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiont",
-                "zęby",
-                "złoczyńca"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "pacynka",
-                "szczęśliwy"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "okulary",
-                "włosy"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "pacynka",
-                "zdenerwowany"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "kapelusz",
-                "śmiech"
-            ]
-        },
         "ed": {
             "name": "Ed - Lojalny",
             "keywords": [
@@ -154,14 +105,6 @@
                 "budowa"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rude włosy",
-                "śmiech"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "klejnot",
                 "złoczyńca"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiont",
+                "zęby",
+                "złoczyńca"
+            ]
+        },
+        "despicable": {
+            "name": "Nikczemny",
+            "keywords": [
+                "minionek",
+                "jedno oko",
+                "banan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega nikczemny",
+            "keywords": [
+                "minionek",
+                "jedno oko",
+                "plaster miodu"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "pacynka",
+                "szczęśliwy"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "okulary",
+                "włosy"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "pacynka",
+                "zdenerwowany"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "kapelusz",
+                "śmiech"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rude włosy",
+                "śmiech"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salut wolkański",
+            "keywords": [
+                "ręka",
+                "salut",
+                "pozdrowienie"
             ]
         }
     }

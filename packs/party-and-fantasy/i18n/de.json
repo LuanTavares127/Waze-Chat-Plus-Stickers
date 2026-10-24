@@ -1,111 +1,6 @@
 {
     "name": "Party, Sternzeichen & Fantasy",
     "stickers": {
-        "31": {
-            "keywords": [
-                "Schneemann",
-                "Winter",
-                "Schal"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "Partyhut",
-                "Geburtstag",
-                "feiern"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "Wikinger",
-                "Helm",
-                "Kartennadel"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "Hofnarr",
-                "Hut",
-                "lachen"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "Weihnachten",
-                "Weihnachtsmann",
-                "Sonnenbrille"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "Zauberer",
-                "Hut",
-                "Magie"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "Hexe",
-                "Hut",
-                "Halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "Karneval",
-                "Kopfschmuck",
-                "Federn"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "Schal",
-                "Wollmütze",
-                "Winter"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "Karneval",
-                "Maske",
-                "Party"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "Neujahr",
-                "2026",
-                "Party"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "Wikinger",
-                "Hammer",
-                "Schild"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "Winter",
-                "Wollmütze",
-                "kalt"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "Wächter",
-                "London",
-                "Hut"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "Zylinder",
-                "Tee",
-                "Wunderland"
-            ]
-        },
         "aries": {
             "name": "Widder",
             "keywords": [
@@ -376,6 +271,126 @@
                 "Held",
                 "Diadem",
                 "Kraft"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Geburtstagsstimmung",
+            "keywords": [
+                "Partyhut",
+                "Geburtstag",
+                "feiern"
+            ]
+        },
+        "witchy": {
+            "name": "Hexenhaft",
+            "keywords": [
+                "Hexe",
+                "Hut",
+                "Halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Tapfer",
+            "keywords": [
+                "Wikinger",
+                "Hammer",
+                "Schild"
+            ]
+        },
+        "stern-guard": {
+            "name": "Strenge Wache",
+            "keywords": [
+                "Wächter",
+                "London",
+                "Hut"
+            ]
+        },
+        "snowman": {
+            "name": "Schneemann",
+            "keywords": [
+                "Schneemann",
+                "Winter",
+                "Schal"
+            ]
+        },
+        "map-raider": {
+            "name": "Kartenstürmer",
+            "keywords": [
+                "Wikinger",
+                "Helm",
+                "Kartennadel"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hallo 2026",
+            "keywords": [
+                "Neujahr",
+                "2026",
+                "Party"
+            ]
+        },
+        "cool-santa": {
+            "name": "Cooler Weihnachtsmann",
+            "keywords": [
+                "Weihnachten",
+                "Weihnachtsmann",
+                "Sonnenbrille"
+            ]
+        },
+        "spicy": {
+            "name": "Scharf",
+            "keywords": [
+                "Zylinder",
+                "Tee",
+                "Wunderland"
+            ]
+        },
+        "jester": {
+            "name": "Hofnarr",
+            "keywords": [
+                "Hofnarr",
+                "Hut",
+                "lachen"
+            ]
+        },
+        "wizard": {
+            "name": "Zauberer",
+            "keywords": [
+                "Zauberer",
+                "Hut",
+                "Magie"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambastar",
+            "keywords": [
+                "Karneval",
+                "Kopfschmuck",
+                "Federn"
+            ]
+        },
+        "cozy": {
+            "name": "Gemütlich",
+            "keywords": [
+                "Schal",
+                "Wollmütze",
+                "Winter"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskenball",
+            "keywords": [
+                "Karneval",
+                "Maske",
+                "Party"
+            ]
+        },
+        "bundled-up": {
+            "name": "Dick eingepackt",
+            "keywords": [
+                "Winter",
+                "Wollmütze",
+                "kalt"
             ]
         }
     }

@@ -1,55 +1,6 @@
 {
     "name": "Koostööd",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "üks silm",
-                "banaan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "üks silm",
-                "kärg"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "sümbiont",
-                "hambad",
-                "kurjam"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "nukk",
-                "rõõmus"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "prillid",
-                "juuksed"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "nukk",
-                "närvis"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "kübar",
-                "naer"
-            ]
-        },
         "ed": {
             "name": "Ed - Lojaalne",
             "keywords": [
@@ -154,14 +105,6 @@
                 "ehitus"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "punased juuksed",
-                "naer"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "haldjas",
                 "vääriskivi",
                 "kurjam"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "sümbiont",
+                "hambad",
+                "kurjam"
+            ]
+        },
+        "despicable": {
+            "name": "Supervaras",
+            "keywords": [
+                "minion",
+                "üks silm",
+                "banaan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megavaras",
+            "keywords": [
+                "minion",
+                "üks silm",
+                "kärg"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "nukk",
+                "rõõmus"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "prillid",
+                "juuksed"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "nukk",
+                "närvis"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "kübar",
+                "naer"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "punased juuksed",
+                "naer"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkaani tervitus",
+            "keywords": [
+                "käsi",
+                "tervitus",
+                "tervitama"
             ]
         }
     }

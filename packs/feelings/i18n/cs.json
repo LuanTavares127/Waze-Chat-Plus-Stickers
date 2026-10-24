@@ -1,97 +1,6 @@
 {
     "name": "Pocity",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasika",
-                "ahoj",
-                "šťastný"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "slza",
-                "smutný",
-                "noční čepice"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "prázdný",
-                "neutrální",
-                "obyčejný"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "láska",
-                "srdce",
-                "sladký"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "rodič",
-                "miminko",
-                "rodina"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "pláč",
-                "rozrušený",
-                "zoufalství"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "nemocný",
-                "nevolnost",
-                "churavý"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "trapný",
-                "nepříjemný",
-                "fuj"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "nadšený",
-                "hurá",
-                "křídla"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "šťastný",
-                "smích",
-                "klobouk"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "naštvaný",
-                "otrávený",
-                "zamračení"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "otázka",
-                "co",
-                "pochybnost"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotos",
-                "meditace",
-                "klidný"
-            ]
-        },
         "amazing": {
             "name": "Úžasný",
             "keywords": [
@@ -354,6 +263,110 @@
                 "hrdost",
                 "duha",
                 "srdce"
+            ]
+        },
+        "puzzled": {
+            "name": "Zmatený",
+            "keywords": [
+                "otázka",
+                "co",
+                "pochybnost"
+            ]
+        },
+        "grounded": {
+            "name": "Vyrovnaný",
+            "keywords": [
+                "lotos",
+                "meditace",
+                "klidný"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasika",
+                "ahoj",
+                "šťastný"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierot",
+            "keywords": [
+                "slza",
+                "smutný",
+                "noční čepice"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerová tvář",
+            "keywords": [
+                "prázdný",
+                "neutrální",
+                "obyčejný"
+            ]
+        },
+        "sweetheart": {
+            "name": "Miláček",
+            "keywords": [
+                "láska",
+                "srdce",
+                "sladký"
+            ]
+        },
+        "family": {
+            "name": "Rodina",
+            "keywords": [
+                "rodič",
+                "miminko",
+                "rodina"
+            ]
+        },
+        "fuming": {
+            "name": "Vzteklý",
+            "keywords": [
+                "naštvaný",
+                "otrávený",
+                "zamračení"
+            ]
+        },
+        "distraught": {
+            "name": "Zdrcený",
+            "keywords": [
+                "pláč",
+                "rozrušený",
+                "zoufalství"
+            ]
+        },
+        "queasy": {
+            "name": "Je mi zle",
+            "keywords": [
+                "nemocný",
+                "nevolnost",
+                "churavý"
+            ]
+        },
+        "uneasy": {
+            "name": "Nesvůj",
+            "keywords": [
+                "trapný",
+                "nepříjemný",
+                "fuj"
+            ]
+        },
+        "ecstatic": {
+            "name": "Nadšený",
+            "keywords": [
+                "nadšený",
+                "hurá",
+                "křídla"
+            ]
+        },
+        "cheerful": {
+            "name": "Veselý",
+            "keywords": [
+                "šťastný",
+                "smích",
+                "klobouk"
             ]
         }
     }

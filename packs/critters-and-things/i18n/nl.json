@@ -1,111 +1,6 @@
 {
     "name": "Beestjes & Dingen",
     "stickers": {
-        "30": {
-            "keywords": [
-                "rots",
-                "steen",
-                "snel"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "beer",
-                "vissershoedje",
-                "glimlach"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capibara",
-                "vogel",
-                "chill"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "brein",
-                "slim",
-                "denken"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "tanden",
-                "bijten"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "hoektanden",
-                "tanden",
-                "grijns"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "koe",
-                "boe",
-                "boerderij"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "hond",
-                "corgi",
-                "kroon"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "hond",
-                "corgi",
-                "knipoog"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "hond",
-                "corgi",
-                "kroon"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "draak",
-                "rood",
-                "monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "hand",
-                "oog",
-                "bescherming"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "oog",
-                "teken",
-                "mysterie"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "theepot",
-                "thee",
-                "appel"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "vogel",
-                "pet",
-                "praten"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "lunch"
             ]
         },
-        "magical": {
-            "name": "Magisch",
-            "keywords": [
-                "eenhoorn",
-                "regenboog",
-                "magie"
-            ]
-        },
-        "magical-2": {
-            "name": "Magisch (2)",
-            "keywords": [
-                "magie",
-                "roze",
-                "beroemd"
-            ]
-        },
         "open": {
             "name": "Open",
             "keywords": [
@@ -352,6 +231,142 @@
                 "wolf",
                 "janken",
                 "sluw"
+            ]
+        },
+        "capybara": {
+            "name": "Capibara",
+            "keywords": [
+                "capibara",
+                "vogel",
+                "chill"
+            ]
+        },
+        "parrot": {
+            "name": "Papegaai",
+            "keywords": [
+                "vogel",
+                "pet",
+                "praten"
+            ]
+        },
+        "blissful": {
+            "name": "Gelukzalig",
+            "keywords": [
+                "koe",
+                "boe",
+                "boerderij"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Snelle steen",
+            "keywords": [
+                "rots",
+                "steen",
+                "snel"
+            ]
+        },
+        "big-brain": {
+            "name": "Breinbaas",
+            "keywords": [
+                "brein",
+                "slim",
+                "denken"
+            ]
+        },
+        "yellow": {
+            "name": "Geel",
+            "keywords": [
+                "hoektanden",
+                "tanden",
+                "grijns"
+            ]
+        },
+        "pampered": {
+            "name": "Verwend",
+            "keywords": [
+                "hond",
+                "corgi",
+                "kroon"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Trouw",
+            "keywords": [
+                "hond",
+                "corgi",
+                "knipoog"
+            ]
+        },
+        "playful-pup": {
+            "name": "Speels hondje",
+            "keywords": [
+                "hond",
+                "corgi",
+                "kroon"
+            ]
+        },
+        "red": {
+            "name": "Rood",
+            "keywords": [
+                "draak",
+                "rood",
+                "monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Eenhoorn",
+            "keywords": [
+                "eenhoorn",
+                "regenboog",
+                "magie"
+            ]
+        },
+        "magical": {
+            "name": "Magisch",
+            "keywords": [
+                "magie",
+                "roze",
+                "beroemd"
+            ]
+        },
+        "visionary": {
+            "name": "Visionair",
+            "keywords": [
+                "oog",
+                "teken",
+                "mysterie"
+            ]
+        },
+        "focused": {
+            "name": "Gefocust",
+            "keywords": [
+                "hand",
+                "oog",
+                "bescherming"
+            ]
+        },
+        "kind": {
+            "name": "Lief",
+            "keywords": [
+                "beer",
+                "vissershoedje",
+                "glimlach"
+            ]
+        },
+        "zesty": {
+            "name": "Fris",
+            "keywords": [
+                "theepot",
+                "thee",
+                "appel"
+            ]
+        },
+        "chomper": {
+            "name": "Bijter",
+            "keywords": [
+                "dinosaurus",
+                "tanden",
+                "bijten"
             ]
         }
     }

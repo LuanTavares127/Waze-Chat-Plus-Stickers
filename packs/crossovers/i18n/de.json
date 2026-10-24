@@ -1,55 +1,6 @@
 {
     "name": "Crossover",
     "stickers": {
-        "63": {
-            "keywords": [
-                "Minion",
-                "ein Auge",
-                "Banane"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "Minion",
-                "ein Auge",
-                "Honigwabe"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "Symbiont",
-                "Zähne",
-                "Bösewicht"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "Fraggle",
-                "Puppe",
-                "glücklich"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "Fraggle",
-                "Brille",
-                "Haare"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "Fraggle",
-                "Puppe",
-                "nervös"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "Fraggle",
-                "Hut",
-                "lachen"
-            ]
-        },
         "ed": {
             "name": "Ed - Loyal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "Baustelle"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "Fraggle",
-                "rote Haare",
-                "lachen"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "Elf",
                 "Edelstein",
                 "Bösewicht"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "Symbiont",
+                "Zähne",
+                "Bösewicht"
+            ]
+        },
+        "despicable": {
+            "name": "Unverbesserlich",
+            "keywords": [
+                "Minion",
+                "ein Auge",
+                "Banane"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega unverbesserlich",
+            "keywords": [
+                "Minion",
+                "ein Auge",
+                "Honigwabe"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "Fraggle",
+                "Puppe",
+                "glücklich"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "Fraggle",
+                "Brille",
+                "Haare"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "Fraggle",
+                "Puppe",
+                "nervös"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "Fraggle",
+                "Hut",
+                "lachen"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "Fraggle",
+                "rote Haare",
+                "lachen"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkaniergruß",
+            "keywords": [
+                "Hand",
+                "Gruß",
+                "Begrüßung"
             ]
         }
     }

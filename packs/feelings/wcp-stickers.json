@@ -53,8 +53,8 @@
     ],
     "stickers": [
         {
-            "id": "114",
-            "name": "114",
+            "id": "sweetheart",
+            "name": "Sweetheart",
             "keywords": [
                 "love",
                 "heart",
@@ -66,8 +66,8 @@
             ]
         },
         {
-            "id": "133",
-            "name": "133",
+            "id": "family",
+            "name": "Family",
             "keywords": [
                 "parent",
                 "baby",
@@ -80,8 +80,8 @@
             ]
         },
         {
-            "id": "146",
-            "name": "146",
+            "id": "distraught",
+            "name": "Distraught",
             "keywords": [
                 "crying",
                 "upset",
@@ -93,8 +93,8 @@
             ]
         },
         {
-            "id": "165",
-            "name": "165",
+            "id": "queasy",
+            "name": "Queasy",
             "keywords": [
                 "sick",
                 "nausea",
@@ -105,8 +105,8 @@
             ]
         },
         {
-            "id": "168",
-            "name": "168",
+            "id": "uneasy",
+            "name": "Uneasy",
             "keywords": [
                 "awkward",
                 "uncomfortable",
@@ -118,8 +118,8 @@
             ]
         },
         {
-            "id": "172",
-            "name": "172",
+            "id": "ecstatic",
+            "name": "Ecstatic",
             "keywords": [
                 "excited",
                 "yay",
@@ -131,8 +131,8 @@
             ]
         },
         {
-            "id": "181",
-            "name": "181",
+            "id": "cheerful",
+            "name": "Cheerful",
             "keywords": [
                 "happy",
                 "laugh",
@@ -143,8 +143,8 @@
             ]
         },
         {
-            "id": "235",
-            "name": "235",
+            "id": "fuming",
+            "name": "Fuming",
             "keywords": [
                 "mad",
                 "annoyed",
@@ -155,8 +155,8 @@
             ]
         },
         {
-            "id": "239",
-            "name": "239",
+            "id": "puzzled",
+            "name": "Puzzled",
             "keywords": [
                 "question",
                 "what",
@@ -168,8 +168,8 @@
             ]
         },
         {
-            "id": "7",
-            "name": "7",
+            "id": "wazer",
+            "name": "Wazer",
             "keywords": [
                 "classic",
                 "hello",
@@ -181,8 +181,8 @@
             ]
         },
         {
-            "id": "15",
-            "name": "15",
+            "id": "poker-face",
+            "name": "Poker Face",
             "keywords": [
                 "blank",
                 "neutral",
@@ -193,8 +193,8 @@
             ]
         },
         {
-            "id": "9",
-            "name": "9",
+            "id": "pierrot",
+            "name": "Pierrot",
             "keywords": [
                 "tear",
                 "sad",
@@ -599,8 +599,8 @@
             ]
         },
         {
-            "id": "258",
-            "name": "258",
+            "id": "grounded",
+            "name": "Grounded",
             "keywords": [
                 "lotus",
                 "meditation",

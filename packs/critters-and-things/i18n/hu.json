@@ -1,111 +1,6 @@
 {
     "name": "Lények és dolgok",
     "stickers": {
-        "30": {
-            "keywords": [
-                "szikla",
-                "kő",
-                "gyors"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "medve",
-                "bucket kalap",
-                "mosoly"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "madár",
-                "lazítás"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "agy",
-                "okos",
-                "gondolkodik"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinoszaurusz",
-                "fogak",
-                "harapás"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "agyarak",
-                "fogak",
-                "vigyor"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "tehén",
-                "bú",
-                "farm"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "kutya",
-                "corgi",
-                "korona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "kutya",
-                "corgi",
-                "kacsintás"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "kutya",
-                "corgi",
-                "korona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "sárkány",
-                "piros",
-                "szörny"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "kéz",
-                "szem",
-                "védelem"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "szem",
-                "jel",
-                "rejtély"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "teáskanna",
-                "tea",
-                "alma"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "madár",
-                "sapka",
-                "beszél"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "ebéd"
             ]
         },
-        "magical": {
-            "name": "Varázslatos",
-            "keywords": [
-                "egyszarvú",
-                "szivárvány",
-                "varázslat"
-            ]
-        },
-        "magical-2": {
-            "name": "Varázslatos (2)",
-            "keywords": [
-                "varázslat",
-                "rózsaszín",
-                "híres"
-            ]
-        },
         "open": {
             "name": "Nyitott",
             "keywords": [
@@ -352,6 +231,142 @@
                 "farkas",
                 "vonyítás",
                 "ravasz"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "madár",
+                "lazítás"
+            ]
+        },
+        "parrot": {
+            "name": "Papagáj",
+            "keywords": [
+                "madár",
+                "sapka",
+                "beszél"
+            ]
+        },
+        "blissful": {
+            "name": "Boldog",
+            "keywords": [
+                "tehén",
+                "bú",
+                "farm"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Száguldó kő",
+            "keywords": [
+                "szikla",
+                "kő",
+                "gyors"
+            ]
+        },
+        "big-brain": {
+            "name": "Észkombájn",
+            "keywords": [
+                "agy",
+                "okos",
+                "gondolkodik"
+            ]
+        },
+        "yellow": {
+            "name": "Sárga",
+            "keywords": [
+                "agyarak",
+                "fogak",
+                "vigyor"
+            ]
+        },
+        "pampered": {
+            "name": "Elkényeztetett",
+            "keywords": [
+                "kutya",
+                "corgi",
+                "korona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Hűséges",
+            "keywords": [
+                "kutya",
+                "corgi",
+                "kacsintás"
+            ]
+        },
+        "playful-pup": {
+            "name": "Játékos kutyus",
+            "keywords": [
+                "kutya",
+                "corgi",
+                "korona"
+            ]
+        },
+        "red": {
+            "name": "Piros",
+            "keywords": [
+                "sárkány",
+                "piros",
+                "szörny"
+            ]
+        },
+        "unicorn": {
+            "name": "Egyszarvú",
+            "keywords": [
+                "egyszarvú",
+                "szivárvány",
+                "varázslat"
+            ]
+        },
+        "magical": {
+            "name": "Varázslatos",
+            "keywords": [
+                "varázslat",
+                "rózsaszín",
+                "híres"
+            ]
+        },
+        "visionary": {
+            "name": "Látnok",
+            "keywords": [
+                "szem",
+                "jel",
+                "rejtély"
+            ]
+        },
+        "focused": {
+            "name": "Fókuszált",
+            "keywords": [
+                "kéz",
+                "szem",
+                "védelem"
+            ]
+        },
+        "kind": {
+            "name": "Kedves",
+            "keywords": [
+                "medve",
+                "bucket kalap",
+                "mosoly"
+            ]
+        },
+        "zesty": {
+            "name": "Pörgős",
+            "keywords": [
+                "teáskanna",
+                "tea",
+                "alma"
+            ]
+        },
+        "chomper": {
+            "name": "Harapós",
+            "keywords": [
+                "dinoszaurusz",
+                "fogak",
+                "harapás"
             ]
         }
     }

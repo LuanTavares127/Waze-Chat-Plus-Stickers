@@ -1,55 +1,6 @@
 {
     "name": "Giao thoa",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "một mắt",
-                "chuối"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "một mắt",
-                "tổ ong"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "răng",
-                "phản diện"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "con rối",
-                "vui"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "kính",
-                "tóc"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "con rối",
-                "lo lắng"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "mũ",
-                "cười"
-            ]
-        },
         "ed": {
             "name": "Ed - Trung thành",
             "keywords": [
@@ -154,14 +105,6 @@
                 "xây dựng"
             ]
         },
-        "red": {
-            "name": "Đỏ",
-            "keywords": [
-                "fraggle",
-                "tóc đỏ",
-                "cười"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "yêu tinh",
                 "ngọc",
                 "phản diện"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "răng",
+                "phản diện"
+            ]
+        },
+        "despicable": {
+            "name": "Xấu xa",
+            "keywords": [
+                "minion",
+                "một mắt",
+                "chuối"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Siêu xấu xa",
+            "keywords": [
+                "minion",
+                "một mắt",
+                "tổ ong"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "con rối",
+                "vui"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "kính",
+                "tóc"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "con rối",
+                "lo lắng"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "mũ",
+                "cười"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "tóc đỏ",
+                "cười"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Chào kiểu Vulcan",
+            "keywords": [
+                "tay",
+                "chào",
+                "lời chào"
             ]
         }
     }

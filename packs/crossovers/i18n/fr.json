@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un œil",
-                "banane"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un œil",
-                "rayon de miel"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "dents",
-                "méchant"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "marionnette",
-                "heureux"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "lunettes",
-                "cheveux"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "marionnette",
-                "nerveux"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "chapeau",
-                "rire"
-            ]
-        },
         "ed": {
             "name": "Ed - Loyal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "chantier"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "cheveux roux",
-                "rire"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfe",
                 "gemme",
                 "méchant"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "dents",
+                "méchant"
+            ]
+        },
+        "despicable": {
+            "name": "Méchant",
+            "keywords": [
+                "minion",
+                "un œil",
+                "banane"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Super méchant",
+            "keywords": [
+                "minion",
+                "un œil",
+                "rayon de miel"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "marionnette",
+                "heureux"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "lunettes",
+                "cheveux"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "marionnette",
+                "nerveux"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "chapeau",
+                "rire"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "cheveux roux",
+                "rire"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salut vulcain",
+            "keywords": [
+                "main",
+                "salut",
+                "salutation"
             ]
         }
     }

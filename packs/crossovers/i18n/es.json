@@ -1,55 +1,6 @@
 {
     "name": "Colaboraciones",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un ojo",
-                "plátano"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un ojo",
-                "panal"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbionte",
-                "dientes",
-                "villano"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "títere",
-                "feliz"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "gafas",
-                "pelo"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "títere",
-                "nervioso"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "sombrero",
-                "risa"
-            ]
-        },
         "ed": {
             "name": "Ed - Leal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "construcción"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "pelo rojo",
-                "risa"
-            ]
-        },
         "horde": {
             "name": "Horda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfo",
                 "gema",
                 "villano"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbionte",
+                "dientes",
+                "villano"
+            ]
+        },
+        "despicable": {
+            "name": "Villano",
+            "keywords": [
+                "minion",
+                "un ojo",
+                "plátano"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megavillano",
+            "keywords": [
+                "minion",
+                "un ojo",
+                "panal"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "títere",
+                "feliz"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "gafas",
+                "pelo"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "títere",
+                "nervioso"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "sombrero",
+                "risa"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "pelo rojo",
+                "risa"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Saludo vulcano",
+            "keywords": [
+                "mano",
+                "saludo militar",
+                "saludo"
             ]
         }
     }

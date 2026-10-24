@@ -1,111 +1,6 @@
 {
     "name": "Zabava, zodijak i fantazija",
     "stickers": {
-        "31": {
-            "keywords": [
-                "snjegović",
-                "zima",
-                "šal"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "kapa za zabavu",
-                "rođendan",
-                "slaviti"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "kaciga",
-                "pribadača na karti"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "šaljivdžija",
-                "šešir",
-                "smijeh"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "božić",
-                "djed božićnjak",
-                "sunčane naočale"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "čarobnjak",
-                "šešir",
-                "magija"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "vještica",
-                "šešir",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karneval",
-                "ukras za glavu",
-                "perje"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "šal",
-                "kapa",
-                "zima"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karneval",
-                "maska",
-                "zabava"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nova godina",
-                "2026",
-                "zabava"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "čekić",
-                "štit"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "zima",
-                "kapa",
-                "hladno"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "stražar",
-                "london",
-                "šešir"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilindar",
-                "čaj",
-                "zemlja čudesa"
-            ]
-        },
         "aries": {
             "name": "Ovan",
             "keywords": [
@@ -376,6 +271,126 @@
                 "junak",
                 "dijadem",
                 "moć"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Rođendanski štimung",
+            "keywords": [
+                "kapa za zabavu",
+                "rođendan",
+                "slaviti"
+            ]
+        },
+        "witchy": {
+            "name": "Vještica",
+            "keywords": [
+                "vještica",
+                "šešir",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Hrabar",
+            "keywords": [
+                "viking",
+                "čekić",
+                "štit"
+            ]
+        },
+        "stern-guard": {
+            "name": "Strogi stražar",
+            "keywords": [
+                "stražar",
+                "london",
+                "šešir"
+            ]
+        },
+        "snowman": {
+            "name": "Snjegović",
+            "keywords": [
+                "snjegović",
+                "zima",
+                "šal"
+            ]
+        },
+        "map-raider": {
+            "name": "Osvajač karte",
+            "keywords": [
+                "viking",
+                "kaciga",
+                "pribadača na karti"
+            ]
+        },
+        "hello-2026": {
+            "name": "Bok 2026",
+            "keywords": [
+                "nova godina",
+                "2026",
+                "zabava"
+            ]
+        },
+        "cool-santa": {
+            "name": "Kul Djed Božićnjak",
+            "keywords": [
+                "božić",
+                "djed božićnjak",
+                "sunčane naočale"
+            ]
+        },
+        "spicy": {
+            "name": "Pikantan",
+            "keywords": [
+                "cilindar",
+                "čaj",
+                "zemlja čudesa"
+            ]
+        },
+        "jester": {
+            "name": "Dvorska luda",
+            "keywords": [
+                "šaljivdžija",
+                "šešir",
+                "smijeh"
+            ]
+        },
+        "wizard": {
+            "name": "Čarobnjak",
+            "keywords": [
+                "čarobnjak",
+                "šešir",
+                "magija"
+            ]
+        },
+        "samba-star": {
+            "name": "Zvijezda sambe",
+            "keywords": [
+                "karneval",
+                "ukras za glavu",
+                "perje"
+            ]
+        },
+        "cozy": {
+            "name": "Ušuškan",
+            "keywords": [
+                "šal",
+                "kapa",
+                "zima"
+            ]
+        },
+        "masquerade": {
+            "name": "Maškare",
+            "keywords": [
+                "karneval",
+                "maska",
+                "zabava"
+            ]
+        },
+        "bundled-up": {
+            "name": "Zamotan",
+            "keywords": [
+                "zima",
+                "kapa",
+                "hladno"
             ]
         }
     }

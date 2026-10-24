@@ -1,111 +1,6 @@
 {
     "name": "Loomad ja asjad",
     "stickers": {
-        "30": {
-            "keywords": [
-                "kivi",
-                "kivi",
-                "kiire"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "karu",
-                "kalamehe müts",
-                "naeratus"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "lind",
-                "rahulik"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "aju",
-                "tark",
-                "mõtlema"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "hambad",
-                "hammustus"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "kihvad",
-                "hambad",
-                "muie"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "lehm",
-                "ammuu",
-                "talu"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "koer",
-                "korgi",
-                "kroon"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "koer",
-                "korgi",
-                "silmapilgutus"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "koer",
-                "korgi",
-                "kroon"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "draakon",
-                "punane",
-                "koletis"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "käsi",
-                "silm",
-                "kaitse"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "silm",
-                "märk",
-                "mõistatus"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "teekann",
-                "tee",
-                "õun"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "lind",
-                "nokamüts",
-                "rääkima"
-            ]
-        },
         "8-bit": {
             "name": "8-bitine",
             "keywords": [
@@ -242,22 +137,6 @@
                 "lõuna"
             ]
         },
-        "magical": {
-            "name": "Maagiline",
-            "keywords": [
-                "ükssarvik",
-                "vikerkaar",
-                "maagia"
-            ]
-        },
-        "magical-2": {
-            "name": "Maagiline (2)",
-            "keywords": [
-                "maagia",
-                "roosa",
-                "kuulus"
-            ]
-        },
         "open": {
             "name": "Avatud",
             "keywords": [
@@ -352,6 +231,142 @@
                 "hunt",
                 "ulg",
                 "kaval"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "lind",
+                "rahulik"
+            ]
+        },
+        "parrot": {
+            "name": "Papagoi",
+            "keywords": [
+                "lind",
+                "nokamüts",
+                "rääkima"
+            ]
+        },
+        "blissful": {
+            "name": "Õnnis",
+            "keywords": [
+                "lehm",
+                "ammuu",
+                "talu"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Kiire kivi",
+            "keywords": [
+                "kivi",
+                "kivi",
+                "kiire"
+            ]
+        },
+        "big-brain": {
+            "name": "Suur aju",
+            "keywords": [
+                "aju",
+                "tark",
+                "mõtlema"
+            ]
+        },
+        "yellow": {
+            "name": "Kollane",
+            "keywords": [
+                "kihvad",
+                "hambad",
+                "muie"
+            ]
+        },
+        "pampered": {
+            "name": "Hellitatud",
+            "keywords": [
+                "koer",
+                "korgi",
+                "kroon"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Truu",
+            "keywords": [
+                "koer",
+                "korgi",
+                "silmapilgutus"
+            ]
+        },
+        "playful-pup": {
+            "name": "Mänguline kutsikas",
+            "keywords": [
+                "koer",
+                "korgi",
+                "kroon"
+            ]
+        },
+        "red": {
+            "name": "Punane",
+            "keywords": [
+                "draakon",
+                "punane",
+                "koletis"
+            ]
+        },
+        "unicorn": {
+            "name": "Ükssarvik",
+            "keywords": [
+                "ükssarvik",
+                "vikerkaar",
+                "maagia"
+            ]
+        },
+        "magical": {
+            "name": "Maagiline",
+            "keywords": [
+                "maagia",
+                "roosa",
+                "kuulus"
+            ]
+        },
+        "visionary": {
+            "name": "Visionäär",
+            "keywords": [
+                "silm",
+                "märk",
+                "mõistatus"
+            ]
+        },
+        "focused": {
+            "name": "Keskendunud",
+            "keywords": [
+                "käsi",
+                "silm",
+                "kaitse"
+            ]
+        },
+        "kind": {
+            "name": "Lahke",
+            "keywords": [
+                "karu",
+                "kalamehe müts",
+                "naeratus"
+            ]
+        },
+        "zesty": {
+            "name": "Elurõõmus",
+            "keywords": [
+                "teekann",
+                "tee",
+                "õun"
+            ]
+        },
+        "chomper": {
+            "name": "Krõmpsutaja",
+            "keywords": [
+                "dinosaurus",
+                "hambad",
+                "hammustus"
             ]
         }
     }

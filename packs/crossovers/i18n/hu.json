@@ -1,55 +1,6 @@
 {
     "name": "Crossoverek",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "egy szem",
-                "banán"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "egy szem",
-                "lépes méz"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "fogak",
-                "gonosztevő"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "báb",
-                "boldog"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "szemüveg",
-                "haj"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "báb",
-                "ideges"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "kalap",
-                "nevetés"
-            ]
-        },
         "ed": {
             "name": "Ed - Hűséges",
             "keywords": [
@@ -154,14 +105,6 @@
                 "építkezés"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "vörös haj",
-                "nevetés"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "tünde",
                 "ékszer",
                 "gonosztevő"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "fogak",
+                "gonosztevő"
+            ]
+        },
+        "despicable": {
+            "name": "Gonosz",
+            "keywords": [
+                "minion",
+                "egy szem",
+                "banán"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Szupergonosz",
+            "keywords": [
+                "minion",
+                "egy szem",
+                "lépes méz"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "báb",
+                "boldog"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "szemüveg",
+                "haj"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "báb",
+                "ideges"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "kalap",
+                "nevetés"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "vörös haj",
+                "nevetés"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkáni üdvözlés",
+            "keywords": [
+                "kéz",
+                "tisztelgés",
+                "üdvözlés"
             ]
         }
     }

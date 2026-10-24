@@ -1,111 +1,6 @@
 {
     "name": "Fest, stjärntecken och fantasi",
     "stickers": {
-        "31": {
-            "keywords": [
-                "snögubbe",
-                "vinter",
-                "halsduk"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "partyhatt",
-                "födelsedag",
-                "fira"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "hjälm",
-                "kartnål"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "hovnarr",
-                "hatt",
-                "skratta"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "jul",
-                "tomte",
-                "solglasögon"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "trollkarl",
-                "hatt",
-                "magi"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "häxa",
-                "hatt",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karneval",
-                "huvudbonad",
-                "fjädrar"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "halsduk",
-                "mössa",
-                "vinter"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karneval",
-                "mask",
-                "fest"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nyår",
-                "2026",
-                "fest"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "hammare",
-                "sköld"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "vinter",
-                "mössa",
-                "kall"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "vakt",
-                "london",
-                "hatt"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cylinder",
-                "te",
-                "underlandet"
-            ]
-        },
         "aries": {
             "name": "Väduren",
             "keywords": [
@@ -376,6 +271,126 @@
                 "hjälte",
                 "tiara",
                 "kraft"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Kalaskänsla",
+            "keywords": [
+                "partyhatt",
+                "födelsedag",
+                "fira"
+            ]
+        },
+        "witchy": {
+            "name": "Häxig",
+            "keywords": [
+                "häxa",
+                "hatt",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Tapper",
+            "keywords": [
+                "viking",
+                "hammare",
+                "sköld"
+            ]
+        },
+        "stern-guard": {
+            "name": "Sträng vakt",
+            "keywords": [
+                "vakt",
+                "london",
+                "hatt"
+            ]
+        },
+        "snowman": {
+            "name": "Snögubbe",
+            "keywords": [
+                "snögubbe",
+                "vinter",
+                "halsduk"
+            ]
+        },
+        "map-raider": {
+            "name": "Kartplundrare",
+            "keywords": [
+                "viking",
+                "hjälm",
+                "kartnål"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hej, 2026",
+            "keywords": [
+                "nyår",
+                "2026",
+                "fest"
+            ]
+        },
+        "cool-santa": {
+            "name": "Cool tomte",
+            "keywords": [
+                "jul",
+                "tomte",
+                "solglasögon"
+            ]
+        },
+        "spicy": {
+            "name": "Kryddig",
+            "keywords": [
+                "cylinder",
+                "te",
+                "underlandet"
+            ]
+        },
+        "jester": {
+            "name": "Narr",
+            "keywords": [
+                "hovnarr",
+                "hatt",
+                "skratta"
+            ]
+        },
+        "wizard": {
+            "name": "Trollkarl",
+            "keywords": [
+                "trollkarl",
+                "hatt",
+                "magi"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambastjärna",
+            "keywords": [
+                "karneval",
+                "huvudbonad",
+                "fjädrar"
+            ]
+        },
+        "cozy": {
+            "name": "Mysig",
+            "keywords": [
+                "halsduk",
+                "mössa",
+                "vinter"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskerad",
+            "keywords": [
+                "karneval",
+                "mask",
+                "fest"
+            ]
+        },
+        "bundled-up": {
+            "name": "Påpälsad",
+            "keywords": [
+                "vinter",
+                "mössa",
+                "kall"
             ]
         }
     }

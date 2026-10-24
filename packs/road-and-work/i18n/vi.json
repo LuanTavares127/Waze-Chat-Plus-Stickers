@@ -1,160 +1,6 @@
 {
     "name": "Trên đường & đi làm",
     "stickers": {
-        "18": {
-            "keywords": [
-                "bọc hành lý",
-                "chuyến đi",
-                "phiêu lưu"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "thuốc thần",
-                "kính",
-                "phòng thí nghiệm"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "nhà thám hiểm",
-                "mũ",
-                "phiêu lưu"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "máy ảnh",
-                "cờ",
-                "tham quan"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "thủy thủ",
-                "mũ lưỡi trai",
-                "thuyền"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "va li",
-                "mũ",
-                "chuyến đi"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "phi công",
-                "kính bảo hộ",
-                "mũ bảo hiểm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "cú",
-                "tốt nghiệp",
-                "thông minh"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "bình chữa cháy",
-                "an toàn",
-                "lo lắng"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "mũ bảo hộ",
-                "xây dựng",
-                "áo vest"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "mũ rơm",
-                "nông trại",
-                "lễ hội tháng sáu"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "mũ bảo hiểm",
-                "các ngôi sao",
-                "tay đua"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "khẩu trang",
-                "sức khỏe",
-                "an toàn"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "đồng hồ bấm giờ",
-                "băng đô",
-                "tập luyện"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "bỏ phiếu",
-                "bầu cử",
-                "lá phiếu"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "tín hiệu",
-                "rô bốt",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "bỏ phiếu",
-                "biển hiệu",
-                "bầu cử"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "huy chương",
-                "ruy băng",
-                "nháy mắt"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "giao hàng",
-                "mũ bảo hiểm",
-                "hộp"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "rô bốt",
-                "ăng ten",
-                "nhà thám hiểm"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "bong bóng thoại",
-                "trò chuyện",
-                "nói chuyện"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "còi",
-                "trọng tài",
-                "phạm lỗi"
-            ]
-        },
         "road-warrior": {
             "name": "Chiến binh đường phố",
             "keywords": [
@@ -345,6 +191,182 @@
                 "mũ bảo hiểm",
                 "xe máy",
                 "vội vàng"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Nhà khoa học điên",
+            "keywords": [
+                "thuốc thần",
+                "kính",
+                "phòng thí nghiệm"
+            ]
+        },
+        "explorer": {
+            "name": "Nhà thám hiểm",
+            "keywords": [
+                "nhà thám hiểm",
+                "mũ",
+                "phiêu lưu"
+            ]
+        },
+        "sightseer": {
+            "name": "Khách tham quan",
+            "keywords": [
+                "máy ảnh",
+                "cờ",
+                "tham quan"
+            ]
+        },
+        "jet-setter": {
+            "name": "Xê dịch",
+            "keywords": [
+                "va li",
+                "mũ",
+                "chuyến đi"
+            ]
+        },
+        "know-it-all": {
+            "name": "Biết tuốt",
+            "keywords": [
+                "cú",
+                "tốt nghiệp",
+                "thông minh"
+            ]
+        },
+        "close-call": {
+            "name": "Hú hồn",
+            "keywords": [
+                "bình chữa cháy",
+                "an toàn",
+                "lo lắng"
+            ]
+        },
+        "on-the-job": {
+            "name": "Đang làm việc",
+            "keywords": [
+                "mũ bảo hộ",
+                "xây dựng",
+                "áo vest"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Vận động tranh cử",
+            "keywords": [
+                "bỏ phiếu",
+                "biển hiệu",
+                "bầu cử"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Giao hàng nhanh",
+            "keywords": [
+                "giao hàng",
+                "mũ bảo hiểm",
+                "hộp"
+            ]
+        },
+        "referee": {
+            "name": "Trọng tài",
+            "keywords": [
+                "còi",
+                "trọng tài",
+                "phạm lỗi"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "phi công",
+                "kính bảo hộ",
+                "mũ bảo hiểm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "mũ bảo hiểm",
+                "các ngôi sao",
+                "tay đua"
+            ]
+        },
+        "blue": {
+            "name": "Xanh dương",
+            "keywords": [
+                "rô bốt",
+                "ăng ten",
+                "nhà thám hiểm"
+            ]
+        },
+        "voter": {
+            "name": "Cử tri",
+            "keywords": [
+                "bỏ phiếu",
+                "bầu cử",
+                "lá phiếu"
+            ]
+        },
+        "winner": {
+            "name": "Nhà vô địch",
+            "keywords": [
+                "huy chương",
+                "ruy băng",
+                "nháy mắt"
+            ]
+        },
+        "chatty": {
+            "name": "Nhiều chuyện",
+            "keywords": [
+                "bong bóng thoại",
+                "trò chuyện",
+                "nói chuyện"
+            ]
+        },
+        "wanderer": {
+            "name": "Lữ khách",
+            "keywords": [
+                "bọc hành lý",
+                "chuyến đi",
+                "phiêu lưu"
+            ]
+        },
+        "skipper": {
+            "name": "Thuyền trưởng",
+            "keywords": [
+                "thủy thủ",
+                "mũ lưỡi trai",
+                "thuyền"
+            ]
+        },
+        "country-folk": {
+            "name": "Dân quê",
+            "keywords": [
+                "mũ rơm",
+                "nông trại",
+                "lễ hội tháng sáu"
+            ]
+        },
+        "masked-up": {
+            "name": "Đeo khẩu trang",
+            "keywords": [
+                "khẩu trang",
+                "sức khỏe",
+                "an toàn"
+            ]
+        },
+        "workout-mode": {
+            "name": "Chế độ tập luyện",
+            "keywords": [
+                "đồng hồ bấm giờ",
+                "băng đô",
+                "tập luyện"
+            ]
+        },
+        "connected": {
+            "name": "Đã kết nối",
+            "keywords": [
+                "tín hiệu",
+                "rô bốt",
+                "wifi"
             ]
         }
     }

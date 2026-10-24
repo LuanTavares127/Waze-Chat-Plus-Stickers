@@ -1,55 +1,6 @@
 {
     "name": "Συνεργασίες",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "ένα μάτι",
-                "μπανάνα"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "ένα μάτι",
-                "κηρήθρα"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "συμβιώτης",
-                "δόντια",
-                "κακός"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "μαριονέτα",
-                "χαρούμενος"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "γυαλιά",
-                "μαλλιά"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "μαριονέτα",
-                "αγχωμένος"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "καπέλο",
-                "γέλιο"
-            ]
-        },
         "ed": {
             "name": "Ed - Πιστός",
             "keywords": [
@@ -154,14 +105,6 @@
                 "κατασκευή"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "κόκκινα μαλλιά",
-                "γέλιο"
-            ]
-        },
         "horde": {
             "name": "Ορδή",
             "keywords": [
@@ -208,6 +151,78 @@
                 "ξωτικό",
                 "πετράδι",
                 "κακός"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "συμβιώτης",
+                "δόντια",
+                "κακός"
+            ]
+        },
+        "despicable": {
+            "name": "Απαίσιος",
+            "keywords": [
+                "minion",
+                "ένα μάτι",
+                "μπανάνα"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Μέγα Απαίσιος",
+            "keywords": [
+                "minion",
+                "ένα μάτι",
+                "κηρήθρα"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "μαριονέτα",
+                "χαρούμενος"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "γυαλιά",
+                "μαλλιά"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "μαριονέτα",
+                "αγχωμένος"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "καπέλο",
+                "γέλιο"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "κόκκινα μαλλιά",
+                "γέλιο"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Βουλκάνιος χαιρετισμός",
+            "keywords": [
+                "χέρι",
+                "χαιρετισμός",
+                "χαιρετούρα"
             ]
         }
     }

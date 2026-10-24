@@ -1,111 +1,6 @@
 {
     "name": "Svētki, zodiaks un fantāzija",
     "stickers": {
-        "31": {
-            "keywords": [
-                "sniegavīrs",
-                "ziema",
-                "šalle"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "svētku cepure",
-                "dzimšanas diena",
-                "svinēt"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "vikings",
-                "ķivere",
-                "kartes tapa"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "āksts",
-                "cepure",
-                "smiekli"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "ziemassvētki",
-                "ziemassvētku vecītis",
-                "saulesbrilles"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "burvis",
-                "cepure",
-                "maģija"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "ragana",
-                "cepure",
-                "helovīns"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnevāls",
-                "galvassega",
-                "spalvas"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "šalle",
-                "adīta cepure",
-                "ziema"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnevāls",
-                "maska",
-                "ballīte"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "jaunais gads",
-                "2026",
-                "ballīte"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "vikings",
-                "āmurs",
-                "vairogs"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "ziema",
-                "adīta cepure",
-                "auksts"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "sargs",
-                "londona",
-                "cepure"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilindrs",
-                "tēja",
-                "brīnumzeme"
-            ]
-        },
         "aries": {
             "name": "Auns",
             "keywords": [
@@ -376,6 +271,126 @@
                 "varonis",
                 "tiāra",
                 "spēks"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Dzimšanas dienas noskaņa",
+            "keywords": [
+                "svētku cepure",
+                "dzimšanas diena",
+                "svinēt"
+            ]
+        },
+        "witchy": {
+            "name": "Ragana",
+            "keywords": [
+                "ragana",
+                "cepure",
+                "helovīns"
+            ]
+        },
+        "valiant": {
+            "name": "Drosmīgs",
+            "keywords": [
+                "vikings",
+                "āmurs",
+                "vairogs"
+            ]
+        },
+        "stern-guard": {
+            "name": "Bargais sargs",
+            "keywords": [
+                "sargs",
+                "londona",
+                "cepure"
+            ]
+        },
+        "snowman": {
+            "name": "Sniegavīrs",
+            "keywords": [
+                "sniegavīrs",
+                "ziema",
+                "šalle"
+            ]
+        },
+        "map-raider": {
+            "name": "Kartes iebrucējs",
+            "keywords": [
+                "vikings",
+                "ķivere",
+                "kartes tapa"
+            ]
+        },
+        "hello-2026": {
+            "name": "Sveiks, 2026",
+            "keywords": [
+                "jaunais gads",
+                "2026",
+                "ballīte"
+            ]
+        },
+        "cool-santa": {
+            "name": "Foršais Salavecis",
+            "keywords": [
+                "ziemassvētki",
+                "ziemassvētku vecītis",
+                "saulesbrilles"
+            ]
+        },
+        "spicy": {
+            "name": "Pikants",
+            "keywords": [
+                "cilindrs",
+                "tēja",
+                "brīnumzeme"
+            ]
+        },
+        "jester": {
+            "name": "Galma āksts",
+            "keywords": [
+                "āksts",
+                "cepure",
+                "smiekli"
+            ]
+        },
+        "wizard": {
+            "name": "Burvis",
+            "keywords": [
+                "burvis",
+                "cepure",
+                "maģija"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambas zvaigzne",
+            "keywords": [
+                "karnevāls",
+                "galvassega",
+                "spalvas"
+            ]
+        },
+        "cozy": {
+            "name": "Omulīgi",
+            "keywords": [
+                "šalle",
+                "adīta cepure",
+                "ziema"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskarāde",
+            "keywords": [
+                "karnevāls",
+                "maska",
+                "ballīte"
+            ]
+        },
+        "bundled-up": {
+            "name": "Silti saģērbies",
+            "keywords": [
+                "ziema",
+                "adīta cepure",
+                "auksts"
             ]
         }
     }

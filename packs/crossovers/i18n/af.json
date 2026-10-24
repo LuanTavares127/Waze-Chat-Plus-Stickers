@@ -1,55 +1,6 @@
 {
     "name": "Kruisverwysings",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "een oog",
-                "piesang"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "een oog",
-                "heuningkoek"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbioot",
-                "tande",
-                "skurk"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "marionet",
-                "bly"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "bril",
-                "hare"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "marionet",
-                "senuweeagtig"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "hoed",
-                "lag"
-            ]
-        },
         "ed": {
             "name": "Ed - Lojaal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "konstruksie"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rooi hare",
-                "lag"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "edelsteen",
                 "skurk"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbioot",
+                "tande",
+                "skurk"
+            ]
+        },
+        "despicable": {
+            "name": "Skurk",
+            "keywords": [
+                "minion",
+                "een oog",
+                "piesang"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megaskurk",
+            "keywords": [
+                "minion",
+                "een oog",
+                "heuningkoek"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "marionet",
+                "bly"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "bril",
+                "hare"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "marionet",
+                "senuweeagtig"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "hoed",
+                "lag"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rooi hare",
+                "lag"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkaniese groet",
+            "keywords": [
+                "hand",
+                "salueer",
+                "groet"
             ]
         }
     }

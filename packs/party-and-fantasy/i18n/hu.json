@@ -1,111 +1,6 @@
 {
     "name": "Buli, állatöv és fantázia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "hóember",
-                "tél",
-                "sál"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "partikalap",
-                "születésnap",
-                "ünnepel"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "sisak",
-                "térképtű"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "udvari bolond",
-                "kalap",
-                "nevetés"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "karácsony",
-                "mikulás",
-                "napszemüveg"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "varázsló",
-                "kalap",
-                "varázslat"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "boszorkány",
-                "kalap",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnevál",
-                "fejdísz",
-                "tollak"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "sál",
-                "kötött sapka",
-                "tél"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnevál",
-                "maszk",
-                "buli"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "újév",
-                "2026",
-                "buli"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "kalapács",
-                "pajzs"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "tél",
-                "kötött sapka",
-                "hideg"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "őr",
-                "london",
-                "kalap"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilinder",
-                "tea",
-                "csodaország"
-            ]
-        },
         "aries": {
             "name": "Kos",
             "keywords": [
@@ -376,6 +271,126 @@
                 "hős",
                 "diadém",
                 "erő"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Szülinapi hangulat",
+            "keywords": [
+                "partikalap",
+                "születésnap",
+                "ünnepel"
+            ]
+        },
+        "witchy": {
+            "name": "Boszi",
+            "keywords": [
+                "boszorkány",
+                "kalap",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Bátor",
+            "keywords": [
+                "viking",
+                "kalapács",
+                "pajzs"
+            ]
+        },
+        "stern-guard": {
+            "name": "Szigorú őr",
+            "keywords": [
+                "őr",
+                "london",
+                "kalap"
+            ]
+        },
+        "snowman": {
+            "name": "Hóember",
+            "keywords": [
+                "hóember",
+                "tél",
+                "sál"
+            ]
+        },
+        "map-raider": {
+            "name": "Térképviking",
+            "keywords": [
+                "viking",
+                "sisak",
+                "térképtű"
+            ]
+        },
+        "hello-2026": {
+            "name": "Szia, 2026",
+            "keywords": [
+                "újév",
+                "2026",
+                "buli"
+            ]
+        },
+        "cool-santa": {
+            "name": "Menő Mikulás",
+            "keywords": [
+                "karácsony",
+                "mikulás",
+                "napszemüveg"
+            ]
+        },
+        "spicy": {
+            "name": "Csípős",
+            "keywords": [
+                "cilinder",
+                "tea",
+                "csodaország"
+            ]
+        },
+        "jester": {
+            "name": "Udvari bolond",
+            "keywords": [
+                "udvari bolond",
+                "kalap",
+                "nevetés"
+            ]
+        },
+        "wizard": {
+            "name": "Varázsló",
+            "keywords": [
+                "varázsló",
+                "kalap",
+                "varázslat"
+            ]
+        },
+        "samba-star": {
+            "name": "Szambasztár",
+            "keywords": [
+                "karnevál",
+                "fejdísz",
+                "tollak"
+            ]
+        },
+        "cozy": {
+            "name": "Bekuckózva",
+            "keywords": [
+                "sál",
+                "kötött sapka",
+                "tél"
+            ]
+        },
+        "masquerade": {
+            "name": "Álarcosbál",
+            "keywords": [
+                "karnevál",
+                "maszk",
+                "buli"
+            ]
+        },
+        "bundled-up": {
+            "name": "Bebugyolálva",
+            "keywords": [
+                "tél",
+                "kötött sapka",
+                "hideg"
             ]
         }
     }

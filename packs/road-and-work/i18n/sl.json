@@ -1,160 +1,6 @@
 {
     "name": "Na cesti in v službi",
     "stickers": {
-        "18": {
-            "keywords": [
-                "culica",
-                "potovanje",
-                "pustolovščina"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "napoj",
-                "očala",
-                "laboratorij"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "raziskovalec",
-                "klobuk",
-                "pustolovščina"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "zastava",
-                "ogled znamenitosti"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "mornar",
-                "kapa",
-                "čoln"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "kovček",
-                "klobuk",
-                "potovanje"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "zaščitna očala",
-                "čelada"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "sova",
-                "diploma",
-                "pametno"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "gasilnik",
-                "varnost",
-                "nervozno"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "zaščitna čelada",
-                "gradnja",
-                "brezrokavnik"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "slamnik",
-                "kmetija",
-                "junijski praznik"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "čelada",
-                "zvezde",
-                "dirkač"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "maska za obraz",
-                "zdravje",
-                "varno"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "štoparica",
-                "naglavni trak",
-                "trening"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "glasovanje",
-                "volitve",
-                "glasovnica"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "glasovanje",
-                "znak",
-                "volitve"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalja",
-                "trak",
-                "pomežik"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "dostava",
-                "čelada",
-                "škatla"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antena",
-                "raziskovalec"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "govorni oblaček",
-                "klepet",
-                "govoriti"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "piščalka",
-                "sodnik",
-                "prekršek"
-            ]
-        },
         "road-warrior": {
             "name": "Cestni bojevnik",
             "keywords": [
@@ -345,6 +191,182 @@
                 "čelada",
                 "motor",
                 "naglica"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Nori znanstvenik",
+            "keywords": [
+                "napoj",
+                "očala",
+                "laboratorij"
+            ]
+        },
+        "explorer": {
+            "name": "Raziskovalec",
+            "keywords": [
+                "raziskovalec",
+                "klobuk",
+                "pustolovščina"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kamera",
+                "zastava",
+                "ogled znamenitosti"
+            ]
+        },
+        "jet-setter": {
+            "name": "Svetovni popotnik",
+            "keywords": [
+                "kovček",
+                "klobuk",
+                "potovanje"
+            ]
+        },
+        "know-it-all": {
+            "name": "Vsevednež",
+            "keywords": [
+                "sova",
+                "diploma",
+                "pametno"
+            ]
+        },
+        "close-call": {
+            "name": "Za las",
+            "keywords": [
+                "gasilnik",
+                "varnost",
+                "nervozno"
+            ]
+        },
+        "on-the-job": {
+            "name": "Na delu",
+            "keywords": [
+                "zaščitna čelada",
+                "gradnja",
+                "brezrokavnik"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Volilna kampanja",
+            "keywords": [
+                "glasovanje",
+                "znak",
+                "volitve"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Hitra dostava",
+            "keywords": [
+                "dostava",
+                "čelada",
+                "škatla"
+            ]
+        },
+        "referee": {
+            "name": "Sodnik",
+            "keywords": [
+                "piščalka",
+                "sodnik",
+                "prekršek"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "zaščitna očala",
+                "čelada"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "čelada",
+                "zvezde",
+                "dirkač"
+            ]
+        },
+        "blue": {
+            "name": "Modri",
+            "keywords": [
+                "robot",
+                "antena",
+                "raziskovalec"
+            ]
+        },
+        "voter": {
+            "name": "Volivec",
+            "keywords": [
+                "glasovanje",
+                "volitve",
+                "glasovnica"
+            ]
+        },
+        "winner": {
+            "name": "Zmagovalec",
+            "keywords": [
+                "medalja",
+                "trak",
+                "pomežik"
+            ]
+        },
+        "chatty": {
+            "name": "Klepetav",
+            "keywords": [
+                "govorni oblaček",
+                "klepet",
+                "govoriti"
+            ]
+        },
+        "wanderer": {
+            "name": "Potepuh",
+            "keywords": [
+                "culica",
+                "potovanje",
+                "pustolovščina"
+            ]
+        },
+        "skipper": {
+            "name": "Kapitan",
+            "keywords": [
+                "mornar",
+                "kapa",
+                "čoln"
+            ]
+        },
+        "country-folk": {
+            "name": "Podeželan",
+            "keywords": [
+                "slamnik",
+                "kmetija",
+                "junijski praznik"
+            ]
+        },
+        "masked-up": {
+            "name": "Z masko",
+            "keywords": [
+                "maska za obraz",
+                "zdravje",
+                "varno"
+            ]
+        },
+        "workout-mode": {
+            "name": "Na treningu",
+            "keywords": [
+                "štoparica",
+                "naglavni trak",
+                "trening"
+            ]
+        },
+        "connected": {
+            "name": "Povezan",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

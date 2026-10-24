@@ -1,111 +1,6 @@
 {
     "name": "Otukset ja tavarat",
     "stickers": {
-        "30": {
-            "keywords": [
-                "kallio",
-                "kivi",
-                "nopea"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "karhu",
-                "kalastajanhattu",
-                "hymy"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapybara",
-                "lintu",
-                "rento"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "aivot",
-                "älykäs",
-                "ajatella"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "hampaat",
-                "purra"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "torahampaat",
-                "hampaat",
-                "virnistys"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "lehmä",
-                "ammuu",
-                "maatila"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "koira",
-                "corgi",
-                "kruunu"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "koira",
-                "corgi",
-                "silmänisku"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "koira",
-                "corgi",
-                "kruunu"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "lohikäärme",
-                "punainen",
-                "hirviö"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "käsi",
-                "silmä",
-                "suojelu"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "silmä",
-                "merkki",
-                "mysteeri"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "teekannu",
-                "tee",
-                "omena"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "lintu",
-                "lippalakki",
-                "puhua"
-            ]
-        },
         "8-bit": {
             "name": "8-bittinen",
             "keywords": [
@@ -242,22 +137,6 @@
                 "lounas"
             ]
         },
-        "magical": {
-            "name": "Maaginen",
-            "keywords": [
-                "yksisarvinen",
-                "sateenkaari",
-                "taikuus"
-            ]
-        },
-        "magical-2": {
-            "name": "Maaginen (2)",
-            "keywords": [
-                "taikuus",
-                "vaaleanpunainen",
-                "kuuluisa"
-            ]
-        },
         "open": {
             "name": "Avoin",
             "keywords": [
@@ -352,6 +231,142 @@
                 "susi",
                 "ulvonta",
                 "ovela"
+            ]
+        },
+        "capybara": {
+            "name": "Kapybara",
+            "keywords": [
+                "kapybara",
+                "lintu",
+                "rento"
+            ]
+        },
+        "parrot": {
+            "name": "Papukaija",
+            "keywords": [
+                "lintu",
+                "lippalakki",
+                "puhua"
+            ]
+        },
+        "blissful": {
+            "name": "Autuas",
+            "keywords": [
+                "lehmä",
+                "ammuu",
+                "maatila"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Vauhtikivi",
+            "keywords": [
+                "kallio",
+                "kivi",
+                "nopea"
+            ]
+        },
+        "big-brain": {
+            "name": "Älykkö",
+            "keywords": [
+                "aivot",
+                "älykäs",
+                "ajatella"
+            ]
+        },
+        "yellow": {
+            "name": "Keltainen",
+            "keywords": [
+                "torahampaat",
+                "hampaat",
+                "virnistys"
+            ]
+        },
+        "pampered": {
+            "name": "Hemmoteltu",
+            "keywords": [
+                "koira",
+                "corgi",
+                "kruunu"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Uskollinen",
+            "keywords": [
+                "koira",
+                "corgi",
+                "silmänisku"
+            ]
+        },
+        "playful-pup": {
+            "name": "Leikkisä pentu",
+            "keywords": [
+                "koira",
+                "corgi",
+                "kruunu"
+            ]
+        },
+        "red": {
+            "name": "Punainen",
+            "keywords": [
+                "lohikäärme",
+                "punainen",
+                "hirviö"
+            ]
+        },
+        "unicorn": {
+            "name": "Yksisarvinen",
+            "keywords": [
+                "yksisarvinen",
+                "sateenkaari",
+                "taikuus"
+            ]
+        },
+        "magical": {
+            "name": "Maaginen",
+            "keywords": [
+                "taikuus",
+                "vaaleanpunainen",
+                "kuuluisa"
+            ]
+        },
+        "visionary": {
+            "name": "Visionääri",
+            "keywords": [
+                "silmä",
+                "merkki",
+                "mysteeri"
+            ]
+        },
+        "focused": {
+            "name": "Keskittynyt",
+            "keywords": [
+                "käsi",
+                "silmä",
+                "suojelu"
+            ]
+        },
+        "kind": {
+            "name": "Ystävällinen",
+            "keywords": [
+                "karhu",
+                "kalastajanhattu",
+                "hymy"
+            ]
+        },
+        "zesty": {
+            "name": "Pirteä",
+            "keywords": [
+                "teekannu",
+                "tee",
+                "omena"
+            ]
+        },
+        "chomper": {
+            "name": "Haukkaaja",
+            "keywords": [
+                "dinosaurus",
+                "hampaat",
+                "purra"
             ]
         }
     }

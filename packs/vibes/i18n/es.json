@@ -1,167 +1,6 @@
 {
     "name": "Vibras",
     "stickers": {
-        "44": {
-            "keywords": [
-                "cuernos de carnero",
-                "gafas de sol",
-                "audaz"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "gafas de sol",
-                "rock"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "música",
-                "notas",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "tacón",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "tumbado",
-                "gorro de fiesta",
-                "relajado"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "auriculares con micro",
-                "escuchando",
-                "música"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "bombilla",
-                "gafas",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "burbujas",
-                "poción",
-                "feliz"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "destello",
-                "gafas de sol",
-                "elegante"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "auriculares",
-                "leopardo",
-                "música"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "micrófono",
-                "karaoke",
-                "cantar"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "extraterrestre",
-                "casco",
-                "espacio"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "auriculares",
-                "música",
-                "guay"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "gorra",
-                "al revés",
-                "mirada de reojo"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "gorra de hélice",
-                "bobo",
-                "niño"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificador",
-                "guitarra",
-                "música"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tambor",
-                "pandereta",
-                "guiño"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "bombilla",
-                "pensar",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "mano",
-                "saludo militar",
-                "saludo"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "gafas",
-                "listo",
-                "sonrisa burlona"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "gafas",
-                "rubia",
-                "estudiar"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "capa",
-                "héroe",
-                "gafas"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "corona",
-                "gafas de sol",
-                "rey"
-            ]
-        },
         "chill": {
             "name": "Relajado",
             "keywords": [
@@ -336,6 +175,182 @@
                 "puntiagudo",
                 "rubio",
                 "puchero"
+            ]
+        },
+        "homie": {
+            "name": "Colega",
+            "keywords": [
+                "bandana",
+                "gafas de sol",
+                "rock"
+            ]
+        },
+        "afterparty": {
+            "name": "After",
+            "keywords": [
+                "tumbado",
+                "gorro de fiesta",
+                "relajado"
+            ]
+        },
+        "boss": {
+            "name": "Jefaza",
+            "keywords": [
+                "auriculares",
+                "leopardo",
+                "música"
+            ]
+        },
+        "sly": {
+            "name": "Astuto",
+            "keywords": [
+                "gorra",
+                "al revés",
+                "mirada de reojo"
+            ]
+        },
+        "smug": {
+            "name": "Creído",
+            "keywords": [
+                "gafas",
+                "listo",
+                "sonrisa burlona"
+            ]
+        },
+        "bookish": {
+            "name": "Empollón",
+            "keywords": [
+                "gafas",
+                "rubia",
+                "estudiar"
+            ]
+        },
+        "royalty": {
+            "name": "Realeza",
+            "keywords": [
+                "corona",
+                "gafas de sol",
+                "rey"
+            ]
+        },
+        "dazzling": {
+            "name": "Deslumbrante",
+            "keywords": [
+                "destello",
+                "gafas de sol",
+                "elegante"
+            ]
+        },
+        "brainiac": {
+            "name": "Cerebrito",
+            "keywords": [
+                "bombilla",
+                "gafas",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "En la luna",
+            "keywords": [
+                "extraterrestre",
+                "casco",
+                "espacio"
+            ]
+        },
+        "cool": {
+            "name": "Guay",
+            "keywords": [
+                "auriculares",
+                "música",
+                "guay"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "bombilla",
+                "pensar",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Cazabugs",
+            "keywords": [
+                "burbujas",
+                "poción",
+                "feliz"
+            ]
+        },
+        "far-out": {
+            "name": "Rollo hippie",
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Estrella del karaoke",
+            "keywords": [
+                "micrófono",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "super-nerd": {
+            "name": "Superfriki",
+            "keywords": [
+                "capa",
+                "héroe",
+                "gafas"
+            ]
+        },
+        "wonderful": {
+            "name": "Maravillosa",
+            "keywords": [
+                "tacón",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "A tope",
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Al ritmo",
+            "keywords": [
+                "tambor",
+                "pandereta",
+                "guiño"
+            ]
+        },
+        "rambunctious": {
+            "name": "Alborotado",
+            "keywords": [
+                "cuernos de carnero",
+                "gafas de sol",
+                "audaz"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizado",
+            "keywords": [
+                "auriculares con micro",
+                "escuchando",
+                "música"
+            ]
+        },
+        "kiddo": {
+            "name": "Chaval",
+            "keywords": [
+                "gorra de hélice",
+                "bobo",
+                "niño"
             ]
         }
     }

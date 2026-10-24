@@ -1,167 +1,6 @@
 {
     "name": "Nálady",
     "stickers": {
-        "44": {
-            "keywords": [
-                "baraní rohy",
-                "slnečné okuliare",
-                "odvážny"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "slnečné okuliare",
-                "skala"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "hudba",
-                "noty",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "opätok",
-                "móda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "ležiaci",
-                "párty čiapka",
-                "uvoľnený"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "headset",
-                "počúvanie",
-                "hudba"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "žiarovka",
-                "okuliare",
-                "nápad"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bubliny",
-                "elixír",
-                "šťastný"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "iskra",
-                "slnečné okuliare",
-                "elegantný"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "slúchadlá",
-                "leopard",
-                "hudba"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofón",
-                "karaoke",
-                "spievať"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "mimozemšťan",
-                "helma",
-                "vesmír"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "slúchadlá",
-                "hudba",
-                "super"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "šiltovka",
-                "naopak",
-                "pohľad spod oka"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "čiapka s vrtuľkou",
-                "zábavný",
-                "dieťa"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "zosilňovač",
-                "gitara",
-                "hudba"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "bubon",
-                "tamburína",
-                "žmurknutie"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "žiarovka",
-                "premýšľať",
-                "nápad"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "ruka",
-                "pozdrav rukou",
-                "pozdrav"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "okuliare",
-                "múdry",
-                "úškrn"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "okuliare",
-                "blondína",
-                "štúdium"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "plášť",
-                "hrdina",
-                "okuliare"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "koruna",
-                "slnečné okuliare",
-                "kráľ"
-            ]
-        },
         "chill": {
             "name": "Pohoda",
             "keywords": [
@@ -336,6 +175,182 @@
                 "ostnatý",
                 "blondiak",
                 "našpúlené pery"
+            ]
+        },
+        "homie": {
+            "name": "Kámoš",
+            "keywords": [
+                "bandana",
+                "slnečné okuliare",
+                "skala"
+            ]
+        },
+        "afterparty": {
+            "name": "Afterpárty",
+            "keywords": [
+                "ležiaci",
+                "párty čiapka",
+                "uvoľnený"
+            ]
+        },
+        "boss": {
+            "name": "Šéfka",
+            "keywords": [
+                "slúchadlá",
+                "leopard",
+                "hudba"
+            ]
+        },
+        "sly": {
+            "name": "Prefíkaný",
+            "keywords": [
+                "šiltovka",
+                "naopak",
+                "pohľad spod oka"
+            ]
+        },
+        "smug": {
+            "name": "Namyslený",
+            "keywords": [
+                "okuliare",
+                "múdry",
+                "úškrn"
+            ]
+        },
+        "bookish": {
+            "name": "Knihomoľ",
+            "keywords": [
+                "okuliare",
+                "blondína",
+                "štúdium"
+            ]
+        },
+        "royalty": {
+            "name": "Výsosť",
+            "keywords": [
+                "koruna",
+                "slnečné okuliare",
+                "kráľ"
+            ]
+        },
+        "dazzling": {
+            "name": "Oslnivý",
+            "keywords": [
+                "iskra",
+                "slnečné okuliare",
+                "elegantný"
+            ]
+        },
+        "brainiac": {
+            "name": "Mozog",
+            "keywords": [
+                "žiarovka",
+                "okuliare",
+                "nápad"
+            ]
+        },
+        "spaced-out": {
+            "name": "Úplne mimo",
+            "keywords": [
+                "mimozemšťan",
+                "helma",
+                "vesmír"
+            ]
+        },
+        "cool": {
+            "name": "Frajer",
+            "keywords": [
+                "slúchadlá",
+                "hudba",
+                "super"
+            ]
+        },
+        "eureka": {
+            "name": "Heuréka",
+            "keywords": [
+                "žiarovka",
+                "premýšľať",
+                "nápad"
+            ]
+        },
+        "bug-buster": {
+            "name": "Lovec bugov",
+            "keywords": [
+                "bubliny",
+                "elixír",
+                "šťastný"
+            ]
+        },
+        "far-out": {
+            "name": "Úlet",
+            "keywords": [
+                "hudba",
+                "noty",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Hviezda karaoke",
+            "keywords": [
+                "mikrofón",
+                "karaoke",
+                "spievať"
+            ]
+        },
+        "super-nerd": {
+            "name": "Superšprt",
+            "keywords": [
+                "plášť",
+                "hrdina",
+                "okuliare"
+            ]
+        },
+        "wonderful": {
+            "name": "Úžasná",
+            "keywords": [
+                "opätok",
+                "móda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Nabitý",
+            "keywords": [
+                "zosilňovač",
+                "gitara",
+                "hudba"
+            ]
+        },
+        "on-the-beat": {
+            "name": "V rytme",
+            "keywords": [
+                "bubon",
+                "tamburína",
+                "žmurknutie"
+            ]
+        },
+        "rambunctious": {
+            "name": "Rozjašený",
+            "keywords": [
+                "baraní rohy",
+                "slnečné okuliare",
+                "odvážny"
+            ]
+        },
+        "tuned-in": {
+            "name": "Naladený",
+            "keywords": [
+                "headset",
+                "počúvanie",
+                "hudba"
+            ]
+        },
+        "kiddo": {
+            "name": "Drobec",
+            "keywords": [
+                "čiapka s vrtuľkou",
+                "zábavný",
+                "dieťa"
             ]
         }
     }

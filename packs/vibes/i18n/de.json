@@ -1,167 +1,6 @@
 {
     "name": "Vibes",
     "stickers": {
-        "44": {
-            "keywords": [
-                "Widderhörner",
-                "Sonnenbrille",
-                "kühn"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "Bandana",
-                "Sonnenbrille",
-                "Fels"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "Musik",
-                "Noten",
-                "Hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "High Heel",
-                "Mode",
-                "Diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "liegend",
-                "Partyhut",
-                "entspannt"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "Headset",
-                "zuhören",
-                "Musik"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "Glühbirne",
-                "Brille",
-                "Idee"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "Blasen",
-                "Zaubertrank",
-                "glücklich"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "funkeln",
-                "Sonnenbrille",
-                "elegant"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "Kopfhörer",
-                "Leopard",
-                "Musik"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "Mikrofon",
-                "Karaoke",
-                "singen"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "Außerirdischer",
-                "Helm",
-                "Weltraum"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "Kopfhörer",
-                "Musik",
-                "cool"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "Mütze",
-                "rückwärts",
-                "Seitenblick"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "Propellermütze",
-                "albern",
-                "Kind"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "Verstärker",
-                "Gitarre",
-                "Musik"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "Trommel",
-                "Tamburin",
-                "zwinkern"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "Glühbirne",
-                "denken",
-                "Idee"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "Hand",
-                "Gruß",
-                "Begrüßung"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "Brille",
-                "schlau",
-                "Schmunzeln"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "Brille",
-                "blond",
-                "lernen"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "Umhang",
-                "Held",
-                "Brille"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "Krone",
-                "Sonnenbrille",
-                "König"
-            ]
-        },
         "chill": {
             "name": "Chillig",
             "keywords": [
@@ -336,6 +175,182 @@
                 "spitz",
                 "blond",
                 "Schmollmund"
+            ]
+        },
+        "homie": {
+            "name": "Kumpel",
+            "keywords": [
+                "Bandana",
+                "Sonnenbrille",
+                "Fels"
+            ]
+        },
+        "afterparty": {
+            "name": "Afterparty",
+            "keywords": [
+                "liegend",
+                "Partyhut",
+                "entspannt"
+            ]
+        },
+        "boss": {
+            "name": "Chefin",
+            "keywords": [
+                "Kopfhörer",
+                "Leopard",
+                "Musik"
+            ]
+        },
+        "sly": {
+            "name": "Gerissen",
+            "keywords": [
+                "Mütze",
+                "rückwärts",
+                "Seitenblick"
+            ]
+        },
+        "smug": {
+            "name": "Selbstgefällig",
+            "keywords": [
+                "Brille",
+                "schlau",
+                "Schmunzeln"
+            ]
+        },
+        "bookish": {
+            "name": "Bücherwurm",
+            "keywords": [
+                "Brille",
+                "blond",
+                "lernen"
+            ]
+        },
+        "royalty": {
+            "name": "Majestät",
+            "keywords": [
+                "Krone",
+                "Sonnenbrille",
+                "König"
+            ]
+        },
+        "dazzling": {
+            "name": "Strahlend",
+            "keywords": [
+                "funkeln",
+                "Sonnenbrille",
+                "elegant"
+            ]
+        },
+        "brainiac": {
+            "name": "Superhirn",
+            "keywords": [
+                "Glühbirne",
+                "Brille",
+                "Idee"
+            ]
+        },
+        "spaced-out": {
+            "name": "Weggetreten",
+            "keywords": [
+                "Außerirdischer",
+                "Helm",
+                "Weltraum"
+            ]
+        },
+        "cool": {
+            "name": "Lässig",
+            "keywords": [
+                "Kopfhörer",
+                "Musik",
+                "cool"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "Glühbirne",
+                "denken",
+                "Idee"
+            ]
+        },
+        "bug-buster": {
+            "name": "Bug-Jäger",
+            "keywords": [
+                "Blasen",
+                "Zaubertrank",
+                "glücklich"
+            ]
+        },
+        "far-out": {
+            "name": "Abgefahren",
+            "keywords": [
+                "Musik",
+                "Noten",
+                "Hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaoke-Star",
+            "keywords": [
+                "Mikrofon",
+                "Karaoke",
+                "singen"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernerd",
+            "keywords": [
+                "Umhang",
+                "Held",
+                "Brille"
+            ]
+        },
+        "wonderful": {
+            "name": "Wunderbar",
+            "keywords": [
+                "High Heel",
+                "Mode",
+                "Diva"
+            ]
+        },
+        "amped": {
+            "name": "Aufgedreht",
+            "keywords": [
+                "Verstärker",
+                "Gitarre",
+                "Musik"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Im Takt",
+            "keywords": [
+                "Trommel",
+                "Tamburin",
+                "zwinkern"
+            ]
+        },
+        "rambunctious": {
+            "name": "Ungestüm",
+            "keywords": [
+                "Widderhörner",
+                "Sonnenbrille",
+                "kühn"
+            ]
+        },
+        "tuned-in": {
+            "name": "Ganz Ohr",
+            "keywords": [
+                "Headset",
+                "zuhören",
+                "Musik"
+            ]
+        },
+        "kiddo": {
+            "name": "Knirps",
+            "keywords": [
+                "Propellermütze",
+                "albern",
+                "Kind"
             ]
         }
     }

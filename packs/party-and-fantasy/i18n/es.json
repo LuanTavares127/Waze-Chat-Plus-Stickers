@@ -1,111 +1,6 @@
 {
     "name": "Fiesta, Zodiaco y Fantasía",
     "stickers": {
-        "31": {
-            "keywords": [
-                "muñeco de nieve",
-                "invierno",
-                "bufanda"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "gorro de fiesta",
-                "cumpleaños",
-                "celebrar"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "vikingo",
-                "casco",
-                "chincheta de mapa"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bufón",
-                "sombrero",
-                "risa"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "navidad",
-                "papá noel",
-                "gafas de sol"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "mago",
-                "sombrero",
-                "magia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "bruja",
-                "sombrero",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnaval",
-                "tocado",
-                "plumas"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "bufanda",
-                "gorro",
-                "invierno"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnaval",
-                "máscara",
-                "fiesta"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "año nuevo",
-                "2026",
-                "fiesta"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "vikingo",
-                "martillo",
-                "escudo"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "invierno",
-                "gorro",
-                "frío"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "guardia",
-                "londres",
-                "sombrero"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "sombrero de copa",
-                "té",
-                "país de las maravillas"
-            ]
-        },
         "aries": {
             "name": "Aries",
             "keywords": [
@@ -376,6 +271,126 @@
                 "héroe",
                 "tiara",
                 "poder"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Modo cumple",
+            "keywords": [
+                "gorro de fiesta",
+                "cumpleaños",
+                "celebrar"
+            ]
+        },
+        "witchy": {
+            "name": "Brujilla",
+            "keywords": [
+                "bruja",
+                "sombrero",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Valeroso",
+            "keywords": [
+                "vikingo",
+                "martillo",
+                "escudo"
+            ]
+        },
+        "stern-guard": {
+            "name": "Guardia serio",
+            "keywords": [
+                "guardia",
+                "londres",
+                "sombrero"
+            ]
+        },
+        "snowman": {
+            "name": "Muñeco de nieve",
+            "keywords": [
+                "muñeco de nieve",
+                "invierno",
+                "bufanda"
+            ]
+        },
+        "map-raider": {
+            "name": "Saqueador de mapas",
+            "keywords": [
+                "vikingo",
+                "casco",
+                "chincheta de mapa"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hola 2026",
+            "keywords": [
+                "año nuevo",
+                "2026",
+                "fiesta"
+            ]
+        },
+        "cool-santa": {
+            "name": "Papá Noel molón",
+            "keywords": [
+                "navidad",
+                "papá noel",
+                "gafas de sol"
+            ]
+        },
+        "spicy": {
+            "name": "Picante",
+            "keywords": [
+                "sombrero de copa",
+                "té",
+                "país de las maravillas"
+            ]
+        },
+        "jester": {
+            "name": "Bufón",
+            "keywords": [
+                "bufón",
+                "sombrero",
+                "risa"
+            ]
+        },
+        "wizard": {
+            "name": "Mago",
+            "keywords": [
+                "mago",
+                "sombrero",
+                "magia"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambista",
+            "keywords": [
+                "carnaval",
+                "tocado",
+                "plumas"
+            ]
+        },
+        "cozy": {
+            "name": "Calentito",
+            "keywords": [
+                "bufanda",
+                "gorro",
+                "invierno"
+            ]
+        },
+        "masquerade": {
+            "name": "Enmascarado",
+            "keywords": [
+                "carnaval",
+                "máscara",
+                "fiesta"
+            ]
+        },
+        "bundled-up": {
+            "name": "Bien abrigado",
+            "keywords": [
+                "invierno",
+                "gorro",
+                "frío"
             ]
         }
     }

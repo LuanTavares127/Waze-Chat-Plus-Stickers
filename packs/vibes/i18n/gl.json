@@ -1,167 +1,6 @@
 {
     "name": "Vibracións",
     "stickers": {
-        "44": {
-            "keywords": [
-                "cornos de carneiro",
-                "lentes de sol",
-                "audaz"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "lentes de sol",
-                "rocha"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "música",
-                "notas",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "tacón alto",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "deitado",
-                "gorro de festa",
-                "relaxado"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "auriculares con micro",
-                "escoitando",
-                "música"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "bombilla",
-                "lentes",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "burbullas",
-                "poción",
-                "feliz"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "brillo",
-                "lentes de sol",
-                "elegante"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "auriculares",
-                "leopardo",
-                "música"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "micrófono",
-                "karaoke",
-                "cantar"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "alieníxena",
-                "casco",
-                "espazo"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "auriculares",
-                "música",
-                "guay"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "gorra",
-                "ao revés",
-                "ollada de esguello"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "gorra con hélice",
-                "parvo",
-                "neno"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificador",
-                "guitarra",
-                "música"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tambor",
-                "pandeireta",
-                "guiño"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "bombilla",
-                "pensar",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "man",
-                "saúdo",
-                "saúdo"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "lentes",
-                "listo",
-                "sorriso pillo"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "lentes",
-                "loira",
-                "estudar"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "capa",
-                "heroe",
-                "lentes"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "coroa",
-                "lentes de sol",
-                "rei"
-            ]
-        },
         "chill": {
             "name": "Relaxado",
             "keywords": [
@@ -336,6 +175,182 @@
                 "espiñento",
                 "loiro",
                 "bico"
+            ]
+        },
+        "homie": {
+            "name": "Colega",
+            "keywords": [
+                "bandana",
+                "lentes de sol",
+                "rocha"
+            ]
+        },
+        "afterparty": {
+            "name": "Despois da festa",
+            "keywords": [
+                "deitado",
+                "gorro de festa",
+                "relaxado"
+            ]
+        },
+        "boss": {
+            "name": "Poderosa",
+            "keywords": [
+                "auriculares",
+                "leopardo",
+                "música"
+            ]
+        },
+        "sly": {
+            "name": "Pillo",
+            "keywords": [
+                "gorra",
+                "ao revés",
+                "ollada de esguello"
+            ]
+        },
+        "smug": {
+            "name": "Fachendoso",
+            "keywords": [
+                "lentes",
+                "listo",
+                "sorriso pillo"
+            ]
+        },
+        "bookish": {
+            "name": "Estudoso",
+            "keywords": [
+                "lentes",
+                "loira",
+                "estudar"
+            ]
+        },
+        "royalty": {
+            "name": "Realeza",
+            "keywords": [
+                "coroa",
+                "lentes de sol",
+                "rei"
+            ]
+        },
+        "dazzling": {
+            "name": "Deslumbrante",
+            "keywords": [
+                "brillo",
+                "lentes de sol",
+                "elegante"
+            ]
+        },
+        "brainiac": {
+            "name": "Cerebriño",
+            "keywords": [
+                "bombilla",
+                "lentes",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "Na lúa",
+            "keywords": [
+                "alieníxena",
+                "casco",
+                "espazo"
+            ]
+        },
+        "cool": {
+            "name": "Molón",
+            "keywords": [
+                "auriculares",
+                "música",
+                "guay"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "bombilla",
+                "pensar",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Cazabugs",
+            "keywords": [
+                "burbullas",
+                "poción",
+                "feliz"
+            ]
+        },
+        "far-out": {
+            "name": "Hippie",
+            "keywords": [
+                "música",
+                "notas",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Estrela do karaoke",
+            "keywords": [
+                "micrófono",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernerd",
+            "keywords": [
+                "capa",
+                "heroe",
+                "lentes"
+            ]
+        },
+        "wonderful": {
+            "name": "Marabillosa",
+            "keywords": [
+                "tacón alto",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "A tope",
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Ao ritmo",
+            "keywords": [
+                "tambor",
+                "pandeireta",
+                "guiño"
+            ]
+        },
+        "rambunctious": {
+            "name": "Revoltoso",
+            "keywords": [
+                "cornos de carneiro",
+                "lentes de sol",
+                "audaz"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizado",
+            "keywords": [
+                "auriculares con micro",
+                "escoitando",
+                "música"
+            ]
+        },
+        "kiddo": {
+            "name": "Rapaciño",
+            "keywords": [
+                "gorra con hélice",
+                "parvo",
+                "neno"
             ]
         }
     }

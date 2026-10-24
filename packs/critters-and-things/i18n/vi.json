@@ -1,111 +1,6 @@
 {
     "name": "Thú vật & đồ vật",
     "stickers": {
-        "30": {
-            "keywords": [
-                "đá",
-                "hòn đá",
-                "nhanh"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "gấu",
-                "mũ bucket",
-                "mỉm cười"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capybara",
-                "chim",
-                "thư giãn"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "não",
-                "thông minh",
-                "suy nghĩ"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "khủng long",
-                "răng",
-                "cắn"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "nanh",
-                "răng",
-                "cười toe"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "bò",
-                "ò ò",
-                "nông trại"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "chó",
-                "corgi",
-                "vương miện"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "chó",
-                "corgi",
-                "nháy mắt"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "chó",
-                "corgi",
-                "vương miện"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "rồng",
-                "đỏ",
-                "quái vật"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "tay",
-                "mắt",
-                "bảo vệ"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "mắt",
-                "biển hiệu",
-                "bí ẩn"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "ấm trà",
-                "trà",
-                "táo"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "chim",
-                "mũ lưỡi trai",
-                "nói chuyện"
-            ]
-        },
         "8-bit": {
             "name": "8-bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "bữa trưa"
             ]
         },
-        "magical": {
-            "name": "Kỳ diệu",
-            "keywords": [
-                "kỳ lân",
-                "cầu vồng",
-                "phép thuật"
-            ]
-        },
-        "magical-2": {
-            "name": "Kỳ diệu (2)",
-            "keywords": [
-                "phép thuật",
-                "hồng",
-                "nổi tiếng"
-            ]
-        },
         "open": {
             "name": "Cởi mở",
             "keywords": [
@@ -352,6 +231,142 @@
                 "sói",
                 "hú",
                 "ranh mãnh"
+            ]
+        },
+        "capybara": {
+            "name": "Chuột lang nước",
+            "keywords": [
+                "capybara",
+                "chim",
+                "thư giãn"
+            ]
+        },
+        "parrot": {
+            "name": "Vẹt",
+            "keywords": [
+                "chim",
+                "mũ lưỡi trai",
+                "nói chuyện"
+            ]
+        },
+        "blissful": {
+            "name": "Thảnh thơi",
+            "keywords": [
+                "bò",
+                "ò ò",
+                "nông trại"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Đá tốc độ",
+            "keywords": [
+                "đá",
+                "hòn đá",
+                "nhanh"
+            ]
+        },
+        "big-brain": {
+            "name": "Não to",
+            "keywords": [
+                "não",
+                "thông minh",
+                "suy nghĩ"
+            ]
+        },
+        "yellow": {
+            "name": "Vàng",
+            "keywords": [
+                "nanh",
+                "răng",
+                "cười toe"
+            ]
+        },
+        "pampered": {
+            "name": "Được nuông chiều",
+            "keywords": [
+                "chó",
+                "corgi",
+                "vương miện"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Trung thành",
+            "keywords": [
+                "chó",
+                "corgi",
+                "nháy mắt"
+            ]
+        },
+        "playful-pup": {
+            "name": "Cún tinh nghịch",
+            "keywords": [
+                "chó",
+                "corgi",
+                "vương miện"
+            ]
+        },
+        "red": {
+            "name": "Đỏ",
+            "keywords": [
+                "rồng",
+                "đỏ",
+                "quái vật"
+            ]
+        },
+        "unicorn": {
+            "name": "Kỳ lân",
+            "keywords": [
+                "kỳ lân",
+                "cầu vồng",
+                "phép thuật"
+            ]
+        },
+        "magical": {
+            "name": "Diệu kỳ",
+            "keywords": [
+                "phép thuật",
+                "hồng",
+                "nổi tiếng"
+            ]
+        },
+        "visionary": {
+            "name": "Tầm nhìn xa",
+            "keywords": [
+                "mắt",
+                "biển hiệu",
+                "bí ẩn"
+            ]
+        },
+        "focused": {
+            "name": "Tập trung",
+            "keywords": [
+                "tay",
+                "mắt",
+                "bảo vệ"
+            ]
+        },
+        "kind": {
+            "name": "Tốt bụng",
+            "keywords": [
+                "gấu",
+                "mũ bucket",
+                "mỉm cười"
+            ]
+        },
+        "zesty": {
+            "name": "Sôi nổi",
+            "keywords": [
+                "ấm trà",
+                "trà",
+                "táo"
+            ]
+        },
+        "chomper": {
+            "name": "Nhe răng",
+            "keywords": [
+                "khủng long",
+                "răng",
+                "cắn"
             ]
         }
     }

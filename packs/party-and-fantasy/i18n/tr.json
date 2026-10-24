@@ -1,111 +1,6 @@
 {
     "name": "Parti, Burçlar ve Fantezi",
     "stickers": {
-        "31": {
-            "keywords": [
-                "kardan adam",
-                "kış",
-                "atkı"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "parti şapkası",
-                "doğum günü",
-                "kutlamak"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "kask",
-                "harita iğnesi"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "soytarı",
-                "şapka",
-                "kahkaha"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "noel",
-                "noel baba",
-                "güneş gözlüğü"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "büyücü",
-                "şapka",
-                "sihir"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "cadı",
-                "şapka",
-                "cadılar bayramı"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnaval",
-                "başlık",
-                "tüy"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "atkı",
-                "bere",
-                "kış"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnaval",
-                "maske",
-                "parti"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "yeni yıl",
-                "2026",
-                "parti"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "çekiç",
-                "kalkan"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "kış",
-                "bere",
-                "soğuk"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "muhafız",
-                "londra",
-                "şapka"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "silindir şapka",
-                "çay",
-                "harikalar diyarı"
-            ]
-        },
         "aries": {
             "name": "Koç",
             "keywords": [
@@ -376,6 +271,126 @@
                 "kahraman",
                 "tiyara",
                 "güç"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Doğum günü havası",
+            "keywords": [
+                "parti şapkası",
+                "doğum günü",
+                "kutlamak"
+            ]
+        },
+        "witchy": {
+            "name": "Cadı",
+            "keywords": [
+                "cadı",
+                "şapka",
+                "cadılar bayramı"
+            ]
+        },
+        "valiant": {
+            "name": "Yiğit",
+            "keywords": [
+                "viking",
+                "çekiç",
+                "kalkan"
+            ]
+        },
+        "stern-guard": {
+            "name": "Sert muhafız",
+            "keywords": [
+                "muhafız",
+                "londra",
+                "şapka"
+            ]
+        },
+        "snowman": {
+            "name": "Kardan adam",
+            "keywords": [
+                "kardan adam",
+                "kış",
+                "atkı"
+            ]
+        },
+        "map-raider": {
+            "name": "Harita akıncısı",
+            "keywords": [
+                "viking",
+                "kask",
+                "harita iğnesi"
+            ]
+        },
+        "hello-2026": {
+            "name": "Merhaba 2026",
+            "keywords": [
+                "yeni yıl",
+                "2026",
+                "parti"
+            ]
+        },
+        "cool-santa": {
+            "name": "Havalı Noel Baba",
+            "keywords": [
+                "noel",
+                "noel baba",
+                "güneş gözlüğü"
+            ]
+        },
+        "spicy": {
+            "name": "Ateşli",
+            "keywords": [
+                "silindir şapka",
+                "çay",
+                "harikalar diyarı"
+            ]
+        },
+        "jester": {
+            "name": "Soytarı",
+            "keywords": [
+                "soytarı",
+                "şapka",
+                "kahkaha"
+            ]
+        },
+        "wizard": {
+            "name": "Büyücü",
+            "keywords": [
+                "büyücü",
+                "şapka",
+                "sihir"
+            ]
+        },
+        "samba-star": {
+            "name": "Samba yıldızı",
+            "keywords": [
+                "karnaval",
+                "başlık",
+                "tüy"
+            ]
+        },
+        "cozy": {
+            "name": "Sıcacık",
+            "keywords": [
+                "atkı",
+                "bere",
+                "kış"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskeli balo",
+            "keywords": [
+                "karnaval",
+                "maske",
+                "parti"
+            ]
+        },
+        "bundled-up": {
+            "name": "Kat kat giyinmiş",
+            "keywords": [
+                "kış",
+                "bere",
+                "soğuk"
             ]
         }
     }

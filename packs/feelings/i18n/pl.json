@@ -1,97 +1,6 @@
 {
     "name": "Uczucia",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasyczny",
-                "cześć",
-                "szczęśliwy"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "łza",
-                "smutny",
-                "szlafmyca"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "pusty",
-                "neutralny",
-                "zwyczajny"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "miłość",
-                "serce",
-                "słodki"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "rodzic",
-                "dziecko",
-                "rodzina"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "płacz",
-                "zdenerwowany",
-                "rozpacz"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "chory",
-                "mdłości",
-                "niedobrze"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "niezręcznie",
-                "nieswojo",
-                "fuj"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "podekscytowany",
-                "hurra",
-                "skrzydła"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "szczęśliwy",
-                "śmiech",
-                "kapelusz"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "wściekły",
-                "zirytowany",
-                "marszczenie brwi"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "pytanie",
-                "co",
-                "wątpliwość"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotos",
-                "medytacja",
-                "spokój"
-            ]
-        },
         "amazing": {
             "name": "Niesamowity",
             "keywords": [
@@ -354,6 +263,110 @@
                 "duma",
                 "tęcza",
                 "serce"
+            ]
+        },
+        "puzzled": {
+            "name": "Zdziwiony",
+            "keywords": [
+                "pytanie",
+                "co",
+                "wątpliwość"
+            ]
+        },
+        "grounded": {
+            "name": "Wyciszony",
+            "keywords": [
+                "lotos",
+                "medytacja",
+                "spokój"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasyczny",
+                "cześć",
+                "szczęśliwy"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "łza",
+                "smutny",
+                "szlafmyca"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerowa twarz",
+            "keywords": [
+                "pusty",
+                "neutralny",
+                "zwyczajny"
+            ]
+        },
+        "sweetheart": {
+            "name": "Kochanie",
+            "keywords": [
+                "miłość",
+                "serce",
+                "słodki"
+            ]
+        },
+        "family": {
+            "name": "Rodzina",
+            "keywords": [
+                "rodzic",
+                "dziecko",
+                "rodzina"
+            ]
+        },
+        "fuming": {
+            "name": "Wściekły",
+            "keywords": [
+                "wściekły",
+                "zirytowany",
+                "marszczenie brwi"
+            ]
+        },
+        "distraught": {
+            "name": "Zrozpaczony",
+            "keywords": [
+                "płacz",
+                "zdenerwowany",
+                "rozpacz"
+            ]
+        },
+        "queasy": {
+            "name": "Mdłości",
+            "keywords": [
+                "chory",
+                "mdłości",
+                "niedobrze"
+            ]
+        },
+        "uneasy": {
+            "name": "Niezręcznie",
+            "keywords": [
+                "niezręcznie",
+                "nieswojo",
+                "fuj"
+            ]
+        },
+        "ecstatic": {
+            "name": "W siódmym niebie",
+            "keywords": [
+                "podekscytowany",
+                "hurra",
+                "skrzydła"
+            ]
+        },
+        "cheerful": {
+            "name": "Wesoły",
+            "keywords": [
+                "szczęśliwy",
+                "śmiech",
+                "kapelusz"
             ]
         }
     }

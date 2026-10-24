@@ -1,167 +1,6 @@
 {
     "name": "Giroak",
     "stickers": {
-        "44": {
-            "keywords": [
-                "ahari-adarrak",
-                "eguzkitako betaurrekoak",
-                "ausarta"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "eguzkitako betaurrekoak",
-                "rocka"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musika",
-                "notak",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "takoia",
-                "moda",
-                "diba"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "etzanda",
-                "jai-kapela",
-                "lasai"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "aurikular mikrofonoduna",
-                "entzuten",
-                "musika"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "bonbilla",
-                "betaurrekoak",
-                "ideia"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "burbuilak",
-                "edabea",
-                "pozik"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "dirdira",
-                "eguzkitako betaurrekoak",
-                "dotorea"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "aurikularrak",
-                "lehoinabarra",
-                "musika"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofonoa",
-                "karaokea",
-                "abestu"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "estralurtarra",
-                "kaskoa",
-                "espazioa"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "aurikularrak",
-                "musika",
-                "dotorea"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "txapela",
-                "atzekoz aurrera",
-                "begirada zeharka"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "helize-txanoa",
-                "alua",
-                "umea"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "anplifikadorea",
-                "gitarra",
-                "musika"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "danbor",
-                "pandereta",
-                "begi-keinua"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "bonbilla",
-                "pentsatu",
-                "ideia"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "eskua",
-                "agurra",
-                "agurtu"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "betaurrekoak",
-                "argia",
-                "irribarre iraingarria"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "betaurrekoak",
-                "ilehoria",
-                "ikasi"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "kapa",
-                "heroia",
-                "betaurrekoak"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "koroa",
-                "eguzkitako betaurrekoak",
-                "erregea"
-            ]
-        },
         "chill": {
             "name": "Lasai",
             "keywords": [
@@ -336,6 +175,182 @@
                 "ziztrinkorra",
                 "ilehoria",
                 "ezpain-ximur"
+            ]
+        },
+        "homie": {
+            "name": "Laguna",
+            "keywords": [
+                "bandana",
+                "eguzkitako betaurrekoak",
+                "rocka"
+            ]
+        },
+        "afterparty": {
+            "name": "Festa ostean",
+            "keywords": [
+                "etzanda",
+                "jai-kapela",
+                "lasai"
+            ]
+        },
+        "boss": {
+            "name": "Nagusia",
+            "keywords": [
+                "aurikularrak",
+                "lehoinabarra",
+                "musika"
+            ]
+        },
+        "sly": {
+            "name": "Maltzurra",
+            "keywords": [
+                "txapela",
+                "atzekoz aurrera",
+                "begirada zeharka"
+            ]
+        },
+        "smug": {
+            "name": "Harroputza",
+            "keywords": [
+                "betaurrekoak",
+                "argia",
+                "irribarre iraingarria"
+            ]
+        },
+        "bookish": {
+            "name": "Ikasle saiatua",
+            "keywords": [
+                "betaurrekoak",
+                "ilehoria",
+                "ikasi"
+            ]
+        },
+        "royalty": {
+            "name": "Erregetza",
+            "keywords": [
+                "koroa",
+                "eguzkitako betaurrekoak",
+                "erregea"
+            ]
+        },
+        "dazzling": {
+            "name": "Liluragarria",
+            "keywords": [
+                "dirdira",
+                "eguzkitako betaurrekoak",
+                "dotorea"
+            ]
+        },
+        "brainiac": {
+            "name": "Buruargia",
+            "keywords": [
+                "bonbilla",
+                "betaurrekoak",
+                "ideia"
+            ]
+        },
+        "spaced-out": {
+            "name": "Ilargian",
+            "keywords": [
+                "estralurtarra",
+                "kaskoa",
+                "espazioa"
+            ]
+        },
+        "cool": {
+            "name": "Dotorea",
+            "keywords": [
+                "aurikularrak",
+                "musika",
+                "dotorea"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "bonbilla",
+                "pentsatu",
+                "ideia"
+            ]
+        },
+        "bug-buster": {
+            "name": "Akats-ehiztaria",
+            "keywords": [
+                "burbuilak",
+                "edabea",
+                "pozik"
+            ]
+        },
+        "far-out": {
+            "name": "Hippya",
+            "keywords": [
+                "musika",
+                "notak",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaokeko izarra",
+            "keywords": [
+                "mikrofonoa",
+                "karaokea",
+                "abestu"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super nerda",
+            "keywords": [
+                "kapa",
+                "heroia",
+                "betaurrekoak"
+            ]
+        },
+        "wonderful": {
+            "name": "Zoragarria",
+            "keywords": [
+                "takoia",
+                "moda",
+                "diba"
+            ]
+        },
+        "amped": {
+            "name": "Gori-gori",
+            "keywords": [
+                "anplifikadorea",
+                "gitarra",
+                "musika"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Erritmoan",
+            "keywords": [
+                "danbor",
+                "pandereta",
+                "begi-keinua"
+            ]
+        },
+        "rambunctious": {
+            "name": "Bihurria",
+            "keywords": [
+                "ahari-adarrak",
+                "eguzkitako betaurrekoak",
+                "ausarta"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonizatuta",
+            "keywords": [
+                "aurikular mikrofonoduna",
+                "entzuten",
+                "musika"
+            ]
+        },
+        "kiddo": {
+            "name": "Mutikoa",
+            "keywords": [
+                "helize-txanoa",
+                "alua",
+                "umea"
             ]
         }
     }

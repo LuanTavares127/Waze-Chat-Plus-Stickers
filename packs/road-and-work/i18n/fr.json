@@ -1,160 +1,6 @@
 {
     "name": "Sur la route et au travail",
     "stickers": {
-        "18": {
-            "keywords": [
-                "baluchon",
-                "voyage",
-                "aventure"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "potion",
-                "lunettes",
-                "labo"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "explorateur",
-                "chapeau",
-                "aventure"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "appareil photo",
-                "drapeau",
-                "visite touristique"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "marin",
-                "casquette",
-                "bateau"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "valise",
-                "chapeau",
-                "voyage"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilote",
-                "lunettes de protection",
-                "casque"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "hibou",
-                "remise de diplôme",
-                "intelligent"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "extincteur",
-                "sécurité",
-                "nerveux"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "casque de chantier",
-                "chantier",
-                "gilet"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "chapeau de paille",
-                "ferme",
-                "fête de juin"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "casque",
-                "étoiles",
-                "pilote de course"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "masque facial",
-                "santé",
-                "sûr"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "chronomètre",
-                "bandeau",
-                "entraînement"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "vote",
-                "élection",
-                "bulletin de vote"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "vote",
-                "signe",
-                "élection"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "médaille",
-                "ruban",
-                "clin d'œil"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "livraison",
-                "casque",
-                "boîte"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenna",
-                "explorateur"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "bulle de dialogue",
-                "discussion",
-                "parler"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "sifflet",
-                "arbitre",
-                "faute"
-            ]
-        },
         "road-warrior": {
             "name": "Guerrier de la route",
             "keywords": [
@@ -345,6 +191,182 @@
                 "casque",
                 "moto",
                 "précipitation"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Savant fou",
+            "keywords": [
+                "potion",
+                "lunettes",
+                "labo"
+            ]
+        },
+        "explorer": {
+            "name": "Explorateur",
+            "keywords": [
+                "explorateur",
+                "chapeau",
+                "aventure"
+            ]
+        },
+        "sightseer": {
+            "name": "Touriste",
+            "keywords": [
+                "appareil photo",
+                "drapeau",
+                "visite touristique"
+            ]
+        },
+        "jet-setter": {
+            "name": "Globe-trotteur",
+            "keywords": [
+                "valise",
+                "chapeau",
+                "voyage"
+            ]
+        },
+        "know-it-all": {
+            "name": "Je-sais-tout",
+            "keywords": [
+                "hibou",
+                "remise de diplôme",
+                "intelligent"
+            ]
+        },
+        "close-call": {
+            "name": "De justesse",
+            "keywords": [
+                "extincteur",
+                "sécurité",
+                "nerveux"
+            ]
+        },
+        "on-the-job": {
+            "name": "Au boulot",
+            "keywords": [
+                "casque de chantier",
+                "chantier",
+                "gilet"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Mode campagne",
+            "keywords": [
+                "vote",
+                "signe",
+                "élection"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Livraison express",
+            "keywords": [
+                "livraison",
+                "casque",
+                "boîte"
+            ]
+        },
+        "referee": {
+            "name": "Arbitre",
+            "keywords": [
+                "sifflet",
+                "arbitre",
+                "faute"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilote",
+                "lunettes de protection",
+                "casque"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "casque",
+                "étoiles",
+                "pilote de course"
+            ]
+        },
+        "blue": {
+            "name": "Bleu",
+            "keywords": [
+                "robot",
+                "antenna",
+                "explorateur"
+            ]
+        },
+        "voter": {
+            "name": "Électeur",
+            "keywords": [
+                "vote",
+                "élection",
+                "bulletin de vote"
+            ]
+        },
+        "winner": {
+            "name": "Gagnant",
+            "keywords": [
+                "médaille",
+                "ruban",
+                "clin d'œil"
+            ]
+        },
+        "chatty": {
+            "name": "Bavard",
+            "keywords": [
+                "bulle de dialogue",
+                "discussion",
+                "parler"
+            ]
+        },
+        "wanderer": {
+            "name": "Vagabond",
+            "keywords": [
+                "baluchon",
+                "voyage",
+                "aventure"
+            ]
+        },
+        "skipper": {
+            "name": "Capitaine",
+            "keywords": [
+                "marin",
+                "casquette",
+                "bateau"
+            ]
+        },
+        "country-folk": {
+            "name": "Campagnard",
+            "keywords": [
+                "chapeau de paille",
+                "ferme",
+                "fête de juin"
+            ]
+        },
+        "masked-up": {
+            "name": "Masqué",
+            "keywords": [
+                "masque facial",
+                "santé",
+                "sûr"
+            ]
+        },
+        "workout-mode": {
+            "name": "Mode sport",
+            "keywords": [
+                "chronomètre",
+                "bandeau",
+                "entraînement"
+            ]
+        },
+        "connected": {
+            "name": "Connecté",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "ett öga",
-                "banan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "ett öga",
-                "vaxkaka"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiot",
-                "tänder",
-                "skurk"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "docka",
-                "glad"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "glasögon",
-                "hår"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "docka",
-                "nervös"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "hatt",
-                "skratta"
-            ]
-        },
         "ed": {
             "name": "Ed - lojal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "bygge"
             ]
         },
-        "red": {
-            "name": "Röd",
-            "keywords": [
-                "fraggle",
-                "rött hår",
-                "skratta"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "alv",
                 "ädelsten",
                 "skurk"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiot",
+                "tänder",
+                "skurk"
+            ]
+        },
+        "despicable": {
+            "name": "Skurk",
+            "keywords": [
+                "minion",
+                "ett öga",
+                "banan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megaskurk",
+            "keywords": [
+                "minion",
+                "ett öga",
+                "vaxkaka"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "docka",
+                "glad"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "glasögon",
+                "hår"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "docka",
+                "nervös"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "hatt",
+                "skratta"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rött hår",
+                "skratta"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulcanhälsning",
+            "keywords": [
+                "hand",
+                "hälsning",
+                "hälsa"
             ]
         }
     }

@@ -1,111 +1,6 @@
 {
     "name": "Animăluțe și lucruri",
     "stickers": {
-        "30": {
-            "keywords": [
-                "stâncă",
-                "piatră",
-                "rapid"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "urs",
-                "pălărie de pescar",
-                "zâmbet"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capibara",
-                "pasăre",
-                "relaxat"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "creier",
-                "deștept",
-                "a gândi"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozaur",
-                "dinți",
-                "mușcătură"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "colți",
-                "dinți",
-                "rânjet"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "vacă",
-                "muu",
-                "fermă"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "câine",
-                "corgi",
-                "coroană"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "câine",
-                "corgi",
-                "clipit"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "câine",
-                "corgi",
-                "coroană"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "dragon",
-                "roșu",
-                "monstru"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "mână",
-                "ochi",
-                "protecție"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "ochi",
-                "semn",
-                "mister"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "ceainic",
-                "ceai",
-                "măr"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "pasăre",
-                "șapcă",
-                "a vorbi"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "prânz"
             ]
         },
-        "magical": {
-            "name": "Magic",
-            "keywords": [
-                "unicorn",
-                "curcubeu",
-                "magie"
-            ]
-        },
-        "magical-2": {
-            "name": "Magic (2)",
-            "keywords": [
-                "magie",
-                "roz",
-                "faimos"
-            ]
-        },
         "open": {
             "name": "Deschis",
             "keywords": [
@@ -352,6 +231,142 @@
                 "lup",
                 "urlet",
                 "șiret"
+            ]
+        },
+        "capybara": {
+            "name": "Capibara",
+            "keywords": [
+                "capibara",
+                "pasăre",
+                "relaxat"
+            ]
+        },
+        "parrot": {
+            "name": "Papagal",
+            "keywords": [
+                "pasăre",
+                "șapcă",
+                "a vorbi"
+            ]
+        },
+        "blissful": {
+            "name": "Fericită",
+            "keywords": [
+                "vacă",
+                "muu",
+                "fermă"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Piatră rapidă",
+            "keywords": [
+                "stâncă",
+                "piatră",
+                "rapid"
+            ]
+        },
+        "big-brain": {
+            "name": "Creier mare",
+            "keywords": [
+                "creier",
+                "deștept",
+                "a gândi"
+            ]
+        },
+        "yellow": {
+            "name": "Galben",
+            "keywords": [
+                "colți",
+                "dinți",
+                "rânjet"
+            ]
+        },
+        "pampered": {
+            "name": "Răsfățat",
+            "keywords": [
+                "câine",
+                "corgi",
+                "coroană"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Loial",
+            "keywords": [
+                "câine",
+                "corgi",
+                "clipit"
+            ]
+        },
+        "playful-pup": {
+            "name": "Cățel jucăuș",
+            "keywords": [
+                "câine",
+                "corgi",
+                "coroană"
+            ]
+        },
+        "red": {
+            "name": "Roșu",
+            "keywords": [
+                "dragon",
+                "roșu",
+                "monstru"
+            ]
+        },
+        "unicorn": {
+            "name": "Unicorn",
+            "keywords": [
+                "unicorn",
+                "curcubeu",
+                "magie"
+            ]
+        },
+        "magical": {
+            "name": "Magic",
+            "keywords": [
+                "magie",
+                "roz",
+                "faimos"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionar",
+            "keywords": [
+                "ochi",
+                "semn",
+                "mister"
+            ]
+        },
+        "focused": {
+            "name": "Concentrat",
+            "keywords": [
+                "mână",
+                "ochi",
+                "protecție"
+            ]
+        },
+        "kind": {
+            "name": "Bun la suflet",
+            "keywords": [
+                "urs",
+                "pălărie de pescar",
+                "zâmbet"
+            ]
+        },
+        "zesty": {
+            "name": "Plin de viață",
+            "keywords": [
+                "ceainic",
+                "ceai",
+                "măr"
+            ]
+        },
+        "chomper": {
+            "name": "Mușcăcios",
+            "keywords": [
+                "dinozaur",
+                "dinți",
+                "mușcătură"
             ]
         }
     }

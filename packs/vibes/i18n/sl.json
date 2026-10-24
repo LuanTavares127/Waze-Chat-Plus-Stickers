@@ -1,167 +1,6 @@
 {
     "name": "Vibracije",
     "stickers": {
-        "44": {
-            "keywords": [
-                "ovnovi rogovi",
-                "sončna očala",
-                "drzno"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "sončna očala",
-                "skala"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "glasba",
-                "note",
-                "hipi"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "visoka peta",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "ležanje",
-                "party klobuk",
-                "sproščeno"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "slušalke z mikrofonom",
-                "poslušanje",
-                "glasba"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "žarnica",
-                "očala",
-                "ideja"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "mehurčki",
-                "napoj",
-                "srečno"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "iskrica",
-                "sončna očala",
-                "elegantno"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "slušalke",
-                "leopard",
-                "glasba"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "peti"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "vesoljec",
-                "čelada",
-                "vesolje"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "slušalke",
-                "glasba",
-                "kul"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "kapa",
-                "nazaj obrnjeno",
-                "postrani pogled"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "kapa s propelerjem",
-                "bedasto",
-                "otrok"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "ojačevalnik",
-                "kitara",
-                "glasba"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "boben",
-                "tamburin",
-                "pomežik"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "žarnica",
-                "razmišljati",
-                "ideja"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "roka",
-                "pozdrav",
-                "pozdravljanje"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "očala",
-                "pametno",
-                "zadovoljen nasmešek"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "očala",
-                "blondinka",
-                "študij"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "plašč",
-                "junak",
-                "očala"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "krona",
-                "sončna očala",
-                "kralj"
-            ]
-        },
         "chill": {
             "name": "Sproščeni",
             "keywords": [
@@ -336,6 +175,182 @@
                 "bodičasto",
                 "plavolasec",
                 "našobljena usta"
+            ]
+        },
+        "homie": {
+            "name": "Brat",
+            "keywords": [
+                "bandana",
+                "sončna očala",
+                "skala"
+            ]
+        },
+        "afterparty": {
+            "name": "Po zabavi",
+            "keywords": [
+                "ležanje",
+                "party klobuk",
+                "sproščeno"
+            ]
+        },
+        "boss": {
+            "name": "Šefica",
+            "keywords": [
+                "slušalke",
+                "leopard",
+                "glasba"
+            ]
+        },
+        "sly": {
+            "name": "Zvitorepec",
+            "keywords": [
+                "kapa",
+                "nazaj obrnjeno",
+                "postrani pogled"
+            ]
+        },
+        "smug": {
+            "name": "Samovšečen",
+            "keywords": [
+                "očala",
+                "pametno",
+                "zadovoljen nasmešek"
+            ]
+        },
+        "bookish": {
+            "name": "Knjižni molj",
+            "keywords": [
+                "očala",
+                "blondinka",
+                "študij"
+            ]
+        },
+        "royalty": {
+            "name": "Kraljevsko",
+            "keywords": [
+                "krona",
+                "sončna očala",
+                "kralj"
+            ]
+        },
+        "dazzling": {
+            "name": "Bleščeč",
+            "keywords": [
+                "iskrica",
+                "sončna očala",
+                "elegantno"
+            ]
+        },
+        "brainiac": {
+            "name": "Pametnjakovič",
+            "keywords": [
+                "žarnica",
+                "očala",
+                "ideja"
+            ]
+        },
+        "spaced-out": {
+            "name": "V oblakih",
+            "keywords": [
+                "vesoljec",
+                "čelada",
+                "vesolje"
+            ]
+        },
+        "cool": {
+            "name": "Kul",
+            "keywords": [
+                "slušalke",
+                "glasba",
+                "kul"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "žarnica",
+                "razmišljati",
+                "ideja"
+            ]
+        },
+        "bug-buster": {
+            "name": "Lovec na hrošče",
+            "keywords": [
+                "mehurčki",
+                "napoj",
+                "srečno"
+            ]
+        },
+        "far-out": {
+            "name": "Odštekano",
+            "keywords": [
+                "glasba",
+                "note",
+                "hipi"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Zvezda karaok",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "peti"
+            ]
+        },
+        "super-nerd": {
+            "name": "Superštreber",
+            "keywords": [
+                "plašč",
+                "junak",
+                "očala"
+            ]
+        },
+        "wonderful": {
+            "name": "Čudovita",
+            "keywords": [
+                "visoka peta",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Na polno",
+            "keywords": [
+                "ojačevalnik",
+                "kitara",
+                "glasba"
+            ]
+        },
+        "on-the-beat": {
+            "name": "V ritmu",
+            "keywords": [
+                "boben",
+                "tamburin",
+                "pomežik"
+            ]
+        },
+        "rambunctious": {
+            "name": "Razposajen",
+            "keywords": [
+                "ovnovi rogovi",
+                "sončna očala",
+                "drzno"
+            ]
+        },
+        "tuned-in": {
+            "name": "Na valu",
+            "keywords": [
+                "slušalke z mikrofonom",
+                "poslušanje",
+                "glasba"
+            ]
+        },
+        "kiddo": {
+            "name": "Fantek",
+            "keywords": [
+                "kapa s propelerjem",
+                "bedasto",
+                "otrok"
             ]
         }
     }

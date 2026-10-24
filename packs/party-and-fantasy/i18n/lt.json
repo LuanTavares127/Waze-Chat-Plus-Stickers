@@ -1,111 +1,6 @@
 {
     "name": "Šventės, zodiakas ir fantazija",
     "stickers": {
-        "31": {
-            "keywords": [
-                "sniego senis",
-                "žiema",
-                "šalikas"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "šventinė kepurė",
-                "gimtadienis",
-                "švęsti"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "vikingas",
-                "šalmas",
-                "žemėlapio smeigtukas"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "juokdarys",
-                "skrybėlė",
-                "juokas"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "kalėdos",
-                "kalėdų senelis",
-                "akiniai nuo saulės"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "burtininkas",
-                "skrybėlė",
-                "magija"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "ragana",
-                "skrybėlė",
-                "helovinas"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnavalas",
-                "galvos apdangalas",
-                "plunksnos"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "šalikas",
-                "megzta kepurė",
-                "žiema"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnavalas",
-                "kaukė",
-                "vakarėlis"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "naujieji metai",
-                "2026",
-                "vakarėlis"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "vikingas",
-                "plaktukas",
-                "skydas"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "žiema",
-                "megzta kepurė",
-                "šalta"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "sargybinis",
-                "londonas",
-                "skrybėlė"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilindras",
-                "arbata",
-                "stebuklų šalis"
-            ]
-        },
         "aries": {
             "name": "Avinas",
             "keywords": [
@@ -376,6 +271,126 @@
                 "didvyris",
                 "tiara",
                 "galia"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Gimtadienio nuotaika",
+            "keywords": [
+                "šventinė kepurė",
+                "gimtadienis",
+                "švęsti"
+            ]
+        },
+        "witchy": {
+            "name": "Ragana",
+            "keywords": [
+                "ragana",
+                "skrybėlė",
+                "helovinas"
+            ]
+        },
+        "valiant": {
+            "name": "Narsus",
+            "keywords": [
+                "vikingas",
+                "plaktukas",
+                "skydas"
+            ]
+        },
+        "stern-guard": {
+            "name": "Rimtas sargybinis",
+            "keywords": [
+                "sargybinis",
+                "londonas",
+                "skrybėlė"
+            ]
+        },
+        "snowman": {
+            "name": "Senis besmegenis",
+            "keywords": [
+                "sniego senis",
+                "žiema",
+                "šalikas"
+            ]
+        },
+        "map-raider": {
+            "name": "Žemėlapio užkariautojas",
+            "keywords": [
+                "vikingas",
+                "šalmas",
+                "žemėlapio smeigtukas"
+            ]
+        },
+        "hello-2026": {
+            "name": "Sveiki, 2026",
+            "keywords": [
+                "naujieji metai",
+                "2026",
+                "vakarėlis"
+            ]
+        },
+        "cool-santa": {
+            "name": "Šaunus Kalėdų Senelis",
+            "keywords": [
+                "kalėdos",
+                "kalėdų senelis",
+                "akiniai nuo saulės"
+            ]
+        },
+        "spicy": {
+            "name": "Aštrus",
+            "keywords": [
+                "cilindras",
+                "arbata",
+                "stebuklų šalis"
+            ]
+        },
+        "jester": {
+            "name": "Juokdarys",
+            "keywords": [
+                "juokdarys",
+                "skrybėlė",
+                "juokas"
+            ]
+        },
+        "wizard": {
+            "name": "Burtininkas",
+            "keywords": [
+                "burtininkas",
+                "skrybėlė",
+                "magija"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambos žvaigždė",
+            "keywords": [
+                "karnavalas",
+                "galvos apdangalas",
+                "plunksnos"
+            ]
+        },
+        "cozy": {
+            "name": "Jaukiai",
+            "keywords": [
+                "šalikas",
+                "megzta kepurė",
+                "žiema"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskaradas",
+            "keywords": [
+                "karnavalas",
+                "kaukė",
+                "vakarėlis"
+            ]
+        },
+        "bundled-up": {
+            "name": "Šiltai apsirengęs",
+            "keywords": [
+                "žiema",
+                "megzta kepurė",
+                "šalta"
             ]
         }
     }

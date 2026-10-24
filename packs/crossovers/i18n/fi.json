@@ -1,55 +1,6 @@
 {
     "name": "Yhteistyöt",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "yksi silmä",
-                "banaani"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "yksi silmä",
-                "kennosto"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiootti",
-                "hampaat",
-                "konna"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "nukke",
-                "iloinen"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "silmälasit",
-                "hiukset"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "nukke",
-                "hermostunut"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "hattu",
-                "nauru"
-            ]
-        },
         "ed": {
             "name": "Ed - Uskollinen",
             "keywords": [
@@ -154,14 +105,6 @@
                 "rakennus"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "punaiset hiukset",
-                "nauru"
-            ]
-        },
         "horde": {
             "name": "Lauma",
             "keywords": [
@@ -208,6 +151,78 @@
                 "haltia",
                 "jalokivi",
                 "konna"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiootti",
+                "hampaat",
+                "konna"
+            ]
+        },
+        "despicable": {
+            "name": "Ilkimys",
+            "keywords": [
+                "minion",
+                "yksi silmä",
+                "banaani"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megailkimys",
+            "keywords": [
+                "minion",
+                "yksi silmä",
+                "kennosto"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "nukke",
+                "iloinen"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "silmälasit",
+                "hiukset"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "nukke",
+                "hermostunut"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "hattu",
+                "nauru"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "punaiset hiukset",
+                "nauru"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkanuslaisten tervehdys",
+            "keywords": [
+                "käsi",
+                "tervehdys",
+                "tervehtiä"
             ]
         }
     }

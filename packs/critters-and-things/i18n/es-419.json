@@ -1,111 +1,6 @@
 {
     "name": "Bichos y cosas",
     "stickers": {
-        "30": {
-            "keywords": [
-                "roca",
-                "piedra",
-                "rápido"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "oso",
-                "sombrero de pescador",
-                "sonrisa"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capibara",
-                "pájaro",
-                "relajado"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "cerebro",
-                "listo",
-                "pensar"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurio",
-                "dientes",
-                "morder"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "colmillos",
-                "dientes",
-                "sonrisa pícara"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "vaca",
-                "mu",
-                "granja"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "perro",
-                "corgi",
-                "corona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "perro",
-                "corgi",
-                "guiño"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "perro",
-                "corgi",
-                "corona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "dragón",
-                "rojo",
-                "monstruo"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "mano",
-                "ojo",
-                "protección"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "ojo",
-                "señal",
-                "misterio"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tetera",
-                "té",
-                "manzana"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "pájaro",
-                "gorra",
-                "hablar"
-            ]
-        },
         "8-bit": {
             "name": "8 bits",
             "keywords": [
@@ -242,22 +137,6 @@
                 "almuerzo"
             ]
         },
-        "magical": {
-            "name": "Mágico",
-            "keywords": [
-                "unicornio",
-                "arcoíris",
-                "magia"
-            ]
-        },
-        "magical-2": {
-            "name": "Mágico (2)",
-            "keywords": [
-                "magia",
-                "rosa",
-                "famoso"
-            ]
-        },
         "open": {
             "name": "Abierto",
             "keywords": [
@@ -352,6 +231,142 @@
                 "lobo",
                 "aullido",
                 "astuto"
+            ]
+        },
+        "capybara": {
+            "name": "Capibara",
+            "keywords": [
+                "capibara",
+                "pájaro",
+                "relajado"
+            ]
+        },
+        "parrot": {
+            "name": "Loro",
+            "keywords": [
+                "pájaro",
+                "gorra",
+                "hablar"
+            ]
+        },
+        "blissful": {
+            "name": "Dichosa",
+            "keywords": [
+                "vaca",
+                "mu",
+                "granja"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Piedra veloz",
+            "keywords": [
+                "roca",
+                "piedra",
+                "rápido"
+            ]
+        },
+        "big-brain": {
+            "name": "Cerebrazo",
+            "keywords": [
+                "cerebro",
+                "listo",
+                "pensar"
+            ]
+        },
+        "yellow": {
+            "name": "Amarillo",
+            "keywords": [
+                "colmillos",
+                "dientes",
+                "sonrisa pícara"
+            ]
+        },
+        "pampered": {
+            "name": "Consentido",
+            "keywords": [
+                "perro",
+                "corgi",
+                "corona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Leal",
+            "keywords": [
+                "perro",
+                "corgi",
+                "guiño"
+            ]
+        },
+        "playful-pup": {
+            "name": "Perrito juguetón",
+            "keywords": [
+                "perro",
+                "corgi",
+                "corona"
+            ]
+        },
+        "red": {
+            "name": "Rojo",
+            "keywords": [
+                "dragón",
+                "rojo",
+                "monstruo"
+            ]
+        },
+        "unicorn": {
+            "name": "Unicornio",
+            "keywords": [
+                "unicornio",
+                "arcoíris",
+                "magia"
+            ]
+        },
+        "magical": {
+            "name": "Mágico",
+            "keywords": [
+                "magia",
+                "rosa",
+                "famoso"
+            ]
+        },
+        "visionary": {
+            "name": "Visionario",
+            "keywords": [
+                "ojo",
+                "señal",
+                "misterio"
+            ]
+        },
+        "focused": {
+            "name": "Concentrado",
+            "keywords": [
+                "mano",
+                "ojo",
+                "protección"
+            ]
+        },
+        "kind": {
+            "name": "Amable",
+            "keywords": [
+                "oso",
+                "sombrero de pescador",
+                "sonrisa"
+            ]
+        },
+        "zesty": {
+            "name": "Chispeante",
+            "keywords": [
+                "tetera",
+                "té",
+                "manzana"
+            ]
+        },
+        "chomper": {
+            "name": "Mordelón",
+            "keywords": [
+                "dinosaurio",
+                "dientes",
+                "morder"
             ]
         }
     }

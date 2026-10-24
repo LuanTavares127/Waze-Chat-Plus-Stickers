@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un ollo",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un ollo",
-                "panal"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "dentes",
-                "vilán"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "monicreque",
-                "feliz"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "lentes",
-                "pelo"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "monicreque",
-                "nervioso"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "sombreiro",
-                "risa"
-            ]
-        },
         "ed": {
             "name": "Ed - Leal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "obra"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "pelo ruivo",
-                "risa"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfo",
                 "xoia",
                 "vilán"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "dentes",
+                "vilán"
+            ]
+        },
+        "despicable": {
+            "name": "Malvado",
+            "keywords": [
+                "minion",
+                "un ollo",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Malvadísimo",
+            "keywords": [
+                "minion",
+                "un ollo",
+                "panal"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "monicreque",
+                "feliz"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "lentes",
+                "pelo"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "monicreque",
+                "nervioso"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "sombreiro",
+                "risa"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "pelo ruivo",
+                "risa"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Saúdo vulcano",
+            "keywords": [
+                "man",
+                "saúdo",
+                "saúdo"
             ]
         }
     }

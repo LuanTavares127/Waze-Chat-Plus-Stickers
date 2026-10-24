@@ -1,55 +1,6 @@
 {
     "name": "Crossover",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "satu mata",
-                "pisang"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "satu mata",
-                "sarang lebah"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "gigi",
-                "penjahat"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "boneka",
-                "senang"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "kacamata",
-                "rambut"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "boneka",
-                "gugup"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "topi",
-                "tertawa"
-            ]
-        },
         "ed": {
             "name": "Ed - Setia",
             "keywords": [
@@ -154,14 +105,6 @@
                 "konstruksi"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rambut merah",
-                "tertawa"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "peri",
                 "permata",
                 "penjahat"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "gigi",
+                "penjahat"
+            ]
+        },
+        "despicable": {
+            "name": "Jahat",
+            "keywords": [
+                "minion",
+                "satu mata",
+                "pisang"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Super jahat",
+            "keywords": [
+                "minion",
+                "satu mata",
+                "sarang lebah"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "senang"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "kacamata",
+                "rambut"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "gugup"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "topi",
+                "tertawa"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rambut merah",
+                "tertawa"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salam Vulcan",
+            "keywords": [
+                "tangan",
+                "hormat",
+                "sapaan"
             ]
         }
     }

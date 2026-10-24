@@ -1,97 +1,6 @@
 {
     "name": "Gevoelens",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassiek",
-                "hallo",
-                "bly"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "traan",
-                "hartseer",
-                "slaapmus"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "leeg",
-                "neutraal",
-                "gewoon"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "liefde",
-                "hart",
-                "soet"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "ouer",
-                "baba",
-                "gesin"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "huil",
-                "ontsteld",
-                "wanhoop"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "siek",
-                "naarheid",
-                "krank"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "ongemaklik",
-                "ongemaklik",
-                "ug"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "opgewonde",
-                "jippie",
-                "vlerke"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "bly",
-                "lag",
-                "hoed"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "kwaad",
-                "geïrriteerd",
-                "frons"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "vraag",
-                "wat",
-                "twyfel"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditasie",
-                "kalm"
-            ]
-        },
         "amazing": {
             "name": "Wonderlik",
             "keywords": [
@@ -354,6 +263,110 @@
                 "trots",
                 "reënboog",
                 "hart"
+            ]
+        },
+        "puzzled": {
+            "name": "Verward",
+            "keywords": [
+                "vraag",
+                "wat",
+                "twyfel"
+            ]
+        },
+        "grounded": {
+            "name": "Geaard",
+            "keywords": [
+                "lotus",
+                "meditasie",
+                "kalm"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassiek",
+                "hallo",
+                "bly"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "traan",
+                "hartseer",
+                "slaapmus"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokergesig",
+            "keywords": [
+                "leeg",
+                "neutraal",
+                "gewoon"
+            ]
+        },
+        "sweetheart": {
+            "name": "Liefling",
+            "keywords": [
+                "liefde",
+                "hart",
+                "soet"
+            ]
+        },
+        "family": {
+            "name": "Familie",
+            "keywords": [
+                "ouer",
+                "baba",
+                "gesin"
+            ]
+        },
+        "fuming": {
+            "name": "Briesend",
+            "keywords": [
+                "kwaad",
+                "geïrriteerd",
+                "frons"
+            ]
+        },
+        "distraught": {
+            "name": "Radeloos",
+            "keywords": [
+                "huil",
+                "ontsteld",
+                "wanhoop"
+            ]
+        },
+        "queasy": {
+            "name": "Naar",
+            "keywords": [
+                "siek",
+                "naarheid",
+                "krank"
+            ]
+        },
+        "uneasy": {
+            "name": "Ongemaklik",
+            "keywords": [
+                "ongemaklik",
+                "ongemaklik",
+                "ug"
+            ]
+        },
+        "ecstatic": {
+            "name": "Uitgelate",
+            "keywords": [
+                "opgewonde",
+                "jippie",
+                "vlerke"
+            ]
+        },
+        "cheerful": {
+            "name": "Vrolik",
+            "keywords": [
+                "bly",
+                "lag",
+                "hoed"
             ]
         }
     }

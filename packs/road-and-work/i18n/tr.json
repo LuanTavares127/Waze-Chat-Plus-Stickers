@@ -1,160 +1,6 @@
 {
     "name": "Yolda ve İşte",
     "stickers": {
-        "18": {
-            "keywords": [
-                "bohça",
-                "gezi",
-                "macera"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "iksir",
-                "gözlük",
-                "laboratuvar"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "kâşif",
-                "şapka",
-                "macera"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "bayrak",
-                "gezi"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "denizci",
-                "kasket",
-                "tekne"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "bavul",
-                "şapka",
-                "gezi"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "koruyucu gözlük",
-                "kask"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "baykuş",
-                "mezuniyet",
-                "akıllı"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "yangın söndürücü",
-                "güvenlik",
-                "gergin"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "baret",
-                "inşaat",
-                "yelek"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "hasır şapka",
-                "çiftlik",
-                "haziran şenliği"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "kask",
-                "yıldızlar",
-                "yarışçı"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "yüz maskesi",
-                "sağlık",
-                "güvenli"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "kronometre",
-                "saç bandı",
-                "antrenman"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "oy",
-                "seçim",
-                "oy pusulası"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "sinyal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "oy",
-                "işaret",
-                "seçim"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "madalya",
-                "kurdele",
-                "göz kırpma"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "teslimat",
-                "kask",
-                "kutu"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "anten",
-                "kâşif"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "konuşma balonu",
-                "sohbet",
-                "konuşmak"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "düdük",
-                "hakem",
-                "faul"
-            ]
-        },
         "road-warrior": {
             "name": "Yol Savaşçısı",
             "keywords": [
@@ -345,6 +191,182 @@
                 "kask",
                 "motosiklet",
                 "acele"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Çılgın bilim insanı",
+            "keywords": [
+                "iksir",
+                "gözlük",
+                "laboratuvar"
+            ]
+        },
+        "explorer": {
+            "name": "Kâşif",
+            "keywords": [
+                "kâşif",
+                "şapka",
+                "macera"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kamera",
+                "bayrak",
+                "gezi"
+            ]
+        },
+        "jet-setter": {
+            "name": "Dünya gezgini",
+            "keywords": [
+                "bavul",
+                "şapka",
+                "gezi"
+            ]
+        },
+        "know-it-all": {
+            "name": "Her şeyi bilen",
+            "keywords": [
+                "baykuş",
+                "mezuniyet",
+                "akıllı"
+            ]
+        },
+        "close-call": {
+            "name": "Kıl payı",
+            "keywords": [
+                "yangın söndürücü",
+                "güvenlik",
+                "gergin"
+            ]
+        },
+        "on-the-job": {
+            "name": "İş başında",
+            "keywords": [
+                "baret",
+                "inşaat",
+                "yelek"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Kampanya modu",
+            "keywords": [
+                "oy",
+                "işaret",
+                "seçim"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Ekspres teslimat",
+            "keywords": [
+                "teslimat",
+                "kask",
+                "kutu"
+            ]
+        },
+        "referee": {
+            "name": "Hakem",
+            "keywords": [
+                "düdük",
+                "hakem",
+                "faul"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "koruyucu gözlük",
+                "kask"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "kask",
+                "yıldızlar",
+                "yarışçı"
+            ]
+        },
+        "blue": {
+            "name": "Mavi",
+            "keywords": [
+                "robot",
+                "anten",
+                "kâşif"
+            ]
+        },
+        "voter": {
+            "name": "Seçmen",
+            "keywords": [
+                "oy",
+                "seçim",
+                "oy pusulası"
+            ]
+        },
+        "winner": {
+            "name": "Kazanan",
+            "keywords": [
+                "madalya",
+                "kurdele",
+                "göz kırpma"
+            ]
+        },
+        "chatty": {
+            "name": "Geveze",
+            "keywords": [
+                "konuşma balonu",
+                "sohbet",
+                "konuşmak"
+            ]
+        },
+        "wanderer": {
+            "name": "Seyyah",
+            "keywords": [
+                "bohça",
+                "gezi",
+                "macera"
+            ]
+        },
+        "skipper": {
+            "name": "Kaptan",
+            "keywords": [
+                "denizci",
+                "kasket",
+                "tekne"
+            ]
+        },
+        "country-folk": {
+            "name": "Köylü",
+            "keywords": [
+                "hasır şapka",
+                "çiftlik",
+                "haziran şenliği"
+            ]
+        },
+        "masked-up": {
+            "name": "Maskeli",
+            "keywords": [
+                "yüz maskesi",
+                "sağlık",
+                "güvenli"
+            ]
+        },
+        "workout-mode": {
+            "name": "Antrenman modu",
+            "keywords": [
+                "kronometre",
+                "saç bandı",
+                "antrenman"
+            ]
+        },
+        "connected": {
+            "name": "Bağlantıda",
+            "keywords": [
+                "sinyal",
+                "robot",
+                "wifi"
             ]
         }
     }

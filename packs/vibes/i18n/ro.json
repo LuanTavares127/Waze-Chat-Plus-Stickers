@@ -1,167 +1,6 @@
 {
     "name": "Vibes",
     "stickers": {
-        "44": {
-            "keywords": [
-                "coarne de berbec",
-                "ochelari de soare",
-                "îndrăzneț"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandană",
-                "ochelari de soare",
-                "stâncă"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "muzică",
-                "note",
-                "hipiot"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "toc înalt",
-                "modă",
-                "divă"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "întins",
-                "pălărie de petrecere",
-                "relaxat"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "cască cu microfon",
-                "ascultare",
-                "muzică"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "bec",
-                "ochelari",
-                "idee"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bule",
-                "poțiune",
-                "fericit"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "scânteie",
-                "ochelari de soare",
-                "elegant"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "căști",
-                "leopard",
-                "muzică"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "microfon",
-                "karaoke",
-                "a cânta"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "extraterestru",
-                "cască",
-                "spațiu"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "căști",
-                "muzică",
-                "mișto"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "șapcă",
-                "pe dos",
-                "privire piezișă"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "căciulă cu elice",
-                "caraghios",
-                "copil"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificator",
-                "chitară",
-                "muzică"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tobă",
-                "tamburină",
-                "clipit"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "bec",
-                "a gândi",
-                "idee"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "mână",
-                "salut militar",
-                "salutare"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "ochelari",
-                "deștept",
-                "zâmbet ironic"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "ochelari",
-                "blondă",
-                "studiu"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "pelerină",
-                "erou",
-                "ochelari"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "coroană",
-                "ochelari de soare",
-                "rege"
-            ]
-        },
         "chill": {
             "name": "Relaxat",
             "keywords": [
@@ -336,6 +175,182 @@
                 "țepos",
                 "blond",
                 "bosumflare"
+            ]
+        },
+        "homie": {
+            "name": "Frate",
+            "keywords": [
+                "bandană",
+                "ochelari de soare",
+                "stâncă"
+            ]
+        },
+        "afterparty": {
+            "name": "După petrecere",
+            "keywords": [
+                "întins",
+                "pălărie de petrecere",
+                "relaxat"
+            ]
+        },
+        "boss": {
+            "name": "Șefa",
+            "keywords": [
+                "căști",
+                "leopard",
+                "muzică"
+            ]
+        },
+        "sly": {
+            "name": "Șmecher",
+            "keywords": [
+                "șapcă",
+                "pe dos",
+                "privire piezișă"
+            ]
+        },
+        "smug": {
+            "name": "Încrezut",
+            "keywords": [
+                "ochelari",
+                "deștept",
+                "zâmbet ironic"
+            ]
+        },
+        "bookish": {
+            "name": "Șoarece de bibliotecă",
+            "keywords": [
+                "ochelari",
+                "blondă",
+                "studiu"
+            ]
+        },
+        "royalty": {
+            "name": "Regal",
+            "keywords": [
+                "coroană",
+                "ochelari de soare",
+                "rege"
+            ]
+        },
+        "dazzling": {
+            "name": "Strălucitor",
+            "keywords": [
+                "scânteie",
+                "ochelari de soare",
+                "elegant"
+            ]
+        },
+        "brainiac": {
+            "name": "Geniu",
+            "keywords": [
+                "bec",
+                "ochelari",
+                "idee"
+            ]
+        },
+        "spaced-out": {
+            "name": "Pe altă planetă",
+            "keywords": [
+                "extraterestru",
+                "cască",
+                "spațiu"
+            ]
+        },
+        "cool": {
+            "name": "Mișto",
+            "keywords": [
+                "căști",
+                "muzică",
+                "mișto"
+            ]
+        },
+        "eureka": {
+            "name": "Evrika",
+            "keywords": [
+                "bec",
+                "a gândi",
+                "idee"
+            ]
+        },
+        "bug-buster": {
+            "name": "Vânător de buguri",
+            "keywords": [
+                "bule",
+                "poțiune",
+                "fericit"
+            ]
+        },
+        "far-out": {
+            "name": "Hippie",
+            "keywords": [
+                "muzică",
+                "note",
+                "hipiot"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Vedetă la karaoke",
+            "keywords": [
+                "microfon",
+                "karaoke",
+                "a cânta"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super tocilar",
+            "keywords": [
+                "pelerină",
+                "erou",
+                "ochelari"
+            ]
+        },
+        "wonderful": {
+            "name": "Minunată",
+            "keywords": [
+                "toc înalt",
+                "modă",
+                "divă"
+            ]
+        },
+        "amped": {
+            "name": "Energizat",
+            "keywords": [
+                "amplificator",
+                "chitară",
+                "muzică"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Pe ritm",
+            "keywords": [
+                "tobă",
+                "tamburină",
+                "clipit"
+            ]
+        },
+        "rambunctious": {
+            "name": "Zurbagiu",
+            "keywords": [
+                "coarne de berbec",
+                "ochelari de soare",
+                "îndrăzneț"
+            ]
+        },
+        "tuned-in": {
+            "name": "Pe frecvență",
+            "keywords": [
+                "cască cu microfon",
+                "ascultare",
+                "muzică"
+            ]
+        },
+        "kiddo": {
+            "name": "Puștiul",
+            "keywords": [
+                "căciulă cu elice",
+                "caraghios",
+                "copil"
             ]
         }
     }

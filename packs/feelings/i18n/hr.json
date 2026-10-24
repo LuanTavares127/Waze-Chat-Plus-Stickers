@@ -1,97 +1,6 @@
 {
     "name": "Osjećaji",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasik",
-                "bok",
-                "sretan"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "suza",
-                "tužan",
-                "noćna kapa"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "prazno",
-                "neutralno",
-                "jednostavno"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "ljubav",
-                "srce",
-                "slatko"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "roditelj",
-                "beba",
-                "obitelj"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "plakanje",
-                "uzrujan",
-                "očaj"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "bolestan",
-                "mučnina",
-                "bolestan"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "neugodno",
-                "nelagoda",
-                "fuj"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "uzbuđen",
-                "jupi",
-                "krila"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "sretan",
-                "smijeh",
-                "šešir"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "ljut",
-                "iritiran",
-                "mrštenje"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "pitanje",
-                "što",
-                "sumnja"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotos",
-                "meditacija",
-                "mirno"
-            ]
-        },
         "amazing": {
             "name": "Nevjerojatan",
             "keywords": [
@@ -354,6 +263,110 @@
                 "ponos",
                 "duga",
                 "srce"
+            ]
+        },
+        "puzzled": {
+            "name": "Zbunjen",
+            "keywords": [
+                "pitanje",
+                "što",
+                "sumnja"
+            ]
+        },
+        "grounded": {
+            "name": "U ravnoteži",
+            "keywords": [
+                "lotos",
+                "meditacija",
+                "mirno"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasik",
+                "bok",
+                "sretan"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "suza",
+                "tužan",
+                "noćna kapa"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokeraško lice",
+            "keywords": [
+                "prazno",
+                "neutralno",
+                "jednostavno"
+            ]
+        },
+        "sweetheart": {
+            "name": "Dušica",
+            "keywords": [
+                "ljubav",
+                "srce",
+                "slatko"
+            ]
+        },
+        "family": {
+            "name": "Obitelj",
+            "keywords": [
+                "roditelj",
+                "beba",
+                "obitelj"
+            ]
+        },
+        "fuming": {
+            "name": "Bijesan",
+            "keywords": [
+                "ljut",
+                "iritiran",
+                "mrštenje"
+            ]
+        },
+        "distraught": {
+            "name": "Očajan",
+            "keywords": [
+                "plakanje",
+                "uzrujan",
+                "očaj"
+            ]
+        },
+        "queasy": {
+            "name": "Mučno mi je",
+            "keywords": [
+                "bolestan",
+                "mučnina",
+                "bolestan"
+            ]
+        },
+        "uneasy": {
+            "name": "Nelagodno",
+            "keywords": [
+                "neugodno",
+                "nelagoda",
+                "fuj"
+            ]
+        },
+        "ecstatic": {
+            "name": "Oduševljen",
+            "keywords": [
+                "uzbuđen",
+                "jupi",
+                "krila"
+            ]
+        },
+        "cheerful": {
+            "name": "Veseo",
+            "keywords": [
+                "sretan",
+                "smijeh",
+                "šešir"
             ]
         }
     }

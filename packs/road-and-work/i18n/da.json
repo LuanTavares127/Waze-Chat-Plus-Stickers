@@ -1,160 +1,6 @@
 {
     "name": "På vejen og på arbejde",
     "stickers": {
-        "18": {
-            "keywords": [
-                "bylt",
-                "tur",
-                "eventyr"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "eliksir",
-                "briller",
-                "laboratorium"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "opdagelsesrejsende",
-                "hat",
-                "eventyr"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "flag",
-                "sightseeing"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "sømand",
-                "kasket",
-                "båd"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "kuffert",
-                "hat",
-                "tur"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "beskyttelsesbriller",
-                "hjelm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "ugle",
-                "eksamen",
-                "klog"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "brandslukker",
-                "sikkerhed",
-                "nervøs"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "sikkerhedshjelm",
-                "byggeri",
-                "vest"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "stråhat",
-                "gård",
-                "junifest"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "hjelm",
-                "stjerner",
-                "racerkører"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "mundbind",
-                "sundhed",
-                "sikker"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopur",
-                "pandebånd",
-                "træning"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "stemme",
-                "valg",
-                "stemmeseddel"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "stemme",
-                "tegn",
-                "valg"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalje",
-                "bånd",
-                "blink"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "levering",
-                "hjelm",
-                "kasse"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenne",
-                "opdagelsesrejsende"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "talebobbel",
-                "chat",
-                "snak"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "fløjte",
-                "dommer",
-                "frispark"
-            ]
-        },
         "road-warrior": {
             "name": "Vejkriger",
             "keywords": [
@@ -345,6 +191,182 @@
                 "hjelm",
                 "motorcykel",
                 "travlhed"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Gal videnskabsmand",
+            "keywords": [
+                "eliksir",
+                "briller",
+                "laboratorium"
+            ]
+        },
+        "explorer": {
+            "name": "Opdagelsesrejsende",
+            "keywords": [
+                "opdagelsesrejsende",
+                "hat",
+                "eventyr"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kamera",
+                "flag",
+                "sightseeing"
+            ]
+        },
+        "jet-setter": {
+            "name": "Jetsetter",
+            "keywords": [
+                "kuffert",
+                "hat",
+                "tur"
+            ]
+        },
+        "know-it-all": {
+            "name": "Besserwisser",
+            "keywords": [
+                "ugle",
+                "eksamen",
+                "klog"
+            ]
+        },
+        "close-call": {
+            "name": "Tæt på",
+            "keywords": [
+                "brandslukker",
+                "sikkerhed",
+                "nervøs"
+            ]
+        },
+        "on-the-job": {
+            "name": "På job",
+            "keywords": [
+                "sikkerhedshjelm",
+                "byggeri",
+                "vest"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Valgkamp",
+            "keywords": [
+                "stemme",
+                "tegn",
+                "valg"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Ekspreslevering",
+            "keywords": [
+                "levering",
+                "hjelm",
+                "kasse"
+            ]
+        },
+        "referee": {
+            "name": "Dommer",
+            "keywords": [
+                "fløjte",
+                "dommer",
+                "frispark"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "beskyttelsesbriller",
+                "hjelm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "hjelm",
+                "stjerner",
+                "racerkører"
+            ]
+        },
+        "blue": {
+            "name": "Blå",
+            "keywords": [
+                "robot",
+                "antenne",
+                "opdagelsesrejsende"
+            ]
+        },
+        "voter": {
+            "name": "Vælger",
+            "keywords": [
+                "stemme",
+                "valg",
+                "stemmeseddel"
+            ]
+        },
+        "winner": {
+            "name": "Vinder",
+            "keywords": [
+                "medalje",
+                "bånd",
+                "blink"
+            ]
+        },
+        "chatty": {
+            "name": "Snakkesalig",
+            "keywords": [
+                "talebobbel",
+                "chat",
+                "snak"
+            ]
+        },
+        "wanderer": {
+            "name": "Vandrer",
+            "keywords": [
+                "bylt",
+                "tur",
+                "eventyr"
+            ]
+        },
+        "skipper": {
+            "name": "Kaptajn",
+            "keywords": [
+                "sømand",
+                "kasket",
+                "båd"
+            ]
+        },
+        "country-folk": {
+            "name": "Fra landet",
+            "keywords": [
+                "stråhat",
+                "gård",
+                "junifest"
+            ]
+        },
+        "masked-up": {
+            "name": "Med maske",
+            "keywords": [
+                "mundbind",
+                "sundhed",
+                "sikker"
+            ]
+        },
+        "workout-mode": {
+            "name": "Træningstilstand",
+            "keywords": [
+                "stopur",
+                "pandebånd",
+                "træning"
+            ]
+        },
+        "connected": {
+            "name": "Forbundet",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

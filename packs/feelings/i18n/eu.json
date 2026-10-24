@@ -1,97 +1,6 @@
 {
     "name": "Sentimenduak",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasikoa",
-                "kaixo",
-                "pozik"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "malkoa",
-                "triste",
-                "gau-txapela"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "zuria",
-                "neutroa",
-                "soila"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "maitasuna",
-                "bihotza",
-                "goxoa"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "guraso",
-                "haurra",
-                "familia"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "negarrez",
-                "haserre",
-                "etsipena"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "gaixo",
-                "goragalea",
-                "gaizki"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "deseroso",
-                "ezerosoa",
-                "ufa"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "ilusioz",
-                "aupa",
-                "hegoak"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "pozik",
-                "barrea",
-                "kapela"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "haserre",
-                "nazkatuta",
-                "kopeta ilunduta"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "galdera",
-                "zer",
-                "zalantza"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotoa",
-                "meditazioa",
-                "lasaitasuna"
-            ]
-        },
         "amazing": {
             "name": "Harrigarria",
             "keywords": [
@@ -354,6 +263,110 @@
                 "harrotasuna",
                 "ostadarra",
                 "bihotza"
+            ]
+        },
+        "puzzled": {
+            "name": "Zalantzan",
+            "keywords": [
+                "galdera",
+                "zer",
+                "zalantza"
+            ]
+        },
+        "grounded": {
+            "name": "Lasai",
+            "keywords": [
+                "lotoa",
+                "meditazioa",
+                "lasaitasuna"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasikoa",
+                "kaixo",
+                "pozik"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "malkoa",
+                "triste",
+                "gau-txapela"
+            ]
+        },
+        "poker-face": {
+            "name": "Poker aurpegia",
+            "keywords": [
+                "zuria",
+                "neutroa",
+                "soila"
+            ]
+        },
+        "sweetheart": {
+            "name": "Maitetxo",
+            "keywords": [
+                "maitasuna",
+                "bihotza",
+                "goxoa"
+            ]
+        },
+        "family": {
+            "name": "Familia",
+            "keywords": [
+                "guraso",
+                "haurra",
+                "familia"
+            ]
+        },
+        "fuming": {
+            "name": "Amorratuta",
+            "keywords": [
+                "haserre",
+                "nazkatuta",
+                "kopeta ilunduta"
+            ]
+        },
+        "distraught": {
+            "name": "Etsita",
+            "keywords": [
+                "negarrez",
+                "haserre",
+                "etsipena"
+            ]
+        },
+        "queasy": {
+            "name": "Goragalez",
+            "keywords": [
+                "gaixo",
+                "goragalea",
+                "gaizki"
+            ]
+        },
+        "uneasy": {
+            "name": "Deseroso",
+            "keywords": [
+                "deseroso",
+                "ezerosoa",
+                "ufa"
+            ]
+        },
+        "ecstatic": {
+            "name": "Pozez zoratzen",
+            "keywords": [
+                "ilusioz",
+                "aupa",
+                "hegoak"
+            ]
+        },
+        "cheerful": {
+            "name": "Alai",
+            "keywords": [
+                "pozik",
+                "barrea",
+                "kapela"
             ]
         }
     }

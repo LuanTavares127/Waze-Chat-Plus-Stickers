@@ -1,97 +1,6 @@
 {
     "name": "Duygular",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasik",
-                "merhaba",
-                "mutlu"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "gözyaşı",
-                "üzgün",
-                "gece takkesi"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "boş",
-                "nötr",
-                "sade"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "aşk",
-                "kalp",
-                "tatlı"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "ebeveyn",
-                "bebek",
-                "aile"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "ağlamak",
-                "üzgün",
-                "umutsuzluk"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "hasta",
-                "mide bulantısı",
-                "rahatsız"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "garip",
-                "rahatsız",
-                "off"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "heyecanlı",
-                "yaşasın",
-                "kanat"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "mutlu",
-                "kahkaha",
-                "şapka"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "kızgın",
-                "sinirli",
-                "kaş çatma"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "soru",
-                "ne",
-                "şüphe"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "nilüfer",
-                "meditasyon",
-                "sakin"
-            ]
-        },
         "amazing": {
             "name": "Muhteşem",
             "keywords": [
@@ -354,6 +263,110 @@
                 "gurur",
                 "gökkuşağı",
                 "kalp"
+            ]
+        },
+        "puzzled": {
+            "name": "Kafası karışık",
+            "keywords": [
+                "soru",
+                "ne",
+                "şüphe"
+            ]
+        },
+        "grounded": {
+            "name": "Zen",
+            "keywords": [
+                "nilüfer",
+                "meditasyon",
+                "sakin"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasik",
+                "merhaba",
+                "mutlu"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "gözyaşı",
+                "üzgün",
+                "gece takkesi"
+            ]
+        },
+        "poker-face": {
+            "name": "Poker surat",
+            "keywords": [
+                "boş",
+                "nötr",
+                "sade"
+            ]
+        },
+        "sweetheart": {
+            "name": "Tatlım",
+            "keywords": [
+                "aşk",
+                "kalp",
+                "tatlı"
+            ]
+        },
+        "family": {
+            "name": "Aile",
+            "keywords": [
+                "ebeveyn",
+                "bebek",
+                "aile"
+            ]
+        },
+        "fuming": {
+            "name": "Burnundan soluyor",
+            "keywords": [
+                "kızgın",
+                "sinirli",
+                "kaş çatma"
+            ]
+        },
+        "distraught": {
+            "name": "Perişan",
+            "keywords": [
+                "ağlamak",
+                "üzgün",
+                "umutsuzluk"
+            ]
+        },
+        "queasy": {
+            "name": "Midem bulandı",
+            "keywords": [
+                "hasta",
+                "mide bulantısı",
+                "rahatsız"
+            ]
+        },
+        "uneasy": {
+            "name": "Rahatsız",
+            "keywords": [
+                "garip",
+                "rahatsız",
+                "off"
+            ]
+        },
+        "ecstatic": {
+            "name": "Kendinden geçmiş",
+            "keywords": [
+                "heyecanlı",
+                "yaşasın",
+                "kanat"
+            ]
+        },
+        "cheerful": {
+            "name": "Neşeli",
+            "keywords": [
+                "mutlu",
+                "kahkaha",
+                "şapka"
             ]
         }
     }

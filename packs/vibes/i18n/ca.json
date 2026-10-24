@@ -1,167 +1,6 @@
 {
     "name": "Vibracions",
     "stickers": {
-        "44": {
-            "keywords": [
-                "banyes de moltó",
-                "ulleres de sol",
-                "atrevit"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "ulleres de sol",
-                "roca"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "música",
-                "notes",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "taló alt",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "estirat",
-                "barret de festa",
-                "relaxat"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "auricular amb micro",
-                "escoltar",
-                "música"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "bombeta",
-                "ulleres",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bombolles",
-                "poció",
-                "content"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "espurna",
-                "ulleres de sol",
-                "elegant"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "auriculars",
-                "lleopard",
-                "música"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "micròfon",
-                "karaoke",
-                "cantar"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "extraterrestre",
-                "casc",
-                "espai"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "auriculars",
-                "música",
-                "xulo"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "gorra",
-                "del revés",
-                "mirada de reüll"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "gorra amb hèlix",
-                "babau",
-                "nen"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "amplificador",
-                "guitarra",
-                "música"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tambor",
-                "pandereta",
-                "picada d'ullet"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "bombeta",
-                "pensar",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "mà",
-                "salutació",
-                "salutació"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "ulleres",
-                "llest",
-                "somriure murri"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "ulleres",
-                "rossa",
-                "estudiar"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "capa",
-                "heroi",
-                "ulleres"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "corona",
-                "ulleres de sol",
-                "rei"
-            ]
-        },
         "chill": {
             "name": "Relax",
             "keywords": [
@@ -336,6 +175,182 @@
                 "punxegut",
                 "ros",
                 "morros"
+            ]
+        },
+        "homie": {
+            "name": "Col·lega",
+            "keywords": [
+                "bandana",
+                "ulleres de sol",
+                "roca"
+            ]
+        },
+        "afterparty": {
+            "name": "Després de la festa",
+            "keywords": [
+                "estirat",
+                "barret de festa",
+                "relaxat"
+            ]
+        },
+        "boss": {
+            "name": "Poderosa",
+            "keywords": [
+                "auriculars",
+                "lleopard",
+                "música"
+            ]
+        },
+        "sly": {
+            "name": "Astut",
+            "keywords": [
+                "gorra",
+                "del revés",
+                "mirada de reüll"
+            ]
+        },
+        "smug": {
+            "name": "Cregut",
+            "keywords": [
+                "ulleres",
+                "llest",
+                "somriure murri"
+            ]
+        },
+        "bookish": {
+            "name": "Estudiós",
+            "keywords": [
+                "ulleres",
+                "rossa",
+                "estudiar"
+            ]
+        },
+        "royalty": {
+            "name": "Reialesa",
+            "keywords": [
+                "corona",
+                "ulleres de sol",
+                "rei"
+            ]
+        },
+        "dazzling": {
+            "name": "Enlluernador",
+            "keywords": [
+                "espurna",
+                "ulleres de sol",
+                "elegant"
+            ]
+        },
+        "brainiac": {
+            "name": "Cervellet",
+            "keywords": [
+                "bombeta",
+                "ulleres",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "A la lluna",
+            "keywords": [
+                "extraterrestre",
+                "casc",
+                "espai"
+            ]
+        },
+        "cool": {
+            "name": "Guai",
+            "keywords": [
+                "auriculars",
+                "música",
+                "xulo"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "bombeta",
+                "pensar",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Caçabugs",
+            "keywords": [
+                "bombolles",
+                "poció",
+                "content"
+            ]
+        },
+        "far-out": {
+            "name": "Rotllo hippie",
+            "keywords": [
+                "música",
+                "notes",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Estrella del karaoke",
+            "keywords": [
+                "micròfon",
+                "karaoke",
+                "cantar"
+            ]
+        },
+        "super-nerd": {
+            "name": "Superfriqui",
+            "keywords": [
+                "capa",
+                "heroi",
+                "ulleres"
+            ]
+        },
+        "wonderful": {
+            "name": "Meravellosa",
+            "keywords": [
+                "taló alt",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "A tota canya",
+            "keywords": [
+                "amplificador",
+                "guitarra",
+                "música"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Al ritme",
+            "keywords": [
+                "tambor",
+                "pandereta",
+                "picada d'ullet"
+            ]
+        },
+        "rambunctious": {
+            "name": "Esvalotat",
+            "keywords": [
+                "banyes de moltó",
+                "ulleres de sol",
+                "atrevit"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sintonitzat",
+            "keywords": [
+                "auricular amb micro",
+                "escoltar",
+                "música"
+            ]
+        },
+        "kiddo": {
+            "name": "Marrec",
+            "keywords": [
+                "gorra amb hèlix",
+                "babau",
+                "nen"
             ]
         }
     }

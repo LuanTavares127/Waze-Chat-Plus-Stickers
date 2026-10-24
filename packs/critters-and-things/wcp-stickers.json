@@ -53,8 +53,8 @@
     ],
     "stickers": [
         {
-            "id": "102",
-            "name": "102",
+            "id": "big-brain",
+            "name": "Big Brain",
             "keywords": [
                 "brain",
                 "smart",
@@ -65,8 +65,8 @@
             ]
         },
         {
-            "id": "227",
-            "name": "227",
+            "id": "blissful",
+            "name": "Blissful",
             "keywords": [
                 "cow",
                 "moo",
@@ -78,8 +78,8 @@
             ]
         },
         {
-            "id": "229",
-            "name": "229",
+            "id": "pampered",
+            "name": "Pampered",
             "keywords": [
                 "dog",
                 "corgi",
@@ -91,8 +91,8 @@
             ]
         },
         {
-            "id": "230",
-            "name": "230",
+            "id": "loyal-corgi",
+            "name": "Loyal",
             "keywords": [
                 "dog",
                 "corgi",
@@ -104,8 +104,8 @@
             ]
         },
         {
-            "id": "231",
-            "name": "231",
+            "id": "playful-pup",
+            "name": "Playful Pup",
             "keywords": [
                 "dog",
                 "corgi",
@@ -117,8 +117,8 @@
             ]
         },
         {
-            "id": "236",
-            "name": "236",
+            "id": "red",
+            "name": "Red",
             "keywords": [
                 "dragon",
                 "red",
@@ -130,8 +130,8 @@
             ]
         },
         {
-            "id": "259",
-            "name": "259",
+            "id": "parrot",
+            "name": "Parrot",
             "keywords": [
                 "bird",
                 "cap",
@@ -142,8 +142,8 @@
             ]
         },
         {
-            "id": "251",
-            "name": "251",
+            "id": "zesty",
+            "name": "Zesty",
             "keywords": [
                 "teapot",
                 "tea",
@@ -155,8 +155,8 @@
             ]
         },
         {
-            "id": "30",
-            "name": "30",
+            "id": "speedy-rock",
+            "name": "Speedy Rock",
             "keywords": [
                 "rock",
                 "stone",
@@ -167,8 +167,8 @@
             ]
         },
         {
-            "id": "85",
-            "name": "85",
+            "id": "capybara",
+            "name": "Capybara",
             "keywords": [
                 "capybara",
                 "bird",
@@ -180,8 +180,8 @@
             ]
         },
         {
-            "id": "84",
-            "name": "84",
+            "id": "kind",
+            "name": "Kind",
             "keywords": [
                 "bear",
                 "bucket hat",
@@ -406,8 +406,8 @@
             ]
         },
         {
-            "id": "magical",
-            "name": "Magical",
+            "id": "unicorn",
+            "name": "Unicorn",
             "keywords": [
                 "unicorn",
                 "rainbow",
@@ -419,8 +419,8 @@
             ]
         },
         {
-            "id": "magical-2",
-            "name": "Magical (2)",
+            "id": "magical",
+            "name": "Magical",
             "keywords": [
                 "magic",
                 "pink",
@@ -582,8 +582,8 @@
             ]
         },
         {
-            "id": "177",
-            "name": "177",
+            "id": "chomper",
+            "name": "Chomper",
             "keywords": [
                 "dinosaur",
                 "teeth",
@@ -595,8 +595,8 @@
             ]
         },
         {
-            "id": "249",
-            "name": "249",
+            "id": "visionary",
+            "name": "Visionary",
             "keywords": [
                 "eye",
                 "sign",
@@ -608,8 +608,8 @@
             ]
         },
         {
-            "id": "241",
-            "name": "241",
+            "id": "focused",
+            "name": "Focused",
             "keywords": [
                 "hand",
                 "eye",
@@ -621,8 +621,8 @@
             ]
         },
         {
-            "id": "219",
-            "name": "219",
+            "id": "yellow",
+            "name": "Yellow",
             "keywords": [
                 "fangs",
                 "teeth",

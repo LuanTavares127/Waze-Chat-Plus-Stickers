@@ -1,55 +1,6 @@
 {
     "name": "Çapraz Evrenler",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minyon",
-                "tek göz",
-                "muz"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minyon",
-                "tek göz",
-                "petek"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiyot",
-                "diş",
-                "kötü adam"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "kukla",
-                "mutlu"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "gözlük",
-                "saç"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "kukla",
-                "gergin"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "şapka",
-                "kahkaha"
-            ]
-        },
         "ed": {
             "name": "Ed - Sadık",
             "keywords": [
@@ -154,14 +105,6 @@
                 "inşaat"
             ]
         },
-        "red": {
-            "name": "Kırmızı",
-            "keywords": [
-                "fraggle",
-                "kızıl saç",
-                "kahkaha"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "mücevher",
                 "kötü adam"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiyot",
+                "diş",
+                "kötü adam"
+            ]
+        },
+        "despicable": {
+            "name": "Kötü adam",
+            "keywords": [
+                "minyon",
+                "tek göz",
+                "muz"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega kötü adam",
+            "keywords": [
+                "minyon",
+                "tek göz",
+                "petek"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "kukla",
+                "mutlu"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "gözlük",
+                "saç"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "kukla",
+                "gergin"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "şapka",
+                "kahkaha"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "kızıl saç",
+                "kahkaha"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkan selamı",
+            "keywords": [
+                "el",
+                "selam",
+                "selamlama"
             ]
         }
     }

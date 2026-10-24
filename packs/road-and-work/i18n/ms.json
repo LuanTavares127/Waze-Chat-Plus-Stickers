@@ -1,160 +1,6 @@
 {
     "name": "Di Jalan Raya & Tempat Kerja",
     "stickers": {
-        "18": {
-            "keywords": [
-                "buntil",
-                "perjalanan",
-                "pengembaraan"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "ramuan",
-                "cermin mata",
-                "makmal"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "penjelajah",
-                "topi",
-                "pengembaraan"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "bendera",
-                "melancong"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "kelasi",
-                "topi",
-                "bot"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "beg pakaian",
-                "topi",
-                "perjalanan"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "juruterbang",
-                "goggle",
-                "topi keledar"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "burung hantu",
-                "konvokesyen",
-                "pandai"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "alat pemadam api",
-                "keselamatan",
-                "gementar"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "topi keledar kerja",
-                "pembinaan",
-                "jaket"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "topi jerami",
-                "ladang",
-                "pesta jun"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "topi keledar",
-                "bintang-bintang",
-                "pelumba"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "pelitup muka",
-                "kesihatan",
-                "selamat"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "jam randik",
-                "ikat kepala",
-                "latihan"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "undi",
-                "pilihan raya",
-                "kertas undi"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "isyarat",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "undi",
-                "tanda",
-                "pilihan raya"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "pingat",
-                "reben",
-                "kenyit mata"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "penghantaran",
-                "topi keledar",
-                "kotak"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antena",
-                "penjelajah"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "belon pertuturan",
-                "sembang",
-                "cakap"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "wisel",
-                "pengadil",
-                "kesalahan"
-            ]
-        },
         "road-warrior": {
             "name": "Pahlawan Jalan Raya",
             "keywords": [
@@ -345,6 +191,182 @@
                 "topi keledar",
                 "motosikal",
                 "tergesa-gesa"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Saintis Gila",
+            "keywords": [
+                "ramuan",
+                "cermin mata",
+                "makmal"
+            ]
+        },
+        "explorer": {
+            "name": "Penjelajah",
+            "keywords": [
+                "penjelajah",
+                "topi",
+                "pengembaraan"
+            ]
+        },
+        "sightseer": {
+            "name": "Pelancong",
+            "keywords": [
+                "kamera",
+                "bendera",
+                "melancong"
+            ]
+        },
+        "jet-setter": {
+            "name": "Kaki Jalan",
+            "keywords": [
+                "beg pakaian",
+                "topi",
+                "perjalanan"
+            ]
+        },
+        "know-it-all": {
+            "name": "Serba Tahu",
+            "keywords": [
+                "burung hantu",
+                "konvokesyen",
+                "pandai"
+            ]
+        },
+        "close-call": {
+            "name": "Nyaris",
+            "keywords": [
+                "alat pemadam api",
+                "keselamatan",
+                "gementar"
+            ]
+        },
+        "on-the-job": {
+            "name": "Sedang Bertugas",
+            "keywords": [
+                "topi keledar kerja",
+                "pembinaan",
+                "jaket"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Mod Kempen",
+            "keywords": [
+                "undi",
+                "tanda",
+                "pilihan raya"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Penghantaran Ekspres",
+            "keywords": [
+                "penghantaran",
+                "topi keledar",
+                "kotak"
+            ]
+        },
+        "referee": {
+            "name": "Pengadil",
+            "keywords": [
+                "wisel",
+                "pengadil",
+                "kesalahan"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "juruterbang",
+                "goggle",
+                "topi keledar"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "topi keledar",
+                "bintang-bintang",
+                "pelumba"
+            ]
+        },
+        "blue": {
+            "name": "Biru",
+            "keywords": [
+                "robot",
+                "antena",
+                "penjelajah"
+            ]
+        },
+        "voter": {
+            "name": "Pengundi",
+            "keywords": [
+                "undi",
+                "pilihan raya",
+                "kertas undi"
+            ]
+        },
+        "winner": {
+            "name": "Juara",
+            "keywords": [
+                "pingat",
+                "reben",
+                "kenyit mata"
+            ]
+        },
+        "chatty": {
+            "name": "Mulut Murai",
+            "keywords": [
+                "belon pertuturan",
+                "sembang",
+                "cakap"
+            ]
+        },
+        "wanderer": {
+            "name": "Pengembara",
+            "keywords": [
+                "buntil",
+                "perjalanan",
+                "pengembaraan"
+            ]
+        },
+        "skipper": {
+            "name": "Kapten",
+            "keywords": [
+                "kelasi",
+                "topi",
+                "bot"
+            ]
+        },
+        "country-folk": {
+            "name": "Orang Kampung",
+            "keywords": [
+                "topi jerami",
+                "ladang",
+                "pesta jun"
+            ]
+        },
+        "masked-up": {
+            "name": "Berpelitup",
+            "keywords": [
+                "pelitup muka",
+                "kesihatan",
+                "selamat"
+            ]
+        },
+        "workout-mode": {
+            "name": "Mod Senaman",
+            "keywords": [
+                "jam randik",
+                "ikat kepala",
+                "latihan"
+            ]
+        },
+        "connected": {
+            "name": "Bersambung",
+            "keywords": [
+                "isyarat",
+                "robot",
+                "wifi"
             ]
         }
     }

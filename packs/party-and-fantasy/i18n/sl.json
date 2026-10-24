@@ -1,111 +1,6 @@
 {
     "name": "Zabava, horoskop in domišljija",
     "stickers": {
-        "31": {
-            "keywords": [
-                "snežak",
-                "zima",
-                "šal"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "party klobuk",
-                "rojstni dan",
-                "praznovati"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "čelada",
-                "zebelj na zemljevidu"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "norec",
-                "klobuk",
-                "smeh"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "božič",
-                "božiček",
-                "sončna očala"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "čarovnik",
-                "klobuk",
-                "čarovnija"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "čarovnica",
-                "klobuk",
-                "noč čarovnic"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "pust",
-                "pokrivalo",
-                "perje"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "šal",
-                "kapa",
-                "zima"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "pust",
-                "maska",
-                "zabava"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "novo leto",
-                "2026",
-                "zabava"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "kladivo",
-                "ščit"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "zima",
-                "kapa",
-                "mraz"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "stražar",
-                "london",
-                "klobuk"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cilinder",
-                "čaj",
-                "čudežna dežela"
-            ]
-        },
         "aries": {
             "name": "Oven",
             "keywords": [
@@ -376,6 +271,126 @@
                 "junak",
                 "diadem",
                 "moč"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Rojstnodnevno vzdušje",
+            "keywords": [
+                "party klobuk",
+                "rojstni dan",
+                "praznovati"
+            ]
+        },
+        "witchy": {
+            "name": "Čarovnica",
+            "keywords": [
+                "čarovnica",
+                "klobuk",
+                "noč čarovnic"
+            ]
+        },
+        "valiant": {
+            "name": "Pogumen",
+            "keywords": [
+                "viking",
+                "kladivo",
+                "ščit"
+            ]
+        },
+        "stern-guard": {
+            "name": "Strogi stražar",
+            "keywords": [
+                "stražar",
+                "london",
+                "klobuk"
+            ]
+        },
+        "snowman": {
+            "name": "Snežak",
+            "keywords": [
+                "snežak",
+                "zima",
+                "šal"
+            ]
+        },
+        "map-raider": {
+            "name": "Osvajalec zemljevida",
+            "keywords": [
+                "viking",
+                "čelada",
+                "zebelj na zemljevidu"
+            ]
+        },
+        "hello-2026": {
+            "name": "Živjo, 2026",
+            "keywords": [
+                "novo leto",
+                "2026",
+                "zabava"
+            ]
+        },
+        "cool-santa": {
+            "name": "Kul Božiček",
+            "keywords": [
+                "božič",
+                "božiček",
+                "sončna očala"
+            ]
+        },
+        "spicy": {
+            "name": "Pikanten",
+            "keywords": [
+                "cilinder",
+                "čaj",
+                "čudežna dežela"
+            ]
+        },
+        "jester": {
+            "name": "Dvorni norček",
+            "keywords": [
+                "norec",
+                "klobuk",
+                "smeh"
+            ]
+        },
+        "wizard": {
+            "name": "Čarovnik",
+            "keywords": [
+                "čarovnik",
+                "klobuk",
+                "čarovnija"
+            ]
+        },
+        "samba-star": {
+            "name": "Zvezda sambe",
+            "keywords": [
+                "pust",
+                "pokrivalo",
+                "perje"
+            ]
+        },
+        "cozy": {
+            "name": "Na toplem",
+            "keywords": [
+                "šal",
+                "kapa",
+                "zima"
+            ]
+        },
+        "masquerade": {
+            "name": "Maškarada",
+            "keywords": [
+                "pust",
+                "maska",
+                "zabava"
+            ]
+        },
+        "bundled-up": {
+            "name": "Toplo zavit",
+            "keywords": [
+                "zima",
+                "kapa",
+                "mraz"
             ]
         }
     }

@@ -1,55 +1,6 @@
 {
     "name": "Colaborări",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un ochi",
-                "banană"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un ochi",
-                "fagure"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiot",
-                "dinți",
-                "răufăcător"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "păpușă",
-                "fericit"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "ochelari",
-                "păr"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "păpușă",
-                "nervos"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "pălărie",
-                "râs"
-            ]
-        },
         "ed": {
             "name": "Ed - Loial",
             "keywords": [
@@ -154,14 +105,6 @@
                 "construcții"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "păr roșcat",
-                "râs"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "nestemată",
                 "răufăcător"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiot",
+                "dinți",
+                "răufăcător"
+            ]
+        },
+        "despicable": {
+            "name": "Detestabil",
+            "keywords": [
+                "minion",
+                "un ochi",
+                "banană"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega detestabil",
+            "keywords": [
+                "minion",
+                "un ochi",
+                "fagure"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "păpușă",
+                "fericit"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "ochelari",
+                "păr"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "păpușă",
+                "nervos"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "pălărie",
+                "râs"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "păr roșcat",
+                "râs"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salut vulcanian",
+            "keywords": [
+                "mână",
+                "salut militar",
+                "salutare"
             ]
         }
     }

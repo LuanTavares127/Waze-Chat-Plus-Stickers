@@ -1,97 +1,6 @@
 {
     "name": "Gefühle",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassisch",
-                "hallo",
-                "glücklich"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "Träne",
-                "traurig",
-                "Schlafmütze"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "leer",
-                "neutral",
-                "schlicht"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "Liebe",
-                "Herz",
-                "süß"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "Elternteil",
-                "Baby",
-                "Familie"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "weinen",
-                "aufgebracht",
-                "Verzweiflung"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "krank",
-                "Übelkeit",
-                "unwohl"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "peinlich",
-                "unangenehm",
-                "uff"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "aufgeregt",
-                "juhu",
-                "Flügel"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "glücklich",
-                "lachen",
-                "Hut"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "sauer",
-                "genervt",
-                "Stirnrunzeln"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "Frage",
-                "was",
-                "Zweifel"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "Lotus",
-                "Meditation",
-                "ruhig"
-            ]
-        },
         "amazing": {
             "name": "Fantastisch",
             "keywords": [
@@ -354,6 +263,110 @@
                 "Stolz",
                 "Regenbogen",
                 "Herz"
+            ]
+        },
+        "puzzled": {
+            "name": "Verwirrt",
+            "keywords": [
+                "Frage",
+                "was",
+                "Zweifel"
+            ]
+        },
+        "grounded": {
+            "name": "Geerdet",
+            "keywords": [
+                "Lotus",
+                "Meditation",
+                "ruhig"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassisch",
+                "hallo",
+                "glücklich"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "Träne",
+                "traurig",
+                "Schlafmütze"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerface",
+            "keywords": [
+                "leer",
+                "neutral",
+                "schlicht"
+            ]
+        },
+        "sweetheart": {
+            "name": "Schatz",
+            "keywords": [
+                "Liebe",
+                "Herz",
+                "süß"
+            ]
+        },
+        "family": {
+            "name": "Familie",
+            "keywords": [
+                "Elternteil",
+                "Baby",
+                "Familie"
+            ]
+        },
+        "fuming": {
+            "name": "Wütend",
+            "keywords": [
+                "sauer",
+                "genervt",
+                "Stirnrunzeln"
+            ]
+        },
+        "distraught": {
+            "name": "Verzweifelt",
+            "keywords": [
+                "weinen",
+                "aufgebracht",
+                "Verzweiflung"
+            ]
+        },
+        "queasy": {
+            "name": "Übel",
+            "keywords": [
+                "krank",
+                "Übelkeit",
+                "unwohl"
+            ]
+        },
+        "uneasy": {
+            "name": "Unwohl",
+            "keywords": [
+                "peinlich",
+                "unangenehm",
+                "uff"
+            ]
+        },
+        "ecstatic": {
+            "name": "Überglücklich",
+            "keywords": [
+                "aufgeregt",
+                "juhu",
+                "Flügel"
+            ]
+        },
+        "cheerful": {
+            "name": "Fröhlich",
+            "keywords": [
+                "glücklich",
+                "lachen",
+                "Hut"
             ]
         }
     }

@@ -1,111 +1,6 @@
 {
     "name": "Petreceri, zodiac și fantezie",
     "stickers": {
-        "31": {
-            "keywords": [
-                "om de zăpadă",
-                "iarnă",
-                "fular"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "pălărie de petrecere",
-                "zi de naștere",
-                "a sărbători"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "cască",
-                "pin pe hartă"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bufon",
-                "pălărie",
-                "râs"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "crăciun",
-                "moș crăciun",
-                "ochelari de soare"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "vrăjitor",
-                "pălărie",
-                "magie"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "vrăjitoare",
-                "pălărie",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnaval",
-                "podoabă de cap",
-                "pene"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "fular",
-                "căciulă",
-                "iarnă"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnaval",
-                "mască",
-                "petrecere"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "anul nou",
-                "2026",
-                "petrecere"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "ciocan",
-                "scut"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "iarnă",
-                "căciulă",
-                "frig"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "gardian",
-                "londra",
-                "pălărie"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "joben",
-                "ceai",
-                "țara minunilor"
-            ]
-        },
         "aries": {
             "name": "Berbec",
             "keywords": [
@@ -376,6 +271,126 @@
                 "erou",
                 "tiară",
                 "putere"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Zi de naștere",
+            "keywords": [
+                "pălărie de petrecere",
+                "zi de naștere",
+                "a sărbători"
+            ]
+        },
+        "witchy": {
+            "name": "Vrăjitoare",
+            "keywords": [
+                "vrăjitoare",
+                "pălărie",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Viteaz",
+            "keywords": [
+                "viking",
+                "ciocan",
+                "scut"
+            ]
+        },
+        "stern-guard": {
+            "name": "Gardian sever",
+            "keywords": [
+                "gardian",
+                "londra",
+                "pălărie"
+            ]
+        },
+        "snowman": {
+            "name": "Om de zăpadă",
+            "keywords": [
+                "om de zăpadă",
+                "iarnă",
+                "fular"
+            ]
+        },
+        "map-raider": {
+            "name": "Invadatorul hărții",
+            "keywords": [
+                "viking",
+                "cască",
+                "pin pe hartă"
+            ]
+        },
+        "hello-2026": {
+            "name": "Salut, 2026",
+            "keywords": [
+                "anul nou",
+                "2026",
+                "petrecere"
+            ]
+        },
+        "cool-santa": {
+            "name": "Moș Crăciun mișto",
+            "keywords": [
+                "crăciun",
+                "moș crăciun",
+                "ochelari de soare"
+            ]
+        },
+        "spicy": {
+            "name": "Picant",
+            "keywords": [
+                "joben",
+                "ceai",
+                "țara minunilor"
+            ]
+        },
+        "jester": {
+            "name": "Bufon",
+            "keywords": [
+                "bufon",
+                "pălărie",
+                "râs"
+            ]
+        },
+        "wizard": {
+            "name": "Vrăjitor",
+            "keywords": [
+                "vrăjitor",
+                "pălărie",
+                "magie"
+            ]
+        },
+        "samba-star": {
+            "name": "Vedetă de samba",
+            "keywords": [
+                "carnaval",
+                "podoabă de cap",
+                "pene"
+            ]
+        },
+        "cozy": {
+            "name": "La căldurică",
+            "keywords": [
+                "fular",
+                "căciulă",
+                "iarnă"
+            ]
+        },
+        "masquerade": {
+            "name": "Mascaradă",
+            "keywords": [
+                "carnaval",
+                "mască",
+                "petrecere"
+            ]
+        },
+        "bundled-up": {
+            "name": "Înfofolit",
+            "keywords": [
+                "iarnă",
+                "căciulă",
+                "frig"
             ]
         }
     }

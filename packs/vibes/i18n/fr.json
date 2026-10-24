@@ -1,167 +1,6 @@
 {
     "name": "Ambiances",
     "stickers": {
-        "44": {
-            "keywords": [
-                "cornes de bélier",
-                "lunettes de soleil",
-                "audacieux"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "lunettes de soleil",
-                "roche"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musique",
-                "notes",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "talon haut",
-                "mode",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "allongé",
-                "chapeau de fête",
-                "détendu"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "casque micro",
-                "écoute",
-                "musique"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "ampoule",
-                "lunettes",
-                "idée"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bulles",
-                "potion",
-                "heureux"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "étincelle",
-                "lunettes de soleil",
-                "chic"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "casque audio",
-                "léopard",
-                "musique"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "micro",
-                "karaoke",
-                "chanter"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "extraterrestre",
-                "casque",
-                "espace"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "casque audio",
-                "musique",
-                "cool"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "casquette",
-                "à l'envers",
-                "regard en coin"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "casquette à hélice",
-                "rigolo",
-                "enfant"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "ampli",
-                "guitare",
-                "musique"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tambour",
-                "tambourin",
-                "clin d'œil"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "ampoule",
-                "réfléchir",
-                "idée"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "main",
-                "salut",
-                "salutation"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "lunettes",
-                "intelligent",
-                "sourire en coin"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "lunettes",
-                "blonde",
-                "étudier"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "cape",
-                "héros",
-                "lunettes"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "couronne",
-                "lunettes de soleil",
-                "roi"
-            ]
-        },
         "chill": {
             "name": "Détendu",
             "keywords": [
@@ -336,6 +175,182 @@
                 "hérissé",
                 "blond",
                 "moue"
+            ]
+        },
+        "homie": {
+            "name": "Mon pote",
+            "keywords": [
+                "bandana",
+                "lunettes de soleil",
+                "roche"
+            ]
+        },
+        "afterparty": {
+            "name": "Après la fête",
+            "keywords": [
+                "allongé",
+                "chapeau de fête",
+                "détendu"
+            ]
+        },
+        "boss": {
+            "name": "La boss",
+            "keywords": [
+                "casque audio",
+                "léopard",
+                "musique"
+            ]
+        },
+        "sly": {
+            "name": "Malin",
+            "keywords": [
+                "casquette",
+                "à l'envers",
+                "regard en coin"
+            ]
+        },
+        "smug": {
+            "name": "Crâneur",
+            "keywords": [
+                "lunettes",
+                "intelligent",
+                "sourire en coin"
+            ]
+        },
+        "bookish": {
+            "name": "Studieux",
+            "keywords": [
+                "lunettes",
+                "blonde",
+                "étudier"
+            ]
+        },
+        "royalty": {
+            "name": "Majesté",
+            "keywords": [
+                "couronne",
+                "lunettes de soleil",
+                "roi"
+            ]
+        },
+        "dazzling": {
+            "name": "Éblouissant",
+            "keywords": [
+                "étincelle",
+                "lunettes de soleil",
+                "chic"
+            ]
+        },
+        "brainiac": {
+            "name": "Petit génie",
+            "keywords": [
+                "ampoule",
+                "lunettes",
+                "idée"
+            ]
+        },
+        "spaced-out": {
+            "name": "Dans la lune",
+            "keywords": [
+                "extraterrestre",
+                "casque",
+                "espace"
+            ]
+        },
+        "cool": {
+            "name": "Stylé",
+            "keywords": [
+                "casque audio",
+                "musique",
+                "cool"
+            ]
+        },
+        "eureka": {
+            "name": "Eurêka",
+            "keywords": [
+                "ampoule",
+                "réfléchir",
+                "idée"
+            ]
+        },
+        "bug-buster": {
+            "name": "Chasseur de bugs",
+            "keywords": [
+                "bulles",
+                "potion",
+                "heureux"
+            ]
+        },
+        "far-out": {
+            "name": "Baba cool",
+            "keywords": [
+                "musique",
+                "notes",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Star du karaoké",
+            "keywords": [
+                "micro",
+                "karaoke",
+                "chanter"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super geek",
+            "keywords": [
+                "cape",
+                "héros",
+                "lunettes"
+            ]
+        },
+        "wonderful": {
+            "name": "Merveilleuse",
+            "keywords": [
+                "talon haut",
+                "mode",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "À fond",
+            "keywords": [
+                "ampli",
+                "guitare",
+                "musique"
+            ]
+        },
+        "on-the-beat": {
+            "name": "En rythme",
+            "keywords": [
+                "tambour",
+                "tambourin",
+                "clin d'œil"
+            ]
+        },
+        "rambunctious": {
+            "name": "Turbulent",
+            "keywords": [
+                "cornes de bélier",
+                "lunettes de soleil",
+                "audacieux"
+            ]
+        },
+        "tuned-in": {
+            "name": "À l'écoute",
+            "keywords": [
+                "casque micro",
+                "écoute",
+                "musique"
+            ]
+        },
+        "kiddo": {
+            "name": "Gamin",
+            "keywords": [
+                "casquette à hélice",
+                "rigolo",
+                "enfant"
             ]
         }
     }

@@ -1,0 +1,35 @@
+# Waze Chat Plus Worker: publish with `npx wrangler deploy` inside this folder (the secrets KLIPY_KEY and GITHUB_TOKEN stay
+# in Cloudflare, the deploy does not touch them). Limits and their reasons in worker.js.
+name = "waze-chat-plus-gifs"
+main = "worker.js"
+# The same date as Settings > Runtime of the Worker in Cloudflare (changing it changes the runtime behavior)
+compatibility_date = "2026-10-14"
+workers_dev = true
+# No per-version preview URLs: only the workers.dev address is used
+preview_urls = false
+
+# Rate Limiting per IP in each Cloudflare location (period only 10 or 60 s; namespace_id = a unique number in the account)
+[[ratelimits]]
+name = "GIFS_LIMITER"
+namespace_id = "1001"
+simple = { limit = 30, period = 60 }
+
+[[ratelimits]]
+name = "STICKERS_LIMITER"
+namespace_id = "1002"
+simple = { limit = 10, period = 60 }
+
+[[ratelimits]]
+name = "REPORT_LIMITER"
+namespace_id = "1003"
+simple = { limit = 2, period = 60 }
+
+[[ratelimits]]
+name = "PREVIEW_LIMITER"
+namespace_id = "1004"
+simple = { limit = 30, period = 60 }
+
+# Daily report counters: create once with `npx wrangler kv namespace create REPORTS` and paste the id
+[[kv_namespaces]]
+binding = "REPORTS"
+id = "e137da60a0c9404e83894b422f0ece37"

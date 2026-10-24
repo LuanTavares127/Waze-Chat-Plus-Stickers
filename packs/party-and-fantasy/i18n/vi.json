@@ -1,111 +1,6 @@
 {
     "name": "Tiệc, cung hoàng đạo & kỳ ảo",
     "stickers": {
-        "31": {
-            "keywords": [
-                "người tuyết",
-                "mùa đông",
-                "khăn quàng"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "mũ tiệc",
-                "sinh nhật",
-                "ăn mừng"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "mũ bảo hiểm",
-                "ghim bản đồ"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "chú hề cung đình",
-                "mũ",
-                "cười"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "giáng sinh",
-                "ông già noel",
-                "kính râm"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "phù thủy",
-                "mũ",
-                "phép thuật"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "phù thủy nữ",
-                "mũ",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "lễ hội carnival",
-                "mũ lông",
-                "lông vũ"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "khăn quàng",
-                "mũ len",
-                "mùa đông"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "lễ hội carnival",
-                "mặt nạ",
-                "tiệc"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "năm mới",
-                "2026",
-                "tiệc"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "búa",
-                "khiên"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "mùa đông",
-                "mũ len",
-                "lạnh"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "lính gác",
-                "luân đôn",
-                "mũ"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "mũ chóp cao",
-                "trà",
-                "xứ sở thần tiên"
-            ]
-        },
         "aries": {
             "name": "Bạch Dương",
             "keywords": [
@@ -376,6 +271,126 @@
                 "anh hùng",
                 "vương miện nhỏ",
                 "sức mạnh"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Mừng sinh nhật",
+            "keywords": [
+                "mũ tiệc",
+                "sinh nhật",
+                "ăn mừng"
+            ]
+        },
+        "witchy": {
+            "name": "Phù thủy",
+            "keywords": [
+                "phù thủy nữ",
+                "mũ",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Dũng cảm",
+            "keywords": [
+                "viking",
+                "búa",
+                "khiên"
+            ]
+        },
+        "stern-guard": {
+            "name": "Vệ binh nghiêm nghị",
+            "keywords": [
+                "lính gác",
+                "luân đôn",
+                "mũ"
+            ]
+        },
+        "snowman": {
+            "name": "Người tuyết",
+            "keywords": [
+                "người tuyết",
+                "mùa đông",
+                "khăn quàng"
+            ]
+        },
+        "map-raider": {
+            "name": "Kẻ chinh phạt bản đồ",
+            "keywords": [
+                "viking",
+                "mũ bảo hiểm",
+                "ghim bản đồ"
+            ]
+        },
+        "hello-2026": {
+            "name": "Chào 2026",
+            "keywords": [
+                "năm mới",
+                "2026",
+                "tiệc"
+            ]
+        },
+        "cool-santa": {
+            "name": "Ông già Noel ngầu",
+            "keywords": [
+                "giáng sinh",
+                "ông già noel",
+                "kính râm"
+            ]
+        },
+        "spicy": {
+            "name": "Cay nồng",
+            "keywords": [
+                "mũ chóp cao",
+                "trà",
+                "xứ sở thần tiên"
+            ]
+        },
+        "jester": {
+            "name": "Chú hề",
+            "keywords": [
+                "chú hề cung đình",
+                "mũ",
+                "cười"
+            ]
+        },
+        "wizard": {
+            "name": "Pháp sư",
+            "keywords": [
+                "phù thủy",
+                "mũ",
+                "phép thuật"
+            ]
+        },
+        "samba-star": {
+            "name": "Ngôi sao samba",
+            "keywords": [
+                "lễ hội carnival",
+                "mũ lông",
+                "lông vũ"
+            ]
+        },
+        "cozy": {
+            "name": "Ấm áp",
+            "keywords": [
+                "khăn quàng",
+                "mũ len",
+                "mùa đông"
+            ]
+        },
+        "masquerade": {
+            "name": "Hóa trang",
+            "keywords": [
+                "lễ hội carnival",
+                "mặt nạ",
+                "tiệc"
+            ]
+        },
+        "bundled-up": {
+            "name": "Mặc ấm",
+            "keywords": [
+                "mùa đông",
+                "mũ len",
+                "lạnh"
             ]
         }
     }

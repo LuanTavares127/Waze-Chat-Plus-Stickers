@@ -53,8 +53,8 @@
     ],
     "stickers": [
         {
-            "id": "148",
-            "name": "148",
+            "id": "on-the-job",
+            "name": "On the Job",
             "keywords": [
                 "hard hat",
                 "construction",
@@ -66,8 +66,8 @@
             ]
         },
         {
-            "id": "116",
-            "name": "116",
+            "id": "jet-setter",
+            "name": "Jet-Setter",
             "keywords": [
                 "suitcase",
                 "hat",
@@ -79,8 +79,8 @@
             ]
         },
         {
-            "id": "18",
-            "name": "18",
+            "id": "wanderer",
+            "name": "Wanderer",
             "keywords": [
                 "bindle",
                 "trip",
@@ -92,8 +92,8 @@
             ]
         },
         {
-            "id": "52",
-            "name": "52",
+            "id": "sightseer",
+            "name": "Sightseer",
             "keywords": [
                 "camera",
                 "flag",
@@ -105,8 +105,8 @@
             ]
         },
         {
-            "id": "51",
-            "name": "51",
+            "id": "explorer",
+            "name": "Explorer",
             "keywords": [
                 "explorer",
                 "hat",
@@ -170,8 +170,8 @@
             ]
         },
         {
-            "id": "244",
-            "name": "244",
+            "id": "quick-delivery",
+            "name": "Quick Delivery",
             "keywords": [
                 "delivery",
                 "helmet",
@@ -183,8 +183,8 @@
             ]
         },
         {
-            "id": "245",
-            "name": "245",
+            "id": "blue",
+            "name": "Blue",
             "keywords": [
                 "robot",
                 "antenna",
@@ -196,8 +196,8 @@
             ]
         },
         {
-            "id": "208",
-            "name": "208",
+            "id": "connected",
+            "name": "Connected",
             "keywords": [
                 "signal",
                 "robot",
@@ -209,8 +209,8 @@
             ]
         },
         {
-            "id": "247",
-            "name": "247",
+            "id": "chatty",
+            "name": "Chatty",
             "keywords": [
                 "speech bubble",
                 "chat",
@@ -222,8 +222,8 @@
             ]
         },
         {
-            "id": "248",
-            "name": "248",
+            "id": "referee",
+            "name": "Referee",
             "keywords": [
                 "whistle",
                 "referee",
@@ -235,8 +235,8 @@
             ]
         },
         {
-            "id": "124",
-            "name": "124",
+            "id": "amelia",
+            "name": "Amelia",
             "keywords": [
                 "pilot",
                 "goggles",
@@ -248,8 +248,8 @@
             ]
         },
         {
-            "id": "147",
-            "name": "147",
+            "id": "close-call",
+            "name": "Close Call",
             "keywords": [
                 "fire extinguisher",
                 "safety",
@@ -261,8 +261,8 @@
             ]
         },
         {
-            "id": "74",
-            "name": "74",
+            "id": "skipper",
+            "name": "Skipper",
             "keywords": [
                 "sailor",
                 "cap",
@@ -287,8 +287,8 @@
             ]
         },
         {
-            "id": "173",
-            "name": "173",
+            "id": "workout-mode",
+            "name": "Workout Mode",
             "keywords": [
                 "stopwatch",
                 "headband",
@@ -300,8 +300,8 @@
             ]
         },
         {
-            "id": "161",
-            "name": "161",
+            "id": "danica",
+            "name": "Danica",
             "keywords": [
                 "helmet",
                 "stars",
@@ -313,8 +313,8 @@
             ]
         },
         {
-            "id": "171",
-            "name": "171",
+            "id": "masked-up",
+            "name": "Masked Up",
             "keywords": [
                 "face mask",
                 "health",
@@ -325,8 +325,8 @@
             ]
         },
         {
-            "id": "207",
-            "name": "207",
+            "id": "voter",
+            "name": "Voter",
             "keywords": [
                 "vote",
                 "election",
@@ -337,8 +337,8 @@
             ]
         },
         {
-            "id": "212",
-            "name": "212",
+            "id": "campaign-mode",
+            "name": "Campaign Mode",
             "keywords": [
                 "vote",
                 "sign",
@@ -555,8 +555,8 @@
             ]
         },
         {
-            "id": "217",
-            "name": "217",
+            "id": "winner",
+            "name": "Winner",
             "keywords": [
                 "medal",
                 "ribbon",
@@ -594,8 +594,8 @@
             ]
         },
         {
-            "id": "20",
-            "name": "20",
+            "id": "mad-scientist",
+            "name": "Mad Scientist",
             "keywords": [
                 "potion",
                 "glasses",
@@ -607,8 +607,8 @@
             ]
         },
         {
-            "id": "131",
-            "name": "131",
+            "id": "know-it-all",
+            "name": "Know-It-All",
             "keywords": [
                 "owl",
                 "graduation",
@@ -620,8 +620,8 @@
             ]
         },
         {
-            "id": "150",
-            "name": "150",
+            "id": "country-folk",
+            "name": "Country Folk",
             "keywords": [
                 "straw hat",
                 "farm",

@@ -1,111 +1,6 @@
 {
     "name": "Krek og ting",
     "stickers": {
-        "30": {
-            "keywords": [
-                "stein",
-                "sten",
-                "fort"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "bjørn",
-                "fiskerhatt",
-                "smil"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapybara",
-                "fugl",
-                "chill"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "hjerne",
-                "smart",
-                "tenke"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaur",
-                "tenner",
-                "bite"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "hoggtenner",
-                "tenner",
-                "glis"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "ku",
-                "muh",
-                "gård"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krone"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "blunk"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krone"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drage",
-                "rød",
-                "monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "hånd",
-                "øye",
-                "beskyttelse"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "øye",
-                "skilt",
-                "mysterium"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tekanne",
-                "te",
-                "eple"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "fugl",
-                "caps",
-                "snakke"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "lunsj"
             ]
         },
-        "magical": {
-            "name": "Magisk",
-            "keywords": [
-                "enhjørning",
-                "regnbue",
-                "magi"
-            ]
-        },
-        "magical-2": {
-            "name": "Magisk (2)",
-            "keywords": [
-                "magi",
-                "rosa",
-                "berømt"
-            ]
-        },
         "open": {
             "name": "Åpen",
             "keywords": [
@@ -352,6 +231,142 @@
                 "ulv",
                 "uling",
                 "lur"
+            ]
+        },
+        "capybara": {
+            "name": "Kapybara",
+            "keywords": [
+                "kapybara",
+                "fugl",
+                "chill"
+            ]
+        },
+        "parrot": {
+            "name": "Papegøye",
+            "keywords": [
+                "fugl",
+                "caps",
+                "snakke"
+            ]
+        },
+        "blissful": {
+            "name": "Lykkelig",
+            "keywords": [
+                "ku",
+                "muh",
+                "gård"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Rask stein",
+            "keywords": [
+                "stein",
+                "sten",
+                "fort"
+            ]
+        },
+        "big-brain": {
+            "name": "Smartingen",
+            "keywords": [
+                "hjerne",
+                "smart",
+                "tenke"
+            ]
+        },
+        "yellow": {
+            "name": "Gul",
+            "keywords": [
+                "hoggtenner",
+                "tenner",
+                "glis"
+            ]
+        },
+        "pampered": {
+            "name": "Bortskjemt",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Lojal",
+            "keywords": [
+                "hund",
+                "corgi",
+                "blunk"
+            ]
+        },
+        "playful-pup": {
+            "name": "Leken valp",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "red": {
+            "name": "Rød",
+            "keywords": [
+                "drage",
+                "rød",
+                "monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Enhjørning",
+            "keywords": [
+                "enhjørning",
+                "regnbue",
+                "magi"
+            ]
+        },
+        "magical": {
+            "name": "Magisk",
+            "keywords": [
+                "magi",
+                "rosa",
+                "berømt"
+            ]
+        },
+        "visionary": {
+            "name": "Visjonær",
+            "keywords": [
+                "øye",
+                "skilt",
+                "mysterium"
+            ]
+        },
+        "focused": {
+            "name": "Fokusert",
+            "keywords": [
+                "hånd",
+                "øye",
+                "beskyttelse"
+            ]
+        },
+        "kind": {
+            "name": "Snill",
+            "keywords": [
+                "bjørn",
+                "fiskerhatt",
+                "smil"
+            ]
+        },
+        "zesty": {
+            "name": "Frisk",
+            "keywords": [
+                "tekanne",
+                "te",
+                "eple"
+            ]
+        },
+        "chomper": {
+            "name": "Glefs",
+            "keywords": [
+                "dinosaur",
+                "tenner",
+                "bite"
             ]
         }
     }

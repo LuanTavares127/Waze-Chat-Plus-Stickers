@@ -1,167 +1,6 @@
 {
     "name": "Suasana",
     "stickers": {
-        "44": {
-            "keywords": [
-                "tanduk biri-biri",
-                "cermin mata hitam",
-                "berani"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "cermin mata hitam",
-                "batu karang"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "muzik",
-                "not muzik",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "kasut tumit tinggi",
-                "fesyen",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "berbaring",
-                "topi parti",
-                "santai"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "set kepala",
-                "mendengar",
-                "muzik"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "mentol",
-                "cermin mata",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "gelembung",
-                "ramuan",
-                "gembira"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "berkilau",
-                "cermin mata hitam",
-                "bergaya"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "fon kepala",
-                "harimau bintang",
-                "muzik"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "menyanyi"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "makhluk asing",
-                "topi keledar",
-                "angkasa"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "fon kepala",
-                "muzik",
-                "hebat"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "topi",
-                "ke belakang",
-                "jeling"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "topi baling-baling",
-                "bodoh-bodoh",
-                "budak"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "penguat",
-                "gitar",
-                "muzik"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "dram",
-                "tamborin",
-                "kenyit mata"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "mentol",
-                "fikir",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "tangan",
-                "tabik hormat",
-                "ucapan"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "cermin mata",
-                "pandai",
-                "senyum sinis"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "cermin mata",
-                "berambut perang",
-                "belajar"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "jubah",
-                "wira",
-                "cermin mata"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "mahkota",
-                "cermin mata hitam",
-                "raja"
-            ]
-        },
         "chill": {
             "name": "Santai",
             "keywords": [
@@ -336,6 +175,182 @@
                 "tajam",
                 "berambut perang",
                 "memuncung"
+            ]
+        },
+        "homie": {
+            "name": "Geng",
+            "keywords": [
+                "bandana",
+                "cermin mata hitam",
+                "batu karang"
+            ]
+        },
+        "afterparty": {
+            "name": "Lepas Parti",
+            "keywords": [
+                "berbaring",
+                "topi parti",
+                "santai"
+            ]
+        },
+        "boss": {
+            "name": "Wanita Hebat",
+            "keywords": [
+                "fon kepala",
+                "harimau bintang",
+                "muzik"
+            ]
+        },
+        "sly": {
+            "name": "Licik",
+            "keywords": [
+                "topi",
+                "ke belakang",
+                "jeling"
+            ]
+        },
+        "smug": {
+            "name": "Berlagak",
+            "keywords": [
+                "cermin mata",
+                "pandai",
+                "senyum sinis"
+            ]
+        },
+        "bookish": {
+            "name": "Ulat Buku",
+            "keywords": [
+                "cermin mata",
+                "berambut perang",
+                "belajar"
+            ]
+        },
+        "royalty": {
+            "name": "Diraja",
+            "keywords": [
+                "mahkota",
+                "cermin mata hitam",
+                "raja"
+            ]
+        },
+        "dazzling": {
+            "name": "Berkilau",
+            "keywords": [
+                "berkilau",
+                "cermin mata hitam",
+                "bergaya"
+            ]
+        },
+        "brainiac": {
+            "name": "Genius",
+            "keywords": [
+                "mentol",
+                "cermin mata",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "Berkhayal",
+            "keywords": [
+                "makhluk asing",
+                "topi keledar",
+                "angkasa"
+            ]
+        },
+        "cool": {
+            "name": "Gempak",
+            "keywords": [
+                "fon kepala",
+                "muzik",
+                "hebat"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "mentol",
+                "fikir",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Pemburu Pepijat",
+            "keywords": [
+                "gelembung",
+                "ramuan",
+                "gembira"
+            ]
+        },
+        "far-out": {
+            "name": "Hipi",
+            "keywords": [
+                "muzik",
+                "not muzik",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Bintang Karaoke",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "menyanyi"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super Nerd",
+            "keywords": [
+                "jubah",
+                "wira",
+                "cermin mata"
+            ]
+        },
+        "wonderful": {
+            "name": "Menawan",
+            "keywords": [
+                "kasut tumit tinggi",
+                "fesyen",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Bersemangat",
+            "keywords": [
+                "penguat",
+                "gitar",
+                "muzik"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Ikut Rentak",
+            "keywords": [
+                "dram",
+                "tamborin",
+                "kenyit mata"
+            ]
+        },
+        "rambunctious": {
+            "name": "Lasak",
+            "keywords": [
+                "tanduk biri-biri",
+                "cermin mata hitam",
+                "berani"
+            ]
+        },
+        "tuned-in": {
+            "name": "Layan Muzik",
+            "keywords": [
+                "set kepala",
+                "mendengar",
+                "muzik"
+            ]
+        },
+        "kiddo": {
+            "name": "Budak Kecil",
+            "keywords": [
+                "topi baling-baling",
+                "bodoh-bodoh",
+                "budak"
             ]
         }
     }

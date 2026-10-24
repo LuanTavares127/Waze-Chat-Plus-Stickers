@@ -1,111 +1,6 @@
 {
     "name": "Radījumi un lietas",
     "stickers": {
-        "30": {
-            "keywords": [
-                "klints",
-                "akmens",
-                "ātrs"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "lācis",
-                "zvejnieka cepure",
-                "smaids"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "putns",
-                "atpūta"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "smadzenes",
-                "gudrs",
-                "domāt"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozaurs",
-                "zobi",
-                "kodiens"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "ilkņi",
-                "zobi",
-                "platsmaids"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "govs",
-                "mū",
-                "lauku sēta"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "suns",
-                "korgijs",
-                "kronis"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "suns",
-                "korgijs",
-                "piemiegt"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "suns",
-                "korgijs",
-                "kronis"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "pūķis",
-                "sarkans",
-                "briesmonis"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "roka",
-                "acs",
-                "aizsardzība"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "acs",
-                "zīme",
-                "noslēpums"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tējkanna",
-                "tēja",
-                "ābols"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "putns",
-                "cepure",
-                "runāt"
-            ]
-        },
         "8-bit": {
             "name": "8 bitu",
             "keywords": [
@@ -242,22 +137,6 @@
                 "pusdienas"
             ]
         },
-        "magical": {
-            "name": "Burvīgs",
-            "keywords": [
-                "vienradzis",
-                "varavīksne",
-                "maģija"
-            ]
-        },
-        "magical-2": {
-            "name": "Burvīgs (2)",
-            "keywords": [
-                "maģija",
-                "rozā",
-                "slavens"
-            ]
-        },
         "open": {
             "name": "Atvērts",
             "keywords": [
@@ -352,6 +231,142 @@
                 "vilks",
                 "gaudot",
                 "viltīgs"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "putns",
+                "atpūta"
+            ]
+        },
+        "parrot": {
+            "name": "Papagailis",
+            "keywords": [
+                "putns",
+                "cepure",
+                "runāt"
+            ]
+        },
+        "blissful": {
+            "name": "Svētlaimīgā",
+            "keywords": [
+                "govs",
+                "mū",
+                "lauku sēta"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Ātrais akmens",
+            "keywords": [
+                "klints",
+                "akmens",
+                "ātrs"
+            ]
+        },
+        "big-brain": {
+            "name": "Gudrā galva",
+            "keywords": [
+                "smadzenes",
+                "gudrs",
+                "domāt"
+            ]
+        },
+        "yellow": {
+            "name": "Dzeltenais",
+            "keywords": [
+                "ilkņi",
+                "zobi",
+                "platsmaids"
+            ]
+        },
+        "pampered": {
+            "name": "Izlutināts",
+            "keywords": [
+                "suns",
+                "korgijs",
+                "kronis"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Uzticīgs",
+            "keywords": [
+                "suns",
+                "korgijs",
+                "piemiegt"
+            ]
+        },
+        "playful-pup": {
+            "name": "Rotaļīgs kucēns",
+            "keywords": [
+                "suns",
+                "korgijs",
+                "kronis"
+            ]
+        },
+        "red": {
+            "name": "Sarkanais",
+            "keywords": [
+                "pūķis",
+                "sarkans",
+                "briesmonis"
+            ]
+        },
+        "unicorn": {
+            "name": "Vienradzis",
+            "keywords": [
+                "vienradzis",
+                "varavīksne",
+                "maģija"
+            ]
+        },
+        "magical": {
+            "name": "Maģisks",
+            "keywords": [
+                "maģija",
+                "rozā",
+                "slavens"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionārs",
+            "keywords": [
+                "acs",
+                "zīme",
+                "noslēpums"
+            ]
+        },
+        "focused": {
+            "name": "Koncentrējies",
+            "keywords": [
+                "roka",
+                "acs",
+                "aizsardzība"
+            ]
+        },
+        "kind": {
+            "name": "Laipns",
+            "keywords": [
+                "lācis",
+                "zvejnieka cepure",
+                "smaids"
+            ]
+        },
+        "zesty": {
+            "name": "Dzīvespriecīgs",
+            "keywords": [
+                "tējkanna",
+                "tēja",
+                "ābols"
+            ]
+        },
+        "chomper": {
+            "name": "Kodējs",
+            "keywords": [
+                "dinozaurs",
+                "zobi",
+                "kodiens"
             ]
         }
     }

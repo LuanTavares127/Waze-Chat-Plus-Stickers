@@ -1,111 +1,6 @@
 {
     "name": "Potvůrky a věci",
     "stickers": {
-        "30": {
-            "keywords": [
-                "skála",
-                "kámen",
-                "rychlý"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "medvěd",
-                "klobouk bucket",
-                "úsměv"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapybara",
-                "pták",
-                "pohoda"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "mozek",
-                "chytrý",
-                "přemýšlet"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurus",
-                "zuby",
-                "kousnutí"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "tesáky",
-                "zuby",
-                "šklebit se"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "kráva",
-                "bú",
-                "farma"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "pes",
-                "corgi",
-                "koruna"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "pes",
-                "corgi",
-                "mrknutí"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "pes",
-                "corgi",
-                "koruna"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drak",
-                "červený",
-                "příšera"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "ruka",
-                "oko",
-                "ochrana"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "oko",
-                "znamení",
-                "záhada"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "čajová konvice",
-                "čaj",
-                "jablko"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "pták",
-                "kšiltovka",
-                "mluvit"
-            ]
-        },
         "8-bit": {
             "name": "8bitový",
             "keywords": [
@@ -242,22 +137,6 @@
                 "oběd"
             ]
         },
-        "magical": {
-            "name": "Kouzelný",
-            "keywords": [
-                "jednorožec",
-                "duha",
-                "kouzlo"
-            ]
-        },
-        "magical-2": {
-            "name": "Kouzelný (2)",
-            "keywords": [
-                "kouzlo",
-                "růžový",
-                "slavný"
-            ]
-        },
         "open": {
             "name": "Otevřený",
             "keywords": [
@@ -352,6 +231,142 @@
                 "vlk",
                 "vytí",
                 "záludný"
+            ]
+        },
+        "capybara": {
+            "name": "Kapybara",
+            "keywords": [
+                "kapybara",
+                "pták",
+                "pohoda"
+            ]
+        },
+        "parrot": {
+            "name": "Papoušek",
+            "keywords": [
+                "pták",
+                "kšiltovka",
+                "mluvit"
+            ]
+        },
+        "blissful": {
+            "name": "Blažená",
+            "keywords": [
+                "kráva",
+                "bú",
+                "farma"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Rychlý šutr",
+            "keywords": [
+                "skála",
+                "kámen",
+                "rychlý"
+            ]
+        },
+        "big-brain": {
+            "name": "Chytrá hlava",
+            "keywords": [
+                "mozek",
+                "chytrý",
+                "přemýšlet"
+            ]
+        },
+        "yellow": {
+            "name": "Žlutý",
+            "keywords": [
+                "tesáky",
+                "zuby",
+                "šklebit se"
+            ]
+        },
+        "pampered": {
+            "name": "Rozmazlený",
+            "keywords": [
+                "pes",
+                "corgi",
+                "koruna"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Věrný",
+            "keywords": [
+                "pes",
+                "corgi",
+                "mrknutí"
+            ]
+        },
+        "playful-pup": {
+            "name": "Hravé štěně",
+            "keywords": [
+                "pes",
+                "corgi",
+                "koruna"
+            ]
+        },
+        "red": {
+            "name": "Červený",
+            "keywords": [
+                "drak",
+                "červený",
+                "příšera"
+            ]
+        },
+        "unicorn": {
+            "name": "Jednorožec",
+            "keywords": [
+                "jednorožec",
+                "duha",
+                "kouzlo"
+            ]
+        },
+        "magical": {
+            "name": "Kouzelný",
+            "keywords": [
+                "kouzlo",
+                "růžový",
+                "slavný"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionář",
+            "keywords": [
+                "oko",
+                "znamení",
+                "záhada"
+            ]
+        },
+        "focused": {
+            "name": "Soustředěný",
+            "keywords": [
+                "ruka",
+                "oko",
+                "ochrana"
+            ]
+        },
+        "kind": {
+            "name": "Hodný",
+            "keywords": [
+                "medvěd",
+                "klobouk bucket",
+                "úsměv"
+            ]
+        },
+        "zesty": {
+            "name": "Svěží",
+            "keywords": [
+                "čajová konvice",
+                "čaj",
+                "jablko"
+            ]
+        },
+        "chomper": {
+            "name": "Chroupal",
+            "keywords": [
+                "dinosaurus",
+                "zuby",
+                "kousnutí"
             ]
         }
     }

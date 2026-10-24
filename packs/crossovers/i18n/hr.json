@@ -1,55 +1,6 @@
 {
     "name": "Crossoveri",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "jedno oko",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "jedno oko",
-                "saće"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiote",
-                "zubi",
-                "zlikovac"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "lutka",
-                "sretan"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "naočale",
-                "kosa"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "lutka",
-                "nervozan"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "šešir",
-                "smijeh"
-            ]
-        },
         "ed": {
             "name": "Ed - Odan",
             "keywords": [
@@ -154,14 +105,6 @@
                 "gradnja"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "crvena kosa",
-                "smijeh"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "vilenjak",
                 "dragulj",
                 "zlikovac"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiote",
+                "zubi",
+                "zlikovac"
+            ]
+        },
+        "despicable": {
+            "name": "Pokvarenjak",
+            "keywords": [
+                "minion",
+                "jedno oko",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega pokvarenjak",
+            "keywords": [
+                "minion",
+                "jedno oko",
+                "saće"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "sretan"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "naočale",
+                "kosa"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "lutka",
+                "nervozan"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "šešir",
+                "smijeh"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "crvena kosa",
+                "smijeh"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkanski pozdrav",
+            "keywords": [
+                "ruka",
+                "pozdrav",
+                "pozdrav"
             ]
         }
     }

@@ -1,160 +1,6 @@
 {
     "name": "W drodze i w pracy",
     "stickers": {
-        "18": {
-            "keywords": [
-                "węzełek",
-                "podróż",
-                "przygoda"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "eliksir",
-                "okulary",
-                "laboratorium"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "odkrywca",
-                "kapelusz",
-                "przygoda"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "aparat",
-                "flaga",
-                "zwiedzanie"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "marynarz",
-                "czapka",
-                "łódź"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "walizka",
-                "kapelusz",
-                "podróż"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "gogle",
-                "hełm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "sowa",
-                "ukończenie szkoły",
-                "mądry"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "gaśnica",
-                "bezpieczeństwo",
-                "zdenerwowany"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "kask budowlany",
-                "budowa",
-                "kamizelka"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "słomkowy kapelusz",
-                "farma",
-                "festa junina"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "hełm",
-                "gwiazdy",
-                "kierowca wyścigowy"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "maseczka",
-                "zdrowie",
-                "bezpieczny"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stoper",
-                "opaska",
-                "trening"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "głosowanie",
-                "wybory",
-                "karta do głosowania"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "sygnał",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "głosowanie",
-                "znak",
-                "wybory"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medal",
-                "wstążka",
-                "mrugnięcie"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "dostawa",
-                "hełm",
-                "pudełko"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antena",
-                "odkrywca"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "dymek",
-                "czat",
-                "rozmowa"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "gwizdek",
-                "sędzia",
-                "faul"
-            ]
-        },
         "road-warrior": {
             "name": "Wojownik szos",
             "keywords": [
@@ -345,6 +191,182 @@
                 "hełm",
                 "motocykl",
                 "pośpiech"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Szalony naukowiec",
+            "keywords": [
+                "eliksir",
+                "okulary",
+                "laboratorium"
+            ]
+        },
+        "explorer": {
+            "name": "Odkrywca",
+            "keywords": [
+                "odkrywca",
+                "kapelusz",
+                "przygoda"
+            ]
+        },
+        "sightseer": {
+            "name": "Turysta",
+            "keywords": [
+                "aparat",
+                "flaga",
+                "zwiedzanie"
+            ]
+        },
+        "jet-setter": {
+            "name": "Podróżnik",
+            "keywords": [
+                "walizka",
+                "kapelusz",
+                "podróż"
+            ]
+        },
+        "know-it-all": {
+            "name": "Mądrala",
+            "keywords": [
+                "sowa",
+                "ukończenie szkoły",
+                "mądry"
+            ]
+        },
+        "close-call": {
+            "name": "Było blisko",
+            "keywords": [
+                "gaśnica",
+                "bezpieczeństwo",
+                "zdenerwowany"
+            ]
+        },
+        "on-the-job": {
+            "name": "W pracy",
+            "keywords": [
+                "kask budowlany",
+                "budowa",
+                "kamizelka"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Tryb kampanii",
+            "keywords": [
+                "głosowanie",
+                "znak",
+                "wybory"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Ekspresowa dostawa",
+            "keywords": [
+                "dostawa",
+                "hełm",
+                "pudełko"
+            ]
+        },
+        "referee": {
+            "name": "Sędzia",
+            "keywords": [
+                "gwizdek",
+                "sędzia",
+                "faul"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "gogle",
+                "hełm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "hełm",
+                "gwiazdy",
+                "kierowca wyścigowy"
+            ]
+        },
+        "blue": {
+            "name": "Niebieski",
+            "keywords": [
+                "robot",
+                "antena",
+                "odkrywca"
+            ]
+        },
+        "voter": {
+            "name": "Wyborca",
+            "keywords": [
+                "głosowanie",
+                "wybory",
+                "karta do głosowania"
+            ]
+        },
+        "winner": {
+            "name": "Zwycięzca",
+            "keywords": [
+                "medal",
+                "wstążka",
+                "mrugnięcie"
+            ]
+        },
+        "chatty": {
+            "name": "Gaduła",
+            "keywords": [
+                "dymek",
+                "czat",
+                "rozmowa"
+            ]
+        },
+        "wanderer": {
+            "name": "Wędrowiec",
+            "keywords": [
+                "węzełek",
+                "podróż",
+                "przygoda"
+            ]
+        },
+        "skipper": {
+            "name": "Kapitan",
+            "keywords": [
+                "marynarz",
+                "czapka",
+                "łódź"
+            ]
+        },
+        "country-folk": {
+            "name": "Ze wsi",
+            "keywords": [
+                "słomkowy kapelusz",
+                "farma",
+                "festa junina"
+            ]
+        },
+        "masked-up": {
+            "name": "W maseczce",
+            "keywords": [
+                "maseczka",
+                "zdrowie",
+                "bezpieczny"
+            ]
+        },
+        "workout-mode": {
+            "name": "Tryb treningu",
+            "keywords": [
+                "stoper",
+                "opaska",
+                "trening"
+            ]
+        },
+        "connected": {
+            "name": "Połączony",
+            "keywords": [
+                "sygnał",
+                "robot",
+                "wifi"
             ]
         }
     }

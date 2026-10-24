@@ -1,111 +1,6 @@
 {
     "name": "Animaletti e cose",
     "stickers": {
-        "30": {
-            "keywords": [
-                "roccia",
-                "sasso",
-                "veloce"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "orso",
-                "cappello da pescatore",
-                "sorriso"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capibara",
-                "uccello",
-                "relax"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "cervello",
-                "intelligente",
-                "pensare"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosauro",
-                "denti",
-                "morso"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "zanne",
-                "denti",
-                "sorrisone"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "mucca",
-                "muu",
-                "fattoria"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "cane",
-                "corgi",
-                "corona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "cane",
-                "corgi",
-                "occhiolino"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "cane",
-                "corgi",
-                "corona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drago",
-                "rosso",
-                "mostro"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "mano",
-                "occhio",
-                "protezione"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "occhio",
-                "segno",
-                "mistero"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "teiera",
-                "tè",
-                "mela"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "uccello",
-                "berretto",
-                "parlare"
-            ]
-        },
         "8-bit": {
             "name": "8 bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "pranzo"
             ]
         },
-        "magical": {
-            "name": "Magico",
-            "keywords": [
-                "unicorno",
-                "arcobaleno",
-                "magia"
-            ]
-        },
-        "magical-2": {
-            "name": "Magico (2)",
-            "keywords": [
-                "magia",
-                "rosa",
-                "famoso"
-            ]
-        },
         "open": {
             "name": "Aperto",
             "keywords": [
@@ -352,6 +231,142 @@
                 "lupo",
                 "ululato",
                 "furbo"
+            ]
+        },
+        "capybara": {
+            "name": "Capibara",
+            "keywords": [
+                "capibara",
+                "uccello",
+                "relax"
+            ]
+        },
+        "parrot": {
+            "name": "Pappagallo",
+            "keywords": [
+                "uccello",
+                "berretto",
+                "parlare"
+            ]
+        },
+        "blissful": {
+            "name": "Beata",
+            "keywords": [
+                "mucca",
+                "muu",
+                "fattoria"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Sasso veloce",
+            "keywords": [
+                "roccia",
+                "sasso",
+                "veloce"
+            ]
+        },
+        "big-brain": {
+            "name": "Mente geniale",
+            "keywords": [
+                "cervello",
+                "intelligente",
+                "pensare"
+            ]
+        },
+        "yellow": {
+            "name": "Giallo",
+            "keywords": [
+                "zanne",
+                "denti",
+                "sorrisone"
+            ]
+        },
+        "pampered": {
+            "name": "Coccolato",
+            "keywords": [
+                "cane",
+                "corgi",
+                "corona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Fedele",
+            "keywords": [
+                "cane",
+                "corgi",
+                "occhiolino"
+            ]
+        },
+        "playful-pup": {
+            "name": "Cucciolo giocherellone",
+            "keywords": [
+                "cane",
+                "corgi",
+                "corona"
+            ]
+        },
+        "red": {
+            "name": "Rosso",
+            "keywords": [
+                "drago",
+                "rosso",
+                "mostro"
+            ]
+        },
+        "unicorn": {
+            "name": "Unicorno",
+            "keywords": [
+                "unicorno",
+                "arcobaleno",
+                "magia"
+            ]
+        },
+        "magical": {
+            "name": "Magico",
+            "keywords": [
+                "magia",
+                "rosa",
+                "famoso"
+            ]
+        },
+        "visionary": {
+            "name": "Visionario",
+            "keywords": [
+                "occhio",
+                "segno",
+                "mistero"
+            ]
+        },
+        "focused": {
+            "name": "Concentrato",
+            "keywords": [
+                "mano",
+                "occhio",
+                "protezione"
+            ]
+        },
+        "kind": {
+            "name": "Gentile",
+            "keywords": [
+                "orso",
+                "cappello da pescatore",
+                "sorriso"
+            ]
+        },
+        "zesty": {
+            "name": "Frizzante",
+            "keywords": [
+                "teiera",
+                "tè",
+                "mela"
+            ]
+        },
+        "chomper": {
+            "name": "Mordicchione",
+            "keywords": [
+                "dinosauro",
+                "denti",
+                "morso"
             ]
         }
     }

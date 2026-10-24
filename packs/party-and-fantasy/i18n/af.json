@@ -1,111 +1,6 @@
 {
     "name": "Partytjie, Diereriem en Fantasie",
     "stickers": {
-        "31": {
-            "keywords": [
-                "sneeuman",
-                "winter",
-                "serp"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "partytjiehoed",
-                "verjaarsdag",
-                "vier"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "helm",
-                "kaartspeld"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "nar",
-                "hoed",
-                "lag"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "kersfees",
-                "kersvader",
-                "sonbril"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "towenaar",
-                "hoed",
-                "towerkuns"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "heks",
-                "hoed",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnaval",
-                "kopversiering",
-                "vere"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "serp",
-                "mus",
-                "winter"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnaval",
-                "masker",
-                "partytjie"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "nuwejaar",
-                "2026",
-                "partytjie"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "hamer",
-                "skild"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "winter",
-                "mus",
-                "koud"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "wag",
-                "londen",
-                "hoed"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "keil",
-                "tee",
-                "wonderland"
-            ]
-        },
         "aries": {
             "name": "Ram",
             "keywords": [
@@ -376,6 +271,126 @@
                 "held",
                 "tiara",
                 "krag"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Verjaarsdaggevoel",
+            "keywords": [
+                "partytjiehoed",
+                "verjaarsdag",
+                "vier"
+            ]
+        },
+        "witchy": {
+            "name": "Heksagtig",
+            "keywords": [
+                "heks",
+                "hoed",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Dapper",
+            "keywords": [
+                "viking",
+                "hamer",
+                "skild"
+            ]
+        },
+        "stern-guard": {
+            "name": "Streng wag",
+            "keywords": [
+                "wag",
+                "londen",
+                "hoed"
+            ]
+        },
+        "snowman": {
+            "name": "Sneeuman",
+            "keywords": [
+                "sneeuman",
+                "winter",
+                "serp"
+            ]
+        },
+        "map-raider": {
+            "name": "Kaartrower",
+            "keywords": [
+                "viking",
+                "helm",
+                "kaartspeld"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hallo 2026",
+            "keywords": [
+                "nuwejaar",
+                "2026",
+                "partytjie"
+            ]
+        },
+        "cool-santa": {
+            "name": "Kief Kersvader",
+            "keywords": [
+                "kersfees",
+                "kersvader",
+                "sonbril"
+            ]
+        },
+        "spicy": {
+            "name": "Pittig",
+            "keywords": [
+                "keil",
+                "tee",
+                "wonderland"
+            ]
+        },
+        "jester": {
+            "name": "Hofnar",
+            "keywords": [
+                "nar",
+                "hoed",
+                "lag"
+            ]
+        },
+        "wizard": {
+            "name": "Towenaar",
+            "keywords": [
+                "towenaar",
+                "hoed",
+                "towerkuns"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambaster",
+            "keywords": [
+                "karnaval",
+                "kopversiering",
+                "vere"
+            ]
+        },
+        "cozy": {
+            "name": "Knus",
+            "keywords": [
+                "serp",
+                "mus",
+                "winter"
+            ]
+        },
+        "masquerade": {
+            "name": "Gemaskerd",
+            "keywords": [
+                "karnaval",
+                "masker",
+                "partytjie"
+            ]
+        },
+        "bundled-up": {
+            "name": "Toegedraai",
+            "keywords": [
+                "winter",
+                "mus",
+                "koud"
             ]
         }
     }

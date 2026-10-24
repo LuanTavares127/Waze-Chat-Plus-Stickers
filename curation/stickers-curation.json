@@ -12,12 +12,12 @@
       "icon": "happy",
       "stickers": [
         {
-          "id": "114",
-          "file": "114.webp",
-          "nameSource": "number",
+          "id": "sweetheart",
+          "file": "Sweetheart.webp",
+          "nameSource": "official",
           "name": {
-            "en": "114",
-            "pt-BR": "114"
+            "en": "Sweetheart",
+            "pt-BR": "Amorzinho"
           },
           "keywords": {
             "en": [
@@ -37,12 +37,12 @@
           ]
         },
         {
-          "id": "133",
-          "file": "133.webp",
-          "nameSource": "number",
+          "id": "family",
+          "file": "Family.webp",
+          "nameSource": "official",
           "name": {
-            "en": "133",
-            "pt-BR": "133"
+            "en": "Family",
+            "pt-BR": "Família"
           },
           "keywords": {
             "en": [
@@ -64,12 +64,12 @@
           ]
         },
         {
-          "id": "146",
-          "file": "146.webp",
-          "nameSource": "number",
+          "id": "distraught",
+          "file": "Distraught.webp",
+          "nameSource": "official",
           "name": {
-            "en": "146",
-            "pt-BR": "146"
+            "en": "Distraught",
+            "pt-BR": "Desolado"
           },
           "keywords": {
             "en": [
@@ -89,12 +89,12 @@
           ]
         },
         {
-          "id": "165",
-          "file": "165.webp",
-          "nameSource": "number",
+          "id": "queasy",
+          "file": "Queasy.webp",
+          "nameSource": "official",
           "name": {
-            "en": "165",
-            "pt-BR": "165"
+            "en": "Queasy",
+            "pt-BR": "Enjoado"
           },
           "keywords": {
             "en": [
@@ -113,12 +113,12 @@
           ]
         },
         {
-          "id": "168",
-          "file": "168.webp",
-          "nameSource": "number",
+          "id": "uneasy",
+          "file": "Uneasy.webp",
+          "nameSource": "official",
           "name": {
-            "en": "168",
-            "pt-BR": "168"
+            "en": "Uneasy",
+            "pt-BR": "Incomodado"
           },
           "keywords": {
             "en": [
@@ -138,12 +138,12 @@
           ]
         },
         {
-          "id": "172",
-          "file": "172.webp",
-          "nameSource": "number",
+          "id": "ecstatic",
+          "file": "Ecstatic.webp",
+          "nameSource": "official",
           "name": {
-            "en": "172",
-            "pt-BR": "172"
+            "en": "Ecstatic",
+            "pt-BR": "Eufórico"
           },
           "keywords": {
             "en": [
@@ -163,12 +163,12 @@
           ]
         },
         {
-          "id": "181",
-          "file": "181.webp",
-          "nameSource": "number",
+          "id": "cheerful",
+          "file": "Cheerful.webp",
+          "nameSource": "official",
           "name": {
-            "en": "181",
-            "pt-BR": "181"
+            "en": "Cheerful",
+            "pt-BR": "Alegre"
           },
           "keywords": {
             "en": [
@@ -187,12 +187,12 @@
           ]
         },
         {
-          "id": "235",
-          "file": "235.webp",
-          "nameSource": "number",
+          "id": "fuming",
+          "file": "Fuming.webp",
+          "nameSource": "official",
           "name": {
-            "en": "235",
-            "pt-BR": "235"
+            "en": "Fuming",
+            "pt-BR": "Bufando"
           },
           "keywords": {
             "en": [
@@ -211,12 +211,12 @@
           ]
         },
         {
-          "id": "239",
-          "file": "239.webp",
-          "nameSource": "number",
+          "id": "puzzled",
+          "file": "Puzzled.webp",
+          "nameSource": "official",
           "name": {
-            "en": "239",
-            "pt-BR": "239"
+            "en": "Puzzled",
+            "pt-BR": "Intrigado"
           },
           "keywords": {
             "en": [
@@ -236,12 +236,12 @@
           ]
         },
         {
-          "id": "7",
-          "file": "7.webp",
-          "nameSource": "number",
+          "id": "wazer",
+          "file": "Wazer.webp",
+          "nameSource": "official",
           "name": {
-            "en": "7",
-            "pt-BR": "7"
+            "en": "Wazer",
+            "pt-BR": "Wazer"
           },
           "keywords": {
             "en": [
@@ -261,12 +261,12 @@
           ]
         },
         {
-          "id": "15",
-          "file": "15.webp",
-          "nameSource": "number",
+          "id": "poker-face",
+          "file": "Poker Face.webp",
+          "nameSource": "official",
           "name": {
-            "en": "15",
-            "pt-BR": "15"
+            "en": "Poker Face",
+            "pt-BR": "Cara de Paisagem"
           },
           "keywords": {
             "en": [
@@ -285,12 +285,12 @@
           ]
         },
         {
-          "id": "9",
-          "file": "9.webp",
-          "nameSource": "number",
+          "id": "pierrot",
+          "file": "Pierrot.webp",
+          "nameSource": "official",
           "name": {
-            "en": "9",
-            "pt-BR": "9"
+            "en": "Pierrot",
+            "pt-BR": "Pierrô"
           },
           "keywords": {
             "en": [
@@ -1075,12 +1075,12 @@
           ]
         },
         {
-          "id": "258",
-          "file": "258.webp",
-          "nameSource": "number",
+          "id": "grounded",
+          "file": "Grounded.webp",
+          "nameSource": "official",
           "name": {
-            "en": "258",
-            "pt-BR": "258"
+            "en": "Grounded",
+            "pt-BR": "Equilibrado"
           },
           "keywords": {
             "en": [
@@ -1160,12 +1160,12 @@
       "icon": "chill",
       "stickers": [
         {
-          "id": "129",
-          "file": "129.webp",
-          "nameSource": "number",
+          "id": "dazzling",
+          "file": "Dazzling.webp",
+          "nameSource": "official",
           "name": {
-            "en": "129",
-            "pt-BR": "129"
+            "en": "Dazzling",
+            "pt-BR": "Deslumbrante"
           },
           "keywords": {
             "en": [
@@ -1185,12 +1185,12 @@
           ]
         },
         {
-          "id": "130",
-          "file": "130.webp",
-          "nameSource": "number",
+          "id": "boss",
+          "file": "Boss.webp",
+          "nameSource": "official",
           "name": {
-            "en": "130",
-            "pt-BR": "130"
+            "en": "Boss",
+            "pt-BR": "Poderosa"
           },
           "keywords": {
             "en": [
@@ -1210,12 +1210,12 @@
           ]
         },
         {
-          "id": "170",
-          "file": "170.webp",
-          "nameSource": "number",
+          "id": "cool",
+          "file": "Cool.webp",
+          "nameSource": "official",
           "name": {
-            "en": "170",
-            "pt-BR": "170"
+            "en": "Cool",
+            "pt-BR": "Maneiro"
           },
           "keywords": {
             "en": [
@@ -1235,12 +1235,12 @@
           ]
         },
         {
-          "id": "182",
-          "file": "182.webp",
-          "nameSource": "number",
+          "id": "sly",
+          "file": "Sly.webp",
+          "nameSource": "official",
           "name": {
-            "en": "182",
-            "pt-BR": "182"
+            "en": "Sly",
+            "pt-BR": "Sagaz"
           },
           "keywords": {
             "en": [
@@ -1260,12 +1260,12 @@
           ]
         },
         {
-          "id": "55",
-          "file": "55.webp",
-          "nameSource": "number",
+          "id": "homie",
+          "file": "Homie.webp",
+          "nameSource": "official",
           "name": {
-            "en": "55",
-            "pt-BR": "55"
+            "en": "Homie",
+            "pt-BR": "Parça"
           },
           "keywords": {
             "en": [
@@ -1285,12 +1285,12 @@
           ]
         },
         {
-          "id": "62",
-          "file": "62.webp",
-          "nameSource": "number",
+          "id": "far-out",
+          "file": "Far Out.webp",
+          "nameSource": "official",
           "name": {
-            "en": "62",
-            "pt-BR": "62"
+            "en": "Far Out",
+            "pt-BR": "Bicho-Grilo"
           },
           "keywords": {
             "en": [
@@ -1310,12 +1310,12 @@
           ]
         },
         {
-          "id": "95",
-          "file": "95.webp",
-          "nameSource": "number",
+          "id": "wonderful",
+          "file": "Wonderful.webp",
+          "nameSource": "official",
           "name": {
-            "en": "95",
-            "pt-BR": "95"
+            "en": "Wonderful",
+            "pt-BR": "Maravilhosa"
           },
           "keywords": {
             "en": [
@@ -1360,7 +1360,7 @@
         },
         {
           "id": "chill-glasses",
-          "file": "Chill (2).webp",
+          "file": "Chill Glasses.webp",
           "nameSource": "file",
           "name": {
             "en": "Chill Glasses",
@@ -1659,12 +1659,12 @@
           ]
         },
         {
-          "id": "206",
-          "file": "206.webp",
-          "nameSource": "number",
+          "id": "amped",
+          "file": "Amped.webp",
+          "nameSource": "official",
           "name": {
-            "en": "206",
-            "pt-BR": "206"
+            "en": "Amped",
+            "pt-BR": "Ligadão"
           },
           "keywords": {
             "en": [
@@ -1734,12 +1734,12 @@
           ]
         },
         {
-          "id": "143",
-          "file": "143.webp",
-          "nameSource": "number",
+          "id": "karaoke-star",
+          "file": "Karaoke Star.webp",
+          "nameSource": "official",
           "name": {
-            "en": "143",
-            "pt-BR": "143"
+            "en": "Karaoke Star",
+            "pt-BR": "Estrela do Karaokê"
           },
           "keywords": {
             "en": [
@@ -1759,12 +1759,12 @@
           ]
         },
         {
-          "id": "118",
-          "file": "118.webp",
-          "nameSource": "number",
+          "id": "tuned-in",
+          "file": "Tuned In.webp",
+          "nameSource": "official",
           "name": {
-            "en": "118",
-            "pt-BR": "118"
+            "en": "Tuned In",
+            "pt-BR": "Sintonizado"
           },
           "keywords": {
             "en": [
@@ -1786,7 +1786,7 @@
         {
           "id": "quirky",
           "file": "Quirky.webp",
-          "nameSource": "file",
+          "nameSource": "official",
           "name": {
             "en": "Quirky",
             "pt-BR": "Excêntrico"
@@ -1806,15 +1806,16 @@
           "emojis": [
             "🤪",
             "👒"
-          ]
+          ],
+          "note": "Tea Time with Boy George"
         },
         {
-          "id": "184",
-          "file": "184.webp",
-          "nameSource": "number",
+          "id": "kiddo",
+          "file": "Kiddo.webp",
+          "nameSource": "official",
           "name": {
-            "en": "184",
-            "pt-BR": "184"
+            "en": "Kiddo",
+            "pt-BR": "Moleque"
           },
           "keywords": {
             "en": [
@@ -1834,12 +1835,12 @@
           ]
         },
         {
-          "id": "220",
-          "file": "220.webp",
-          "nameSource": "number",
+          "id": "on-the-beat",
+          "file": "On the Beat.webp",
+          "nameSource": "official",
           "name": {
-            "en": "220",
-            "pt-BR": "220"
+            "en": "On the Beat",
+            "pt-BR": "No Ritmo"
           },
           "keywords": {
             "en": [
@@ -1958,12 +1959,12 @@
           ]
         },
         {
-          "id": "240",
-          "file": "240.webp",
-          "nameSource": "number",
+          "id": "smug",
+          "file": "Smug.webp",
+          "nameSource": "official",
           "name": {
-            "en": "240",
-            "pt-BR": "240"
+            "en": "Smug",
+            "pt-BR": "Convencido"
           },
           "keywords": {
             "en": [
@@ -1983,12 +1984,12 @@
           ]
         },
         {
-          "id": "122",
-          "file": "122.webp",
-          "nameSource": "number",
+          "id": "brainiac",
+          "file": "Brainiac.webp",
+          "nameSource": "official",
           "name": {
-            "en": "122",
-            "pt-BR": "122"
+            "en": "Brainiac",
+            "pt-BR": "Cérebro"
           },
           "keywords": {
             "en": [
@@ -2008,12 +2009,12 @@
           ]
         },
         {
-          "id": "222",
-          "file": "222.webp",
-          "nameSource": "number",
+          "id": "eureka",
+          "file": "Eureka.webp",
+          "nameSource": "official",
           "name": {
-            "en": "222",
-            "pt-BR": "222"
+            "en": "Eureka",
+            "pt-BR": "Eureca"
           },
           "keywords": {
             "en": [
@@ -2058,12 +2059,12 @@
           ]
         },
         {
-          "id": "255",
-          "file": "255.webp",
-          "nameSource": "number",
+          "id": "bookish",
+          "file": "Bookish.webp",
+          "nameSource": "official",
           "name": {
-            "en": "255",
-            "pt-BR": "255"
+            "en": "Bookish",
+            "pt-BR": "Estudioso"
           },
           "keywords": {
             "en": [
@@ -2083,12 +2084,12 @@
           ]
         },
         {
-          "id": "256",
-          "file": "256.webp",
-          "nameSource": "number",
+          "id": "super-nerd",
+          "file": "Super Nerd.webp",
+          "nameSource": "official",
           "name": {
-            "en": "256",
-            "pt-BR": "256"
+            "en": "Super Nerd",
+            "pt-BR": "Supernerd"
           },
           "keywords": {
             "en": [
@@ -2108,12 +2109,12 @@
           ]
         },
         {
-          "id": "257",
-          "file": "257.webp",
-          "nameSource": "number",
+          "id": "royalty",
+          "file": "Royalty.webp",
+          "nameSource": "official",
           "name": {
-            "en": "257",
-            "pt-BR": "257"
+            "en": "Royalty",
+            "pt-BR": "Realeza"
           },
           "keywords": {
             "en": [
@@ -2158,12 +2159,12 @@
           ]
         },
         {
-          "id": "123",
-          "file": "123.webp",
-          "nameSource": "number",
+          "id": "bug-buster",
+          "file": "Bug Buster.webp",
+          "nameSource": "official",
           "name": {
-            "en": "123",
-            "pt-BR": "123"
+            "en": "Bug Buster",
+            "pt-BR": "Caça-Bugs"
           },
           "keywords": {
             "en": [
@@ -2183,12 +2184,12 @@
           ]
         },
         {
-          "id": "106",
-          "file": "106.webp",
-          "nameSource": "number",
+          "id": "afterparty",
+          "file": "Afterparty.webp",
+          "nameSource": "official",
           "name": {
-            "en": "106",
-            "pt-BR": "106"
+            "en": "Afterparty",
+            "pt-BR": "Pós-Festa"
           },
           "keywords": {
             "en": [
@@ -2208,12 +2209,12 @@
           ]
         },
         {
-          "id": "162",
-          "file": "162.webp",
-          "nameSource": "number",
+          "id": "spaced-out",
+          "file": "Spaced Out.webp",
+          "nameSource": "official",
           "name": {
-            "en": "162",
-            "pt-BR": "162"
+            "en": "Spaced Out",
+            "pt-BR": "Na Lua"
           },
           "keywords": {
             "en": [
@@ -2230,40 +2231,15 @@
           "emojis": [
             "👽",
             "🛸"
-          ],
-          "note": "Alien; official name to confirm."
-        },
-        {
-          "id": "223",
-          "file": "223.webp",
-          "nameSource": "number",
-          "name": {
-            "en": "223",
-            "pt-BR": "223"
-          },
-          "keywords": {
-            "en": [
-              "hand",
-              "salute",
-              "greeting"
-            ],
-            "pt-BR": [
-              "mão",
-              "saudação",
-              "cumprimento"
-            ]
-          },
-          "emojis": [
-            "🖖"
           ]
         },
         {
-          "id": "44",
-          "file": "44.webp",
-          "nameSource": "number",
+          "id": "rambunctious",
+          "file": "Rambunctious.webp",
+          "nameSource": "official",
           "name": {
-            "en": "44",
-            "pt-BR": "44"
+            "en": "Rambunctious",
+            "pt-BR": "Agitado"
           },
           "keywords": {
             "en": [
@@ -2293,12 +2269,12 @@
       "icon": "map-master",
       "stickers": [
         {
-          "id": "148",
-          "file": "148.webp",
-          "nameSource": "number",
+          "id": "on-the-job",
+          "file": "On the Job.webp",
+          "nameSource": "official",
           "name": {
-            "en": "148",
-            "pt-BR": "148"
+            "en": "On the Job",
+            "pt-BR": "Na Obra"
           },
           "keywords": {
             "en": [
@@ -2318,12 +2294,12 @@
           ]
         },
         {
-          "id": "116",
-          "file": "116.webp",
-          "nameSource": "number",
+          "id": "jet-setter",
+          "file": "Jet-Setter.webp",
+          "nameSource": "official",
           "name": {
-            "en": "116",
-            "pt-BR": "116"
+            "en": "Jet-Setter",
+            "pt-BR": "Viajante"
           },
           "keywords": {
             "en": [
@@ -2343,12 +2319,12 @@
           ]
         },
         {
-          "id": "18",
-          "file": "18.webp",
-          "nameSource": "number",
+          "id": "wanderer",
+          "file": "Wanderer.webp",
+          "nameSource": "official",
           "name": {
-            "en": "18",
-            "pt-BR": "18"
+            "en": "Wanderer",
+            "pt-BR": "Andarilho"
           },
           "keywords": {
             "en": [
@@ -2368,12 +2344,12 @@
           ]
         },
         {
-          "id": "52",
-          "file": "52.webp",
-          "nameSource": "number",
+          "id": "sightseer",
+          "file": "Sightseer.webp",
+          "nameSource": "official",
           "name": {
-            "en": "52",
-            "pt-BR": "52"
+            "en": "Sightseer",
+            "pt-BR": "Turista"
           },
           "keywords": {
             "en": [
@@ -2393,12 +2369,12 @@
           ]
         },
         {
-          "id": "51",
-          "file": "51.webp",
-          "nameSource": "number",
+          "id": "explorer",
+          "file": "Explorer.webp",
+          "nameSource": "official",
           "name": {
-            "en": "51",
-            "pt-BR": "51"
+            "en": "Explorer",
+            "pt-BR": "Explorador"
           },
           "keywords": {
             "en": [
@@ -2518,12 +2494,12 @@
           ]
         },
         {
-          "id": "244",
-          "file": "244.webp",
-          "nameSource": "number",
+          "id": "quick-delivery",
+          "file": "Quick Delivery.webp",
+          "nameSource": "official",
           "name": {
-            "en": "244",
-            "pt-BR": "244"
+            "en": "Quick Delivery",
+            "pt-BR": "Entrega Expressa"
           },
           "keywords": {
             "en": [
@@ -2543,12 +2519,12 @@
           ]
         },
         {
-          "id": "245",
-          "file": "245.webp",
-          "nameSource": "number",
+          "id": "blue",
+          "file": "Blue.webp",
+          "nameSource": "official",
           "name": {
-            "en": "245",
-            "pt-BR": "245"
+            "en": "Blue",
+            "pt-BR": "Azul"
           },
           "keywords": {
             "en": [
@@ -2568,12 +2544,12 @@
           ]
         },
         {
-          "id": "208",
-          "file": "208.webp",
-          "nameSource": "number",
+          "id": "connected",
+          "file": "Connected.webp",
+          "nameSource": "official",
           "name": {
-            "en": "208",
-            "pt-BR": "208"
+            "en": "Connected",
+            "pt-BR": "Conectado"
           },
           "keywords": {
             "en": [
@@ -2593,12 +2569,12 @@
           ]
         },
         {
-          "id": "247",
-          "file": "247.webp",
-          "nameSource": "number",
+          "id": "chatty",
+          "file": "Chatty.webp",
+          "nameSource": "official",
           "name": {
-            "en": "247",
-            "pt-BR": "247"
+            "en": "Chatty",
+            "pt-BR": "Tagarela"
           },
           "keywords": {
             "en": [
@@ -2618,12 +2594,12 @@
           ]
         },
         {
-          "id": "248",
-          "file": "248.webp",
-          "nameSource": "number",
+          "id": "referee",
+          "file": "Referee.webp",
+          "nameSource": "official",
           "name": {
-            "en": "248",
-            "pt-BR": "248"
+            "en": "Referee",
+            "pt-BR": "Árbitro"
           },
           "keywords": {
             "en": [
@@ -2643,12 +2619,12 @@
           ]
         },
         {
-          "id": "124",
-          "file": "124.webp",
-          "nameSource": "number",
+          "id": "amelia",
+          "file": "Amelia.webp",
+          "nameSource": "official",
           "name": {
-            "en": "124",
-            "pt-BR": "124"
+            "en": "Amelia",
+            "pt-BR": "Amelia"
           },
           "keywords": {
             "en": [
@@ -2668,12 +2644,12 @@
           ]
         },
         {
-          "id": "147",
-          "file": "147.webp",
-          "nameSource": "number",
+          "id": "close-call",
+          "file": "Close Call.webp",
+          "nameSource": "official",
           "name": {
-            "en": "147",
-            "pt-BR": "147"
+            "en": "Close Call",
+            "pt-BR": "Por Pouco"
           },
           "keywords": {
             "en": [
@@ -2693,12 +2669,12 @@
           ]
         },
         {
-          "id": "74",
-          "file": "74.webp",
-          "nameSource": "number",
+          "id": "skipper",
+          "file": "Skipper.webp",
+          "nameSource": "official",
           "name": {
-            "en": "74",
-            "pt-BR": "74"
+            "en": "Skipper",
+            "pt-BR": "Comandante"
           },
           "keywords": {
             "en": [
@@ -2743,12 +2719,12 @@
           ]
         },
         {
-          "id": "173",
-          "file": "173.webp",
-          "nameSource": "number",
+          "id": "workout-mode",
+          "file": "Workout Mode.webp",
+          "nameSource": "official",
           "name": {
-            "en": "173",
-            "pt-BR": "173"
+            "en": "Workout Mode",
+            "pt-BR": "Modo Treino"
           },
           "keywords": {
             "en": [
@@ -2768,12 +2744,12 @@
           ]
         },
         {
-          "id": "161",
-          "file": "161.webp",
-          "nameSource": "number",
+          "id": "danica",
+          "file": "Danica.webp",
+          "nameSource": "official",
           "name": {
-            "en": "161",
-            "pt-BR": "161"
+            "en": "Danica",
+            "pt-BR": "Danica"
           },
           "keywords": {
             "en": [
@@ -2793,12 +2769,12 @@
           ]
         },
         {
-          "id": "171",
-          "file": "171.webp",
-          "nameSource": "number",
+          "id": "masked-up",
+          "file": "Masked Up.webp",
+          "nameSource": "official",
           "name": {
-            "en": "171",
-            "pt-BR": "171"
+            "en": "Masked Up",
+            "pt-BR": "De Máscara"
           },
           "keywords": {
             "en": [
@@ -2817,12 +2793,12 @@
           ]
         },
         {
-          "id": "207",
-          "file": "207.webp",
-          "nameSource": "number",
+          "id": "voter",
+          "file": "Voter.webp",
+          "nameSource": "official",
           "name": {
-            "en": "207",
-            "pt-BR": "207"
+            "en": "Voter",
+            "pt-BR": "Eleitor"
           },
           "keywords": {
             "en": [
@@ -2841,12 +2817,12 @@
           ]
         },
         {
-          "id": "212",
-          "file": "212.webp",
-          "nameSource": "number",
+          "id": "campaign-mode",
+          "file": "Campaign Mode.webp",
+          "nameSource": "official",
           "name": {
-            "en": "212",
-            "pt-BR": "212"
+            "en": "Campaign Mode",
+            "pt-BR": "Modo Campanha"
           },
           "keywords": {
             "en": [
@@ -3263,12 +3239,12 @@
           ]
         },
         {
-          "id": "217",
-          "file": "217.webp",
-          "nameSource": "number",
+          "id": "winner",
+          "file": "Winner.webp",
+          "nameSource": "official",
           "name": {
-            "en": "217",
-            "pt-BR": "217"
+            "en": "Winner",
+            "pt-BR": "Vencedor"
           },
           "keywords": {
             "en": [
@@ -3338,12 +3314,12 @@
           ]
         },
         {
-          "id": "20",
-          "file": "20.webp",
-          "nameSource": "number",
+          "id": "mad-scientist",
+          "file": "Mad Scientist.webp",
+          "nameSource": "official",
           "name": {
-            "en": "20",
-            "pt-BR": "20"
+            "en": "Mad Scientist",
+            "pt-BR": "Cientista Louco"
           },
           "keywords": {
             "en": [
@@ -3363,12 +3339,12 @@
           ]
         },
         {
-          "id": "131",
-          "file": "131.webp",
-          "nameSource": "number",
+          "id": "know-it-all",
+          "file": "Know-It-All.webp",
+          "nameSource": "official",
           "name": {
-            "en": "131",
-            "pt-BR": "131"
+            "en": "Know-It-All",
+            "pt-BR": "Sabe-Tudo"
           },
           "keywords": {
             "en": [
@@ -3388,12 +3364,12 @@
           ]
         },
         {
-          "id": "150",
-          "file": "150.webp",
-          "nameSource": "number",
+          "id": "country-folk",
+          "file": "Country Folk.webp",
+          "nameSource": "official",
           "name": {
-            "en": "150",
-            "pt-BR": "150"
+            "en": "Country Folk",
+            "pt-BR": "Caipira"
           },
           "keywords": {
             "en": [
@@ -3448,12 +3424,12 @@
       "icon": "cat",
       "stickers": [
         {
-          "id": "102",
-          "file": "102.webp",
-          "nameSource": "number",
+          "id": "big-brain",
+          "file": "Big Brain.webp",
+          "nameSource": "official",
           "name": {
-            "en": "102",
-            "pt-BR": "102"
+            "en": "Big Brain",
+            "pt-BR": "Cabeção"
           },
           "keywords": {
             "en": [
@@ -3472,12 +3448,12 @@
           ]
         },
         {
-          "id": "227",
-          "file": "227.webp",
-          "nameSource": "number",
+          "id": "blissful",
+          "file": "Blissful.webp",
+          "nameSource": "official",
           "name": {
-            "en": "227",
-            "pt-BR": "227"
+            "en": "Blissful",
+            "pt-BR": "Plena"
           },
           "keywords": {
             "en": [
@@ -3497,12 +3473,12 @@
           ]
         },
         {
-          "id": "229",
-          "file": "229.webp",
-          "nameSource": "number",
+          "id": "pampered",
+          "file": "Pampered.webp",
+          "nameSource": "official",
           "name": {
-            "en": "229",
-            "pt-BR": "229"
+            "en": "Pampered",
+            "pt-BR": "Mimado"
           },
           "keywords": {
             "en": [
@@ -3522,12 +3498,12 @@
           ]
         },
         {
-          "id": "230",
-          "file": "230.webp",
-          "nameSource": "number",
+          "id": "loyal-corgi",
+          "file": "Loyal.webp",
+          "nameSource": "official",
           "name": {
-            "en": "230",
-            "pt-BR": "230"
+            "en": "Loyal",
+            "pt-BR": "Leal"
           },
           "keywords": {
             "en": [
@@ -3547,12 +3523,12 @@
           ]
         },
         {
-          "id": "231",
-          "file": "231.webp",
-          "nameSource": "number",
+          "id": "playful-pup",
+          "file": "Playful Pup.webp",
+          "nameSource": "official",
           "name": {
-            "en": "231",
-            "pt-BR": "231"
+            "en": "Playful Pup",
+            "pt-BR": "Cachorrinho Brincalhão"
           },
           "keywords": {
             "en": [
@@ -3572,12 +3548,12 @@
           ]
         },
         {
-          "id": "236",
-          "file": "236.webp",
-          "nameSource": "number",
+          "id": "red",
+          "file": "Red.webp",
+          "nameSource": "official",
           "name": {
-            "en": "236",
-            "pt-BR": "236"
+            "en": "Red",
+            "pt-BR": "Vermelho"
           },
           "keywords": {
             "en": [
@@ -3597,12 +3573,12 @@
           ]
         },
         {
-          "id": "259",
-          "file": "259.webp",
-          "nameSource": "number",
+          "id": "parrot",
+          "file": "Parrot.webp",
+          "nameSource": "official",
           "name": {
-            "en": "259",
-            "pt-BR": "259"
+            "en": "Parrot",
+            "pt-BR": "Papagaio"
           },
           "keywords": {
             "en": [
@@ -3621,12 +3597,12 @@
           ]
         },
         {
-          "id": "251",
-          "file": "251.webp",
-          "nameSource": "number",
+          "id": "zesty",
+          "file": "Zesty.webp",
+          "nameSource": "official",
           "name": {
-            "en": "251",
-            "pt-BR": "251"
+            "en": "Zesty",
+            "pt-BR": "Vibrante"
           },
           "keywords": {
             "en": [
@@ -3643,15 +3619,16 @@
           "emojis": [
             "🫖",
             "🍵"
-          ]
+          ],
+          "note": "Tea Time with Boy George"
         },
         {
-          "id": "30",
-          "file": "30.webp",
-          "nameSource": "number",
+          "id": "speedy-rock",
+          "file": "Speedy Rock.webp",
+          "nameSource": "official",
           "name": {
-            "en": "30",
-            "pt-BR": "30"
+            "en": "Speedy Rock",
+            "pt-BR": "Pedra Veloz"
           },
           "keywords": {
             "en": [
@@ -3670,12 +3647,12 @@
           ]
         },
         {
-          "id": "85",
-          "file": "85.webp",
-          "nameSource": "number",
+          "id": "capybara",
+          "file": "Capybara.webp",
+          "nameSource": "official",
           "name": {
-            "en": "85",
-            "pt-BR": "85"
+            "en": "Capybara",
+            "pt-BR": "Capivara"
           },
           "keywords": {
             "en": [
@@ -3695,12 +3672,12 @@
           ]
         },
         {
-          "id": "84",
-          "file": "84.webp",
-          "nameSource": "number",
+          "id": "kind",
+          "file": "Kind.webp",
+          "nameSource": "official",
           "name": {
-            "en": "84",
-            "pt-BR": "84"
+            "en": "Kind",
+            "pt-BR": "Gentil"
           },
           "keywords": {
             "en": [
@@ -3993,7 +3970,7 @@
         },
         {
           "id": "destemido",
-          "file": "Destemido.webp",
+          "file": "Fearless.webp",
           "nameSource": "file",
           "name": {
             "en": "Fearless",
@@ -4042,7 +4019,7 @@
         {
           "id": "fancy",
           "file": "Fancy.webp",
-          "nameSource": "file",
+          "nameSource": "official",
           "name": {
             "en": "Fancy",
             "pt-BR": "Chique"
@@ -4061,7 +4038,8 @@
           },
           "emojis": [
             "🍰"
-          ]
+          ],
+          "note": "Tea Time with Boy George"
         },
         {
           "id": "flowing",
@@ -4137,12 +4115,12 @@
           ]
         },
         {
-          "id": "magical",
-          "file": "Magical.webp",
-          "nameSource": "file",
+          "id": "unicorn",
+          "file": "Unicorn.webp",
+          "nameSource": "official",
           "name": {
-            "en": "Magical",
-            "pt-BR": "Mágico"
+            "en": "Unicorn",
+            "pt-BR": "Unicórnio"
           },
           "keywords": {
             "en": [
@@ -4162,12 +4140,12 @@
           ]
         },
         {
-          "id": "magical-2",
-          "file": "Magical (2).webp",
-          "nameSource": "file",
+          "id": "magical",
+          "file": "Magical.webp",
+          "nameSource": "official",
           "name": {
-            "en": "Magical (2)",
-            "pt-BR": "Mágico (2)"
+            "en": "Magical",
+            "pt-BR": "Mágico"
           },
           "keywords": {
             "en": [
@@ -4482,12 +4460,12 @@
           ]
         },
         {
-          "id": "177",
-          "file": "177.webp",
-          "nameSource": "number",
+          "id": "chomper",
+          "file": "Chomper.webp",
+          "nameSource": "official",
           "name": {
-            "en": "177",
-            "pt-BR": "177"
+            "en": "Chomper",
+            "pt-BR": "Mordedor"
           },
           "keywords": {
             "en": [
@@ -4507,12 +4485,12 @@
           ]
         },
         {
-          "id": "249",
-          "file": "249.webp",
-          "nameSource": "number",
+          "id": "visionary",
+          "file": "Visionary.webp",
+          "nameSource": "official",
           "name": {
-            "en": "249",
-            "pt-BR": "249"
+            "en": "Visionary",
+            "pt-BR": "Visionário"
           },
           "keywords": {
             "en": [
@@ -4532,12 +4510,12 @@
           ]
         },
         {
-          "id": "241",
-          "file": "241.webp",
-          "nameSource": "number",
+          "id": "focused",
+          "file": "Focused.webp",
+          "nameSource": "official",
           "name": {
-            "en": "241",
-            "pt-BR": "241"
+            "en": "Focused",
+            "pt-BR": "Focado"
           },
           "keywords": {
             "en": [
@@ -4557,12 +4535,12 @@
           ]
         },
         {
-          "id": "219",
-          "file": "219.webp",
-          "nameSource": "number",
+          "id": "yellow",
+          "file": "Yellow.webp",
+          "nameSource": "official",
           "name": {
-            "en": "219",
-            "pt-BR": "219"
+            "en": "Yellow",
+            "pt-BR": "Amarelo"
           },
           "keywords": {
             "en": [
@@ -4965,12 +4943,12 @@
           ]
         },
         {
-          "id": "92",
-          "file": "92.webp",
-          "nameSource": "number",
+          "id": "cool-santa",
+          "file": "Cool Santa.webp",
+          "nameSource": "official",
           "name": {
-            "en": "92",
-            "pt-BR": "92"
+            "en": "Cool Santa",
+            "pt-BR": "Papai Noel Descolado"
           },
           "keywords": {
             "en": [
@@ -4990,12 +4968,12 @@
           ]
         },
         {
-          "id": "183",
-          "file": "183.webp",
-          "nameSource": "number",
+          "id": "bundled-up",
+          "file": "Bundled Up.webp",
+          "nameSource": "official",
           "name": {
-            "en": "183",
-            "pt-BR": "183"
+            "en": "Bundled Up",
+            "pt-BR": "Agasalhado"
           },
           "keywords": {
             "en": [
@@ -5015,12 +4993,12 @@
           ]
         },
         {
-          "id": "31",
-          "file": "31.webp",
-          "nameSource": "number",
+          "id": "snowman",
+          "file": "Snowman.webp",
+          "nameSource": "official",
           "name": {
-            "en": "31",
-            "pt-BR": "31"
+            "en": "Snowman",
+            "pt-BR": "Boneco de Neve"
           },
           "keywords": {
             "en": [
@@ -5040,12 +5018,12 @@
           ]
         },
         {
-          "id": "151",
-          "file": "151.webp",
-          "nameSource": "number",
+          "id": "cozy",
+          "file": "Cozy.webp",
+          "nameSource": "official",
           "name": {
-            "en": "151",
-            "pt-BR": "151"
+            "en": "Cozy",
+            "pt-BR": "Aconchegado"
           },
           "keywords": {
             "en": [
@@ -5065,12 +5043,12 @@
           ]
         },
         {
-          "id": "157",
-          "file": "157.webp",
-          "nameSource": "number",
+          "id": "hello-2026",
+          "file": "Hello 2026.webp",
+          "nameSource": "official",
           "name": {
-            "en": "157",
-            "pt-BR": "157"
+            "en": "Hello 2026",
+            "pt-BR": "Olá, 2026"
           },
           "keywords": {
             "en": [
@@ -5090,12 +5068,12 @@
           ]
         },
         {
-          "id": "156",
-          "file": "156.webp",
-          "nameSource": "number",
+          "id": "masquerade",
+          "file": "Masquerade.webp",
+          "nameSource": "official",
           "name": {
-            "en": "156",
-            "pt-BR": "156"
+            "en": "Masquerade",
+            "pt-BR": "Mascarado"
           },
           "keywords": {
             "en": [
@@ -5115,12 +5093,12 @@
           ]
         },
         {
-          "id": "127",
-          "file": "127.webp",
-          "nameSource": "number",
+          "id": "samba-star",
+          "file": "Samba Star.webp",
+          "nameSource": "official",
           "name": {
-            "en": "127",
-            "pt-BR": "127"
+            "en": "Samba Star",
+            "pt-BR": "Passista"
           },
           "keywords": {
             "en": [
@@ -5141,7 +5119,7 @@
         },
         {
           "id": "carnavalesco",
-          "file": "Carnavalesco.webp",
+          "file": "Reveler.webp",
           "nameSource": "file",
           "name": {
             "en": "Reveler",
@@ -5165,12 +5143,12 @@
           ]
         },
         {
-          "id": "49",
-          "file": "49.webp",
-          "nameSource": "number",
+          "id": "birthday-vibes",
+          "file": "Birthday Vibes.webp",
+          "nameSource": "official",
           "name": {
-            "en": "49",
-            "pt-BR": "49"
+            "en": "Birthday Vibes",
+            "pt-BR": "Clima de Aniversário"
           },
           "keywords": {
             "en": [
@@ -5191,7 +5169,7 @@
         },
         {
           "id": "joyful-party",
-          "file": "Joyful (2).webp",
+          "file": "Joyful Party.webp",
           "nameSource": "file",
           "name": {
             "en": "Joyful Party",
@@ -5216,7 +5194,7 @@
         },
         {
           "id": "blossom",
-          "file": "Joyful (3).webp",
+          "file": "Blossom.webp",
           "nameSource": "file",
           "name": {
             "en": "Blossom",
@@ -5362,12 +5340,12 @@
           ]
         },
         {
-          "id": "126",
-          "file": "126.webp",
-          "nameSource": "number",
+          "id": "witchy",
+          "file": "Witchy.webp",
+          "nameSource": "official",
           "name": {
-            "en": "126",
-            "pt-BR": "126"
+            "en": "Witchy",
+            "pt-BR": "Bruxona"
           },
           "keywords": {
             "en": [
@@ -5387,12 +5365,12 @@
           ]
         },
         {
-          "id": "120",
-          "file": "120.webp",
-          "nameSource": "number",
+          "id": "wizard",
+          "file": "Wizard.webp",
+          "nameSource": "official",
           "name": {
-            "en": "120",
-            "pt-BR": "120"
+            "en": "Wizard",
+            "pt-BR": "Mago"
           },
           "keywords": {
             "en": [
@@ -5462,12 +5440,12 @@
           ]
         },
         {
-          "id": "61",
-          "file": "61.webp",
-          "nameSource": "number",
+          "id": "map-raider",
+          "file": "Map Raider.webp",
+          "nameSource": "official",
           "name": {
-            "en": "61",
-            "pt-BR": "61"
+            "en": "Map Raider",
+            "pt-BR": "Invasor do Mapa"
           },
           "keywords": {
             "en": [
@@ -5487,12 +5465,12 @@
           ]
         },
         {
-          "id": "160",
-          "file": "160.webp",
-          "nameSource": "number",
+          "id": "valiant",
+          "file": "Valiant.webp",
+          "nameSource": "official",
           "name": {
-            "en": "160",
-            "pt-BR": "160"
+            "en": "Valiant",
+            "pt-BR": "Valoroso"
           },
           "keywords": {
             "en": [
@@ -5610,12 +5588,12 @@
           ]
         },
         {
-          "id": "254",
-          "file": "254.webp",
-          "nameSource": "number",
+          "id": "spicy",
+          "file": "Spicy.webp",
+          "nameSource": "official",
           "name": {
-            "en": "254",
-            "pt-BR": "254"
+            "en": "Spicy",
+            "pt-BR": "Picante"
           },
           "keywords": {
             "en": [
@@ -5632,15 +5610,16 @@
           "emojis": [
             "🎩",
             "☕"
-          ]
+          ],
+          "note": "Tea Time with Boy George"
         },
         {
-          "id": "80",
-          "file": "80.webp",
-          "nameSource": "number",
+          "id": "jester",
+          "file": "Jester.webp",
+          "nameSource": "official",
           "name": {
-            "en": "80",
-            "pt-BR": "80"
+            "en": "Jester",
+            "pt-BR": "Bobo da Corte"
           },
           "keywords": {
             "en": [
@@ -5736,7 +5715,7 @@
         },
         {
           "id": "neil-blue",
-          "file": "Neil (2).webp",
+          "file": "Neil (Blue).webp",
           "nameSource": "file",
           "name": {
             "en": "Neil (Blue)",
@@ -5760,12 +5739,12 @@
           ]
         },
         {
-          "id": "234",
-          "file": "234.webp",
-          "nameSource": "number",
+          "id": "stern-guard",
+          "file": "Stern Guard.webp",
+          "nameSource": "official",
           "name": {
-            "en": "234",
-            "pt-BR": "234"
+            "en": "Stern Guard",
+            "pt-BR": "Guarda Sério"
           },
           "keywords": {
             "en": [
@@ -5819,12 +5798,12 @@
       "icon": "batman",
       "stickers": [
         {
-          "id": "210",
-          "file": "210.webp",
-          "nameSource": "number",
+          "id": "venom",
+          "file": "Venom.webp",
+          "nameSource": "official",
           "name": {
-            "en": "210",
-            "pt-BR": "210"
+            "en": "Venom",
+            "pt-BR": "Venom"
           },
           "keywords": {
             "en": [
@@ -5845,12 +5824,12 @@
           "note": "Marvel"
         },
         {
-          "id": "224",
-          "file": "224.webp",
-          "nameSource": "number",
+          "id": "gobo",
+          "file": "Gobo.webp",
+          "nameSource": "official",
           "name": {
-            "en": "224",
-            "pt-BR": "224"
+            "en": "Gobo",
+            "pt-BR": "Gobo"
           },
           "keywords": {
             "en": [
@@ -5867,15 +5846,15 @@
           "emojis": [
             "😄"
           ],
-          "note": "Fraggle Rock (character to confirm)"
+          "note": "Fraggle Rock"
         },
         {
-          "id": "233",
-          "file": "233.webp",
-          "nameSource": "number",
+          "id": "junior-gorg",
+          "file": "Junior Gorg.webp",
+          "nameSource": "official",
           "name": {
-            "en": "233",
-            "pt-BR": "233"
+            "en": "Junior Gorg",
+            "pt-BR": "Junior Gorg"
           },
           "keywords": {
             "en": [
@@ -5892,15 +5871,15 @@
           "emojis": [
             "😄"
           ],
-          "note": "Fraggle Rock? (to confirm)"
+          "note": "Fraggle Rock"
         },
         {
-          "id": "243",
-          "file": "243.webp",
-          "nameSource": "number",
+          "id": "mokey",
+          "file": "Mokey.webp",
+          "nameSource": "official",
           "name": {
-            "en": "243",
-            "pt-BR": "243"
+            "en": "Mokey",
+            "pt-BR": "Mokey"
           },
           "keywords": {
             "en": [
@@ -5917,15 +5896,15 @@
           "emojis": [
             "😬"
           ],
-          "note": "Fraggle Rock (character to confirm)"
+          "note": "Fraggle Rock"
         },
         {
-          "id": "253",
-          "file": "253.webp",
-          "nameSource": "number",
+          "id": "boober",
+          "file": "Boober.webp",
+          "nameSource": "official",
           "name": {
-            "en": "253",
-            "pt-BR": "253"
+            "en": "Boober",
+            "pt-BR": "Boober"
           },
           "keywords": {
             "en": [
@@ -5942,15 +5921,15 @@
           "emojis": [
             "😄"
           ],
-          "note": "Fraggle Rock (character to confirm)"
+          "note": "Fraggle Rock"
         },
         {
-          "id": "63",
-          "file": "63.webp",
-          "nameSource": "number",
+          "id": "despicable",
+          "file": "Despicable.webp",
+          "nameSource": "official",
           "name": {
-            "en": "63",
-            "pt-BR": "63"
+            "en": "Despicable",
+            "pt-BR": "Malvado"
           },
           "keywords": {
             "en": [
@@ -5967,16 +5946,15 @@
           "emojis": [
             "🍌",
             "😊"
-          ],
-          "note": "Despicable Me (name to confirm)"
+          ]
         },
         {
-          "id": "64",
-          "file": "64.webp",
-          "nameSource": "number",
+          "id": "mega-despicable",
+          "file": "Mega Despicable.webp",
+          "nameSource": "official",
           "name": {
-            "en": "64",
-            "pt-BR": "64"
+            "en": "Mega Despicable",
+            "pt-BR": "Malvadão"
           },
           "keywords": {
             "en": [
@@ -5993,8 +5971,7 @@
           "emojis": [
             "🍌",
             "😐"
-          ],
-          "note": "Despicable Me (name to confirm)"
+          ]
         },
         {
           "id": "ed",
@@ -6334,12 +6311,12 @@
           "note": "Fraggle Rock"
         },
         {
-          "id": "red",
-          "file": "Red.webp",
-          "nameSource": "file",
+          "id": "red-fraggle",
+          "file": "Red Fraggle.webp",
+          "nameSource": "official",
           "name": {
-            "en": "Red",
-            "pt-BR": "Red"
+            "en": "Red Fraggle",
+            "pt-BR": "Red Fraggle"
           },
           "keywords": {
             "en": [
@@ -6513,6 +6490,31 @@
             "💎"
           ],
           "note": "Unknown franchise (to confirm)"
+        },
+        {
+          "id": "vulcan-salute",
+          "file": "Vulcan Salute.webp",
+          "nameSource": "official",
+          "name": {
+            "en": "Vulcan Salute",
+            "pt-BR": "Saudação Vulcana"
+          },
+          "keywords": {
+            "en": [
+              "hand",
+              "salute",
+              "greeting"
+            ],
+            "pt-BR": [
+              "mão",
+              "saudação",
+              "cumprimento"
+            ]
+          },
+          "emojis": [
+            "🖖"
+          ],
+          "note": "Star Trek"
         }
       ]
     }

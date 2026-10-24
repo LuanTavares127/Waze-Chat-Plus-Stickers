@@ -1,167 +1,6 @@
 {
     "name": "Vibracije",
     "stickers": {
-        "44": {
-            "keywords": [
-                "ovnujski rogovi",
-                "sunčane naočale",
-                "hrabro"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "sunčane naočale",
-                "stijena"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "glazba",
-                "note",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "štikla",
-                "moda",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "ležeći",
-                "kapa za zabavu",
-                "opušten"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "slušalice s mikrofonom",
-                "slušanje",
-                "glazba"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "žarulja",
-                "naočale",
-                "ideja"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "mjehurići",
-                "napitak",
-                "sretan"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "iskrenje",
-                "sunčane naočale",
-                "otmjeno"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "slušalice",
-                "leopard",
-                "glazba"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "pjevati"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "vanzemaljac",
-                "kaciga",
-                "svemir"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "slušalice",
-                "glazba",
-                "kul"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "kapa",
-                "naopako",
-                "pogled postrance"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "kapa s propelerom",
-                "šašav",
-                "dijete"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "pojačalo",
-                "gitara",
-                "glazba"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "bubanj",
-                "tamburin",
-                "namigivanje"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "žarulja",
-                "razmišljati",
-                "ideja"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "ruka",
-                "pozdrav",
-                "pozdrav"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "naočale",
-                "pametan",
-                "podsmijeh"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "naočale",
-                "plavuša",
-                "učenje"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "ogrtač",
-                "junak",
-                "naočale"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "kruna",
-                "sunčane naočale",
-                "kralj"
-            ]
-        },
         "chill": {
             "name": "Opušten",
             "keywords": [
@@ -336,6 +175,182 @@
                 "bodljikav",
                 "plavokos",
                 "napućena usta"
+            ]
+        },
+        "homie": {
+            "name": "Buraz",
+            "keywords": [
+                "bandana",
+                "sunčane naočale",
+                "stijena"
+            ]
+        },
+        "afterparty": {
+            "name": "Nakon tuluma",
+            "keywords": [
+                "ležeći",
+                "kapa za zabavu",
+                "opušten"
+            ]
+        },
+        "boss": {
+            "name": "Šefica",
+            "keywords": [
+                "slušalice",
+                "leopard",
+                "glazba"
+            ]
+        },
+        "sly": {
+            "name": "Lukav",
+            "keywords": [
+                "kapa",
+                "naopako",
+                "pogled postrance"
+            ]
+        },
+        "smug": {
+            "name": "Samodopadan",
+            "keywords": [
+                "naočale",
+                "pametan",
+                "podsmijeh"
+            ]
+        },
+        "bookish": {
+            "name": "Knjiški moljac",
+            "keywords": [
+                "naočale",
+                "plavuša",
+                "učenje"
+            ]
+        },
+        "royalty": {
+            "name": "Kraljevski",
+            "keywords": [
+                "kruna",
+                "sunčane naočale",
+                "kralj"
+            ]
+        },
+        "dazzling": {
+            "name": "Blistav",
+            "keywords": [
+                "iskrenje",
+                "sunčane naočale",
+                "otmjeno"
+            ]
+        },
+        "brainiac": {
+            "name": "Pametnjaković",
+            "keywords": [
+                "žarulja",
+                "naočale",
+                "ideja"
+            ]
+        },
+        "spaced-out": {
+            "name": "U oblacima",
+            "keywords": [
+                "vanzemaljac",
+                "kaciga",
+                "svemir"
+            ]
+        },
+        "cool": {
+            "name": "Kul",
+            "keywords": [
+                "slušalice",
+                "glazba",
+                "kul"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "žarulja",
+                "razmišljati",
+                "ideja"
+            ]
+        },
+        "bug-buster": {
+            "name": "Lovac na bugove",
+            "keywords": [
+                "mjehurići",
+                "napitak",
+                "sretan"
+            ]
+        },
+        "far-out": {
+            "name": "Hipi",
+            "keywords": [
+                "glazba",
+                "note",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaoke zvijezda",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "pjevati"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super štreber",
+            "keywords": [
+                "ogrtač",
+                "junak",
+                "naočale"
+            ]
+        },
+        "wonderful": {
+            "name": "Prekrasna",
+            "keywords": [
+                "štikla",
+                "moda",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Nabrijan",
+            "keywords": [
+                "pojačalo",
+                "gitara",
+                "glazba"
+            ]
+        },
+        "on-the-beat": {
+            "name": "U ritmu",
+            "keywords": [
+                "bubanj",
+                "tamburin",
+                "namigivanje"
+            ]
+        },
+        "rambunctious": {
+            "name": "Neobuzdan",
+            "keywords": [
+                "ovnujski rogovi",
+                "sunčane naočale",
+                "hrabro"
+            ]
+        },
+        "tuned-in": {
+            "name": "Sav u glazbi",
+            "keywords": [
+                "slušalice s mikrofonom",
+                "slušanje",
+                "glazba"
+            ]
+        },
+        "kiddo": {
+            "name": "Klinac",
+            "keywords": [
+                "kapa s propelerom",
+                "šašav",
+                "dijete"
             ]
         }
     }

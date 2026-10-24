@@ -1,160 +1,6 @@
 {
     "name": "Teel ja tööl",
     "stickers": {
-        "18": {
-            "keywords": [
-                "sõlm",
-                "reis",
-                "seiklus"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "jook",
-                "prillid",
-                "labor"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "avastaja",
-                "kübar",
-                "seiklus"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kaamera",
-                "lipp",
-                "vaatamisväärsused"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "meremees",
-                "nokamüts",
-                "paat"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "kohver",
-                "kübar",
-                "reis"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "piloot",
-                "kaitseprillid",
-                "kiiver"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "öökull",
-                "lõpetamine",
-                "tark"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "tulekustuti",
-                "ohutus",
-                "närvis"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "ehituskiiver",
-                "ehitus",
-                "vest"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "õlgkübar",
-                "talu",
-                "juunipidu"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "kiiver",
-                "tähed",
-                "võidusõitja"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "näomask",
-                "tervis",
-                "turvaline"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopper",
-                "peapael",
-                "treening"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "hääl",
-                "valimised",
-                "valimisurn"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signaal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "hääl",
-                "märk",
-                "valimised"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medal",
-                "lint",
-                "silmapilgutus"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "kohaletoimetus",
-                "kiiver",
-                "kast"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenn",
-                "avastaja"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "jutumull",
-                "vestlus",
-                "rääkima"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "vile",
-                "kohtunik",
-                "rike"
-            ]
-        },
         "road-warrior": {
             "name": "Maanteeratsanik",
             "keywords": [
@@ -345,6 +191,182 @@
                 "kiiver",
                 "mootorratas",
                 "kiire"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Hull teadlane",
+            "keywords": [
+                "jook",
+                "prillid",
+                "labor"
+            ]
+        },
+        "explorer": {
+            "name": "Avastaja",
+            "keywords": [
+                "avastaja",
+                "kübar",
+                "seiklus"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kaamera",
+                "lipp",
+                "vaatamisväärsused"
+            ]
+        },
+        "jet-setter": {
+            "name": "Maailmarändur",
+            "keywords": [
+                "kohver",
+                "kübar",
+                "reis"
+            ]
+        },
+        "know-it-all": {
+            "name": "Kõiketeadja",
+            "keywords": [
+                "öökull",
+                "lõpetamine",
+                "tark"
+            ]
+        },
+        "close-call": {
+            "name": "Napilt",
+            "keywords": [
+                "tulekustuti",
+                "ohutus",
+                "närvis"
+            ]
+        },
+        "on-the-job": {
+            "name": "Tööl",
+            "keywords": [
+                "ehituskiiver",
+                "ehitus",
+                "vest"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Kampaaniarežiim",
+            "keywords": [
+                "hääl",
+                "märk",
+                "valimised"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Kiirtarne",
+            "keywords": [
+                "kohaletoimetus",
+                "kiiver",
+                "kast"
+            ]
+        },
+        "referee": {
+            "name": "Kohtunik",
+            "keywords": [
+                "vile",
+                "kohtunik",
+                "rike"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "piloot",
+                "kaitseprillid",
+                "kiiver"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "kiiver",
+                "tähed",
+                "võidusõitja"
+            ]
+        },
+        "blue": {
+            "name": "Sinine",
+            "keywords": [
+                "robot",
+                "antenn",
+                "avastaja"
+            ]
+        },
+        "voter": {
+            "name": "Valija",
+            "keywords": [
+                "hääl",
+                "valimised",
+                "valimisurn"
+            ]
+        },
+        "winner": {
+            "name": "Võitja",
+            "keywords": [
+                "medal",
+                "lint",
+                "silmapilgutus"
+            ]
+        },
+        "chatty": {
+            "name": "Lobamokk",
+            "keywords": [
+                "jutumull",
+                "vestlus",
+                "rääkima"
+            ]
+        },
+        "wanderer": {
+            "name": "Rändaja",
+            "keywords": [
+                "sõlm",
+                "reis",
+                "seiklus"
+            ]
+        },
+        "skipper": {
+            "name": "Kapten",
+            "keywords": [
+                "meremees",
+                "nokamüts",
+                "paat"
+            ]
+        },
+        "country-folk": {
+            "name": "Maainimene",
+            "keywords": [
+                "õlgkübar",
+                "talu",
+                "juunipidu"
+            ]
+        },
+        "masked-up": {
+            "name": "Maskiga",
+            "keywords": [
+                "näomask",
+                "tervis",
+                "turvaline"
+            ]
+        },
+        "workout-mode": {
+            "name": "Treeningrežiim",
+            "keywords": [
+                "stopper",
+                "peapael",
+                "treening"
+            ]
+        },
+        "connected": {
+            "name": "Ühendatud",
+            "keywords": [
+                "signaal",
+                "robot",
+                "wifi"
             ]
         }
     }

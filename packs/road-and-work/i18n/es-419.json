@@ -1,160 +1,6 @@
 {
     "name": "En la carretera y en el trabajo",
     "stickers": {
-        "18": {
-            "keywords": [
-                "hatillo",
-                "viaje",
-                "aventura"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "poción",
-                "lentes",
-                "laboratorio"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "explorador",
-                "sombrero",
-                "aventura"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "cámara",
-                "bandera",
-                "turismo"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "marinero",
-                "gorra",
-                "barco"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "maleta",
-                "sombrero",
-                "viaje"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "piloto",
-                "gafas protectoras",
-                "casco"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "búho",
-                "graduación",
-                "listo"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "extintor",
-                "seguridad",
-                "nervioso"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "casco de obra",
-                "construcción",
-                "chaleco"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "sombrero de paja",
-                "granja",
-                "fiesta junina"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "casco",
-                "estrellas",
-                "piloto de carreras"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "cubrebocas",
-                "salud",
-                "seguro"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "cronómetro",
-                "cinta",
-                "entrenamiento"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "voto",
-                "elecciones",
-                "urna"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "señal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "voto",
-                "señal",
-                "elecciones"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalla",
-                "cinta",
-                "guiño"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "reparto",
-                "casco",
-                "caja"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antena",
-                "explorador"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "globo de diálogo",
-                "chat",
-                "hablar"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "silbato",
-                "árbitro",
-                "falta"
-            ]
-        },
         "road-warrior": {
             "name": "Guerrero de la carretera",
             "keywords": [
@@ -345,6 +191,182 @@
                 "casco",
                 "moto",
                 "prisa"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Científico loco",
+            "keywords": [
+                "poción",
+                "lentes",
+                "laboratorio"
+            ]
+        },
+        "explorer": {
+            "name": "Explorador",
+            "keywords": [
+                "explorador",
+                "sombrero",
+                "aventura"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "cámara",
+                "bandera",
+                "turismo"
+            ]
+        },
+        "jet-setter": {
+            "name": "Trotamundos",
+            "keywords": [
+                "maleta",
+                "sombrero",
+                "viaje"
+            ]
+        },
+        "know-it-all": {
+            "name": "Sabelotodo",
+            "keywords": [
+                "búho",
+                "graduación",
+                "listo"
+            ]
+        },
+        "close-call": {
+            "name": "Por un pelo",
+            "keywords": [
+                "extintor",
+                "seguridad",
+                "nervioso"
+            ]
+        },
+        "on-the-job": {
+            "name": "En la obra",
+            "keywords": [
+                "casco de obra",
+                "construcción",
+                "chaleco"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Modo campaña",
+            "keywords": [
+                "voto",
+                "señal",
+                "elecciones"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Entrega express",
+            "keywords": [
+                "reparto",
+                "casco",
+                "caja"
+            ]
+        },
+        "referee": {
+            "name": "Árbitro",
+            "keywords": [
+                "silbato",
+                "árbitro",
+                "falta"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "piloto",
+                "gafas protectoras",
+                "casco"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "casco",
+                "estrellas",
+                "piloto de carreras"
+            ]
+        },
+        "blue": {
+            "name": "Azul",
+            "keywords": [
+                "robot",
+                "antena",
+                "explorador"
+            ]
+        },
+        "voter": {
+            "name": "Votante",
+            "keywords": [
+                "voto",
+                "elecciones",
+                "urna"
+            ]
+        },
+        "winner": {
+            "name": "Ganador",
+            "keywords": [
+                "medalla",
+                "cinta",
+                "guiño"
+            ]
+        },
+        "chatty": {
+            "name": "Parlanchín",
+            "keywords": [
+                "globo de diálogo",
+                "chat",
+                "hablar"
+            ]
+        },
+        "wanderer": {
+            "name": "Caminante",
+            "keywords": [
+                "hatillo",
+                "viaje",
+                "aventura"
+            ]
+        },
+        "skipper": {
+            "name": "Capitán",
+            "keywords": [
+                "marinero",
+                "gorra",
+                "barco"
+            ]
+        },
+        "country-folk": {
+            "name": "Campesino",
+            "keywords": [
+                "sombrero de paja",
+                "granja",
+                "fiesta junina"
+            ]
+        },
+        "masked-up": {
+            "name": "Con tapabocas",
+            "keywords": [
+                "cubrebocas",
+                "salud",
+                "seguro"
+            ]
+        },
+        "workout-mode": {
+            "name": "Modo entrenamiento",
+            "keywords": [
+                "cronómetro",
+                "cinta",
+                "entrenamiento"
+            ]
+        },
+        "connected": {
+            "name": "Conectado",
+            "keywords": [
+                "señal",
+                "robot",
+                "wifi"
             ]
         }
     }

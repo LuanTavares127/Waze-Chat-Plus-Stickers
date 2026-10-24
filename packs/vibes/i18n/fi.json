@@ -1,167 +1,6 @@
 {
     "name": "Fiilikset",
     "stickers": {
-        "44": {
-            "keywords": [
-                "oinaan sarvet",
-                "aurinkolasit",
-                "rohkea"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "aurinkolasit",
-                "rock"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musiikki",
-                "nuotit",
-                "hippi"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "korkokenkä",
-                "muoti",
-                "diiva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "makaa",
-                "juhlahattu",
-                "rento"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "kuulokemikrofoni",
-                "kuuntelee",
-                "musiikki"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "hehkulamppu",
-                "silmälasit",
-                "idea"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "kuplat",
-                "taikajuoma",
-                "iloinen"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "kipinä",
-                "aurinkolasit",
-                "hieno"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "kuulokkeet",
-                "leopardi",
-                "musiikki"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofoni",
-                "karaoke",
-                "laulaa"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "avaruusolio",
-                "kypärä",
-                "avaruus"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "kuulokkeet",
-                "musiikki",
-                "siisti"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "lippalakki",
-                "takaperin",
-                "sivusilmäys"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "potkurilakki",
-                "hassu",
-                "lapsi"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "vahvistin",
-                "kitara",
-                "musiikki"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "rumpu",
-                "tamburiini",
-                "silmänisku"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "hehkulamppu",
-                "ajatella",
-                "idea"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "käsi",
-                "tervehdys",
-                "tervehtiä"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "silmälasit",
-                "älykäs",
-                "ivallinen hymy"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "silmälasit",
-                "blondi",
-                "opiskella"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "viitta",
-                "sankari",
-                "silmälasit"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "kruunu",
-                "aurinkolasit",
-                "kuningas"
-            ]
-        },
         "chill": {
             "name": "Rento",
             "keywords": [
@@ -336,6 +175,182 @@
                 "piikikäs",
                 "vaalea",
                 "suu mutrussa"
+            ]
+        },
+        "homie": {
+            "name": "Jäbä",
+            "keywords": [
+                "bandana",
+                "aurinkolasit",
+                "rock"
+            ]
+        },
+        "afterparty": {
+            "name": "Jatkot",
+            "keywords": [
+                "makaa",
+                "juhlahattu",
+                "rento"
+            ]
+        },
+        "boss": {
+            "name": "Pomo",
+            "keywords": [
+                "kuulokkeet",
+                "leopardi",
+                "musiikki"
+            ]
+        },
+        "sly": {
+            "name": "Ovela",
+            "keywords": [
+                "lippalakki",
+                "takaperin",
+                "sivusilmäys"
+            ]
+        },
+        "smug": {
+            "name": "Omahyväinen",
+            "keywords": [
+                "silmälasit",
+                "älykäs",
+                "ivallinen hymy"
+            ]
+        },
+        "bookish": {
+            "name": "Lukutoukka",
+            "keywords": [
+                "silmälasit",
+                "blondi",
+                "opiskella"
+            ]
+        },
+        "royalty": {
+            "name": "Kuninkaallinen",
+            "keywords": [
+                "kruunu",
+                "aurinkolasit",
+                "kuningas"
+            ]
+        },
+        "dazzling": {
+            "name": "Häikäisevä",
+            "keywords": [
+                "kipinä",
+                "aurinkolasit",
+                "hieno"
+            ]
+        },
+        "brainiac": {
+            "name": "Neropatti",
+            "keywords": [
+                "hehkulamppu",
+                "silmälasit",
+                "idea"
+            ]
+        },
+        "spaced-out": {
+            "name": "Omissa maailmoissaan",
+            "keywords": [
+                "avaruusolio",
+                "kypärä",
+                "avaruus"
+            ]
+        },
+        "cool": {
+            "name": "Siisti",
+            "keywords": [
+                "kuulokkeet",
+                "musiikki",
+                "siisti"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "hehkulamppu",
+                "ajatella",
+                "idea"
+            ]
+        },
+        "bug-buster": {
+            "name": "Bugimetsästäjä",
+            "keywords": [
+                "kuplat",
+                "taikajuoma",
+                "iloinen"
+            ]
+        },
+        "far-out": {
+            "name": "Hippi",
+            "keywords": [
+                "musiikki",
+                "nuotit",
+                "hippi"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaoketähti",
+            "keywords": [
+                "mikrofoni",
+                "karaoke",
+                "laulaa"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernörtti",
+            "keywords": [
+                "viitta",
+                "sankari",
+                "silmälasit"
+            ]
+        },
+        "wonderful": {
+            "name": "Ihana",
+            "keywords": [
+                "korkokenkä",
+                "muoti",
+                "diiva"
+            ]
+        },
+        "amped": {
+            "name": "Täysillä",
+            "keywords": [
+                "vahvistin",
+                "kitara",
+                "musiikki"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Rytmissä",
+            "keywords": [
+                "rumpu",
+                "tamburiini",
+                "silmänisku"
+            ]
+        },
+        "rambunctious": {
+            "name": "Riehakas",
+            "keywords": [
+                "oinaan sarvet",
+                "aurinkolasit",
+                "rohkea"
+            ]
+        },
+        "tuned-in": {
+            "name": "Taajuudella",
+            "keywords": [
+                "kuulokemikrofoni",
+                "kuuntelee",
+                "musiikki"
+            ]
+        },
+        "kiddo": {
+            "name": "Muksu",
+            "keywords": [
+                "potkurilakki",
+                "hassu",
+                "lapsi"
             ]
         }
     }

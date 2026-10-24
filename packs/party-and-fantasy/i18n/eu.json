@@ -1,111 +1,6 @@
 {
     "name": "Jaia, zodiakoa eta fantasia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "elur-gizona",
-                "negua",
-                "zapia"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "jai-kapela",
-                "urtebetetzea",
-                "ospatu"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "bikingoa",
-                "kaskoa",
-                "mapako txintxeta"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bufoia",
-                "kapela",
-                "barrea"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "eguberriak",
-                "santa klaus",
-                "eguzkitako betaurrekoak"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "aztia",
-                "kapela",
-                "magia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "sorgina",
-                "kapela",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "inauteriak",
-                "buruko apaindura",
-                "lumak"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "zapia",
-                "txano",
-                "negua"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "inauteriak",
-                "maskara",
-                "jaia"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "urte berria",
-                "2026",
-                "jaia"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "bikingoa",
-                "mailua",
-                "ezkutua"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "negua",
-                "txano",
-                "hotza"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "zaindaria",
-                "londres",
-                "kapela"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "txistera",
-                "tea",
-                "mirarien herrialdea"
-            ]
-        },
         "aries": {
             "name": "Ahari",
             "keywords": [
@@ -376,6 +271,126 @@
                 "heroia",
                 "tiara",
                 "indarra"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Urtebetetze giroa",
+            "keywords": [
+                "jai-kapela",
+                "urtebetetzea",
+                "ospatu"
+            ]
+        },
+        "witchy": {
+            "name": "Sorgina",
+            "keywords": [
+                "sorgina",
+                "kapela",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Ausarta",
+            "keywords": [
+                "bikingoa",
+                "mailua",
+                "ezkutua"
+            ]
+        },
+        "stern-guard": {
+            "name": "Guardia serioa",
+            "keywords": [
+                "zaindaria",
+                "londres",
+                "kapela"
+            ]
+        },
+        "snowman": {
+            "name": "Elur-panpina",
+            "keywords": [
+                "elur-gizona",
+                "negua",
+                "zapia"
+            ]
+        },
+        "map-raider": {
+            "name": "Mapa-erasotzailea",
+            "keywords": [
+                "bikingoa",
+                "kaskoa",
+                "mapako txintxeta"
+            ]
+        },
+        "hello-2026": {
+            "name": "Kaixo 2026",
+            "keywords": [
+                "urte berria",
+                "2026",
+                "jaia"
+            ]
+        },
+        "cool-santa": {
+            "name": "Aita Noel dotorea",
+            "keywords": [
+                "eguberriak",
+                "santa klaus",
+                "eguzkitako betaurrekoak"
+            ]
+        },
+        "spicy": {
+            "name": "Pikantea",
+            "keywords": [
+                "txistera",
+                "tea",
+                "mirarien herrialdea"
+            ]
+        },
+        "jester": {
+            "name": "Bufoia",
+            "keywords": [
+                "bufoia",
+                "kapela",
+                "barrea"
+            ]
+        },
+        "wizard": {
+            "name": "Aztia",
+            "keywords": [
+                "aztia",
+                "kapela",
+                "magia"
+            ]
+        },
+        "samba-star": {
+            "name": "Sanba-dantzaria",
+            "keywords": [
+                "inauteriak",
+                "buruko apaindura",
+                "lumak"
+            ]
+        },
+        "cozy": {
+            "name": "Goxo-goxo",
+            "keywords": [
+                "zapia",
+                "txano",
+                "negua"
+            ]
+        },
+        "masquerade": {
+            "name": "Mozorrotuta",
+            "keywords": [
+                "inauteriak",
+                "maskara",
+                "jaia"
+            ]
+        },
+        "bundled-up": {
+            "name": "Ondo bilduta",
+            "keywords": [
+                "negua",
+                "txano",
+                "hotza"
             ]
         }
     }

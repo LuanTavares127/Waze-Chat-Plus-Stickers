@@ -1,97 +1,6 @@
 {
     "name": "Gevoelens",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassiek",
-                "hallo",
-                "blij"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "traan",
-                "verdrietig",
-                "slaapmuts"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "blanco",
-                "neutraal",
-                "gewoon"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "liefde",
-                "hartje",
-                "zoet"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "ouder",
-                "baby",
-                "gezin"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "huilend",
-                "overstuur",
-                "wanhoop"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "ziek",
-                "misselijk",
-                "onwel"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "ongemakkelijk",
-                "onprettig",
-                "bah"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "opgewonden",
-                "hoera",
-                "vleugels"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "blij",
-                "lachen",
-                "hoed"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "boos",
-                "geïrriteerd",
-                "frons"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "vraag",
-                "wat",
-                "twijfel"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditatie",
-                "kalm"
-            ]
-        },
         "amazing": {
             "name": "Geweldig",
             "keywords": [
@@ -354,6 +263,110 @@
                 "trots",
                 "regenboog",
                 "hartje"
+            ]
+        },
+        "puzzled": {
+            "name": "Verbaasd",
+            "keywords": [
+                "vraag",
+                "wat",
+                "twijfel"
+            ]
+        },
+        "grounded": {
+            "name": "Zen",
+            "keywords": [
+                "lotus",
+                "meditatie",
+                "kalm"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassiek",
+                "hallo",
+                "blij"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "traan",
+                "verdrietig",
+                "slaapmuts"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerface",
+            "keywords": [
+                "blanco",
+                "neutraal",
+                "gewoon"
+            ]
+        },
+        "sweetheart": {
+            "name": "Schatje",
+            "keywords": [
+                "liefde",
+                "hartje",
+                "zoet"
+            ]
+        },
+        "family": {
+            "name": "Gezin",
+            "keywords": [
+                "ouder",
+                "baby",
+                "gezin"
+            ]
+        },
+        "fuming": {
+            "name": "Woedend",
+            "keywords": [
+                "boos",
+                "geïrriteerd",
+                "frons"
+            ]
+        },
+        "distraught": {
+            "name": "Radeloos",
+            "keywords": [
+                "huilend",
+                "overstuur",
+                "wanhoop"
+            ]
+        },
+        "queasy": {
+            "name": "Misselijk",
+            "keywords": [
+                "ziek",
+                "misselijk",
+                "onwel"
+            ]
+        },
+        "uneasy": {
+            "name": "Ongemakkelijk",
+            "keywords": [
+                "ongemakkelijk",
+                "onprettig",
+                "bah"
+            ]
+        },
+        "ecstatic": {
+            "name": "Door het dolle",
+            "keywords": [
+                "opgewonden",
+                "hoera",
+                "vleugels"
+            ]
+        },
+        "cheerful": {
+            "name": "Vrolijk",
+            "keywords": [
+                "blij",
+                "lachen",
+                "hoed"
             ]
         }
     }

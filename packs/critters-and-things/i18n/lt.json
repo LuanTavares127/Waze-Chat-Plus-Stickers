@@ -1,111 +1,6 @@
 {
     "name": "Gyvūnėliai ir daiktai",
     "stickers": {
-        "30": {
-            "keywords": [
-                "uola",
-                "akmuo",
-                "greitas"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "meška",
-                "žvejo kepurė",
-                "šypsena"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "paukštis",
-                "ramybė"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "smegenys",
-                "protingas",
-                "galvoti"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozauras",
-                "dantys",
-                "įkąsti"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "iltys",
-                "dantys",
-                "šypsnys"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "karvė",
-                "mū",
-                "ūkis"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "šuo",
-                "korgis",
-                "karūna"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "šuo",
-                "korgis",
-                "mirktelėjimas"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "šuo",
-                "korgis",
-                "karūna"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drakonas",
-                "raudona",
-                "monstras"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "ranka",
-                "akis",
-                "apsauga"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "akis",
-                "ženklas",
-                "paslaptis"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "arbatinukas",
-                "arbata",
-                "obuolys"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "paukštis",
-                "kepurė",
-                "kalbėti"
-            ]
-        },
         "8-bit": {
             "name": "8 bitų",
             "keywords": [
@@ -242,22 +137,6 @@
                 "pietūs"
             ]
         },
-        "magical": {
-            "name": "Stebuklingas",
-            "keywords": [
-                "vienaragis",
-                "vaivorykštė",
-                "magija"
-            ]
-        },
-        "magical-2": {
-            "name": "Stebuklingas (2)",
-            "keywords": [
-                "magija",
-                "rožinis",
-                "garsus"
-            ]
-        },
         "open": {
             "name": "Atviras",
             "keywords": [
@@ -352,6 +231,142 @@
                 "vilkas",
                 "staugimas",
                 "gudrus"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "paukštis",
+                "ramybė"
+            ]
+        },
+        "parrot": {
+            "name": "Papūga",
+            "keywords": [
+                "paukštis",
+                "kepurė",
+                "kalbėti"
+            ]
+        },
+        "blissful": {
+            "name": "Palaimingoji",
+            "keywords": [
+                "karvė",
+                "mū",
+                "ūkis"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Greitas akmuo",
+            "keywords": [
+                "uola",
+                "akmuo",
+                "greitas"
+            ]
+        },
+        "big-brain": {
+            "name": "Protinga galva",
+            "keywords": [
+                "smegenys",
+                "protingas",
+                "galvoti"
+            ]
+        },
+        "yellow": {
+            "name": "Geltonas",
+            "keywords": [
+                "iltys",
+                "dantys",
+                "šypsnys"
+            ]
+        },
+        "pampered": {
+            "name": "Išlepintas",
+            "keywords": [
+                "šuo",
+                "korgis",
+                "karūna"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Ištikimas",
+            "keywords": [
+                "šuo",
+                "korgis",
+                "mirktelėjimas"
+            ]
+        },
+        "playful-pup": {
+            "name": "Žaismingas šuniukas",
+            "keywords": [
+                "šuo",
+                "korgis",
+                "karūna"
+            ]
+        },
+        "red": {
+            "name": "Raudonas",
+            "keywords": [
+                "drakonas",
+                "raudona",
+                "monstras"
+            ]
+        },
+        "unicorn": {
+            "name": "Vienaragis",
+            "keywords": [
+                "vienaragis",
+                "vaivorykštė",
+                "magija"
+            ]
+        },
+        "magical": {
+            "name": "Magiškas",
+            "keywords": [
+                "magija",
+                "rožinis",
+                "garsus"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionierius",
+            "keywords": [
+                "akis",
+                "ženklas",
+                "paslaptis"
+            ]
+        },
+        "focused": {
+            "name": "Susikaupęs",
+            "keywords": [
+                "ranka",
+                "akis",
+                "apsauga"
+            ]
+        },
+        "kind": {
+            "name": "Geraširdis",
+            "keywords": [
+                "meška",
+                "žvejo kepurė",
+                "šypsena"
+            ]
+        },
+        "zesty": {
+            "name": "Gyvybingas",
+            "keywords": [
+                "arbatinukas",
+                "arbata",
+                "obuolys"
+            ]
+        },
+        "chomper": {
+            "name": "Kandikas",
+            "keywords": [
+                "dinozauras",
+                "dantys",
+                "įkąsti"
             ]
         }
     }

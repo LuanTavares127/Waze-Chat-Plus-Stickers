@@ -1,111 +1,6 @@
 {
     "name": "Parti, Zodiak & Fantasi",
     "stickers": {
-        "31": {
-            "keywords": [
-                "orang salji",
-                "musim sejuk",
-                "skarf"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "topi parti",
-                "hari jadi",
-                "meraikan"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "topi keledar",
-                "pin peta"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "badut istana",
-                "topi",
-                "ketawa"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "krismas",
-                "santa",
-                "cermin mata hitam"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "ahli sihir",
-                "topi",
-                "sihir"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "ahli sihir wanita",
-                "topi",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karnival",
-                "hiasan kepala",
-                "bulu"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "skarf",
-                "topi kupluk",
-                "musim sejuk"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karnival",
-                "topeng",
-                "parti"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "tahun baru",
-                "2026",
-                "parti"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "tukul",
-                "perisai"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "musim sejuk",
-                "topi kupluk",
-                "sejuk"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "pengawal",
-                "london",
-                "topi"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "topi tinggi",
-                "teh",
-                "negeri ajaib"
-            ]
-        },
         "aries": {
             "name": "Aries",
             "keywords": [
@@ -376,6 +271,126 @@
                 "wira",
                 "tiara",
                 "kuasa"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Mood Hari Jadi",
+            "keywords": [
+                "topi parti",
+                "hari jadi",
+                "meraikan"
+            ]
+        },
+        "witchy": {
+            "name": "Penyihir",
+            "keywords": [
+                "ahli sihir wanita",
+                "topi",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Gagah Berani",
+            "keywords": [
+                "viking",
+                "tukul",
+                "perisai"
+            ]
+        },
+        "stern-guard": {
+            "name": "Pengawal Tegas",
+            "keywords": [
+                "pengawal",
+                "london",
+                "topi"
+            ]
+        },
+        "snowman": {
+            "name": "Orang Salji",
+            "keywords": [
+                "orang salji",
+                "musim sejuk",
+                "skarf"
+            ]
+        },
+        "map-raider": {
+            "name": "Penyerang Peta",
+            "keywords": [
+                "viking",
+                "topi keledar",
+                "pin peta"
+            ]
+        },
+        "hello-2026": {
+            "name": "Hai 2026",
+            "keywords": [
+                "tahun baru",
+                "2026",
+                "parti"
+            ]
+        },
+        "cool-santa": {
+            "name": "Santa Bergaya",
+            "keywords": [
+                "krismas",
+                "santa",
+                "cermin mata hitam"
+            ]
+        },
+        "spicy": {
+            "name": "Pedas",
+            "keywords": [
+                "topi tinggi",
+                "teh",
+                "negeri ajaib"
+            ]
+        },
+        "jester": {
+            "name": "Badut Istana",
+            "keywords": [
+                "badut istana",
+                "topi",
+                "ketawa"
+            ]
+        },
+        "wizard": {
+            "name": "Ahli Sihir",
+            "keywords": [
+                "ahli sihir",
+                "topi",
+                "sihir"
+            ]
+        },
+        "samba-star": {
+            "name": "Bintang Samba",
+            "keywords": [
+                "karnival",
+                "hiasan kepala",
+                "bulu"
+            ]
+        },
+        "cozy": {
+            "name": "Selesa",
+            "keywords": [
+                "skarf",
+                "topi kupluk",
+                "musim sejuk"
+            ]
+        },
+        "masquerade": {
+            "name": "Majlis Topeng",
+            "keywords": [
+                "karnival",
+                "topeng",
+                "parti"
+            ]
+        },
+        "bundled-up": {
+            "name": "Berbalut Tebal",
+            "keywords": [
+                "musim sejuk",
+                "topi kupluk",
+                "sejuk"
             ]
         }
     }

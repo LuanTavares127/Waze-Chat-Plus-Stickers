@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "ét øje",
-                "banan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "ét øje",
-                "bikage"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiont",
-                "tænder",
-                "skurk"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "dukke",
-                "glad"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "briller",
-                "hår"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "dukke",
-                "nervøs"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "hat",
-                "latter"
-            ]
-        },
         "ed": {
             "name": "Ed - Loyal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "byggeri"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rødt hår",
-                "latter"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "alf",
                 "ædelsten",
                 "skurk"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiont",
+                "tænder",
+                "skurk"
+            ]
+        },
+        "despicable": {
+            "name": "Grusom",
+            "keywords": [
+                "minion",
+                "ét øje",
+                "banan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega grusom",
+            "keywords": [
+                "minion",
+                "ét øje",
+                "bikage"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "dukke",
+                "glad"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "briller",
+                "hår"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "dukke",
+                "nervøs"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "hat",
+                "latter"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rødt hår",
+                "latter"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulcansk hilsen",
+            "keywords": [
+                "hånd",
+                "honnør",
+                "hilsen"
             ]
         }
     }

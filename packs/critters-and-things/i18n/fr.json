@@ -1,111 +1,6 @@
 {
     "name": "Bestioles et compagnie",
     "stickers": {
-        "30": {
-            "keywords": [
-                "roche",
-                "pierre",
-                "rapide"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "ours",
-                "bob",
-                "sourire"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capybara",
-                "oiseau",
-                "détente"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "cerveau",
-                "intelligent",
-                "réfléchir"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaure",
-                "dents",
-                "mordre"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "crocs",
-                "dents",
-                "grand sourire"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "vache",
-                "meuh",
-                "ferme"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "chien",
-                "corgi",
-                "couronne"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "chien",
-                "corgi",
-                "clin d'œil"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "chien",
-                "corgi",
-                "couronne"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "dragon",
-                "rouge",
-                "monstre"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "main",
-                "œil",
-                "protection"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "œil",
-                "signe",
-                "mystère"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "théière",
-                "thé",
-                "pomme"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "oiseau",
-                "casquette",
-                "parler"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "déjeuner"
             ]
         },
-        "magical": {
-            "name": "Magique",
-            "keywords": [
-                "licorne",
-                "arc-en-ciel",
-                "magie"
-            ]
-        },
-        "magical-2": {
-            "name": "Magique (2)",
-            "keywords": [
-                "magie",
-                "rose",
-                "célèbre"
-            ]
-        },
         "open": {
             "name": "Ouvert",
             "keywords": [
@@ -352,6 +231,142 @@
                 "loup",
                 "hurler",
                 "rusé"
+            ]
+        },
+        "capybara": {
+            "name": "Capybara",
+            "keywords": [
+                "capybara",
+                "oiseau",
+                "détente"
+            ]
+        },
+        "parrot": {
+            "name": "Perroquet",
+            "keywords": [
+                "oiseau",
+                "casquette",
+                "parler"
+            ]
+        },
+        "blissful": {
+            "name": "Comblée",
+            "keywords": [
+                "vache",
+                "meuh",
+                "ferme"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Caillou véloce",
+            "keywords": [
+                "roche",
+                "pierre",
+                "rapide"
+            ]
+        },
+        "big-brain": {
+            "name": "Grosse tête",
+            "keywords": [
+                "cerveau",
+                "intelligent",
+                "réfléchir"
+            ]
+        },
+        "yellow": {
+            "name": "Jaune",
+            "keywords": [
+                "crocs",
+                "dents",
+                "grand sourire"
+            ]
+        },
+        "pampered": {
+            "name": "Chouchouté",
+            "keywords": [
+                "chien",
+                "corgi",
+                "couronne"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Fidèle",
+            "keywords": [
+                "chien",
+                "corgi",
+                "clin d'œil"
+            ]
+        },
+        "playful-pup": {
+            "name": "Chiot joueur",
+            "keywords": [
+                "chien",
+                "corgi",
+                "couronne"
+            ]
+        },
+        "red": {
+            "name": "Rouge",
+            "keywords": [
+                "dragon",
+                "rouge",
+                "monstre"
+            ]
+        },
+        "unicorn": {
+            "name": "Licorne",
+            "keywords": [
+                "licorne",
+                "arc-en-ciel",
+                "magie"
+            ]
+        },
+        "magical": {
+            "name": "Magique",
+            "keywords": [
+                "magie",
+                "rose",
+                "célèbre"
+            ]
+        },
+        "visionary": {
+            "name": "Visionnaire",
+            "keywords": [
+                "œil",
+                "signe",
+                "mystère"
+            ]
+        },
+        "focused": {
+            "name": "Concentré",
+            "keywords": [
+                "main",
+                "œil",
+                "protection"
+            ]
+        },
+        "kind": {
+            "name": "Gentil",
+            "keywords": [
+                "ours",
+                "bob",
+                "sourire"
+            ]
+        },
+        "zesty": {
+            "name": "Pétillant",
+            "keywords": [
+                "théière",
+                "thé",
+                "pomme"
+            ]
+        },
+        "chomper": {
+            "name": "Croqueur",
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "mordre"
             ]
         }
     }

@@ -1,167 +1,6 @@
 {
     "name": "Vibes",
     "stickers": {
-        "44": {
-            "keywords": [
-                "vædderhorn",
-                "solbriller",
-                "dristig"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "solbriller",
-                "klippe"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musik",
-                "noder",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "høj hæl",
-                "mode",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "liggende",
-                "festhat",
-                "afslappet"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "headset",
-                "lytte",
-                "musik"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "pære",
-                "briller",
-                "idé"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bobler",
-                "eliksir",
-                "glad"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "gnist",
-                "solbriller",
-                "fin"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "høretelefoner",
-                "leopard",
-                "musik"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "synge"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "rumvæsen",
-                "hjelm",
-                "rummet"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "høretelefoner",
-                "musik",
-                "cool"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "kasket",
-                "baglæns",
-                "sideblik"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "propelhat",
-                "fjollet",
-                "barn"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "forstærker",
-                "guitar",
-                "musik"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "tromme",
-                "tamburin",
-                "blink"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "pære",
-                "tænke",
-                "idé"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "hånd",
-                "honnør",
-                "hilsen"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "briller",
-                "klog",
-                "selvglad smil"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "briller",
-                "blond",
-                "studere"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "kappe",
-                "helt",
-                "briller"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "krone",
-                "solbriller",
-                "konge"
-            ]
-        },
         "chill": {
             "name": "Chill",
             "keywords": [
@@ -336,6 +175,182 @@
                 "spids",
                 "blond",
                 "trutmund"
+            ]
+        },
+        "homie": {
+            "name": "Makker",
+            "keywords": [
+                "bandana",
+                "solbriller",
+                "klippe"
+            ]
+        },
+        "afterparty": {
+            "name": "Efterfest",
+            "keywords": [
+                "liggende",
+                "festhat",
+                "afslappet"
+            ]
+        },
+        "boss": {
+            "name": "Bossen",
+            "keywords": [
+                "høretelefoner",
+                "leopard",
+                "musik"
+            ]
+        },
+        "sly": {
+            "name": "Snu",
+            "keywords": [
+                "kasket",
+                "baglæns",
+                "sideblik"
+            ]
+        },
+        "smug": {
+            "name": "Selvglad",
+            "keywords": [
+                "briller",
+                "klog",
+                "selvglad smil"
+            ]
+        },
+        "bookish": {
+            "name": "Bogorm",
+            "keywords": [
+                "briller",
+                "blond",
+                "studere"
+            ]
+        },
+        "royalty": {
+            "name": "Kongelig",
+            "keywords": [
+                "krone",
+                "solbriller",
+                "konge"
+            ]
+        },
+        "dazzling": {
+            "name": "Blændende",
+            "keywords": [
+                "gnist",
+                "solbriller",
+                "fin"
+            ]
+        },
+        "brainiac": {
+            "name": "Hjerne",
+            "keywords": [
+                "pære",
+                "briller",
+                "idé"
+            ]
+        },
+        "spaced-out": {
+            "name": "Helt væk",
+            "keywords": [
+                "rumvæsen",
+                "hjelm",
+                "rummet"
+            ]
+        },
+        "cool": {
+            "name": "Sej",
+            "keywords": [
+                "høretelefoner",
+                "musik",
+                "cool"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "pære",
+                "tænke",
+                "idé"
+            ]
+        },
+        "bug-buster": {
+            "name": "Bugjæger",
+            "keywords": [
+                "bobler",
+                "eliksir",
+                "glad"
+            ]
+        },
+        "far-out": {
+            "name": "Hippie-vibes",
+            "keywords": [
+                "musik",
+                "noder",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaokestjerne",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "synge"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernørd",
+            "keywords": [
+                "kappe",
+                "helt",
+                "briller"
+            ]
+        },
+        "wonderful": {
+            "name": "Vidunderlig",
+            "keywords": [
+                "høj hæl",
+                "mode",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Pumpet",
+            "keywords": [
+                "forstærker",
+                "guitar",
+                "musik"
+            ]
+        },
+        "on-the-beat": {
+            "name": "I takt",
+            "keywords": [
+                "tromme",
+                "tamburin",
+                "blink"
+            ]
+        },
+        "rambunctious": {
+            "name": "Vild",
+            "keywords": [
+                "vædderhorn",
+                "solbriller",
+                "dristig"
+            ]
+        },
+        "tuned-in": {
+            "name": "Helt med",
+            "keywords": [
+                "headset",
+                "lytte",
+                "musik"
+            ]
+        },
+        "kiddo": {
+            "name": "Knægt",
+            "keywords": [
+                "propelhat",
+                "fjollet",
+                "barn"
             ]
         }
     }

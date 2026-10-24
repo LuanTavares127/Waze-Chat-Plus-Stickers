@@ -1,167 +1,6 @@
 {
     "name": "Nuotaika",
     "stickers": {
-        "44": {
-            "keywords": [
-                "avino ragai",
-                "akiniai nuo saulės",
-                "drąsus"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "akiniai nuo saulės",
-                "uola"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "muzika",
-                "natos",
-                "hipis"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "aukštakulnis",
-                "mada",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "gulintis",
-                "šventinė kepurė",
-                "atsipalaidavęs"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "ausinės su mikrofonu",
-                "klausosi",
-                "muzika"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "lemputė",
-                "akiniai",
-                "idėja"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "burbulai",
-                "eliksyras",
-                "laimingas"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "žvilgesys",
-                "akiniai nuo saulės",
-                "elegantiškas"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "ausinės",
-                "leopardas",
-                "muzika"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofonas",
-                "karaoke",
-                "dainuoti"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "ateivis",
-                "šalmas",
-                "kosmosas"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "ausinės",
-                "muzika",
-                "šaunus"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "kepurė",
-                "atvirkščiai",
-                "žvilgsnis iš šono"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "kepurė su propeleriu",
-                "kvailas",
-                "vaikas"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "stiprintuvas",
-                "gitara",
-                "muzika"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "būgnas",
-                "tamburinas",
-                "mirktelėjimas"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "lemputė",
-                "galvoti",
-                "idėja"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "ranka",
-                "pasveikinimas",
-                "sveikinimas"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "akiniai",
-                "protingas",
-                "šypsnis"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "akiniai",
-                "blondinė",
-                "mokytis"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "apsiaustas",
-                "didvyris",
-                "akiniai"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "karūna",
-                "akiniai nuo saulės",
-                "karalius"
-            ]
-        },
         "chill": {
             "name": "Ramybė",
             "keywords": [
@@ -336,6 +175,182 @@
                 "dygliuotas",
                 "šviesiaplaukis",
                 "nuleistos lūpos"
+            ]
+        },
+        "homie": {
+            "name": "Bičiulis",
+            "keywords": [
+                "bandana",
+                "akiniai nuo saulės",
+                "uola"
+            ]
+        },
+        "afterparty": {
+            "name": "Po vakarėlio",
+            "keywords": [
+                "gulintis",
+                "šventinė kepurė",
+                "atsipalaidavęs"
+            ]
+        },
+        "boss": {
+            "name": "Galingoji",
+            "keywords": [
+                "ausinės",
+                "leopardas",
+                "muzika"
+            ]
+        },
+        "sly": {
+            "name": "Gudruolis",
+            "keywords": [
+                "kepurė",
+                "atvirkščiai",
+                "žvilgsnis iš šono"
+            ]
+        },
+        "smug": {
+            "name": "Pasipūtęs",
+            "keywords": [
+                "akiniai",
+                "protingas",
+                "šypsnis"
+            ]
+        },
+        "bookish": {
+            "name": "Knygų graužikas",
+            "keywords": [
+                "akiniai",
+                "blondinė",
+                "mokytis"
+            ]
+        },
+        "royalty": {
+            "name": "Karališkas",
+            "keywords": [
+                "karūna",
+                "akiniai nuo saulės",
+                "karalius"
+            ]
+        },
+        "dazzling": {
+            "name": "Akinantis",
+            "keywords": [
+                "žvilgesys",
+                "akiniai nuo saulės",
+                "elegantiškas"
+            ]
+        },
+        "brainiac": {
+            "name": "Genijus",
+            "keywords": [
+                "lemputė",
+                "akiniai",
+                "idėja"
+            ]
+        },
+        "spaced-out": {
+            "name": "Debesyse",
+            "keywords": [
+                "ateivis",
+                "šalmas",
+                "kosmosas"
+            ]
+        },
+        "cool": {
+            "name": "Šaunus",
+            "keywords": [
+                "ausinės",
+                "muzika",
+                "šaunus"
+            ]
+        },
+        "eureka": {
+            "name": "Eureka",
+            "keywords": [
+                "lemputė",
+                "galvoti",
+                "idėja"
+            ]
+        },
+        "bug-buster": {
+            "name": "Klaidų gaudytojas",
+            "keywords": [
+                "burbulai",
+                "eliksyras",
+                "laimingas"
+            ]
+        },
+        "far-out": {
+            "name": "Hipis",
+            "keywords": [
+                "muzika",
+                "natos",
+                "hipis"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaokės žvaigždė",
+            "keywords": [
+                "mikrofonas",
+                "karaoke",
+                "dainuoti"
+            ]
+        },
+        "super-nerd": {
+            "name": "Super moksliukas",
+            "keywords": [
+                "apsiaustas",
+                "didvyris",
+                "akiniai"
+            ]
+        },
+        "wonderful": {
+            "name": "Nuostabioji",
+            "keywords": [
+                "aukštakulnis",
+                "mada",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Užsivedęs",
+            "keywords": [
+                "stiprintuvas",
+                "gitara",
+                "muzika"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Ritme",
+            "keywords": [
+                "būgnas",
+                "tamburinas",
+                "mirktelėjimas"
+            ]
+        },
+        "rambunctious": {
+            "name": "Padauža",
+            "keywords": [
+                "avino ragai",
+                "akiniai nuo saulės",
+                "drąsus"
+            ]
+        },
+        "tuned-in": {
+            "name": "Bangoje",
+            "keywords": [
+                "ausinės su mikrofonu",
+                "klausosi",
+                "muzika"
+            ]
+        },
+        "kiddo": {
+            "name": "Mažylis",
+            "keywords": [
+                "kepurė su propeleriu",
+                "kvailas",
+                "vaikas"
             ]
         }
     }

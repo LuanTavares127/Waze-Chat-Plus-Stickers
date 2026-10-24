@@ -1,160 +1,6 @@
 {
     "name": "Onderweg & op het werk",
     "stickers": {
-        "18": {
-            "keywords": [
-                "bundel",
-                "reis",
-                "avontuur"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "drankje",
-                "bril",
-                "lab"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "ontdekkingsreiziger",
-                "hoed",
-                "avontuur"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "camera",
-                "vlag",
-                "bezienswaardigheden"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "matroos",
-                "pet",
-                "boot"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "koffer",
-                "hoed",
-                "reis"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "piloot",
-                "veiligheidsbril",
-                "helm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "uil",
-                "afstuderen",
-                "slim"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "brandblusser",
-                "veiligheid",
-                "zenuwachtig"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "bouwhelm",
-                "bouw",
-                "hesje"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "strohoed",
-                "boerderij",
-                "junifeest"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "helm",
-                "sterren",
-                "coureur"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "mondkapje",
-                "gezondheid",
-                "veilig"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopwatch",
-                "hoofdband",
-                "training"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "stemmen",
-                "verkiezing",
-                "stembiljet"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signaal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "stemmen",
-                "teken",
-                "verkiezing"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medaille",
-                "lint",
-                "knipoog"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "bezorging",
-                "helm",
-                "doos"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenne",
-                "ontdekkingsreiziger"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "tekstballon",
-                "chat",
-                "praten"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "fluitje",
-                "scheidsrechter",
-                "overtreding"
-            ]
-        },
         "road-warrior": {
             "name": "Wegkrijger",
             "keywords": [
@@ -345,6 +191,182 @@
                 "helm",
                 "motor",
                 "haast"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Gekke professor",
+            "keywords": [
+                "drankje",
+                "bril",
+                "lab"
+            ]
+        },
+        "explorer": {
+            "name": "Ontdekkingsreiziger",
+            "keywords": [
+                "ontdekkingsreiziger",
+                "hoed",
+                "avontuur"
+            ]
+        },
+        "sightseer": {
+            "name": "Toerist",
+            "keywords": [
+                "camera",
+                "vlag",
+                "bezienswaardigheden"
+            ]
+        },
+        "jet-setter": {
+            "name": "Wereldreiziger",
+            "keywords": [
+                "koffer",
+                "hoed",
+                "reis"
+            ]
+        },
+        "know-it-all": {
+            "name": "Betweter",
+            "keywords": [
+                "uil",
+                "afstuderen",
+                "slim"
+            ]
+        },
+        "close-call": {
+            "name": "Op het nippertje",
+            "keywords": [
+                "brandblusser",
+                "veiligheid",
+                "zenuwachtig"
+            ]
+        },
+        "on-the-job": {
+            "name": "Aan het werk",
+            "keywords": [
+                "bouwhelm",
+                "bouw",
+                "hesje"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Campagnemodus",
+            "keywords": [
+                "stemmen",
+                "teken",
+                "verkiezing"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Snelle bezorging",
+            "keywords": [
+                "bezorging",
+                "helm",
+                "doos"
+            ]
+        },
+        "referee": {
+            "name": "Scheidsrechter",
+            "keywords": [
+                "fluitje",
+                "scheidsrechter",
+                "overtreding"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "piloot",
+                "veiligheidsbril",
+                "helm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "helm",
+                "sterren",
+                "coureur"
+            ]
+        },
+        "blue": {
+            "name": "Blauw",
+            "keywords": [
+                "robot",
+                "antenne",
+                "ontdekkingsreiziger"
+            ]
+        },
+        "voter": {
+            "name": "Kiezer",
+            "keywords": [
+                "stemmen",
+                "verkiezing",
+                "stembiljet"
+            ]
+        },
+        "winner": {
+            "name": "Winnaar",
+            "keywords": [
+                "medaille",
+                "lint",
+                "knipoog"
+            ]
+        },
+        "chatty": {
+            "name": "Kletskous",
+            "keywords": [
+                "tekstballon",
+                "chat",
+                "praten"
+            ]
+        },
+        "wanderer": {
+            "name": "Zwerver",
+            "keywords": [
+                "bundel",
+                "reis",
+                "avontuur"
+            ]
+        },
+        "skipper": {
+            "name": "Schipper",
+            "keywords": [
+                "matroos",
+                "pet",
+                "boot"
+            ]
+        },
+        "country-folk": {
+            "name": "Boertje",
+            "keywords": [
+                "strohoed",
+                "boerderij",
+                "junifeest"
+            ]
+        },
+        "masked-up": {
+            "name": "Mondkapje op",
+            "keywords": [
+                "mondkapje",
+                "gezondheid",
+                "veilig"
+            ]
+        },
+        "workout-mode": {
+            "name": "Trainingsmodus",
+            "keywords": [
+                "stopwatch",
+                "hoofdband",
+                "training"
+            ]
+        },
+        "connected": {
+            "name": "Verbonden",
+            "keywords": [
+                "signaal",
+                "robot",
+                "wifi"
             ]
         }
     }

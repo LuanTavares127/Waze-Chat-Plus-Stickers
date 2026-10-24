@@ -1,167 +1,6 @@
 {
     "name": "Vibbar",
     "stickers": {
-        "44": {
-            "keywords": [
-                "bagghorn",
-                "solglasögon",
-                "djärv"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "solglasögon",
-                "sten"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "musik",
-                "noter",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "högklackad",
-                "mode",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "ligga ner",
-                "partyhatt",
-                "avslappnad"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "headset",
-                "lyssna",
-                "musik"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "glödlampa",
-                "glasögon",
-                "idé"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "bubblor",
-                "trolldryck",
-                "glad"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "gnista",
-                "solglasögon",
-                "fin"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "hörlurar",
-                "leopard",
-                "musik"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "sjunga"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "utomjording",
-                "hjälm",
-                "rymden"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "hörlurar",
-                "musik",
-                "cool"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "keps",
-                "bakvänd",
-                "sneglande blick"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "propellerkeps",
-                "fånig",
-                "barn"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "förstärkare",
-                "gitarr",
-                "musik"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "trumma",
-                "tamburin",
-                "blinka"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "glödlampa",
-                "tänka",
-                "idé"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "hand",
-                "hälsning",
-                "hälsa"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "glasögon",
-                "smart",
-                "smirk"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "glasögon",
-                "blondin",
-                "plugga"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "mantel",
-                "hjälte",
-                "glasögon"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "krona",
-                "solglasögon",
-                "kung"
-            ]
-        },
         "chill": {
             "name": "Chill",
             "keywords": [
@@ -336,6 +175,182 @@
                 "taggig",
                 "blond",
                 "truta"
+            ]
+        },
+        "homie": {
+            "name": "Polare",
+            "keywords": [
+                "bandana",
+                "solglasögon",
+                "sten"
+            ]
+        },
+        "afterparty": {
+            "name": "Efterfest",
+            "keywords": [
+                "ligga ner",
+                "partyhatt",
+                "avslappnad"
+            ]
+        },
+        "boss": {
+            "name": "Boss",
+            "keywords": [
+                "hörlurar",
+                "leopard",
+                "musik"
+            ]
+        },
+        "sly": {
+            "name": "Slug",
+            "keywords": [
+                "keps",
+                "bakvänd",
+                "sneglande blick"
+            ]
+        },
+        "smug": {
+            "name": "Självgod",
+            "keywords": [
+                "glasögon",
+                "smart",
+                "smirk"
+            ]
+        },
+        "bookish": {
+            "name": "Plugghäst",
+            "keywords": [
+                "glasögon",
+                "blondin",
+                "plugga"
+            ]
+        },
+        "royalty": {
+            "name": "Kunglig",
+            "keywords": [
+                "krona",
+                "solglasögon",
+                "kung"
+            ]
+        },
+        "dazzling": {
+            "name": "Bländande",
+            "keywords": [
+                "gnista",
+                "solglasögon",
+                "fin"
+            ]
+        },
+        "brainiac": {
+            "name": "Geni",
+            "keywords": [
+                "glödlampa",
+                "glasögon",
+                "idé"
+            ]
+        },
+        "spaced-out": {
+            "name": "Helt borta",
+            "keywords": [
+                "utomjording",
+                "hjälm",
+                "rymden"
+            ]
+        },
+        "cool": {
+            "name": "Cool",
+            "keywords": [
+                "hörlurar",
+                "musik",
+                "cool"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "glödlampa",
+                "tänka",
+                "idé"
+            ]
+        },
+        "bug-buster": {
+            "name": "Buggjägare",
+            "keywords": [
+                "bubblor",
+                "trolldryck",
+                "glad"
+            ]
+        },
+        "far-out": {
+            "name": "Hippie",
+            "keywords": [
+                "musik",
+                "noter",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaokestjärna",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "sjunga"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernörd",
+            "keywords": [
+                "mantel",
+                "hjälte",
+                "glasögon"
+            ]
+        },
+        "wonderful": {
+            "name": "Underbar",
+            "keywords": [
+                "högklackad",
+                "mode",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Laddad",
+            "keywords": [
+                "förstärkare",
+                "gitarr",
+                "musik"
+            ]
+        },
+        "on-the-beat": {
+            "name": "I takt",
+            "keywords": [
+                "trumma",
+                "tamburin",
+                "blinka"
+            ]
+        },
+        "rambunctious": {
+            "name": "Busig",
+            "keywords": [
+                "bagghorn",
+                "solglasögon",
+                "djärv"
+            ]
+        },
+        "tuned-in": {
+            "name": "På rätt våg",
+            "keywords": [
+                "headset",
+                "lyssna",
+                "musik"
+            ]
+        },
+        "kiddo": {
+            "name": "Knatte",
+            "keywords": [
+                "propellerkeps",
+                "fånig",
+                "barn"
             ]
         }
     }

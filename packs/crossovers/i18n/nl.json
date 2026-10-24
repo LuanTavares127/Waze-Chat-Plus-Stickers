@@ -1,55 +1,6 @@
 {
     "name": "Crossovers",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "één oog",
-                "banaan"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "één oog",
-                "honingraat"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbioot",
-                "tanden",
-                "schurk"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "pop",
-                "blij"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "bril",
-                "haar"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "pop",
-                "zenuwachtig"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "hoed",
-                "lachen"
-            ]
-        },
         "ed": {
             "name": "Ed - Trouw",
             "keywords": [
@@ -154,14 +105,6 @@
                 "bouw"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rood haar",
-                "lachen"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "edelsteen",
                 "schurk"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbioot",
+                "tanden",
+                "schurk"
+            ]
+        },
+        "despicable": {
+            "name": "Verschrikkelijk",
+            "keywords": [
+                "minion",
+                "één oog",
+                "banaan"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megaverschrikkelijk",
+            "keywords": [
+                "minion",
+                "één oog",
+                "honingraat"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "pop",
+                "blij"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "bril",
+                "haar"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "pop",
+                "zenuwachtig"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "hoed",
+                "lachen"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rood haar",
+                "lachen"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulcaanse groet",
+            "keywords": [
+                "hand",
+                "salueren",
+                "groet"
             ]
         }
     }

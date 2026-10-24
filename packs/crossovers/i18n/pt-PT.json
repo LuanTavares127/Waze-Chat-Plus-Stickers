@@ -1,55 +1,6 @@
 {
     "name": "Participações especiais",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "um olho",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "um olho",
-                "favo de mel"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbionte",
-                "dentes",
-                "vilão"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "fantoche",
-                "feliz"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "óculos",
-                "cabelo"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "fantoche",
-                "nervoso"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "chapéu",
-                "riso"
-            ]
-        },
         "ed": {
             "name": "Ed - Leal",
             "keywords": [
@@ -154,14 +105,6 @@
                 "construção"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "cabelo ruivo",
-                "riso"
-            ]
-        },
         "horde": {
             "name": "Horde",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfo",
                 "gema",
                 "vilão"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbionte",
+                "dentes",
+                "vilão"
+            ]
+        },
+        "despicable": {
+            "name": "Maldisposto",
+            "keywords": [
+                "minion",
+                "um olho",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Super Maldisposto",
+            "keywords": [
+                "minion",
+                "um olho",
+                "favo de mel"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "fantoche",
+                "feliz"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "óculos",
+                "cabelo"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "fantoche",
+                "nervoso"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "chapéu",
+                "riso"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "cabelo ruivo",
+                "riso"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Saudação Vulcana",
+            "keywords": [
+                "mão",
+                "continência",
+                "cumprimento"
             ]
         }
     }

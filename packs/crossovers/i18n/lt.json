@@ -1,55 +1,6 @@
 {
     "name": "Krosoveriai",
     "stickers": {
-        "63": {
-            "keywords": [
-                "pakalikas",
-                "viena akis",
-                "bananas"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "pakalikas",
-                "viena akis",
-                "koriai"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiontas",
-                "dantys",
-                "piktadarys"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraglis",
-                "lėlė",
-                "laimingas"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraglis",
-                "akiniai",
-                "plaukai"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraglis",
-                "lėlė",
-                "nervingas"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraglis",
-                "skrybėlė",
-                "juokas"
-            ]
-        },
         "ed": {
             "name": "Edas - ištikimas",
             "keywords": [
@@ -154,14 +105,6 @@
                 "statyba"
             ]
         },
-        "red": {
-            "name": "Raudona",
-            "keywords": [
-                "fraglis",
-                "raudoni plaukai",
-                "juokas"
-            ]
-        },
         "horde": {
             "name": "Orda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfas",
                 "brangakmenis",
                 "piktadarys"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiontas",
+                "dantys",
+                "piktadarys"
+            ]
+        },
+        "despicable": {
+            "name": "Bjaurusis",
+            "keywords": [
+                "pakalikas",
+                "viena akis",
+                "bananas"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega bjaurusis",
+            "keywords": [
+                "pakalikas",
+                "viena akis",
+                "koriai"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraglis",
+                "lėlė",
+                "laimingas"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraglis",
+                "akiniai",
+                "plaukai"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraglis",
+                "lėlė",
+                "nervingas"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraglis",
+                "skrybėlė",
+                "juokas"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraglis",
+                "raudoni plaukai",
+                "juokas"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkaniečių sveikinimas",
+            "keywords": [
+                "ranka",
+                "pasveikinimas",
+                "sveikinimas"
             ]
         }
     }

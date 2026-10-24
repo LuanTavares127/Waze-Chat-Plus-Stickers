@@ -1,111 +1,6 @@
 {
     "name": "Kryb og ting",
     "stickers": {
-        "30": {
-            "keywords": [
-                "klippe",
-                "sten",
-                "hurtig"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "bjørn",
-                "bøttehat",
-                "smil"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capybara",
-                "fugl",
-                "slap af"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "hjerne",
-                "klog",
-                "tænke"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaur",
-                "tænder",
-                "bid"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "hugtænder",
-                "tænder",
-                "grin"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "ko",
-                "muh",
-                "gård"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krone"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "blink"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krone"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drage",
-                "rød",
-                "monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "hånd",
-                "øje",
-                "beskyttelse"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "øje",
-                "tegn",
-                "mysterium"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tekande",
-                "te",
-                "æble"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "fugl",
-                "kasket",
-                "snak"
-            ]
-        },
         "8-bit": {
             "name": "8-bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "frokost"
             ]
         },
-        "magical": {
-            "name": "Magisk",
-            "keywords": [
-                "enhjørning",
-                "regnbue",
-                "magi"
-            ]
-        },
-        "magical-2": {
-            "name": "Magisk (2)",
-            "keywords": [
-                "magi",
-                "lyserød",
-                "berømt"
-            ]
-        },
         "open": {
             "name": "Åben",
             "keywords": [
@@ -352,6 +231,142 @@
                 "ulv",
                 "hyl",
                 "snu"
+            ]
+        },
+        "capybara": {
+            "name": "Flodsvin",
+            "keywords": [
+                "capybara",
+                "fugl",
+                "slap af"
+            ]
+        },
+        "parrot": {
+            "name": "Papegøje",
+            "keywords": [
+                "fugl",
+                "kasket",
+                "snak"
+            ]
+        },
+        "blissful": {
+            "name": "Lykkelig",
+            "keywords": [
+                "ko",
+                "muh",
+                "gård"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Lynhurtig sten",
+            "keywords": [
+                "klippe",
+                "sten",
+                "hurtig"
+            ]
+        },
+        "big-brain": {
+            "name": "Stor hjerne",
+            "keywords": [
+                "hjerne",
+                "klog",
+                "tænke"
+            ]
+        },
+        "yellow": {
+            "name": "Gul",
+            "keywords": [
+                "hugtænder",
+                "tænder",
+                "grin"
+            ]
+        },
+        "pampered": {
+            "name": "Forkælet",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Loyal",
+            "keywords": [
+                "hund",
+                "corgi",
+                "blink"
+            ]
+        },
+        "playful-pup": {
+            "name": "Legesyg hvalp",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krone"
+            ]
+        },
+        "red": {
+            "name": "Rød",
+            "keywords": [
+                "drage",
+                "rød",
+                "monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Enhjørning",
+            "keywords": [
+                "enhjørning",
+                "regnbue",
+                "magi"
+            ]
+        },
+        "magical": {
+            "name": "Magisk",
+            "keywords": [
+                "magi",
+                "lyserød",
+                "berømt"
+            ]
+        },
+        "visionary": {
+            "name": "Visionær",
+            "keywords": [
+                "øje",
+                "tegn",
+                "mysterium"
+            ]
+        },
+        "focused": {
+            "name": "Fokuseret",
+            "keywords": [
+                "hånd",
+                "øje",
+                "beskyttelse"
+            ]
+        },
+        "kind": {
+            "name": "Venlig",
+            "keywords": [
+                "bjørn",
+                "bøttehat",
+                "smil"
+            ]
+        },
+        "zesty": {
+            "name": "Frisk",
+            "keywords": [
+                "tekande",
+                "te",
+                "æble"
+            ]
+        },
+        "chomper": {
+            "name": "Bidder",
+            "keywords": [
+                "dinosaur",
+                "tænder",
+                "bid"
             ]
         }
     }

@@ -1,97 +1,6 @@
 {
     "name": "Jausmai",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasika",
-                "labas",
-                "laimingas"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "ašara",
-                "liūdnas",
-                "naktinė kepurė"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "tuščias",
-                "neutralus",
-                "paprastas"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "meilė",
-                "širdis",
-                "saldus"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "tėvas",
-                "kūdikis",
-                "šeima"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "verkimas",
-                "nusiminęs",
-                "neviltis"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "sergantis",
-                "pykinimas",
-                "nesveikas"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "nepatogu",
-                "nejauku",
-                "fui"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "sujaudintas",
-                "valio",
-                "sparnai"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "laimingas",
-                "juokas",
-                "skrybėlė"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "piktas",
-                "susierzinęs",
-                "suraukti"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "klausimas",
-                "ką",
-                "abejonė"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotosas",
-                "meditacija",
-                "ramus"
-            ]
-        },
         "amazing": {
             "name": "Nuostabu",
             "keywords": [
@@ -354,6 +263,110 @@
                 "išdidumas",
                 "vaivorykštė",
                 "širdis"
+            ]
+        },
+        "puzzled": {
+            "name": "Suglumęs",
+            "keywords": [
+                "klausimas",
+                "ką",
+                "abejonė"
+            ]
+        },
+        "grounded": {
+            "name": "Ramybė",
+            "keywords": [
+                "lotosas",
+                "meditacija",
+                "ramus"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasika",
+                "labas",
+                "laimingas"
+            ]
+        },
+        "pierrot": {
+            "name": "Pjero",
+            "keywords": [
+                "ašara",
+                "liūdnas",
+                "naktinė kepurė"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerio veidas",
+            "keywords": [
+                "tuščias",
+                "neutralus",
+                "paprastas"
+            ]
+        },
+        "sweetheart": {
+            "name": "Širdelė",
+            "keywords": [
+                "meilė",
+                "širdis",
+                "saldus"
+            ]
+        },
+        "family": {
+            "name": "Šeima",
+            "keywords": [
+                "tėvas",
+                "kūdikis",
+                "šeima"
+            ]
+        },
+        "fuming": {
+            "name": "Įsiutęs",
+            "keywords": [
+                "piktas",
+                "susierzinęs",
+                "suraukti"
+            ]
+        },
+        "distraught": {
+            "name": "Sugniuždytas",
+            "keywords": [
+                "verkimas",
+                "nusiminęs",
+                "neviltis"
+            ]
+        },
+        "queasy": {
+            "name": "Pykina",
+            "keywords": [
+                "sergantis",
+                "pykinimas",
+                "nesveikas"
+            ]
+        },
+        "uneasy": {
+            "name": "Nejauku",
+            "keywords": [
+                "nepatogu",
+                "nejauku",
+                "fui"
+            ]
+        },
+        "ecstatic": {
+            "name": "Euforija",
+            "keywords": [
+                "sujaudintas",
+                "valio",
+                "sparnai"
+            ]
+        },
+        "cheerful": {
+            "name": "Linksmas",
+            "keywords": [
+                "laimingas",
+                "juokas",
+                "skrybėlė"
             ]
         }
     }

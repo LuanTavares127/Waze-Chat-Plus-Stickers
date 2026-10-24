@@ -1,97 +1,6 @@
 {
     "name": "Občutki",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasika",
-                "živjo",
-                "srečno"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "solza",
-                "žalostno",
-                "nočna kapa"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "prazno",
-                "nevtralno",
-                "navadno"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "ljubezen",
-                "srce",
-                "sladko"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "starš",
-                "dojenček",
-                "družina"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "jok",
-                "razburjeno",
-                "obup"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "bolno",
-                "slabost",
-                "bolan"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "nerodno",
-                "neprijetno",
-                "uf"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "navdušeno",
-                "juhu",
-                "krila"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "srečno",
-                "smeh",
-                "klobuk"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "jezno",
-                "nadlegovano",
-                "mrščenje"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "vprašanje",
-                "kaj",
-                "dvom"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotos",
-                "meditacija",
-                "mirno"
-            ]
-        },
         "amazing": {
             "name": "Neverjetni",
             "keywords": [
@@ -354,6 +263,110 @@
                 "ponos",
                 "mavrica",
                 "srce"
+            ]
+        },
+        "puzzled": {
+            "name": "Zmeden",
+            "keywords": [
+                "vprašanje",
+                "kaj",
+                "dvom"
+            ]
+        },
+        "grounded": {
+            "name": "Umirjen",
+            "keywords": [
+                "lotos",
+                "meditacija",
+                "mirno"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasika",
+                "živjo",
+                "srečno"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "solza",
+                "žalostno",
+                "nočna kapa"
+            ]
+        },
+        "poker-face": {
+            "name": "Kamnit obraz",
+            "keywords": [
+                "prazno",
+                "nevtralno",
+                "navadno"
+            ]
+        },
+        "sweetheart": {
+            "name": "Srček",
+            "keywords": [
+                "ljubezen",
+                "srce",
+                "sladko"
+            ]
+        },
+        "family": {
+            "name": "Družina",
+            "keywords": [
+                "starš",
+                "dojenček",
+                "družina"
+            ]
+        },
+        "fuming": {
+            "name": "Besen",
+            "keywords": [
+                "jezno",
+                "nadlegovano",
+                "mrščenje"
+            ]
+        },
+        "distraught": {
+            "name": "Obupan",
+            "keywords": [
+                "jok",
+                "razburjeno",
+                "obup"
+            ]
+        },
+        "queasy": {
+            "name": "Slabo mi je",
+            "keywords": [
+                "bolno",
+                "slabost",
+                "bolan"
+            ]
+        },
+        "uneasy": {
+            "name": "Neprijetno",
+            "keywords": [
+                "nerodno",
+                "neprijetno",
+                "uf"
+            ]
+        },
+        "ecstatic": {
+            "name": "Navdušen",
+            "keywords": [
+                "navdušeno",
+                "juhu",
+                "krila"
+            ]
+        },
+        "cheerful": {
+            "name": "Vesel",
+            "keywords": [
+                "srečno",
+                "smeh",
+                "klobuk"
             ]
         }
     }

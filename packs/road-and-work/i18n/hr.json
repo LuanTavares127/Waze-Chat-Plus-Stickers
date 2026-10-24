@@ -1,160 +1,6 @@
 {
     "name": "Na cesti i na poslu",
     "stickers": {
-        "18": {
-            "keywords": [
-                "zavežljaj",
-                "putovanje",
-                "avantura"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "napitak",
-                "naočale",
-                "laboratorij"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "istraživač",
-                "šešir",
-                "avantura"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "zastava",
-                "razgledavanje"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "mornar",
-                "kapa",
-                "čamac"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "kofer",
-                "šešir",
-                "putovanje"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "zaštitne naočale",
-                "kaciga"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "sova",
-                "diplomiranje",
-                "pametan"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "aparat za gašenje",
-                "sigurnost",
-                "nervozan"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "zaštitna kaciga",
-                "gradnja",
-                "prsluk"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "slamnati šešir",
-                "farma",
-                "lipanjska fešta"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "kaciga",
-                "zvijezde",
-                "vozač utrka"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "maska za lice",
-                "zdravlje",
-                "siguran"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "štoperica",
-                "traka za glavu",
-                "trening"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "glasanje",
-                "izbori",
-                "glasački listić"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "glasanje",
-                "znak",
-                "izbori"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medalja",
-                "vrpca",
-                "namigivanje"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "dostava",
-                "kaciga",
-                "kutija"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenna",
-                "istraživač"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "oblačić",
-                "razgovor",
-                "govoriti"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "pištaljka",
-                "sudac",
-                "prekršaj"
-            ]
-        },
         "road-warrior": {
             "name": "Ratnik cesta",
             "keywords": [
@@ -345,6 +191,182 @@
                 "kaciga",
                 "motocikl",
                 "žurba"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Ludi znanstvenik",
+            "keywords": [
+                "napitak",
+                "naočale",
+                "laboratorij"
+            ]
+        },
+        "explorer": {
+            "name": "Istraživač",
+            "keywords": [
+                "istraživač",
+                "šešir",
+                "avantura"
+            ]
+        },
+        "sightseer": {
+            "name": "Turist",
+            "keywords": [
+                "kamera",
+                "zastava",
+                "razgledavanje"
+            ]
+        },
+        "jet-setter": {
+            "name": "Svjetski putnik",
+            "keywords": [
+                "kofer",
+                "šešir",
+                "putovanje"
+            ]
+        },
+        "know-it-all": {
+            "name": "Sveznalica",
+            "keywords": [
+                "sova",
+                "diplomiranje",
+                "pametan"
+            ]
+        },
+        "close-call": {
+            "name": "Za dlaku",
+            "keywords": [
+                "aparat za gašenje",
+                "sigurnost",
+                "nervozan"
+            ]
+        },
+        "on-the-job": {
+            "name": "Na poslu",
+            "keywords": [
+                "zaštitna kaciga",
+                "gradnja",
+                "prsluk"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Predizborni mod",
+            "keywords": [
+                "glasanje",
+                "znak",
+                "izbori"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Brza dostava",
+            "keywords": [
+                "dostava",
+                "kaciga",
+                "kutija"
+            ]
+        },
+        "referee": {
+            "name": "Sudac",
+            "keywords": [
+                "pištaljka",
+                "sudac",
+                "prekršaj"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "zaštitne naočale",
+                "kaciga"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "kaciga",
+                "zvijezde",
+                "vozač utrka"
+            ]
+        },
+        "blue": {
+            "name": "Plavi",
+            "keywords": [
+                "robot",
+                "antenna",
+                "istraživač"
+            ]
+        },
+        "voter": {
+            "name": "Birač",
+            "keywords": [
+                "glasanje",
+                "izbori",
+                "glasački listić"
+            ]
+        },
+        "winner": {
+            "name": "Pobjednik",
+            "keywords": [
+                "medalja",
+                "vrpca",
+                "namigivanje"
+            ]
+        },
+        "chatty": {
+            "name": "Brbljavac",
+            "keywords": [
+                "oblačić",
+                "razgovor",
+                "govoriti"
+            ]
+        },
+        "wanderer": {
+            "name": "Lutalica",
+            "keywords": [
+                "zavežljaj",
+                "putovanje",
+                "avantura"
+            ]
+        },
+        "skipper": {
+            "name": "Kapetan",
+            "keywords": [
+                "mornar",
+                "kapa",
+                "čamac"
+            ]
+        },
+        "country-folk": {
+            "name": "Sa sela",
+            "keywords": [
+                "slamnati šešir",
+                "farma",
+                "lipanjska fešta"
+            ]
+        },
+        "masked-up": {
+            "name": "S maskom",
+            "keywords": [
+                "maska za lice",
+                "zdravlje",
+                "siguran"
+            ]
+        },
+        "workout-mode": {
+            "name": "Trening mod",
+            "keywords": [
+                "štoperica",
+                "traka za glavu",
+                "trening"
+            ]
+        },
+        "connected": {
+            "name": "Povezan",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

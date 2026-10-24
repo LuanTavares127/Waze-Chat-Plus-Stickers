@@ -1,97 +1,6 @@
 {
     "name": "Sentimientos",
     "stickers": {
-        "7": {
-            "keywords": [
-                "clásico",
-                "hola",
-                "feliz"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "lágrima",
-                "triste",
-                "gorro de dormir"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "en blanco",
-                "neutral",
-                "simple"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "amor",
-                "corazón",
-                "dulce"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "progenitor",
-                "bebé",
-                "familia"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "llorando",
-                "disgustado",
-                "desesperación"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "enfermo",
-                "náuseas",
-                "malo"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "incómodo",
-                "molesto",
-                "uf"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "emocionado",
-                "yupi",
-                "alas"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "feliz",
-                "risa",
-                "sombrero"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "enojado",
-                "molesto",
-                "ceño fruncido"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "pregunta",
-                "qué",
-                "duda"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "loto",
-                "meditación",
-                "calma"
-            ]
-        },
         "amazing": {
             "name": "Asombroso",
             "keywords": [
@@ -354,6 +263,110 @@
                 "orgullo",
                 "arcoíris",
                 "corazón"
+            ]
+        },
+        "puzzled": {
+            "name": "Intrigado",
+            "keywords": [
+                "pregunta",
+                "qué",
+                "duda"
+            ]
+        },
+        "grounded": {
+            "name": "Equilibrado",
+            "keywords": [
+                "loto",
+                "meditación",
+                "calma"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "clásico",
+                "hola",
+                "feliz"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "lágrima",
+                "triste",
+                "gorro de dormir"
+            ]
+        },
+        "poker-face": {
+            "name": "Cara de póker",
+            "keywords": [
+                "en blanco",
+                "neutral",
+                "simple"
+            ]
+        },
+        "sweetheart": {
+            "name": "Amorcito",
+            "keywords": [
+                "amor",
+                "corazón",
+                "dulce"
+            ]
+        },
+        "family": {
+            "name": "Familia",
+            "keywords": [
+                "progenitor",
+                "bebé",
+                "familia"
+            ]
+        },
+        "fuming": {
+            "name": "Echando humo",
+            "keywords": [
+                "enojado",
+                "molesto",
+                "ceño fruncido"
+            ]
+        },
+        "distraught": {
+            "name": "Desconsolado",
+            "keywords": [
+                "llorando",
+                "disgustado",
+                "desesperación"
+            ]
+        },
+        "queasy": {
+            "name": "Mareado",
+            "keywords": [
+                "enfermo",
+                "náuseas",
+                "malo"
+            ]
+        },
+        "uneasy": {
+            "name": "Incómodo",
+            "keywords": [
+                "incómodo",
+                "molesto",
+                "uf"
+            ]
+        },
+        "ecstatic": {
+            "name": "Eufórico",
+            "keywords": [
+                "emocionado",
+                "yupi",
+                "alas"
+            ]
+        },
+        "cheerful": {
+            "name": "Alegre",
+            "keywords": [
+                "feliz",
+                "risa",
+                "sombrero"
             ]
         }
     }

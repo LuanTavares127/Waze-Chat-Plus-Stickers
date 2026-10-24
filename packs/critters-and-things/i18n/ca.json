@@ -1,111 +1,6 @@
 {
     "name": "Bestioles i coses",
     "stickers": {
-        "30": {
-            "keywords": [
-                "roca",
-                "pedra",
-                "ràpid"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "ós",
-                "barret de pescador",
-                "somriure"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "capibara",
-                "ocell",
-                "relaxat"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "cervell",
-                "llest",
-                "pensar"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaure",
-                "dents",
-                "mossegada"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "ullals",
-                "dents",
-                "somriure ample"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "vaca",
-                "mu",
-                "granja"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "gos",
-                "corgi",
-                "corona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "gos",
-                "corgi",
-                "picada d'ullet"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "gos",
-                "corgi",
-                "corona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drac",
-                "vermell",
-                "monstre"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "mà",
-                "ull",
-                "protecció"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "ull",
-                "senyal",
-                "misteri"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tetera",
-                "te",
-                "poma"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "ocell",
-                "gorra",
-                "parlar"
-            ]
-        },
         "8-bit": {
             "name": "8 bits",
             "keywords": [
@@ -242,22 +137,6 @@
                 "dinar"
             ]
         },
-        "magical": {
-            "name": "Màgic",
-            "keywords": [
-                "unicorn",
-                "arc de Sant Martí",
-                "màgia"
-            ]
-        },
-        "magical-2": {
-            "name": "Màgic (2)",
-            "keywords": [
-                "màgia",
-                "rosa",
-                "famós"
-            ]
-        },
         "open": {
             "name": "Obert",
             "keywords": [
@@ -352,6 +231,142 @@
                 "llop",
                 "udol",
                 "murri"
+            ]
+        },
+        "capybara": {
+            "name": "Capibara",
+            "keywords": [
+                "capibara",
+                "ocell",
+                "relaxat"
+            ]
+        },
+        "parrot": {
+            "name": "Lloro",
+            "keywords": [
+                "ocell",
+                "gorra",
+                "parlar"
+            ]
+        },
+        "blissful": {
+            "name": "Joiosa",
+            "keywords": [
+                "vaca",
+                "mu",
+                "granja"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Pedra veloç",
+            "keywords": [
+                "roca",
+                "pedra",
+                "ràpid"
+            ]
+        },
+        "big-brain": {
+            "name": "Cervellàs",
+            "keywords": [
+                "cervell",
+                "llest",
+                "pensar"
+            ]
+        },
+        "yellow": {
+            "name": "Groc",
+            "keywords": [
+                "ullals",
+                "dents",
+                "somriure ample"
+            ]
+        },
+        "pampered": {
+            "name": "Mimat",
+            "keywords": [
+                "gos",
+                "corgi",
+                "corona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Lleial",
+            "keywords": [
+                "gos",
+                "corgi",
+                "picada d'ullet"
+            ]
+        },
+        "playful-pup": {
+            "name": "Gosset juganer",
+            "keywords": [
+                "gos",
+                "corgi",
+                "corona"
+            ]
+        },
+        "red": {
+            "name": "Vermell",
+            "keywords": [
+                "drac",
+                "vermell",
+                "monstre"
+            ]
+        },
+        "unicorn": {
+            "name": "Unicorn",
+            "keywords": [
+                "unicorn",
+                "arc de Sant Martí",
+                "màgia"
+            ]
+        },
+        "magical": {
+            "name": "Màgic",
+            "keywords": [
+                "màgia",
+                "rosa",
+                "famós"
+            ]
+        },
+        "visionary": {
+            "name": "Visionari",
+            "keywords": [
+                "ull",
+                "senyal",
+                "misteri"
+            ]
+        },
+        "focused": {
+            "name": "Concentrat",
+            "keywords": [
+                "mà",
+                "ull",
+                "protecció"
+            ]
+        },
+        "kind": {
+            "name": "Amable",
+            "keywords": [
+                "ós",
+                "barret de pescador",
+                "somriure"
+            ]
+        },
+        "zesty": {
+            "name": "Vibrant",
+            "keywords": [
+                "tetera",
+                "te",
+                "poma"
+            ]
+        },
+        "chomper": {
+            "name": "Mossegaire",
+            "keywords": [
+                "dinosaure",
+                "dents",
+                "mossegada"
             ]
         }
     }

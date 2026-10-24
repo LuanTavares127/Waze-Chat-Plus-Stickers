@@ -1,111 +1,6 @@
 {
     "name": "Djur och saker",
     "stickers": {
-        "30": {
-            "keywords": [
-                "sten",
-                "sten",
-                "snabb"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "björn",
-                "bucket hat",
-                "leende"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapybara",
-                "fågel",
-                "chill"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "hjärna",
-                "smart",
-                "tänka"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosaurie",
-                "tänder",
-                "bett"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "huggtänder",
-                "tänder",
-                "flin"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "ko",
-                "mu",
-                "bondgård"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "blinka"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "hund",
-                "corgi",
-                "krona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "drake",
-                "röd",
-                "monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "hand",
-                "öga",
-                "skydd"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "öga",
-                "skylt",
-                "mysterium"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tekanna",
-                "te",
-                "äpple"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "fågel",
-                "keps",
-                "prata"
-            ]
-        },
         "8-bit": {
             "name": "8-bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "lunch"
             ]
         },
-        "magical": {
-            "name": "Magisk",
-            "keywords": [
-                "enhörning",
-                "regnbåge",
-                "magi"
-            ]
-        },
-        "magical-2": {
-            "name": "Magisk (2)",
-            "keywords": [
-                "magi",
-                "rosa",
-                "känd"
-            ]
-        },
         "open": {
             "name": "Öppen",
             "keywords": [
@@ -352,6 +231,142 @@
                 "varg",
                 "yla",
                 "slug"
+            ]
+        },
+        "capybara": {
+            "name": "Kapybara",
+            "keywords": [
+                "kapybara",
+                "fågel",
+                "chill"
+            ]
+        },
+        "parrot": {
+            "name": "Papegoja",
+            "keywords": [
+                "fågel",
+                "keps",
+                "prata"
+            ]
+        },
+        "blissful": {
+            "name": "Salig",
+            "keywords": [
+                "ko",
+                "mu",
+                "bondgård"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Snabb sten",
+            "keywords": [
+                "sten",
+                "sten",
+                "snabb"
+            ]
+        },
+        "big-brain": {
+            "name": "Hjärnan",
+            "keywords": [
+                "hjärna",
+                "smart",
+                "tänka"
+            ]
+        },
+        "yellow": {
+            "name": "Gul",
+            "keywords": [
+                "huggtänder",
+                "tänder",
+                "flin"
+            ]
+        },
+        "pampered": {
+            "name": "Bortskämd",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Lojal",
+            "keywords": [
+                "hund",
+                "corgi",
+                "blinka"
+            ]
+        },
+        "playful-pup": {
+            "name": "Lekfull valp",
+            "keywords": [
+                "hund",
+                "corgi",
+                "krona"
+            ]
+        },
+        "red": {
+            "name": "Röd",
+            "keywords": [
+                "drake",
+                "röd",
+                "monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Enhörning",
+            "keywords": [
+                "enhörning",
+                "regnbåge",
+                "magi"
+            ]
+        },
+        "magical": {
+            "name": "Magisk",
+            "keywords": [
+                "magi",
+                "rosa",
+                "känd"
+            ]
+        },
+        "visionary": {
+            "name": "Visionär",
+            "keywords": [
+                "öga",
+                "skylt",
+                "mysterium"
+            ]
+        },
+        "focused": {
+            "name": "Fokuserad",
+            "keywords": [
+                "hand",
+                "öga",
+                "skydd"
+            ]
+        },
+        "kind": {
+            "name": "Snäll",
+            "keywords": [
+                "björn",
+                "bucket hat",
+                "leende"
+            ]
+        },
+        "zesty": {
+            "name": "Pigg",
+            "keywords": [
+                "tekanna",
+                "te",
+                "äpple"
+            ]
+        },
+        "chomper": {
+            "name": "Tuggaren",
+            "keywords": [
+                "dinosaurie",
+                "tänder",
+                "bett"
             ]
         }
     }

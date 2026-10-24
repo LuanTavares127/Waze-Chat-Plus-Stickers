@@ -1,167 +1,6 @@
 {
     "name": "Hangulatok",
     "stickers": {
-        "44": {
-            "keywords": [
-                "kosszarv",
-                "napszemüveg",
-                "merész"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "napszemüveg",
-                "szikla"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "zene",
-                "hangjegyek",
-                "hippie"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "magas sarok",
-                "divat",
-                "diva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "fekvő",
-                "partikalap",
-                "nyugodt"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "headset",
-                "hallgatás",
-                "zene"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "villanykörte",
-                "szemüveg",
-                "ötlet"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "buborékok",
-                "bájital",
-                "boldog"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "csillogás",
-                "napszemüveg",
-                "elegáns"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "fejhallgató",
-                "leopárd",
-                "zene"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "énekel"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "földönkívüli",
-                "sisak",
-                "űr"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "fejhallgató",
-                "zene",
-                "menő"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "sapka",
-                "fordítva",
-                "oldalpillantás"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "propellersapka",
-                "ügyetlen",
-                "gyerek"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "erősítő",
-                "gitár",
-                "zene"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "dob",
-                "csörgődob",
-                "kacsintás"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "villanykörte",
-                "gondolkodik",
-                "ötlet"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "kéz",
-                "tisztelgés",
-                "üdvözlés"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "szemüveg",
-                "okos",
-                "önelégült mosoly"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "szemüveg",
-                "szőke",
-                "tanulás"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "köpeny",
-                "hős",
-                "szemüveg"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "korona",
-                "napszemüveg",
-                "király"
-            ]
-        },
         "chill": {
             "name": "Laza",
             "keywords": [
@@ -336,6 +175,182 @@
                 "tüskés",
                 "szőke",
                 "duzzogás"
+            ]
+        },
+        "homie": {
+            "name": "Haver",
+            "keywords": [
+                "bandana",
+                "napszemüveg",
+                "szikla"
+            ]
+        },
+        "afterparty": {
+            "name": "Buli után",
+            "keywords": [
+                "fekvő",
+                "partikalap",
+                "nyugodt"
+            ]
+        },
+        "boss": {
+            "name": "Főnök",
+            "keywords": [
+                "fejhallgató",
+                "leopárd",
+                "zene"
+            ]
+        },
+        "sly": {
+            "name": "Ravasz",
+            "keywords": [
+                "sapka",
+                "fordítva",
+                "oldalpillantás"
+            ]
+        },
+        "smug": {
+            "name": "Önelégült",
+            "keywords": [
+                "szemüveg",
+                "okos",
+                "önelégült mosoly"
+            ]
+        },
+        "bookish": {
+            "name": "Könyvmoly",
+            "keywords": [
+                "szemüveg",
+                "szőke",
+                "tanulás"
+            ]
+        },
+        "royalty": {
+            "name": "Felség",
+            "keywords": [
+                "korona",
+                "napszemüveg",
+                "király"
+            ]
+        },
+        "dazzling": {
+            "name": "Káprázatos",
+            "keywords": [
+                "csillogás",
+                "napszemüveg",
+                "elegáns"
+            ]
+        },
+        "brainiac": {
+            "name": "Agytröszt",
+            "keywords": [
+                "villanykörte",
+                "szemüveg",
+                "ötlet"
+            ]
+        },
+        "spaced-out": {
+            "name": "Holdkóros",
+            "keywords": [
+                "földönkívüli",
+                "sisak",
+                "űr"
+            ]
+        },
+        "cool": {
+            "name": "Menő",
+            "keywords": [
+                "fejhallgató",
+                "zene",
+                "menő"
+            ]
+        },
+        "eureka": {
+            "name": "Heuréka",
+            "keywords": [
+                "villanykörte",
+                "gondolkodik",
+                "ötlet"
+            ]
+        },
+        "bug-buster": {
+            "name": "Bugvadász",
+            "keywords": [
+                "buborékok",
+                "bájital",
+                "boldog"
+            ]
+        },
+        "far-out": {
+            "name": "Hippi",
+            "keywords": [
+                "zene",
+                "hangjegyek",
+                "hippie"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaokesztár",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "énekel"
+            ]
+        },
+        "super-nerd": {
+            "name": "Szuperstréber",
+            "keywords": [
+                "köpeny",
+                "hős",
+                "szemüveg"
+            ]
+        },
+        "wonderful": {
+            "name": "Csodás",
+            "keywords": [
+                "magas sarok",
+                "divat",
+                "diva"
+            ]
+        },
+        "amped": {
+            "name": "Felpörögve",
+            "keywords": [
+                "erősítő",
+                "gitár",
+                "zene"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Ütemre",
+            "keywords": [
+                "dob",
+                "csörgődob",
+                "kacsintás"
+            ]
+        },
+        "rambunctious": {
+            "name": "Rakoncátlan",
+            "keywords": [
+                "kosszarv",
+                "napszemüveg",
+                "merész"
+            ]
+        },
+        "tuned-in": {
+            "name": "Ráhangolódva",
+            "keywords": [
+                "headset",
+                "hallgatás",
+                "zene"
+            ]
+        },
+        "kiddo": {
+            "name": "Kölyök",
+            "keywords": [
+                "propellersapka",
+                "ügyetlen",
+                "gyerek"
             ]
         }
     }

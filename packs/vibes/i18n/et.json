@@ -1,167 +1,6 @@
 {
     "name": "Meeleolud",
     "stickers": {
-        "44": {
-            "keywords": [
-                "jäärasarved",
-                "päikeseprillid",
-                "jultunud"
-            ]
-        },
-        "55": {
-            "keywords": [
-                "bandana",
-                "päikeseprillid",
-                "rokk"
-            ]
-        },
-        "62": {
-            "keywords": [
-                "muusika",
-                "noodid",
-                "hipi"
-            ]
-        },
-        "95": {
-            "keywords": [
-                "kontsakingad",
-                "mood",
-                "diiva"
-            ]
-        },
-        "106": {
-            "keywords": [
-                "lamab",
-                "peomüts",
-                "lõdvestunud"
-            ]
-        },
-        "118": {
-            "keywords": [
-                "peakomplekt",
-                "kuulab",
-                "muusika"
-            ]
-        },
-        "122": {
-            "keywords": [
-                "lambipirn",
-                "prillid",
-                "idee"
-            ]
-        },
-        "123": {
-            "keywords": [
-                "mullid",
-                "jook",
-                "rõõmus"
-            ]
-        },
-        "129": {
-            "keywords": [
-                "sädelus",
-                "päikeseprillid",
-                "peen"
-            ]
-        },
-        "130": {
-            "keywords": [
-                "kõrvaklapid",
-                "leopard",
-                "muusika"
-            ]
-        },
-        "143": {
-            "keywords": [
-                "mikrofon",
-                "karaoke",
-                "laulma"
-            ]
-        },
-        "162": {
-            "keywords": [
-                "tulnukas",
-                "kiiver",
-                "kosmos"
-            ]
-        },
-        "170": {
-            "keywords": [
-                "kõrvaklapid",
-                "muusika",
-                "lahe"
-            ]
-        },
-        "182": {
-            "keywords": [
-                "nokamüts",
-                "tagurpidi",
-                "kõõrdi pilk"
-            ]
-        },
-        "184": {
-            "keywords": [
-                "propellermüts",
-                "totrus",
-                "laps"
-            ]
-        },
-        "206": {
-            "keywords": [
-                "võimendi",
-                "kitarr",
-                "muusika"
-            ]
-        },
-        "220": {
-            "keywords": [
-                "trumm",
-                "tamburiin",
-                "silmapilgutus"
-            ]
-        },
-        "222": {
-            "keywords": [
-                "lambipirn",
-                "mõtlema",
-                "idee"
-            ]
-        },
-        "223": {
-            "keywords": [
-                "käsi",
-                "tervitus",
-                "tervitama"
-            ]
-        },
-        "240": {
-            "keywords": [
-                "prillid",
-                "tark",
-                "irve"
-            ]
-        },
-        "255": {
-            "keywords": [
-                "prillid",
-                "blond",
-                "õppima"
-            ]
-        },
-        "256": {
-            "keywords": [
-                "keep",
-                "kangelane",
-                "prillid"
-            ]
-        },
-        "257": {
-            "keywords": [
-                "kroon",
-                "päikeseprillid",
-                "kuningas"
-            ]
-        },
         "chill": {
             "name": "Rahulik",
             "keywords": [
@@ -336,6 +175,182 @@
                 "okkaline",
                 "blond",
                 "mossis suu"
+            ]
+        },
+        "homie": {
+            "name": "Semu",
+            "keywords": [
+                "bandana",
+                "päikeseprillid",
+                "rokk"
+            ]
+        },
+        "afterparty": {
+            "name": "Peojärgne",
+            "keywords": [
+                "lamab",
+                "peomüts",
+                "lõdvestunud"
+            ]
+        },
+        "boss": {
+            "name": "Kõva tegija",
+            "keywords": [
+                "kõrvaklapid",
+                "leopard",
+                "muusika"
+            ]
+        },
+        "sly": {
+            "name": "Kaval",
+            "keywords": [
+                "nokamüts",
+                "tagurpidi",
+                "kõõrdi pilk"
+            ]
+        },
+        "smug": {
+            "name": "Upsakas",
+            "keywords": [
+                "prillid",
+                "tark",
+                "irve"
+            ]
+        },
+        "bookish": {
+            "name": "Raamatukoi",
+            "keywords": [
+                "prillid",
+                "blond",
+                "õppima"
+            ]
+        },
+        "royalty": {
+            "name": "Kuninglik",
+            "keywords": [
+                "kroon",
+                "päikeseprillid",
+                "kuningas"
+            ]
+        },
+        "dazzling": {
+            "name": "Särav",
+            "keywords": [
+                "sädelus",
+                "päikeseprillid",
+                "peen"
+            ]
+        },
+        "brainiac": {
+            "name": "Tarkpea",
+            "keywords": [
+                "lambipirn",
+                "prillid",
+                "idee"
+            ]
+        },
+        "spaced-out": {
+            "name": "Pilvedes",
+            "keywords": [
+                "tulnukas",
+                "kiiver",
+                "kosmos"
+            ]
+        },
+        "cool": {
+            "name": "Lahe",
+            "keywords": [
+                "kõrvaklapid",
+                "muusika",
+                "lahe"
+            ]
+        },
+        "eureka": {
+            "name": "Heureka",
+            "keywords": [
+                "lambipirn",
+                "mõtlema",
+                "idee"
+            ]
+        },
+        "bug-buster": {
+            "name": "Veajahtija",
+            "keywords": [
+                "mullid",
+                "jook",
+                "rõõmus"
+            ]
+        },
+        "far-out": {
+            "name": "Lillelaps",
+            "keywords": [
+                "muusika",
+                "noodid",
+                "hipi"
+            ]
+        },
+        "karaoke-star": {
+            "name": "Karaoketäht",
+            "keywords": [
+                "mikrofon",
+                "karaoke",
+                "laulma"
+            ]
+        },
+        "super-nerd": {
+            "name": "Supernohik",
+            "keywords": [
+                "keep",
+                "kangelane",
+                "prillid"
+            ]
+        },
+        "wonderful": {
+            "name": "Imeline",
+            "keywords": [
+                "kontsakingad",
+                "mood",
+                "diiva"
+            ]
+        },
+        "amped": {
+            "name": "Täis laengut",
+            "keywords": [
+                "võimendi",
+                "kitarr",
+                "muusika"
+            ]
+        },
+        "on-the-beat": {
+            "name": "Rütmis",
+            "keywords": [
+                "trumm",
+                "tamburiin",
+                "silmapilgutus"
+            ]
+        },
+        "rambunctious": {
+            "name": "Metsik",
+            "keywords": [
+                "jäärasarved",
+                "päikeseprillid",
+                "jultunud"
+            ]
+        },
+        "tuned-in": {
+            "name": "Lainel",
+            "keywords": [
+                "peakomplekt",
+                "kuulab",
+                "muusika"
+            ]
+        },
+        "kiddo": {
+            "name": "Põnn",
+            "keywords": [
+                "propellermüts",
+                "totrus",
+                "laps"
             ]
         }
     }

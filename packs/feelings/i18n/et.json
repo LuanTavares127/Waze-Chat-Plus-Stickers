@@ -1,97 +1,6 @@
 {
     "name": "Tunded",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassika",
-                "tere",
-                "rõõmus"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "pisar",
-                "kurb",
-                "ööpusa"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "tühi",
-                "neutraalne",
-                "lihtne"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "armastus",
-                "süda",
-                "magus"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "vanem",
-                "beebi",
-                "pere"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "nutt",
-                "ärritunud",
-                "meeleheide"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "haige",
-                "iiveldus",
-                "halb enesetunne"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "piinlik",
-                "ebamugav",
-                "uhh"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "elevil",
-                "jee",
-                "tiivad"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "rõõmus",
-                "naer",
-                "kübar"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "vihane",
-                "tüdinud",
-                "kulmukortsutus"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "küsimus",
-                "mis",
-                "kahtlus"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lootos",
-                "meditatsioon",
-                "rahu"
-            ]
-        },
         "amazing": {
             "name": "Hämmastav",
             "keywords": [
@@ -354,6 +263,110 @@
                 "uhkus",
                 "vikerkaar",
                 "süda"
+            ]
+        },
+        "puzzled": {
+            "name": "Nõutu",
+            "keywords": [
+                "küsimus",
+                "mis",
+                "kahtlus"
+            ]
+        },
+        "grounded": {
+            "name": "Tasakaalus",
+            "keywords": [
+                "lootos",
+                "meditatsioon",
+                "rahu"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassika",
+                "tere",
+                "rõõmus"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "pisar",
+                "kurb",
+                "ööpusa"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokkerinägu",
+            "keywords": [
+                "tühi",
+                "neutraalne",
+                "lihtne"
+            ]
+        },
+        "sweetheart": {
+            "name": "Kullake",
+            "keywords": [
+                "armastus",
+                "süda",
+                "magus"
+            ]
+        },
+        "family": {
+            "name": "Pere",
+            "keywords": [
+                "vanem",
+                "beebi",
+                "pere"
+            ]
+        },
+        "fuming": {
+            "name": "Vihast keev",
+            "keywords": [
+                "vihane",
+                "tüdinud",
+                "kulmukortsutus"
+            ]
+        },
+        "distraught": {
+            "name": "Ahastuses",
+            "keywords": [
+                "nutt",
+                "ärritunud",
+                "meeleheide"
+            ]
+        },
+        "queasy": {
+            "name": "Iiveldab",
+            "keywords": [
+                "haige",
+                "iiveldus",
+                "halb enesetunne"
+            ]
+        },
+        "uneasy": {
+            "name": "Ebamugav",
+            "keywords": [
+                "piinlik",
+                "ebamugav",
+                "uhh"
+            ]
+        },
+        "ecstatic": {
+            "name": "Vaimustuses",
+            "keywords": [
+                "elevil",
+                "jee",
+                "tiivad"
+            ]
+        },
+        "cheerful": {
+            "name": "Rõõmus",
+            "keywords": [
+                "rõõmus",
+                "naer",
+                "kübar"
             ]
         }
     }

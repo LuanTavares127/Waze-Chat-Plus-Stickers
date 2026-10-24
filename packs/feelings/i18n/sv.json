@@ -1,97 +1,6 @@
 {
     "name": "Känslor",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klassisk",
-                "hej",
-                "glad"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "tår",
-                "ledsen",
-                "nattmössa"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "tom",
-                "neutral",
-                "vanlig"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "kärlek",
-                "hjärta",
-                "söt"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "förälder",
-                "bebis",
-                "familj"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "gråta",
-                "upprörd",
-                "förtvivlan"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "sjuk",
-                "illamående",
-                "krasslig"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "pinsam",
-                "obekväm",
-                "usch"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "pepp",
-                "hurra",
-                "vingar"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "glad",
-                "skratta",
-                "hatt"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "arg",
-                "irriterad",
-                "sur min"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "fråga",
-                "va",
-                "tvivel"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "lotus",
-                "meditation",
-                "lugn"
-            ]
-        },
         "amazing": {
             "name": "Fantastisk",
             "keywords": [
@@ -354,6 +263,110 @@
                 "pride",
                 "regnbåge",
                 "hjärta"
+            ]
+        },
+        "puzzled": {
+            "name": "Förbryllad",
+            "keywords": [
+                "fråga",
+                "va",
+                "tvivel"
+            ]
+        },
+        "grounded": {
+            "name": "Zen",
+            "keywords": [
+                "lotus",
+                "meditation",
+                "lugn"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klassisk",
+                "hej",
+                "glad"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "tår",
+                "ledsen",
+                "nattmössa"
+            ]
+        },
+        "poker-face": {
+            "name": "Pokerface",
+            "keywords": [
+                "tom",
+                "neutral",
+                "vanlig"
+            ]
+        },
+        "sweetheart": {
+            "name": "Sötnos",
+            "keywords": [
+                "kärlek",
+                "hjärta",
+                "söt"
+            ]
+        },
+        "family": {
+            "name": "Familj",
+            "keywords": [
+                "förälder",
+                "bebis",
+                "familj"
+            ]
+        },
+        "fuming": {
+            "name": "Förbannad",
+            "keywords": [
+                "arg",
+                "irriterad",
+                "sur min"
+            ]
+        },
+        "distraught": {
+            "name": "Förtvivlad",
+            "keywords": [
+                "gråta",
+                "upprörd",
+                "förtvivlan"
+            ]
+        },
+        "queasy": {
+            "name": "Illamående",
+            "keywords": [
+                "sjuk",
+                "illamående",
+                "krasslig"
+            ]
+        },
+        "uneasy": {
+            "name": "Obekväm",
+            "keywords": [
+                "pinsam",
+                "obekväm",
+                "usch"
+            ]
+        },
+        "ecstatic": {
+            "name": "Överlycklig",
+            "keywords": [
+                "pepp",
+                "hurra",
+                "vingar"
+            ]
+        },
+        "cheerful": {
+            "name": "Glad",
+            "keywords": [
+                "glad",
+                "skratta",
+                "hatt"
             ]
         }
     }

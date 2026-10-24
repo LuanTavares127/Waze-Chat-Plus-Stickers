@@ -1,55 +1,6 @@
 {
     "name": "Crossovery",
     "stickers": {
-        "63": {
-            "keywords": [
-                "mimoň",
-                "jedno oko",
-                "banán"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "mimoň",
-                "jedno oko",
-                "plástev"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "symbiont",
-                "zuby",
-                "padouch"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "loutka",
-                "šťastný"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "brýle",
-                "vlasy"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "loutka",
-                "nervózní"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "klobouk",
-                "smích"
-            ]
-        },
         "ed": {
             "name": "Ed - Věrný",
             "keywords": [
@@ -154,14 +105,6 @@
                 "stavba"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "rudé vlasy",
-                "smích"
-            ]
-        },
         "horde": {
             "name": "Horda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elf",
                 "drahokam",
                 "padouch"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "symbiont",
+                "zuby",
+                "padouch"
+            ]
+        },
+        "despicable": {
+            "name": "Padouch",
+            "keywords": [
+                "mimoň",
+                "jedno oko",
+                "banán"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Megapadouch",
+            "keywords": [
+                "mimoň",
+                "jedno oko",
+                "plástev"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "loutka",
+                "šťastný"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "brýle",
+                "vlasy"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "loutka",
+                "nervózní"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "klobouk",
+                "smích"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rudé vlasy",
+                "smích"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkánský pozdrav",
+            "keywords": [
+                "ruka",
+                "pozdrav",
+                "pozdrav"
             ]
         }
     }

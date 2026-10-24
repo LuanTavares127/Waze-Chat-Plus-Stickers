@@ -1,55 +1,6 @@
 {
     "name": "Lankidetzak",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "begi bakarra",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "begi bakarra",
-                "ezti-zerra"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "sinbiontea",
-                "hortzak",
-                "gaiztoa"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "txotxongiloa",
-                "pozik"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "betaurrekoak",
-                "ilea"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "txotxongiloa",
-                "urduri"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "kapela",
-                "barrea"
-            ]
-        },
         "ed": {
             "name": "Ed - Leiala",
             "keywords": [
@@ -154,14 +105,6 @@
                 "eraikuntza"
             ]
         },
-        "red": {
-            "name": "Red",
-            "keywords": [
-                "fraggle",
-                "ile gorria",
-                "barrea"
-            ]
-        },
         "horde": {
             "name": "Horda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfoa",
                 "harribitxia",
                 "gaiztoa"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "sinbiontea",
+                "hortzak",
+                "gaiztoa"
+            ]
+        },
+        "despicable": {
+            "name": "Gaiztoa",
+            "keywords": [
+                "minion",
+                "begi bakarra",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega gaiztoa",
+            "keywords": [
+                "minion",
+                "begi bakarra",
+                "ezti-zerra"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "txotxongiloa",
+                "pozik"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "betaurrekoak",
+                "ilea"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "txotxongiloa",
+                "urduri"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "kapela",
+                "barrea"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "ile gorria",
+                "barrea"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Vulkanoen agurra",
+            "keywords": [
+                "eskua",
+                "agurra",
+                "agurtu"
             ]
         }
     }

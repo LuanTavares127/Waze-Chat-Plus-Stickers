@@ -1,40 +1,16 @@
 {
     "name": "Sentimentos",
     "stickers": {
-        "7": {
-            "name": "7",
-            "keywords": [
-                "clássico",
-                "oi",
-                "feliz"
-            ]
-        },
-        "9": {
-            "name": "9",
-            "keywords": [
-                "lágrima",
-                "triste",
-                "touca"
-            ]
-        },
-        "15": {
-            "name": "15",
-            "keywords": [
-                "neutro",
-                "simples",
-                "sem expressão"
-            ]
-        },
-        "114": {
-            "name": "114",
+        "sweetheart": {
+            "name": "Amorzinho",
             "keywords": [
                 "amor",
                 "coração",
                 "carinho"
             ]
         },
-        "133": {
-            "name": "133",
+        "family": {
+            "name": "Família",
             "keywords": [
                 "pai",
                 "mãe",
@@ -42,68 +18,84 @@
                 "família"
             ]
         },
-        "146": {
-            "name": "146",
+        "distraught": {
+            "name": "Desolado",
             "keywords": [
                 "chorando",
                 "triste",
                 "desespero"
             ]
         },
-        "165": {
-            "name": "165",
+        "queasy": {
+            "name": "Enjoado",
             "keywords": [
                 "passando mal",
                 "náusea",
                 "doente"
             ]
         },
-        "168": {
-            "name": "168",
+        "uneasy": {
+            "name": "Incomodado",
             "keywords": [
                 "sem graça",
                 "desconfortável",
                 "aff"
             ]
         },
-        "172": {
-            "name": "172",
+        "ecstatic": {
+            "name": "Eufórico",
             "keywords": [
                 "animado",
                 "oba",
                 "asas"
             ]
         },
-        "181": {
-            "name": "181",
+        "cheerful": {
+            "name": "Alegre",
             "keywords": [
                 "feliz",
                 "risada",
                 "chapéu"
             ]
         },
-        "235": {
-            "name": "235",
+        "fuming": {
+            "name": "Bufando",
             "keywords": [
                 "raiva",
                 "irritado",
                 "cara feia"
             ]
         },
-        "239": {
-            "name": "239",
+        "puzzled": {
+            "name": "Intrigado",
             "keywords": [
                 "dúvida",
                 "quê",
                 "pergunta"
             ]
         },
-        "258": {
-            "name": "258",
+        "wazer": {
+            "name": "Wazer",
             "keywords": [
-                "lótus",
-                "meditação",
-                "calma"
+                "clássico",
+                "oi",
+                "feliz"
+            ]
+        },
+        "poker-face": {
+            "name": "Cara de Paisagem",
+            "keywords": [
+                "neutro",
+                "simples",
+                "sem expressão"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrô",
+            "keywords": [
+                "lágrima",
+                "triste",
+                "touca"
             ]
         },
         "amazing": {
@@ -352,6 +344,14 @@
                 "sorriso maligno",
                 "maldade",
                 "caixa"
+            ]
+        },
+        "grounded": {
+            "name": "Equilibrado",
+            "keywords": [
+                "lótus",
+                "meditação",
+                "calma"
             ]
         },
         "motivated": {

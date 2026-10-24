@@ -1,111 +1,6 @@
 {
     "name": "Živalce in stvari",
     "stickers": {
-        "30": {
-            "keywords": [
-                "skala",
-                "kamen",
-                "hitro"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "medved",
-                "ribiški klobuk",
-                "nasmeh"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "ptica",
-                "sproščeno"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "možgani",
-                "pametno",
-                "razmišljati"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinozaver",
-                "zobje",
-                "ugriz"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "podočnjaki",
-                "zobje",
-                "muzanje"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "krava",
-                "muu",
-                "kmetija"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "krona"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "pomežik"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "pes",
-                "korgi",
-                "krona"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "zmaj",
-                "rdeče",
-                "pošast"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "roka",
-                "oko",
-                "zaščita"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "oko",
-                "znak",
-                "skrivnost"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "čajnik",
-                "čaj",
-                "jabolko"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "ptica",
-                "kapa",
-                "govoriti"
-            ]
-        },
         "8-bit": {
             "name": "8-bitni",
             "keywords": [
@@ -242,22 +137,6 @@
                 "kosilo"
             ]
         },
-        "magical": {
-            "name": "Čarobni",
-            "keywords": [
-                "samorog",
-                "mavrica",
-                "čarovnija"
-            ]
-        },
-        "magical-2": {
-            "name": "Čarobni (2)",
-            "keywords": [
-                "čarovnija",
-                "roza",
-                "slavno"
-            ]
-        },
         "open": {
             "name": "Odprti",
             "keywords": [
@@ -352,6 +231,142 @@
                 "volk",
                 "tuljenje",
                 "zvito"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "ptica",
+                "sproščeno"
+            ]
+        },
+        "parrot": {
+            "name": "Papiga",
+            "keywords": [
+                "ptica",
+                "kapa",
+                "govoriti"
+            ]
+        },
+        "blissful": {
+            "name": "Blažena",
+            "keywords": [
+                "krava",
+                "muu",
+                "kmetija"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Hitri kamen",
+            "keywords": [
+                "skala",
+                "kamen",
+                "hitro"
+            ]
+        },
+        "big-brain": {
+            "name": "Pametna glava",
+            "keywords": [
+                "možgani",
+                "pametno",
+                "razmišljati"
+            ]
+        },
+        "yellow": {
+            "name": "Rumeni",
+            "keywords": [
+                "podočnjaki",
+                "zobje",
+                "muzanje"
+            ]
+        },
+        "pampered": {
+            "name": "Razvajen",
+            "keywords": [
+                "pes",
+                "korgi",
+                "krona"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Zvest",
+            "keywords": [
+                "pes",
+                "korgi",
+                "pomežik"
+            ]
+        },
+        "playful-pup": {
+            "name": "Igrivi kužek",
+            "keywords": [
+                "pes",
+                "korgi",
+                "krona"
+            ]
+        },
+        "red": {
+            "name": "Rdeči",
+            "keywords": [
+                "zmaj",
+                "rdeče",
+                "pošast"
+            ]
+        },
+        "unicorn": {
+            "name": "Samorog",
+            "keywords": [
+                "samorog",
+                "mavrica",
+                "čarovnija"
+            ]
+        },
+        "magical": {
+            "name": "Čaroben",
+            "keywords": [
+                "čarovnija",
+                "roza",
+                "slavno"
+            ]
+        },
+        "visionary": {
+            "name": "Vizionar",
+            "keywords": [
+                "oko",
+                "znak",
+                "skrivnost"
+            ]
+        },
+        "focused": {
+            "name": "Osredotočen",
+            "keywords": [
+                "roka",
+                "oko",
+                "zaščita"
+            ]
+        },
+        "kind": {
+            "name": "Prijazen",
+            "keywords": [
+                "medved",
+                "ribiški klobuk",
+                "nasmeh"
+            ]
+        },
+        "zesty": {
+            "name": "Živahen",
+            "keywords": [
+                "čajnik",
+                "čaj",
+                "jabolko"
+            ]
+        },
+        "chomper": {
+            "name": "Grizljač",
+            "keywords": [
+                "dinozaver",
+                "zobje",
+                "ugriz"
             ]
         }
     }

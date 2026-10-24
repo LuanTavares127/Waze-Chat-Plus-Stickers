@@ -53,8 +53,8 @@
     ],
     "stickers": [
         {
-            "id": "210",
-            "name": "210",
+            "id": "venom",
+            "name": "Venom",
             "keywords": [
                 "symbiote",
                 "teeth",
@@ -66,8 +66,8 @@
             ]
         },
         {
-            "id": "224",
-            "name": "224",
+            "id": "gobo",
+            "name": "Gobo",
             "keywords": [
                 "fraggle",
                 "puppet",
@@ -78,8 +78,8 @@
             ]
         },
         {
-            "id": "233",
-            "name": "233",
+            "id": "junior-gorg",
+            "name": "Junior Gorg",
             "keywords": [
                 "fraggle",
                 "glasses",
@@ -90,8 +90,8 @@
             ]
         },
         {
-            "id": "243",
-            "name": "243",
+            "id": "mokey",
+            "name": "Mokey",
             "keywords": [
                 "fraggle",
                 "puppet",
@@ -102,8 +102,8 @@
             ]
         },
         {
-            "id": "253",
-            "name": "253",
+            "id": "boober",
+            "name": "Boober",
             "keywords": [
                 "fraggle",
                 "hat",
@@ -114,8 +114,8 @@
             ]
         },
         {
-            "id": "63",
-            "name": "63",
+            "id": "despicable",
+            "name": "Despicable",
             "keywords": [
                 "minion",
                 "one eye",
@@ -127,8 +127,8 @@
             ]
         },
         {
-            "id": "64",
-            "name": "64",
+            "id": "mega-despicable",
+            "name": "Mega Despicable",
             "keywords": [
                 "minion",
                 "one eye",
@@ -308,8 +308,8 @@
             ]
         },
         {
-            "id": "red",
-            "name": "Red",
+            "id": "red-fraggle",
+            "name": "Red Fraggle",
             "keywords": [
                 "fraggle",
                 "red hair",
@@ -395,6 +395,18 @@
             "emojis": [
                 "😈",
                 "💎"
+            ]
+        },
+        {
+            "id": "vulcan-salute",
+            "name": "Vulcan Salute",
+            "keywords": [
+                "hand",
+                "salute",
+                "greeting"
+            ],
+            "emojis": [
+                "🖖"
             ]
         }
     ]

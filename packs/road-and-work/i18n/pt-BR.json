@@ -1,180 +1,44 @@
 {
     "name": "Na estrada e no trabalho",
     "stickers": {
-        "18": {
-            "name": "18",
-            "keywords": [
-                "trouxinha",
-                "viagem",
-                "aventura"
-            ]
-        },
-        "20": {
-            "name": "20",
-            "keywords": [
-                "poção",
-                "óculos",
-                "laboratório"
-            ]
-        },
-        "51": {
-            "name": "51",
-            "keywords": [
-                "explorador",
-                "chapéu",
-                "aventura"
-            ]
-        },
-        "52": {
-            "name": "52",
-            "keywords": [
-                "câmera",
-                "bandeira",
-                "passeio"
-            ]
-        },
-        "74": {
-            "name": "74",
-            "keywords": [
-                "marinheiro",
-                "quepe",
-                "barco"
-            ]
-        },
-        "116": {
-            "name": "116",
-            "keywords": [
-                "mala",
-                "chapéu",
-                "viagem"
-            ]
-        },
-        "124": {
-            "name": "124",
-            "keywords": [
-                "piloto",
-                "óculos",
-                "capacete"
-            ]
-        },
-        "131": {
-            "name": "131",
-            "keywords": [
-                "coruja",
-                "formatura",
-                "inteligente"
-            ]
-        },
-        "147": {
-            "name": "147",
-            "keywords": [
-                "extintor",
-                "segurança",
-                "nervoso"
-            ]
-        },
-        "148": {
-            "name": "148",
+        "on-the-job": {
+            "name": "Na Obra",
             "keywords": [
                 "capacete",
                 "obra",
                 "colete"
             ]
         },
-        "150": {
-            "name": "150",
+        "jet-setter": {
+            "name": "Viajante",
             "keywords": [
-                "chapéu de palha",
-                "roça",
-                "festa junina"
+                "mala",
+                "chapéu",
+                "viagem"
             ]
         },
-        "161": {
-            "name": "161",
+        "wanderer": {
+            "name": "Andarilho",
             "keywords": [
-                "capacete",
-                "estrelas",
-                "piloto"
+                "trouxinha",
+                "viagem",
+                "aventura"
             ]
         },
-        "171": {
-            "name": "171",
+        "sightseer": {
+            "name": "Turista",
             "keywords": [
-                "máscara",
-                "saúde",
-                "proteção"
+                "câmera",
+                "bandeira",
+                "passeio"
             ]
         },
-        "173": {
-            "name": "173",
+        "explorer": {
+            "name": "Explorador",
             "keywords": [
-                "cronômetro",
-                "faixa",
-                "treino"
-            ]
-        },
-        "207": {
-            "name": "207",
-            "keywords": [
-                "voto",
-                "eleição",
-                "urna"
-            ]
-        },
-        "208": {
-            "name": "208",
-            "keywords": [
-                "sinal",
-                "robô",
-                "wifi"
-            ]
-        },
-        "212": {
-            "name": "212",
-            "keywords": [
-                "voto",
-                "placa",
-                "eleição"
-            ]
-        },
-        "217": {
-            "name": "217",
-            "keywords": [
-                "medalha",
-                "fita",
-                "piscadinha"
-            ]
-        },
-        "244": {
-            "name": "244",
-            "keywords": [
-                "entrega",
-                "capacete",
-                "caixa"
-            ]
-        },
-        "245": {
-            "name": "245",
-            "keywords": [
-                "robô",
-                "antena",
-                "explorador"
-            ]
-        },
-        "247": {
-            "name": "247",
-            "keywords": [
-                "balão de fala",
-                "conversa",
-                "papo"
-            ]
-        },
-        "248": {
-            "name": "248",
-            "keywords": [
-                "apito",
-                "árbitro",
-                "falta"
+                "explorador",
+                "chapéu",
+                "aventura"
             ]
         },
         "road-warrior": {
@@ -209,12 +73,116 @@
                 "carga"
             ]
         },
+        "quick-delivery": {
+            "name": "Entrega Expressa",
+            "keywords": [
+                "entrega",
+                "capacete",
+                "caixa"
+            ]
+        },
+        "blue": {
+            "name": "Azul",
+            "keywords": [
+                "robô",
+                "antena",
+                "explorador"
+            ]
+        },
+        "connected": {
+            "name": "Conectado",
+            "keywords": [
+                "sinal",
+                "robô",
+                "wifi"
+            ]
+        },
+        "chatty": {
+            "name": "Tagarela",
+            "keywords": [
+                "balão de fala",
+                "conversa",
+                "papo"
+            ]
+        },
+        "referee": {
+            "name": "Árbitro",
+            "keywords": [
+                "apito",
+                "árbitro",
+                "falta"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "piloto",
+                "óculos",
+                "capacete"
+            ]
+        },
+        "close-call": {
+            "name": "Por Pouco",
+            "keywords": [
+                "extintor",
+                "segurança",
+                "nervoso"
+            ]
+        },
+        "skipper": {
+            "name": "Comandante",
+            "keywords": [
+                "marinheiro",
+                "quepe",
+                "barco"
+            ]
+        },
         "captain-thank-you": {
             "name": "Capitão Obrigado",
             "keywords": [
                 "obrigado",
                 "capitão",
                 "bigode"
+            ]
+        },
+        "workout-mode": {
+            "name": "Modo Treino",
+            "keywords": [
+                "cronômetro",
+                "faixa",
+                "treino"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "capacete",
+                "estrelas",
+                "piloto"
+            ]
+        },
+        "masked-up": {
+            "name": "De Máscara",
+            "keywords": [
+                "máscara",
+                "saúde",
+                "proteção"
+            ]
+        },
+        "voter": {
+            "name": "Eleitor",
+            "keywords": [
+                "voto",
+                "eleição",
+                "urna"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Modo Campanha",
+            "keywords": [
+                "voto",
+                "placa",
+                "eleição"
             ]
         },
         "all-business": {
@@ -345,6 +313,14 @@
                 "campeão"
             ]
         },
+        "winner": {
+            "name": "Vencedor",
+            "keywords": [
+                "medalha",
+                "fita",
+                "piscadinha"
+            ]
+        },
         "beautiful": {
             "name": "Jogo bonito",
             "keywords": [
@@ -359,6 +335,30 @@
                 "golfe",
                 "bola",
                 "esporte"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Cientista Louco",
+            "keywords": [
+                "poção",
+                "óculos",
+                "laboratório"
+            ]
+        },
+        "know-it-all": {
+            "name": "Sabe-Tudo",
+            "keywords": [
+                "coruja",
+                "formatura",
+                "inteligente"
+            ]
+        },
+        "country-folk": {
+            "name": "Caipira",
+            "keywords": [
+                "chapéu de palha",
+                "roça",
+                "festa junina"
             ]
         },
         "no-corre": {

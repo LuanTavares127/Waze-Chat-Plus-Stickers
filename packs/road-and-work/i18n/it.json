@@ -1,160 +1,6 @@
 {
     "name": "In strada e al lavoro",
     "stickers": {
-        "18": {
-            "keywords": [
-                "fagotto",
-                "viaggio",
-                "avventura"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "pozione",
-                "occhiali",
-                "laboratorio"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "esploratore",
-                "cappello",
-                "avventura"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "fotocamera",
-                "bandiera",
-                "turismo"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "marinaio",
-                "berretto",
-                "barca"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "valigia",
-                "cappello",
-                "viaggio"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilota",
-                "occhialoni",
-                "elmo"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "gufo",
-                "laurea",
-                "intelligente"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "estintore",
-                "sicurezza",
-                "nervoso"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "casco da cantiere",
-                "costruzione",
-                "gilet"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "cappello di paglia",
-                "fattoria",
-                "festa di giugno"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "elmo",
-                "stelle",
-                "pilota"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "mascherina",
-                "salute",
-                "sicuro"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "cronometro",
-                "fascia",
-                "allenamento"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "voto",
-                "elezioni",
-                "scheda elettorale"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "segnale",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "voto",
-                "segno",
-                "elezioni"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medaglia",
-                "nastro",
-                "occhiolino"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "consegna",
-                "elmo",
-                "scatola"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenna",
-                "esploratore"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "fumetto",
-                "chat",
-                "parlare"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "fischietto",
-                "arbitro",
-                "fallo"
-            ]
-        },
         "road-warrior": {
             "name": "Guerriero della strada",
             "keywords": [
@@ -345,6 +191,182 @@
                 "elmo",
                 "moto",
                 "fretta"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Scienziato pazzo",
+            "keywords": [
+                "pozione",
+                "occhiali",
+                "laboratorio"
+            ]
+        },
+        "explorer": {
+            "name": "Esploratore",
+            "keywords": [
+                "esploratore",
+                "cappello",
+                "avventura"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "fotocamera",
+                "bandiera",
+                "turismo"
+            ]
+        },
+        "jet-setter": {
+            "name": "Giramondo",
+            "keywords": [
+                "valigia",
+                "cappello",
+                "viaggio"
+            ]
+        },
+        "know-it-all": {
+            "name": "Saputello",
+            "keywords": [
+                "gufo",
+                "laurea",
+                "intelligente"
+            ]
+        },
+        "close-call": {
+            "name": "Per un pelo",
+            "keywords": [
+                "estintore",
+                "sicurezza",
+                "nervoso"
+            ]
+        },
+        "on-the-job": {
+            "name": "Al lavoro",
+            "keywords": [
+                "casco da cantiere",
+                "costruzione",
+                "gilet"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Modalità campagna",
+            "keywords": [
+                "voto",
+                "segno",
+                "elezioni"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Consegna express",
+            "keywords": [
+                "consegna",
+                "elmo",
+                "scatola"
+            ]
+        },
+        "referee": {
+            "name": "Arbitro",
+            "keywords": [
+                "fischietto",
+                "arbitro",
+                "fallo"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilota",
+                "occhialoni",
+                "elmo"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "elmo",
+                "stelle",
+                "pilota"
+            ]
+        },
+        "blue": {
+            "name": "Blu",
+            "keywords": [
+                "robot",
+                "antenna",
+                "esploratore"
+            ]
+        },
+        "voter": {
+            "name": "Elettore",
+            "keywords": [
+                "voto",
+                "elezioni",
+                "scheda elettorale"
+            ]
+        },
+        "winner": {
+            "name": "Vincitore",
+            "keywords": [
+                "medaglia",
+                "nastro",
+                "occhiolino"
+            ]
+        },
+        "chatty": {
+            "name": "Chiacchierone",
+            "keywords": [
+                "fumetto",
+                "chat",
+                "parlare"
+            ]
+        },
+        "wanderer": {
+            "name": "Vagabondo",
+            "keywords": [
+                "fagotto",
+                "viaggio",
+                "avventura"
+            ]
+        },
+        "skipper": {
+            "name": "Capitano",
+            "keywords": [
+                "marinaio",
+                "berretto",
+                "barca"
+            ]
+        },
+        "country-folk": {
+            "name": "Campagnolo",
+            "keywords": [
+                "cappello di paglia",
+                "fattoria",
+                "festa di giugno"
+            ]
+        },
+        "masked-up": {
+            "name": "Con mascherina",
+            "keywords": [
+                "mascherina",
+                "salute",
+                "sicuro"
+            ]
+        },
+        "workout-mode": {
+            "name": "Modalità allenamento",
+            "keywords": [
+                "cronometro",
+                "fascia",
+                "allenamento"
+            ]
+        },
+        "connected": {
+            "name": "Connesso",
+            "keywords": [
+                "segnale",
+                "robot",
+                "wifi"
             ]
         }
     }

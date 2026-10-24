@@ -1,55 +1,6 @@
 {
     "name": "Kolaborasi",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "satu mata",
-                "pisang"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "satu mata",
-                "sarang lebah"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbiot",
-                "gigi",
-                "penjahat"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "boneka",
-                "gembira"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "cermin mata",
-                "rambut"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "boneka",
-                "gementar"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "topi",
-                "ketawa"
-            ]
-        },
         "ed": {
             "name": "Ed - Setia",
             "keywords": [
@@ -154,14 +105,6 @@
                 "pembinaan"
             ]
         },
-        "red": {
-            "name": "Merah",
-            "keywords": [
-                "fraggle",
-                "rambut merah",
-                "ketawa"
-            ]
-        },
         "horde": {
             "name": "Gerombolan",
             "keywords": [
@@ -208,6 +151,78 @@
                 "bunian",
                 "permata",
                 "penjahat"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbiot",
+                "gigi",
+                "penjahat"
+            ]
+        },
+        "despicable": {
+            "name": "Jahat",
+            "keywords": [
+                "minion",
+                "satu mata",
+                "pisang"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Mega Jahat",
+            "keywords": [
+                "minion",
+                "satu mata",
+                "sarang lebah"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "gembira"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "cermin mata",
+                "rambut"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "boneka",
+                "gementar"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "topi",
+                "ketawa"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "rambut merah",
+                "ketawa"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Salam Vulcan",
+            "keywords": [
+                "tangan",
+                "tabik hormat",
+                "ucapan"
             ]
         }
     }

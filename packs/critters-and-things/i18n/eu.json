@@ -1,111 +1,6 @@
 {
     "name": "Piztiak eta gauzak",
     "stickers": {
-        "30": {
-            "keywords": [
-                "harkaitza",
-                "harria",
-                "azkar"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "hartza",
-                "arrantzale-kapela",
-                "irribarrea"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "kapibara",
-                "txoria",
-                "lasai"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "garuna",
-                "argia",
-                "pentsatu"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "dinosauroa",
-                "hortzak",
-                "ziztada"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "letaginak",
-                "hortzak",
-                "irribarre maltzurra"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "behia",
-                "muuu",
-                "baserria"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "txakurra",
-                "corgi",
-                "koroa"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "txakurra",
-                "corgi",
-                "begi-keinua"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "txakurra",
-                "corgi",
-                "koroa"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "herensugea",
-                "gorria",
-                "munstroa"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "eskua",
-                "begia",
-                "babesa"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "begia",
-                "seinalea",
-                "misterioa"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "tea-pota",
-                "tea",
-                "sagarra"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "txoria",
-                "txapela",
-                "hitz egin"
-            ]
-        },
         "8-bit": {
             "name": "8 bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "bazkaria"
             ]
         },
-        "magical": {
-            "name": "Magikoa",
-            "keywords": [
-                "unikornioa",
-                "ostadarra",
-                "magia"
-            ]
-        },
-        "magical-2": {
-            "name": "Magikoa (2)",
-            "keywords": [
-                "magia",
-                "arrosa",
-                "famatua"
-            ]
-        },
         "open": {
             "name": "Irekia",
             "keywords": [
@@ -352,6 +231,142 @@
                 "otsoa",
                 "uluka",
                 "maltzurra"
+            ]
+        },
+        "capybara": {
+            "name": "Kapibara",
+            "keywords": [
+                "kapibara",
+                "txoria",
+                "lasai"
+            ]
+        },
+        "parrot": {
+            "name": "Loroa",
+            "keywords": [
+                "txoria",
+                "txapela",
+                "hitz egin"
+            ]
+        },
+        "blissful": {
+            "name": "Zoriontsua",
+            "keywords": [
+                "behia",
+                "muuu",
+                "baserria"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Harri azkarra",
+            "keywords": [
+                "harkaitza",
+                "harria",
+                "azkar"
+            ]
+        },
+        "big-brain": {
+            "name": "Burutsua",
+            "keywords": [
+                "garuna",
+                "argia",
+                "pentsatu"
+            ]
+        },
+        "yellow": {
+            "name": "Horia",
+            "keywords": [
+                "letaginak",
+                "hortzak",
+                "irribarre maltzurra"
+            ]
+        },
+        "pampered": {
+            "name": "Mimatua",
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "koroa"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Leiala",
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "begi-keinua"
+            ]
+        },
+        "playful-pup": {
+            "name": "Txakurkume jostalaria",
+            "keywords": [
+                "txakurra",
+                "corgi",
+                "koroa"
+            ]
+        },
+        "red": {
+            "name": "Gorria",
+            "keywords": [
+                "herensugea",
+                "gorria",
+                "munstroa"
+            ]
+        },
+        "unicorn": {
+            "name": "Adarbakarra",
+            "keywords": [
+                "unikornioa",
+                "ostadarra",
+                "magia"
+            ]
+        },
+        "magical": {
+            "name": "Magikoa",
+            "keywords": [
+                "magia",
+                "arrosa",
+                "famatua"
+            ]
+        },
+        "visionary": {
+            "name": "Bisionarioa",
+            "keywords": [
+                "begia",
+                "seinalea",
+                "misterioa"
+            ]
+        },
+        "focused": {
+            "name": "Kontzentratuta",
+            "keywords": [
+                "eskua",
+                "begia",
+                "babesa"
+            ]
+        },
+        "kind": {
+            "name": "Atsegina",
+            "keywords": [
+                "hartza",
+                "arrantzale-kapela",
+                "irribarrea"
+            ]
+        },
+        "zesty": {
+            "name": "Bizia",
+            "keywords": [
+                "tea-pota",
+                "tea",
+                "sagarra"
+            ]
+        },
+        "chomper": {
+            "name": "Hozkalaria",
+            "keywords": [
+                "dinosauroa",
+                "hortzak",
+                "ziztada"
             ]
         }
     }

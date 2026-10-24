@@ -1,60 +1,60 @@
 {
     "name": "Participações especiais",
     "stickers": {
-        "63": {
-            "name": "63",
-            "keywords": [
-                "minion",
-                "um olho",
-                "banana"
-            ]
-        },
-        "64": {
-            "name": "64",
-            "keywords": [
-                "minion",
-                "um olho",
-                "favo"
-            ]
-        },
-        "210": {
-            "name": "210",
+        "venom": {
+            "name": "Venom",
             "keywords": [
                 "simbionte",
                 "dentes",
                 "vilão"
             ]
         },
-        "224": {
-            "name": "224",
+        "gobo": {
+            "name": "Gobo",
             "keywords": [
                 "fraggle",
                 "boneco",
                 "feliz"
             ]
         },
-        "233": {
-            "name": "233",
+        "junior-gorg": {
+            "name": "Junior Gorg",
             "keywords": [
                 "fraggle",
                 "óculos",
                 "cabelo"
             ]
         },
-        "243": {
-            "name": "243",
+        "mokey": {
+            "name": "Mokey",
             "keywords": [
                 "fraggle",
                 "boneco",
                 "nervoso"
             ]
         },
-        "253": {
-            "name": "253",
+        "boober": {
+            "name": "Boober",
             "keywords": [
                 "fraggle",
                 "chapéu",
                 "risada"
+            ]
+        },
+        "despicable": {
+            "name": "Malvado",
+            "keywords": [
+                "minion",
+                "um olho",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Malvadão",
+            "keywords": [
+                "minion",
+                "um olho",
+                "favo"
             ]
         },
         "ed": {
@@ -161,8 +161,8 @@
                 "obra"
             ]
         },
-        "red": {
-            "name": "Red",
+        "red-fraggle": {
+            "name": "Red Fraggle",
             "keywords": [
                 "fraggle",
                 "cabelo vermelho",
@@ -215,6 +215,14 @@
                 "elfo",
                 "joia",
                 "vilão"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Saudação Vulcana",
+            "keywords": [
+                "mão",
+                "saudação",
+                "cumprimento"
             ]
         }
     }

@@ -1,97 +1,6 @@
 {
     "name": "Perasaan",
     "stickers": {
-        "7": {
-            "keywords": [
-                "klasik",
-                "helo",
-                "gembira"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "air mata",
-                "sedih",
-                "topi tidur"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "kosong",
-                "neutral",
-                "biasa"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "cinta",
-                "hati",
-                "manis"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "ibu bapa",
-                "bayi",
-                "keluarga"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "menangis",
-                "kecewa",
-                "putus asa"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "sakit",
-                "loya",
-                "tidak sihat"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "janggal",
-                "tidak selesa",
-                "eugh"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "teruja",
-                "hore",
-                "sayap"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "gembira",
-                "ketawa",
-                "topi"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "marah",
-                "jengkel",
-                "berkerut"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "soalan",
-                "apa",
-                "ragu"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "teratai",
-                "meditasi",
-                "tenang"
-            ]
-        },
         "amazing": {
             "name": "Menakjubkan",
             "keywords": [
@@ -354,6 +263,110 @@
                 "kebanggaan",
                 "pelangi",
                 "hati"
+            ]
+        },
+        "puzzled": {
+            "name": "Hairan",
+            "keywords": [
+                "soalan",
+                "apa",
+                "ragu"
+            ]
+        },
+        "grounded": {
+            "name": "Tenang",
+            "keywords": [
+                "teratai",
+                "meditasi",
+                "tenang"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "klasik",
+                "helo",
+                "gembira"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "air mata",
+                "sedih",
+                "topi tidur"
+            ]
+        },
+        "poker-face": {
+            "name": "Muka Selamba",
+            "keywords": [
+                "kosong",
+                "neutral",
+                "biasa"
+            ]
+        },
+        "sweetheart": {
+            "name": "Sayang",
+            "keywords": [
+                "cinta",
+                "hati",
+                "manis"
+            ]
+        },
+        "family": {
+            "name": "Keluarga",
+            "keywords": [
+                "ibu bapa",
+                "bayi",
+                "keluarga"
+            ]
+        },
+        "fuming": {
+            "name": "Berang",
+            "keywords": [
+                "marah",
+                "jengkel",
+                "berkerut"
+            ]
+        },
+        "distraught": {
+            "name": "Hancur Hati",
+            "keywords": [
+                "menangis",
+                "kecewa",
+                "putus asa"
+            ]
+        },
+        "queasy": {
+            "name": "Loya",
+            "keywords": [
+                "sakit",
+                "loya",
+                "tidak sihat"
+            ]
+        },
+        "uneasy": {
+            "name": "Tak Selesa",
+            "keywords": [
+                "janggal",
+                "tidak selesa",
+                "eugh"
+            ]
+        },
+        "ecstatic": {
+            "name": "Teruja",
+            "keywords": [
+                "teruja",
+                "hore",
+                "sayap"
+            ]
+        },
+        "cheerful": {
+            "name": "Ceria",
+            "keywords": [
+                "gembira",
+                "ketawa",
+                "topi"
             ]
         }
     }

@@ -1,111 +1,6 @@
 {
     "name": "Festas, signos e fantasia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "boneco de neve",
-                "inverno",
-                "cachecol"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "chapéu de festa",
-                "aniversário",
-                "celebrar"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viking",
-                "capacete",
-                "marcador de mapa"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "bobo da corte",
-                "chapéu",
-                "riso"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "natal",
-                "pai natal",
-                "óculos de sol"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "mago",
-                "chapéu",
-                "magia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "bruxa",
-                "chapéu",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "carnaval",
-                "cocar",
-                "penas"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "cachecol",
-                "gorro",
-                "inverno"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "carnaval",
-                "máscara",
-                "festa"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "ano novo",
-                "2026",
-                "festa"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viking",
-                "martelo",
-                "escudo"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "inverno",
-                "gorro",
-                "frio"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "guarda",
-                "londres",
-                "chapéu"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "cartola",
-                "chá",
-                "país das maravilhas"
-            ]
-        },
         "aries": {
             "name": "Carneiro",
             "keywords": [
@@ -376,6 +271,126 @@
                 "herói",
                 "tiara",
                 "poder"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Dia de Anos",
+            "keywords": [
+                "chapéu de festa",
+                "aniversário",
+                "celebrar"
+            ]
+        },
+        "witchy": {
+            "name": "Bruxa",
+            "keywords": [
+                "bruxa",
+                "chapéu",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Valente",
+            "keywords": [
+                "viking",
+                "martelo",
+                "escudo"
+            ]
+        },
+        "stern-guard": {
+            "name": "Guarda Sério",
+            "keywords": [
+                "guarda",
+                "londres",
+                "chapéu"
+            ]
+        },
+        "snowman": {
+            "name": "Boneco de Neve",
+            "keywords": [
+                "boneco de neve",
+                "inverno",
+                "cachecol"
+            ]
+        },
+        "map-raider": {
+            "name": "Invasor do Mapa",
+            "keywords": [
+                "viking",
+                "capacete",
+                "marcador de mapa"
+            ]
+        },
+        "hello-2026": {
+            "name": "Olá, 2026",
+            "keywords": [
+                "ano novo",
+                "2026",
+                "festa"
+            ]
+        },
+        "cool-santa": {
+            "name": "Pai Natal Fixe",
+            "keywords": [
+                "natal",
+                "pai natal",
+                "óculos de sol"
+            ]
+        },
+        "spicy": {
+            "name": "Picante",
+            "keywords": [
+                "cartola",
+                "chá",
+                "país das maravilhas"
+            ]
+        },
+        "jester": {
+            "name": "Bobo da Corte",
+            "keywords": [
+                "bobo da corte",
+                "chapéu",
+                "riso"
+            ]
+        },
+        "wizard": {
+            "name": "Feiticeiro",
+            "keywords": [
+                "mago",
+                "chapéu",
+                "magia"
+            ]
+        },
+        "samba-star": {
+            "name": "Estrela do Samba",
+            "keywords": [
+                "carnaval",
+                "cocar",
+                "penas"
+            ]
+        },
+        "cozy": {
+            "name": "Aconchegado",
+            "keywords": [
+                "cachecol",
+                "gorro",
+                "inverno"
+            ]
+        },
+        "masquerade": {
+            "name": "Mascarado",
+            "keywords": [
+                "carnaval",
+                "máscara",
+                "festa"
+            ]
+        },
+        "bundled-up": {
+            "name": "Bem Agasalhado",
+            "keywords": [
+                "inverno",
+                "gorro",
+                "frio"
             ]
         }
     }

@@ -1,111 +1,6 @@
 {
     "name": "Tierchen & Dinge",
     "stickers": {
-        "30": {
-            "keywords": [
-                "Fels",
-                "Stein",
-                "schnell"
-            ]
-        },
-        "84": {
-            "keywords": [
-                "Bär",
-                "Fischerhut",
-                "lächeln"
-            ]
-        },
-        "85": {
-            "keywords": [
-                "Capybara",
-                "Vogel",
-                "chillen"
-            ]
-        },
-        "102": {
-            "keywords": [
-                "Gehirn",
-                "schlau",
-                "denken"
-            ]
-        },
-        "177": {
-            "keywords": [
-                "Dinosaurier",
-                "Zähne",
-                "Biss"
-            ]
-        },
-        "219": {
-            "keywords": [
-                "Reißzähne",
-                "Zähne",
-                "grinsen"
-            ]
-        },
-        "227": {
-            "keywords": [
-                "Kuh",
-                "muh",
-                "Bauernhof"
-            ]
-        },
-        "229": {
-            "keywords": [
-                "Hund",
-                "Corgi",
-                "Krone"
-            ]
-        },
-        "230": {
-            "keywords": [
-                "Hund",
-                "Corgi",
-                "zwinkern"
-            ]
-        },
-        "231": {
-            "keywords": [
-                "Hund",
-                "Corgi",
-                "Krone"
-            ]
-        },
-        "236": {
-            "keywords": [
-                "Drache",
-                "rot",
-                "Monster"
-            ]
-        },
-        "241": {
-            "keywords": [
-                "Hand",
-                "Auge",
-                "Schutz"
-            ]
-        },
-        "249": {
-            "keywords": [
-                "Auge",
-                "Zeichen",
-                "Rätsel"
-            ]
-        },
-        "251": {
-            "keywords": [
-                "Teekanne",
-                "Tee",
-                "Apfel"
-            ]
-        },
-        "259": {
-            "keywords": [
-                "Vogel",
-                "Mütze",
-                "reden"
-            ]
-        },
         "8-bit": {
             "name": "8-Bit",
             "keywords": [
@@ -242,22 +137,6 @@
                 "Mittagessen"
             ]
         },
-        "magical": {
-            "name": "Magisch",
-            "keywords": [
-                "Einhorn",
-                "Regenbogen",
-                "Magie"
-            ]
-        },
-        "magical-2": {
-            "name": "Magisch (2)",
-            "keywords": [
-                "Magie",
-                "rosa",
-                "berühmt"
-            ]
-        },
         "open": {
             "name": "Offen",
             "keywords": [
@@ -352,6 +231,142 @@
                 "Wolf",
                 "heulen",
                 "gerissen"
+            ]
+        },
+        "capybara": {
+            "name": "Wasserschwein",
+            "keywords": [
+                "Capybara",
+                "Vogel",
+                "chillen"
+            ]
+        },
+        "parrot": {
+            "name": "Papagei",
+            "keywords": [
+                "Vogel",
+                "Mütze",
+                "reden"
+            ]
+        },
+        "blissful": {
+            "name": "Glückselig",
+            "keywords": [
+                "Kuh",
+                "muh",
+                "Bauernhof"
+            ]
+        },
+        "speedy-rock": {
+            "name": "Rasender Stein",
+            "keywords": [
+                "Fels",
+                "Stein",
+                "schnell"
+            ]
+        },
+        "big-brain": {
+            "name": "Schlaukopf",
+            "keywords": [
+                "Gehirn",
+                "schlau",
+                "denken"
+            ]
+        },
+        "yellow": {
+            "name": "Gelb",
+            "keywords": [
+                "Reißzähne",
+                "Zähne",
+                "grinsen"
+            ]
+        },
+        "pampered": {
+            "name": "Verwöhnt",
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "Krone"
+            ]
+        },
+        "loyal-corgi": {
+            "name": "Treu",
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "zwinkern"
+            ]
+        },
+        "playful-pup": {
+            "name": "Verspielter Welpe",
+            "keywords": [
+                "Hund",
+                "Corgi",
+                "Krone"
+            ]
+        },
+        "red": {
+            "name": "Rot",
+            "keywords": [
+                "Drache",
+                "rot",
+                "Monster"
+            ]
+        },
+        "unicorn": {
+            "name": "Einhorn",
+            "keywords": [
+                "Einhorn",
+                "Regenbogen",
+                "Magie"
+            ]
+        },
+        "magical": {
+            "name": "Magisch",
+            "keywords": [
+                "Magie",
+                "rosa",
+                "berühmt"
+            ]
+        },
+        "visionary": {
+            "name": "Visionär",
+            "keywords": [
+                "Auge",
+                "Zeichen",
+                "Rätsel"
+            ]
+        },
+        "focused": {
+            "name": "Fokussiert",
+            "keywords": [
+                "Hand",
+                "Auge",
+                "Schutz"
+            ]
+        },
+        "kind": {
+            "name": "Lieb",
+            "keywords": [
+                "Bär",
+                "Fischerhut",
+                "lächeln"
+            ]
+        },
+        "zesty": {
+            "name": "Spritzig",
+            "keywords": [
+                "Teekanne",
+                "Tee",
+                "Apfel"
+            ]
+        },
+        "chomper": {
+            "name": "Beißer",
+            "keywords": [
+                "Dinosaurier",
+                "Zähne",
+                "Biss"
             ]
         }
     }

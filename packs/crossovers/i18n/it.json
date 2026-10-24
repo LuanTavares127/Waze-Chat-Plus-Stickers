@@ -1,55 +1,6 @@
 {
     "name": "Crossover",
     "stickers": {
-        "63": {
-            "keywords": [
-                "minion",
-                "un occhio",
-                "banana"
-            ]
-        },
-        "64": {
-            "keywords": [
-                "minion",
-                "un occhio",
-                "favo"
-            ]
-        },
-        "210": {
-            "keywords": [
-                "simbionte",
-                "denti",
-                "cattivo"
-            ]
-        },
-        "224": {
-            "keywords": [
-                "fraggle",
-                "pupazzo",
-                "felice"
-            ]
-        },
-        "233": {
-            "keywords": [
-                "fraggle",
-                "occhiali",
-                "capelli"
-            ]
-        },
-        "243": {
-            "keywords": [
-                "fraggle",
-                "pupazzo",
-                "nervoso"
-            ]
-        },
-        "253": {
-            "keywords": [
-                "fraggle",
-                "cappello",
-                "risata"
-            ]
-        },
         "ed": {
             "name": "Ed - Leale",
             "keywords": [
@@ -154,14 +105,6 @@
                 "costruzione"
             ]
         },
-        "red": {
-            "name": "Rosso",
-            "keywords": [
-                "fraggle",
-                "capelli rossi",
-                "risata"
-            ]
-        },
         "horde": {
             "name": "Orda",
             "keywords": [
@@ -208,6 +151,78 @@
                 "elfo",
                 "gemma",
                 "cattivo"
+            ]
+        },
+        "venom": {
+            "name": "Venom",
+            "keywords": [
+                "simbionte",
+                "denti",
+                "cattivo"
+            ]
+        },
+        "despicable": {
+            "name": "Cattivo",
+            "keywords": [
+                "minion",
+                "un occhio",
+                "banana"
+            ]
+        },
+        "mega-despicable": {
+            "name": "Cattivissimo",
+            "keywords": [
+                "minion",
+                "un occhio",
+                "favo"
+            ]
+        },
+        "gobo": {
+            "name": "Gobo",
+            "keywords": [
+                "fraggle",
+                "pupazzo",
+                "felice"
+            ]
+        },
+        "junior-gorg": {
+            "name": "Junior Gorg",
+            "keywords": [
+                "fraggle",
+                "occhiali",
+                "capelli"
+            ]
+        },
+        "mokey": {
+            "name": "Mokey",
+            "keywords": [
+                "fraggle",
+                "pupazzo",
+                "nervoso"
+            ]
+        },
+        "boober": {
+            "name": "Boober",
+            "keywords": [
+                "fraggle",
+                "cappello",
+                "risata"
+            ]
+        },
+        "red-fraggle": {
+            "name": "Red Fraggle",
+            "keywords": [
+                "fraggle",
+                "capelli rossi",
+                "risata"
+            ]
+        },
+        "vulcan-salute": {
+            "name": "Saluto vulcaniano",
+            "keywords": [
+                "mano",
+                "saluto militare",
+                "saluto"
             ]
         }
     }

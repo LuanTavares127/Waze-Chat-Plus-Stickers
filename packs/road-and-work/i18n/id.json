@@ -1,160 +1,6 @@
 {
     "name": "Di Jalan & di Kantor",
     "stickers": {
-        "18": {
-            "keywords": [
-                "buntalan",
-                "perjalanan",
-                "petualangan"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "ramuan",
-                "kacamata",
-                "laboratorium"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "penjelajah",
-                "topi",
-                "petualangan"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "bendera",
-                "wisata"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "pelaut",
-                "topi",
-                "perahu"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "koper",
-                "topi",
-                "perjalanan"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilot",
-                "kacamata pelindung",
-                "helm"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "burung hantu",
-                "wisuda",
-                "pintar"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "alat pemadam api",
-                "keselamatan",
-                "gugup"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "helm proyek",
-                "konstruksi",
-                "rompi"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "topi jerami",
-                "peternakan",
-                "festa junina"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "helm",
-                "bintang",
-                "pembalap"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "masker",
-                "kesehatan",
-                "aman"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "stopwatch",
-                "bando",
-                "latihan"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "suara",
-                "pemilu",
-                "surat suara"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "signal",
-                "robot",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "suara",
-                "tanda",
-                "pemilu"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "medali",
-                "pita",
-                "kedip"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "pengiriman",
-                "helm",
-                "kotak"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robot",
-                "antenna",
-                "penjelajah"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "balon ucapan",
-                "obrolan",
-                "bicara"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "peluit",
-                "wasit",
-                "pelanggaran"
-            ]
-        },
         "road-warrior": {
             "name": "Pejuang Jalanan",
             "keywords": [
@@ -345,6 +191,182 @@
                 "helm",
                 "sepeda motor",
                 "terburu-buru"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Ilmuwan gila",
+            "keywords": [
+                "ramuan",
+                "kacamata",
+                "laboratorium"
+            ]
+        },
+        "explorer": {
+            "name": "Penjelajah",
+            "keywords": [
+                "penjelajah",
+                "topi",
+                "petualangan"
+            ]
+        },
+        "sightseer": {
+            "name": "Turis",
+            "keywords": [
+                "kamera",
+                "bendera",
+                "wisata"
+            ]
+        },
+        "jet-setter": {
+            "name": "Pelancong",
+            "keywords": [
+                "koper",
+                "topi",
+                "perjalanan"
+            ]
+        },
+        "know-it-all": {
+            "name": "Sok tahu",
+            "keywords": [
+                "burung hantu",
+                "wisuda",
+                "pintar"
+            ]
+        },
+        "close-call": {
+            "name": "Nyaris",
+            "keywords": [
+                "alat pemadam api",
+                "keselamatan",
+                "gugup"
+            ]
+        },
+        "on-the-job": {
+            "name": "Lagi kerja",
+            "keywords": [
+                "helm proyek",
+                "konstruksi",
+                "rompi"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Mode kampanye",
+            "keywords": [
+                "suara",
+                "tanda",
+                "pemilu"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Kirim kilat",
+            "keywords": [
+                "pengiriman",
+                "helm",
+                "kotak"
+            ]
+        },
+        "referee": {
+            "name": "Wasit",
+            "keywords": [
+                "peluit",
+                "wasit",
+                "pelanggaran"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilot",
+                "kacamata pelindung",
+                "helm"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "helm",
+                "bintang",
+                "pembalap"
+            ]
+        },
+        "blue": {
+            "name": "Biru",
+            "keywords": [
+                "robot",
+                "antenna",
+                "penjelajah"
+            ]
+        },
+        "voter": {
+            "name": "Pemilih",
+            "keywords": [
+                "suara",
+                "pemilu",
+                "surat suara"
+            ]
+        },
+        "winner": {
+            "name": "Pemenang",
+            "keywords": [
+                "medali",
+                "pita",
+                "kedip"
+            ]
+        },
+        "chatty": {
+            "name": "Cerewet",
+            "keywords": [
+                "balon ucapan",
+                "obrolan",
+                "bicara"
+            ]
+        },
+        "wanderer": {
+            "name": "Pengembara",
+            "keywords": [
+                "buntalan",
+                "perjalanan",
+                "petualangan"
+            ]
+        },
+        "skipper": {
+            "name": "Kapten",
+            "keywords": [
+                "pelaut",
+                "topi",
+                "perahu"
+            ]
+        },
+        "country-folk": {
+            "name": "Orang desa",
+            "keywords": [
+                "topi jerami",
+                "peternakan",
+                "festa junina"
+            ]
+        },
+        "masked-up": {
+            "name": "Pakai masker",
+            "keywords": [
+                "masker",
+                "kesehatan",
+                "aman"
+            ]
+        },
+        "workout-mode": {
+            "name": "Mode olahraga",
+            "keywords": [
+                "stopwatch",
+                "bando",
+                "latihan"
+            ]
+        },
+        "connected": {
+            "name": "Terhubung",
+            "keywords": [
+                "signal",
+                "robot",
+                "wifi"
             ]
         }
     }

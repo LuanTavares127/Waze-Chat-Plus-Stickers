@@ -1,97 +1,6 @@
 {
     "name": "Cảm xúc",
     "stickers": {
-        "7": {
-            "keywords": [
-                "cổ điển",
-                "xin chào",
-                "vui"
-            ]
-        },
-        "9": {
-            "keywords": [
-                "nước mắt",
-                "buồn",
-                "mũ ngủ"
-            ]
-        },
-        "15": {
-            "keywords": [
-                "trống",
-                "trung lập",
-                "trơn"
-            ]
-        },
-        "114": {
-            "keywords": [
-                "yêu",
-                "trái tim",
-                "ngọt"
-            ]
-        },
-        "133": {
-            "keywords": [
-                "cha mẹ",
-                "em bé",
-                "gia đình"
-            ]
-        },
-        "146": {
-            "keywords": [
-                "khóc",
-                "buồn bực",
-                "tuyệt vọng"
-            ]
-        },
-        "165": {
-            "keywords": [
-                "ốm",
-                "buồn nôn",
-                "bệnh"
-            ]
-        },
-        "168": {
-            "keywords": [
-                "ngượng",
-                "khó chịu",
-                "ôi"
-            ]
-        },
-        "172": {
-            "keywords": [
-                "háo hức",
-                "hoan hô",
-                "cánh"
-            ]
-        },
-        "181": {
-            "keywords": [
-                "vui",
-                "cười",
-                "mũ"
-            ]
-        },
-        "235": {
-            "keywords": [
-                "giận",
-                "bực",
-                "cau mày"
-            ]
-        },
-        "239": {
-            "keywords": [
-                "câu hỏi",
-                "gì",
-                "nghi ngờ"
-            ]
-        },
-        "258": {
-            "keywords": [
-                "hoa sen",
-                "thiền định",
-                "bình tĩnh"
-            ]
-        },
         "amazing": {
             "name": "Tuyệt vời",
             "keywords": [
@@ -354,6 +263,110 @@
                 "tự hào",
                 "cầu vồng",
                 "trái tim"
+            ]
+        },
+        "puzzled": {
+            "name": "Bối rối",
+            "keywords": [
+                "câu hỏi",
+                "gì",
+                "nghi ngờ"
+            ]
+        },
+        "grounded": {
+            "name": "Tĩnh tâm",
+            "keywords": [
+                "hoa sen",
+                "thiền định",
+                "bình tĩnh"
+            ]
+        },
+        "wazer": {
+            "name": "Wazer",
+            "keywords": [
+                "cổ điển",
+                "xin chào",
+                "vui"
+            ]
+        },
+        "pierrot": {
+            "name": "Pierrot",
+            "keywords": [
+                "nước mắt",
+                "buồn",
+                "mũ ngủ"
+            ]
+        },
+        "poker-face": {
+            "name": "Mặt lạnh tanh",
+            "keywords": [
+                "trống",
+                "trung lập",
+                "trơn"
+            ]
+        },
+        "sweetheart": {
+            "name": "Cục cưng",
+            "keywords": [
+                "yêu",
+                "trái tim",
+                "ngọt"
+            ]
+        },
+        "family": {
+            "name": "Gia đình",
+            "keywords": [
+                "cha mẹ",
+                "em bé",
+                "gia đình"
+            ]
+        },
+        "fuming": {
+            "name": "Tức sôi máu",
+            "keywords": [
+                "giận",
+                "bực",
+                "cau mày"
+            ]
+        },
+        "distraught": {
+            "name": "Suy sụp",
+            "keywords": [
+                "khóc",
+                "buồn bực",
+                "tuyệt vọng"
+            ]
+        },
+        "queasy": {
+            "name": "Buồn nôn",
+            "keywords": [
+                "ốm",
+                "buồn nôn",
+                "bệnh"
+            ]
+        },
+        "uneasy": {
+            "name": "Khó chịu",
+            "keywords": [
+                "ngượng",
+                "khó chịu",
+                "ôi"
+            ]
+        },
+        "ecstatic": {
+            "name": "Phấn khích",
+            "keywords": [
+                "háo hức",
+                "hoan hô",
+                "cánh"
+            ]
+        },
+        "cheerful": {
+            "name": "Vui vẻ",
+            "keywords": [
+                "vui",
+                "cười",
+                "mũ"
             ]
         }
     }

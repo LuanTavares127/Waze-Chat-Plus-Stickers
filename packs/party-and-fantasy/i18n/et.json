@@ -1,111 +1,6 @@
 {
     "name": "Pidu, sodiaak ja fantaasia",
     "stickers": {
-        "31": {
-            "keywords": [
-                "lumememm",
-                "talv",
-                "sall"
-            ]
-        },
-        "49": {
-            "keywords": [
-                "peomüts",
-                "sünnipäev",
-                "tähistama"
-            ]
-        },
-        "61": {
-            "keywords": [
-                "viiking",
-                "kiiver",
-                "kaardinõel"
-            ]
-        },
-        "80": {
-            "keywords": [
-                "narr",
-                "kübar",
-                "naer"
-            ]
-        },
-        "92": {
-            "keywords": [
-                "jõulud",
-                "jõuluvana",
-                "päikeseprillid"
-            ]
-        },
-        "120": {
-            "keywords": [
-                "võlur",
-                "kübar",
-                "maagia"
-            ]
-        },
-        "126": {
-            "keywords": [
-                "nõid",
-                "kübar",
-                "halloween"
-            ]
-        },
-        "127": {
-            "keywords": [
-                "karneval",
-                "peakate",
-                "suled"
-            ]
-        },
-        "151": {
-            "keywords": [
-                "sall",
-                "pusamüts",
-                "talv"
-            ]
-        },
-        "156": {
-            "keywords": [
-                "karneval",
-                "mask",
-                "pidu"
-            ]
-        },
-        "157": {
-            "keywords": [
-                "uus aasta",
-                "2026",
-                "pidu"
-            ]
-        },
-        "160": {
-            "keywords": [
-                "viiking",
-                "haamer",
-                "kilp"
-            ]
-        },
-        "183": {
-            "keywords": [
-                "talv",
-                "pusamüts",
-                "külm"
-            ]
-        },
-        "234": {
-            "keywords": [
-                "vahimees",
-                "london",
-                "kübar"
-            ]
-        },
-        "254": {
-            "keywords": [
-                "torukübar",
-                "tee",
-                "imedemaa"
-            ]
-        },
         "aries": {
             "name": "Jääär",
             "keywords": [
@@ -376,6 +271,126 @@
                 "kangelane",
                 "tiaara",
                 "jõud"
+            ]
+        },
+        "birthday-vibes": {
+            "name": "Sünnipäevatuju",
+            "keywords": [
+                "peomüts",
+                "sünnipäev",
+                "tähistama"
+            ]
+        },
+        "witchy": {
+            "name": "Nõiduslik",
+            "keywords": [
+                "nõid",
+                "kübar",
+                "halloween"
+            ]
+        },
+        "valiant": {
+            "name": "Vapper",
+            "keywords": [
+                "viiking",
+                "haamer",
+                "kilp"
+            ]
+        },
+        "stern-guard": {
+            "name": "Range valvur",
+            "keywords": [
+                "vahimees",
+                "london",
+                "kübar"
+            ]
+        },
+        "snowman": {
+            "name": "Lumememm",
+            "keywords": [
+                "lumememm",
+                "talv",
+                "sall"
+            ]
+        },
+        "map-raider": {
+            "name": "Kaardiröövel",
+            "keywords": [
+                "viiking",
+                "kiiver",
+                "kaardinõel"
+            ]
+        },
+        "hello-2026": {
+            "name": "Tere, 2026",
+            "keywords": [
+                "uus aasta",
+                "2026",
+                "pidu"
+            ]
+        },
+        "cool-santa": {
+            "name": "Lahe jõuluvana",
+            "keywords": [
+                "jõulud",
+                "jõuluvana",
+                "päikeseprillid"
+            ]
+        },
+        "spicy": {
+            "name": "Vürtsikas",
+            "keywords": [
+                "torukübar",
+                "tee",
+                "imedemaa"
+            ]
+        },
+        "jester": {
+            "name": "Narr",
+            "keywords": [
+                "narr",
+                "kübar",
+                "naer"
+            ]
+        },
+        "wizard": {
+            "name": "Võlur",
+            "keywords": [
+                "võlur",
+                "kübar",
+                "maagia"
+            ]
+        },
+        "samba-star": {
+            "name": "Sambatäht",
+            "keywords": [
+                "karneval",
+                "peakate",
+                "suled"
+            ]
+        },
+        "cozy": {
+            "name": "Hubane",
+            "keywords": [
+                "sall",
+                "pusamüts",
+                "talv"
+            ]
+        },
+        "masquerade": {
+            "name": "Maskeeritud",
+            "keywords": [
+                "karneval",
+                "mask",
+                "pidu"
+            ]
+        },
+        "bundled-up": {
+            "name": "Soojalt riides",
+            "keywords": [
+                "talv",
+                "pusamüts",
+                "külm"
             ]
         }
     }

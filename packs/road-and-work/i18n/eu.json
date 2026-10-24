@@ -1,160 +1,6 @@
 {
     "name": "Errepidean eta lanean",
     "stickers": {
-        "18": {
-            "keywords": [
-                "bilkoa",
-                "bidaia",
-                "abentura"
-            ]
-        },
-        "20": {
-            "keywords": [
-                "edabea",
-                "betaurrekoak",
-                "laborategia"
-            ]
-        },
-        "51": {
-            "keywords": [
-                "esploratzailea",
-                "kapela",
-                "abentura"
-            ]
-        },
-        "52": {
-            "keywords": [
-                "kamera",
-                "bandera",
-                "turismoa"
-            ]
-        },
-        "74": {
-            "keywords": [
-                "marinela",
-                "txapela",
-                "ontzia"
-            ]
-        },
-        "116": {
-            "keywords": [
-                "maleta",
-                "kapela",
-                "bidaia"
-            ]
-        },
-        "124": {
-            "keywords": [
-                "pilotua",
-                "babes-betaurrekoak",
-                "kaskoa"
-            ]
-        },
-        "131": {
-            "keywords": [
-                "hontza",
-                "graduazioa",
-                "argia"
-            ]
-        },
-        "147": {
-            "keywords": [
-                "su-itzalgailua",
-                "segurtasuna",
-                "urduri"
-            ]
-        },
-        "148": {
-            "keywords": [
-                "segurtasun-kaskoa",
-                "eraikuntza",
-                "txalekoa"
-            ]
-        },
-        "150": {
-            "keywords": [
-                "lastozko kapela",
-                "baserria",
-                "ekaineko jaia"
-            ]
-        },
-        "161": {
-            "keywords": [
-                "kaskoa",
-                "izarrak",
-                "lasterkaria"
-            ]
-        },
-        "171": {
-            "keywords": [
-                "maskara",
-                "osasuna",
-                "seguru"
-            ]
-        },
-        "173": {
-            "keywords": [
-                "kronometroa",
-                "buruko zinta",
-                "entrenamendua"
-            ]
-        },
-        "207": {
-            "keywords": [
-                "botoa",
-                "hauteskundeak",
-                "boto-kutxa"
-            ]
-        },
-        "208": {
-            "keywords": [
-                "seinalea",
-                "robota",
-                "wifi"
-            ]
-        },
-        "212": {
-            "keywords": [
-                "botoa",
-                "seinalea",
-                "hauteskundeak"
-            ]
-        },
-        "217": {
-            "keywords": [
-                "domina",
-                "zinta",
-                "begi-keinua"
-            ]
-        },
-        "244": {
-            "keywords": [
-                "banaketa",
-                "kaskoa",
-                "kaxa"
-            ]
-        },
-        "245": {
-            "keywords": [
-                "robota",
-                "antena",
-                "esploratzailea"
-            ]
-        },
-        "247": {
-            "keywords": [
-                "testu-globoa",
-                "txata",
-                "hitz egin"
-            ]
-        },
-        "248": {
-            "keywords": [
-                "txistua",
-                "epailea",
-                "falta"
-            ]
-        },
         "road-warrior": {
             "name": "Errepideko gudaria",
             "keywords": [
@@ -345,6 +191,182 @@
                 "kaskoa",
                 "motorra",
                 "presa"
+            ]
+        },
+        "mad-scientist": {
+            "name": "Zientzialari eroa",
+            "keywords": [
+                "edabea",
+                "betaurrekoak",
+                "laborategia"
+            ]
+        },
+        "explorer": {
+            "name": "Esploratzailea",
+            "keywords": [
+                "esploratzailea",
+                "kapela",
+                "abentura"
+            ]
+        },
+        "sightseer": {
+            "name": "Turista",
+            "keywords": [
+                "kamera",
+                "bandera",
+                "turismoa"
+            ]
+        },
+        "jet-setter": {
+            "name": "Bidaiaria",
+            "keywords": [
+                "maleta",
+                "kapela",
+                "bidaia"
+            ]
+        },
+        "know-it-all": {
+            "name": "Dena-jakin",
+            "keywords": [
+                "hontza",
+                "graduazioa",
+                "argia"
+            ]
+        },
+        "close-call": {
+            "name": "Ia-ia",
+            "keywords": [
+                "su-itzalgailua",
+                "segurtasuna",
+                "urduri"
+            ]
+        },
+        "on-the-job": {
+            "name": "Lanean",
+            "keywords": [
+                "segurtasun-kaskoa",
+                "eraikuntza",
+                "txalekoa"
+            ]
+        },
+        "campaign-mode": {
+            "name": "Kanpaina modua",
+            "keywords": [
+                "botoa",
+                "seinalea",
+                "hauteskundeak"
+            ]
+        },
+        "quick-delivery": {
+            "name": "Bidalketa azkarra",
+            "keywords": [
+                "banaketa",
+                "kaskoa",
+                "kaxa"
+            ]
+        },
+        "referee": {
+            "name": "Epailea",
+            "keywords": [
+                "txistua",
+                "epailea",
+                "falta"
+            ]
+        },
+        "amelia": {
+            "name": "Amelia",
+            "keywords": [
+                "pilotua",
+                "babes-betaurrekoak",
+                "kaskoa"
+            ]
+        },
+        "danica": {
+            "name": "Danica",
+            "keywords": [
+                "kaskoa",
+                "izarrak",
+                "lasterkaria"
+            ]
+        },
+        "blue": {
+            "name": "Urdina",
+            "keywords": [
+                "robota",
+                "antena",
+                "esploratzailea"
+            ]
+        },
+        "voter": {
+            "name": "Hautesle",
+            "keywords": [
+                "botoa",
+                "hauteskundeak",
+                "boto-kutxa"
+            ]
+        },
+        "winner": {
+            "name": "Irabazlea",
+            "keywords": [
+                "domina",
+                "zinta",
+                "begi-keinua"
+            ]
+        },
+        "chatty": {
+            "name": "Berritsua",
+            "keywords": [
+                "testu-globoa",
+                "txata",
+                "hitz egin"
+            ]
+        },
+        "wanderer": {
+            "name": "Ibiltaria",
+            "keywords": [
+                "bilkoa",
+                "bidaia",
+                "abentura"
+            ]
+        },
+        "skipper": {
+            "name": "Kapitaina",
+            "keywords": [
+                "marinela",
+                "txapela",
+                "ontzia"
+            ]
+        },
+        "country-folk": {
+            "name": "Baserritarra",
+            "keywords": [
+                "lastozko kapela",
+                "baserria",
+                "ekaineko jaia"
+            ]
+        },
+        "masked-up": {
+            "name": "Maskaraz",
+            "keywords": [
+                "maskara",
+                "osasuna",
+                "seguru"
+            ]
+        },
+        "workout-mode": {
+            "name": "Entrenamendu modua",
+            "keywords": [
+                "kronometroa",
+                "buruko zinta",
+                "entrenamendua"
+            ]
+        },
+        "connected": {
+            "name": "Konektatuta",
+            "keywords": [
+                "seinalea",
+                "robota",
+                "wifi"
             ]
         }
     }
