@@ -142,6 +142,7 @@ Install links accepted by Waze Chat Plus:
 | `https://github.com/<user>/<repo>/tree/<ref>/<pack root>` | the pack in that folder; at that tag or commit, or the newest version tag when `<ref>` is a branch |
 | `https://cdn.jsdelivr.net/gh/<user>/<repo>@<ref>/<pack root>/wcp-stickers.json` | that pack at that version |
 | a sticker message (§6) | the pack of that sticker, newest version tag (or the message's version when it is newer or has no tags) |
+| a shared pack message (§6b) | that pack, the same way |
 
 "Newest version tag" = the highest version listed by `https://data.jsdelivr.com/v1/packages/gh/<user>/<repo>` (jsDelivr lists only
 tags that are versions, without the `v`). A pack installed at a commit is never offered updates.
@@ -164,6 +165,25 @@ https://cdn.jsdelivr.net/gh/<user>/<repo>@<ref>/<pack root>/stickers/<sticker id
   around them. Any other text keeps it a normal message with a link.
 - A reader needs nothing but the link to draw the sticker. It reads the manifest (for the name, the "Install pack" option, the block
   list) only when it needs to.
+
+### 6b. Shared pack messages
+
+"Share pack" sends a whole pack the same way, in two lines:
+
+```
+🧩 Sticker pack "Waze moods" (shared with Waze Chat Plus)
+https://github.com/<user>/<repo>/tree/<ref>/<pack root>#wcp-pack=<pack id>
+```
+
+- **Line 1** is for people without the script (sender's language, pack name in that language). Readers ignore it, except as a name to
+  show before the manifest is read.
+- **Line 2** is the GitHub folder of the pack at a fixed `<ref>` (§5; `/tree/<ref>` with no `<pack root>` for a pack at the repository
+  root), so people without the script land on the pack's page, plus the fragment `#wcp-pack=<pack id>` (the manifest `id`). Only links
+  with that fragment become a pack card; the same link without it stays a normal link.
+- Readers show a card (icon, name, author, sticker count, a few thumbnails) with "View pack" and "Install" or "Remove" once the
+  manifest at that `<ref>` is read and its `id` matches. A manifest that can't be read or has another `id` shows the message as it is;
+  a blocked pack (§8) shows no pictures and can't be installed from it. Installing follows §5 (newest version tag).
+- The card replaces the message text only when the message is the two lines, or line 2 alone.
 
 ## 7. Versions and permanent ids
 
