@@ -35,4 +35,4 @@ Status and phases: `ROADMAP.md` (pt-BR).
 - Official art: `G:\Meu Drive\Waze\Moods\Images (WEBP)\With Border (Com Borda)` (512×512 WebP, outside the repository).
 - Everything here is public: nothing about mass messaging or private extensions, no secrets, no map sites that aren't allowed for Waze
   editing (same rule as the script).
-- Docs and code in English; `ROADMAP.md` and commit messages in pt-BR. CRLF.
+- Docs and code in English; `ROADMAP.md` in pt-BR, commit messages in English. CRLF.
